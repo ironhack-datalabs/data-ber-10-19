@@ -116,24 +116,10 @@ Result:
 97
 ```
 
-
--- alternatively:
-SELECT DISTINCT account_id
-FROM `order`
-WHERE order_id BETWEEN 29540 AND 29560
-ORDER BY account_id;
-```
-
 ### 11. From the `order` table, what are the individual amounts that were sent to (`account_to`) id 30067122?
 Result:
 ```
 5123
-```
-Solution:
-```sql
-SELECT amount 
-FROM `order` 
-WHERE account_to = 30067122;
 ```
 
 ### 12. From the `trans` table, show the `trans_id`, `date`, `type` and `amount` of the 10 first transactions from `account_id` = 793 in chronological order, from newest to oldest.
