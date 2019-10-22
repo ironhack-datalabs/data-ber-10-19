@@ -50,4 +50,20 @@ select au_id as "AUTHOR ID", au_lname as "LAST NAME", au_fname as "FIRST NAME", 
 ) as tmp2
 group by au_id
 order by PROFITS desc
-limit 3
+limit 3;
+
+-- Alternative Solution
+
+SELECT authors.au_id AS AUTHOR_ID, au_lname AS LAST_NAME, au_fname AS FIRST_NAME, titles.title as TITLE, titles.title_id as TITLE_ID, titles.price as PRICE,
+	sum(sales.qty) as QUANTITY,
+	sum(sales.qty)*titles.price as REVENUE,
+	titles.advance as ADVANCE,
+	titleauthor.royaltyper*titleauthor.royaltyper as ROYALTYS,
+	COALESCE((SUM(sales.qty)*titles.price*titles.royalty+titles.advance)*titleauthor.royaltyper*0.01, 0) as TOTAL  -- calculate how much each book will earn, and multiply by royalty per author (royaltyper)
+	FROM authors
+		LEFT JOIN titleauthor ON authors.au_id = titleauthor.au_id
+		LEFT JOIN titles ON titleauthor.title_id = titles.title_id
+		LEFT JOIN sales ON sales.title_id = titles.title_id
+GROUP BY authors.au_id, titles.title_id, titles.price, titleauthor.royaltyper
+order by TOTAL desc
+limit 3 ;
