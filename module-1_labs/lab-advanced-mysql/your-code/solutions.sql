@@ -42,7 +42,7 @@ select au_id as "AUTHOR ID", au_lname as "LAST NAME", au_fname as "FIRST NAME", 
 -- group by author ID
 group by au_id
 order by PROFITS desc
-limit 3
+limit 3;
 
 
 -- Challenge 2
