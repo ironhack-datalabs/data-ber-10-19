@@ -44,16 +44,16 @@ The **mandatory** deliverables that you must turn in are:
 The **deadline** to turn in the deliverables is right before the project presentations.
 
 ## Mentoring
-One of the TAs will be your mentor!
+The TAs will be your mentors!
 
-Your mentor will:
-* Keep track of your project in general terms. Your mentor will be the second person that knows more about the project, after you.
+Your mentors will:
+* Keep track of your project in general terms. Your mentors will be the next people that know more about the project, after you.
 * Check if you are following your plan: are you keeping up with your tasks and deadlines? Do you have any obstacles blocking you?
 * Help/support you with specific questions.
 
-Your mentor is **not** meant to:
+Your mentors are **not** meant to:
 * Know everything.
-* Be your manager. You have to be responsible of your own tasks!
+* Be your managers. You have to be responsible of your own tasks!
 
 ## Schedule  
 
