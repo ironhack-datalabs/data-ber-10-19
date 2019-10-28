@@ -20,26 +20,19 @@ For this project you will have the option to work individually or in a **team**.
 ## Project Goals
 During this project you will:
 * Learn how to obtain data from different sources, including APIs, open source datasets and/or scrape data from the web.
-* Learn how to use plots to better understand the data you are using and also to explain insights to your audience.
+* Learn how to use plots(pandas plots) to better understand the data you are using and also to explain insights to your audience.
 * Learn how to integrate plots into your presentations.
 
 ## Data Workflow
-In this project you will focus on Data Extraction techniques, while continue developing your Data Wrangling and starting to Visualize Data.
+In this project you will focus on Data Extraction techniques, while continue developing your Data Wrangling skills.
 
 ## Requirements & Deliverables
 The **mandatory** requirements that this project needs to satisfy are:
 * The project must be planned. That is why creating a Kanban board is important. You can find a template for Trello [here](https://trello.com/b/26Wr3pVF/project-3-data-thief). Remember that you **CAN'T CODE** until your project is planned.
-* Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure.
-* The only tool you can use to plot is a Zeppelin notebook.
+* Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure..
 * Your project must include data from at least 2 different data sources (APIs & web, dataset & APIs, etc.).
 * Your project must include a database of your design created in a cloud (e.g. Google Cloud Platform) and a complete analysis of your data including the most meaningful insights you found.
 * The project needs to be presented to your colleagues on the day of the presentation.
-
-The **mandatory** deliverables that you must turn in are:
-* Link to the repository you used while working on your project. The repository must include all the files you used to complete your analysis. Remember to commit often to avoid trouble in case you mess up: this means more than 1 commit!
-* Link to Trello or picture of your Kanban Board. Include the link or picture in the README file.
-* The credentials to access your database (remember to create a read-only user since you will probably be using a public github repository).
-* A paper illustrating your project in JSON format created through Zeppelin (more details in the JSON Structure section).
 
 The **deadline** to turn in the deliverables is right before the project presentations.
 
