@@ -80,7 +80,7 @@ Your mentor is **not** meant to:
 * Complete your analysis and presentation.
 
 **Friday**
-* Presentation time at **11 AM**! There will be a 15-minute break during the presentations!
+* Presentation time at **2 PM**! There will be a 15-minute break during the presentations!
 
 ## JSON structure
 Your paper will be a JSON file created through Zeppelin with a combination of plots and analysis. All the plots will need to be created in SQL cells.
@@ -96,7 +96,7 @@ The structure should be:
 You can find some paper examples in the ```Resources``` section.
 
 ## Presentation
-The presentation time limit is **10 minutes**! Our suggestion is to include at least the following slides in your presentation but feel free to add or remove slides:
+The presentation time limit is **5 minutes**! Our suggestion is to include at least the following slides in your presentation but feel free to add or remove slides:
 
 * Title of the project
 * Team presentation
