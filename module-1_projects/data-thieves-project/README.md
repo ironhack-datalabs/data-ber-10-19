@@ -15,79 +15,70 @@
 - [Resources](#resources)
 
 ## Project Description  
-Like in the previous project you will work in **teams**. You will have to choose a topic and find all the relevant data yourselves. This means you can connect to an API, find a dataset or scrape data from the web. Then you must organize, clean and analyze the data you found and present your findings in a presentation (you may use plots!) and a paper.  
+For this project you will have the option to work individually or in a **team**. You will have to choose a topic and find all the relevant data yourselves. This means you can connect to an API, find a dataset or scrape data from the web. Then you must organize, clean and analyze the data you found and present your findings in a presentation (you may use plots!) and a paper.  
 
 ## Project Goals
 During this project you will:
 * Learn how to obtain data from different sources, including APIs, open source datasets and/or scrape data from the web.
-* Learn how to use plots to better understand the data you are using and also to explain insights to your audience.
+* Learn how to use plots(pandas plots) to better understand the data you are using and also to explain insights to your audience.
 * Learn how to integrate plots into your presentations.
 
 ## Data Workflow
-In this project you will focus on Data Extraction techniques, while continue developing your Data Wrangling and starting to Visualize Data.
+In this project you will focus on Data Extraction techniques, while continue developing your Data Wrangling skills.
 
 ## Requirements & Deliverables
 The **mandatory** requirements that this project needs to satisfy are:
 * The project must be planned. That is why creating a Kanban board is important. You can find a template for Trello [here](https://trello.com/b/26Wr3pVF/project-3-data-thief). Remember that you **CAN'T CODE** until your project is planned.
-* Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure.
-* The only tool you can use to plot is a Zeppelin notebook.
+* Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure..
 * Your project must include data from at least 2 different data sources (APIs & web, dataset & APIs, etc.).
 * Your project must include a database of your design created in a cloud (e.g. Google Cloud Platform) and a complete analysis of your data including the most meaningful insights you found.
 * The project needs to be presented to your colleagues on the day of the presentation.
 
-The **mandatory** deliverables that you must turn in are:
-* Link to the repository you used while working on your project. The repository must include all the files you used to complete your analysis. Remember to commit often to avoid trouble in case you mess up: this means more than 1 commit!
-* Link to Trello or picture of your Kanban Board. Include the link or picture in the README file.
-* The credentials to access your database (remember to create a read-only user since you will probably be using a public github repository).
-* A paper illustrating your project in JSON format created through Zeppelin (more details in the JSON Structure section).
-
 The **deadline** to turn in the deliverables is right before the project presentations.
 
 ## Mentoring
-One of the TAs will be your mentor!
+The TAs will be your mentors!
 
-Your mentor will:
-* Keep track of your project in general terms. Your mentor will be the second person that knows more about the project, after you.
+Your mentors will:
+* Keep track of your project in general terms. Your mentors will be the next people that know more about the project, after you.
 * Check if you are following your plan: are you keeping up with your tasks and deadlines? Do you have any obstacles blocking you?
 * Help/support you with specific questions.
 
-Your mentor is **not** meant to:
+Your mentors are **not** meant to:
 * Know everything.
-* Be your manager. You have to be responsible of your own tasks!
+* Be your managers. You have to be responsible of your own tasks!
 
 ## Schedule  
 
 **Please note** that the following schedule is simply a guideline. Feel free to organize your work as you see fit.
 
-**Thursday**
+**Monday**
 * Choose a topic for your project.
 * Find interesting questions related to your topic.
 * Brainstorm to find out what kind of data you can use to answer those questions.
 * Research and look for the data you need. Remember that you need to use at least two different sources.
 * Fork the project repository and edit the README overview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-3-Data-Thieves/blob/master/your-project/README.md) for your README file in this repository. Remember to keep the README up-to-date.
 
-**Friday**
+**Tuesday**
 * Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). Define tasks, specifying those to be done individually and those to be done together. Remember that you **CAN'T CODE** until your project is planned.
 * Once you finish, start coding!
 * Clean your data.
 * Design your database.
 
-**Monday**
-* **CHECKPOINT:** Database validation with the Lead Teacher and TAs **at 4PM**.
-* Start working on your analysis and plots. Think about which plots will help with your analysis and design the structure of your paper.
-
 **Wednesday**
-* Start working on your presentation.
+* **CHECKPOINT:** Database validation with the Lead Teacher and TAs **at 4PM**.
+* Start working on your analysis and plots. Think about which plots will help with your analysis and design the structure of your paper.  Start working on your presentation.
 
 **Thursday**
 * Complete your analysis and presentation.
 
 **Friday**
-* Presentation time at **11 AM**! There will be a 15-minute break during the presentations!
+* Presentation time at **2 PM**! There will be a 15-minute break during the presentations!
 
-## JSON structure
-Your paper will be a JSON file created through Zeppelin with a combination of plots and analysis. All the plots will need to be created in SQL cells.
+## Necessary Deliverables
+The following deliverables should be pushed to your Github repo for this chapter.
 
+* **A Jupyter Notebook (.ipynb) file**:
 The structure should be:
 1. Title of the project.
 2. Introduction to the analysis.
@@ -95,11 +86,13 @@ The structure should be:
 4. Questions you want to answer. Each question should include a graph and an answer to that question.
 5. Insights derived from your analysis.
 6. Possible further questions and improvements.
+* **An output folder**
+* **A ``READ.md`` file**
 
 You can find some paper examples in the ```Resources``` section.
 
 ## Presentation
-The presentation time limit is **10 minutes**! Our suggestion is to include at least the following slides in your presentation but feel free to add or remove slides:
+The presentation time limit is **5 minutes**! Our suggestion is to include at least the following slides in your presentation but feel free to add or remove slides:
 
 * Title of the project
 * Team presentation
