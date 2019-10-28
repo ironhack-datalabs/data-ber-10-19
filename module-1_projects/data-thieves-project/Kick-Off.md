@@ -15,7 +15,7 @@
 - [Resources](#resources)
 
 ## Project Description  
-Like in the previous project you will work in **teams**. You will have to choose a topic and find all the relevant data yourselves. This means you can connect to an API, find a dataset or scrape data from the web. Then you must organize, clean and analyze the data you found and present your findings in a presentation (you may use plots!) and a paper.  
+For this project you will have the option to work individually or in a **team**. You will have to choose a topic and find all the relevant data yourselves. This means you can connect to an API, find a dataset or scrape data from the web. Then you must organize, clean and analyze the data you found and present your findings in a presentation (you may use plots!) and a paper.  
 
 ## Project Goals
 During this project you will:
