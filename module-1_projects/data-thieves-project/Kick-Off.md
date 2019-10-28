@@ -82,9 +82,10 @@ Your mentors are **not** meant to:
 **Friday**
 * Presentation time at **2 PM**! There will be a 15-minute break during the presentations!
 
-## JSON structure
-Your paper will be a JSON file created through Zeppelin with a combination of plots and analysis. All the plots will need to be created in SQL cells.
+## Necessary Deliverables
+The following deliverables should be pushed to your Github repo for this chapter.
 
+* **A Jupyter Notebook (.ipynb) file**:
 The structure should be:
 1. Title of the project.
 2. Introduction to the analysis.
@@ -92,6 +93,8 @@ The structure should be:
 4. Questions you want to answer. Each question should include a graph and an answer to that question.
 5. Insights derived from your analysis.
 6. Possible further questions and improvements.
+* **An output folder**
+* **A ``READ.md`` file**
 
 You can find some paper examples in the ```Resources``` section.
 
