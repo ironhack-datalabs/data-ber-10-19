@@ -52,27 +52,27 @@ Your mentors are **not** meant to:
 
 **Please note** that the following schedule is simply a guideline. Feel free to organize your work as you see fit.
 
-**Monday**
+**Step 1**
 * Choose a topic for your project.
 * Find interesting questions related to your topic.
 * Brainstorm to find out what kind of data you can use to answer those questions.
 * Research and look for the data you need. Remember that you need to use at least two different sources.
 * Fork the project repository and edit the README overview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-3-Data-Thieves/blob/master/your-project/README.md) for your README file in this repository. Remember to keep the README up-to-date.
 
-**Tuesday**
+**Step 2**
 * Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). Define tasks, specifying those to be done individually and those to be done together. Remember that you **CAN'T CODE** until your project is planned.
 * Once you finish, start coding!
 * Clean your data.
 * Design your database.
 
-**Wednesday**
+**Step 3**
 * **CHECKPOINT:** Database validation with the Lead Teacher and TAs **at 4PM**.
 * Start working on your analysis and plots. Think about which plots will help with your analysis and design the structure of your paper.  Start working on your presentation.
 
-**Thursday**
+**Step 4**
 * Complete your analysis and presentation.
 
-**Friday**
+**Step 5**
 * Presentation time at **2 PM**! There will be a 15-minute break during the presentations!
 
 ## Necessary Deliverables
