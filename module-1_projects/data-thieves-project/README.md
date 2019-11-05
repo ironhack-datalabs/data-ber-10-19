@@ -31,7 +31,6 @@ The **mandatory** requirements that this project needs to satisfy are:
 * The project must be planned. That is why creating a Kanban board is important. You can find a template for Trello [here](https://trello.com/b/26Wr3pVF/project-3-data-thief). Remember that you **CAN'T CODE** until your project is planned.
 * Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure..
 * Your project must include data from at least 2 different data sources (APIs & web, dataset & APIs, etc.).
-* Your project must include a database of your design created in a cloud (e.g. Google Cloud Platform) and a complete analysis of your data including the most meaningful insights you found.
 * The project needs to be presented to your colleagues on the day of the presentation.
 
 The **deadline** to turn in the deliverables is right before the project presentations.
