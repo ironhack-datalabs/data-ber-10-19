@@ -98,7 +98,7 @@ Include links to your repository, slides and kanban board. Feel free to include 
 https://github.com/Nikitsatsiki/data-ber-10-19/tree/master/module-1_projects/data-thieves-project
 
 [Slides]:   
-**TBD** <br/>
+https://docs.google.com/presentation/d/1nSgW6A5Jk74jCGRKpderM9GuxM3DanDWYIIcB2WSyv0/edit?usp=sharing <br/>
 
 Used API: <br/>
 CityBikes API Documentation<br/>
