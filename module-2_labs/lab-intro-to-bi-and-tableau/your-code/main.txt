@@ -1,0 +1,2 @@
+URL to Tableau Workbook:
+https://public.tableau.com/profile/lena4987#!/vizhome/LabIntroductiontoBIandTableau_15730419216810/AverageWarehouseSalesbyYearMonthandItemType?publish=yes
