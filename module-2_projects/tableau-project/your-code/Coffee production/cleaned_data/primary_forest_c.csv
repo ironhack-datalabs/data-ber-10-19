@@ -1,0 +1,5405 @@
+,Country,Year,primary_forest,Unit
+0,Afghanistan,1990,0.0,1000 ha
+1,Afghanistan,1991,0.0,1000 ha
+2,Afghanistan,1992,0.0,1000 ha
+3,Afghanistan,1993,0.0,1000 ha
+4,Afghanistan,1994,0.0,1000 ha
+5,Afghanistan,1995,0.0,1000 ha
+6,Afghanistan,1996,0.0,1000 ha
+7,Afghanistan,1997,0.0,1000 ha
+8,Afghanistan,1998,0.0,1000 ha
+9,Afghanistan,1999,0.0,1000 ha
+10,Afghanistan,2000,0.0,1000 ha
+11,Afghanistan,2001,0.0,1000 ha
+12,Afghanistan,2002,0.0,1000 ha
+13,Afghanistan,2003,0.0,1000 ha
+14,Afghanistan,2004,0.0,1000 ha
+15,Afghanistan,2005,0.0,1000 ha
+16,Afghanistan,2006,0.0,1000 ha
+17,Afghanistan,2007,0.0,1000 ha
+18,Afghanistan,2008,0.0,1000 ha
+19,Afghanistan,2009,0.0,1000 ha
+20,Afghanistan,2010,0.0,1000 ha
+21,Afghanistan,2011,0.0,1000 ha
+22,Afghanistan,2012,0.0,1000 ha
+23,Afghanistan,2013,0.0,1000 ha
+24,Albania,1990,84.8,1000 ha
+25,Albania,1991,84.8,1000 ha
+26,Albania,1992,84.8,1000 ha
+27,Albania,1993,84.8,1000 ha
+28,Albania,1994,84.8,1000 ha
+29,Albania,1995,84.8,1000 ha
+30,Albania,1996,84.8,1000 ha
+31,Albania,1997,84.8,1000 ha
+32,Albania,1998,84.8,1000 ha
+33,Albania,1999,84.8,1000 ha
+34,Albania,2000,84.8,1000 ha
+35,Albania,2001,84.8,1000 ha
+36,Albania,2002,84.8,1000 ha
+37,Albania,2003,84.8,1000 ha
+38,Albania,2004,84.8,1000 ha
+39,Albania,2005,84.8,1000 ha
+40,Albania,2006,84.8,1000 ha
+41,Albania,2007,84.8,1000 ha
+42,Albania,2008,84.8,1000 ha
+43,Albania,2009,84.8,1000 ha
+44,Albania,2010,84.8,1000 ha
+45,Albania,2011,84.8,1000 ha
+46,Albania,2012,84.8,1000 ha
+47,Albania,2013,84.8,1000 ha
+48,Algeria,1990,0.0,1000 ha
+49,Algeria,1991,0.0,1000 ha
+50,Algeria,1992,0.0,1000 ha
+51,Algeria,1993,0.0,1000 ha
+52,Algeria,1994,0.0,1000 ha
+53,Algeria,1995,0.0,1000 ha
+54,Algeria,1996,0.0,1000 ha
+55,Algeria,1997,0.0,1000 ha
+56,Algeria,1998,0.0,1000 ha
+57,Algeria,1999,0.0,1000 ha
+58,Algeria,2000,0.0,1000 ha
+59,Algeria,2001,0.0,1000 ha
+60,Algeria,2002,0.0,1000 ha
+61,Algeria,2003,0.0,1000 ha
+62,Algeria,2004,0.0,1000 ha
+63,Algeria,2005,0.0,1000 ha
+64,Algeria,2006,0.0,1000 ha
+65,Algeria,2007,0.0,1000 ha
+66,Algeria,2008,0.0,1000 ha
+67,Algeria,2009,0.0,1000 ha
+68,Algeria,2010,0.0,1000 ha
+69,Algeria,2011,0.0,1000 ha
+70,Algeria,2012,0.0,1000 ha
+71,Algeria,2013,0.0,1000 ha
+72,American Samoa,1990,0.0,1000 ha
+73,American Samoa,1991,0.0,1000 ha
+74,American Samoa,1992,0.0,1000 ha
+75,American Samoa,1993,0.0,1000 ha
+76,American Samoa,1994,0.0,1000 ha
+77,American Samoa,1995,0.0,1000 ha
+78,American Samoa,1996,0.0,1000 ha
+79,American Samoa,1997,0.0,1000 ha
+80,American Samoa,1998,0.0,1000 ha
+81,American Samoa,1999,0.0,1000 ha
+82,American Samoa,2000,0.0,1000 ha
+83,American Samoa,2001,0.0,1000 ha
+84,American Samoa,2002,0.0,1000 ha
+85,American Samoa,2003,0.0,1000 ha
+86,American Samoa,2004,0.0,1000 ha
+87,American Samoa,2005,0.0,1000 ha
+88,American Samoa,2006,0.0,1000 ha
+89,American Samoa,2007,0.0,1000 ha
+90,American Samoa,2008,0.0,1000 ha
+91,American Samoa,2009,0.0,1000 ha
+92,American Samoa,2010,0.0,1000 ha
+93,American Samoa,2011,0.0,1000 ha
+94,American Samoa,2012,0.0,1000 ha
+95,American Samoa,2013,0.0,1000 ha
+96,Andorra,1990,0.0,1000 ha
+97,Andorra,1991,0.0,1000 ha
+98,Andorra,1992,0.0,1000 ha
+99,Andorra,1993,0.0,1000 ha
+100,Andorra,1994,0.0,1000 ha
+101,Andorra,1995,0.0,1000 ha
+102,Andorra,1996,0.0,1000 ha
+103,Andorra,1997,0.0,1000 ha
+104,Andorra,1998,0.0,1000 ha
+105,Andorra,1999,0.0,1000 ha
+106,Andorra,2000,0.0,1000 ha
+107,Andorra,2001,0.0,1000 ha
+108,Andorra,2002,0.0,1000 ha
+109,Andorra,2003,0.0,1000 ha
+110,Andorra,2004,0.0,1000 ha
+111,Andorra,2005,0.0,1000 ha
+112,Andorra,2006,0.0,1000 ha
+113,Andorra,2007,0.0,1000 ha
+114,Andorra,2008,0.0,1000 ha
+115,Andorra,2009,0.0,1000 ha
+116,Andorra,2010,0.0,1000 ha
+117,Andorra,2011,0.0,1000 ha
+118,Andorra,2012,0.0,1000 ha
+119,Andorra,2013,0.0,1000 ha
+120,Angola,1990,0.0,1000 ha
+121,Angola,1991,0.0,1000 ha
+122,Angola,1992,0.0,1000 ha
+123,Angola,1993,0.0,1000 ha
+124,Angola,1994,0.0,1000 ha
+125,Angola,1995,0.0,1000 ha
+126,Angola,1996,0.0,1000 ha
+127,Angola,1997,0.0,1000 ha
+128,Angola,1998,0.0,1000 ha
+129,Angola,1999,0.0,1000 ha
+130,Angola,2000,0.0,1000 ha
+131,Angola,2001,0.0,1000 ha
+132,Angola,2002,0.0,1000 ha
+133,Angola,2003,0.0,1000 ha
+134,Angola,2004,0.0,1000 ha
+135,Angola,2005,0.0,1000 ha
+136,Angola,2006,0.0,1000 ha
+137,Angola,2007,0.0,1000 ha
+138,Angola,2008,0.0,1000 ha
+139,Angola,2009,0.0,1000 ha
+140,Angola,2010,0.0,1000 ha
+141,Angola,2011,0.0,1000 ha
+142,Angola,2012,0.0,1000 ha
+143,Angola,2013,0.0,1000 ha
+144,Anguilla,1990,0.0,1000 ha
+145,Anguilla,1991,0.0,1000 ha
+146,Anguilla,1992,0.0,1000 ha
+147,Anguilla,1993,0.0,1000 ha
+148,Anguilla,1994,0.0,1000 ha
+149,Anguilla,1995,0.0,1000 ha
+150,Anguilla,1996,0.0,1000 ha
+151,Anguilla,1997,0.0,1000 ha
+152,Anguilla,1998,0.0,1000 ha
+153,Anguilla,1999,0.0,1000 ha
+154,Anguilla,2000,0.0,1000 ha
+155,Anguilla,2001,0.0,1000 ha
+156,Anguilla,2002,0.0,1000 ha
+157,Anguilla,2003,0.0,1000 ha
+158,Anguilla,2004,0.0,1000 ha
+159,Anguilla,2005,0.0,1000 ha
+160,Anguilla,2006,0.0,1000 ha
+161,Anguilla,2007,0.0,1000 ha
+162,Anguilla,2008,0.0,1000 ha
+163,Anguilla,2009,0.0,1000 ha
+164,Anguilla,2010,0.0,1000 ha
+165,Anguilla,2011,0.0,1000 ha
+166,Anguilla,2012,0.0,1000 ha
+167,Anguilla,2013,0.0,1000 ha
+168,Antigua and Barbuda,1990,0.0,1000 ha
+169,Antigua and Barbuda,1991,0.0,1000 ha
+170,Antigua and Barbuda,1992,0.0,1000 ha
+171,Antigua and Barbuda,1993,0.0,1000 ha
+172,Antigua and Barbuda,1994,0.0,1000 ha
+173,Antigua and Barbuda,1995,0.0,1000 ha
+174,Antigua and Barbuda,1996,0.0,1000 ha
+175,Antigua and Barbuda,1997,0.0,1000 ha
+176,Antigua and Barbuda,1998,0.0,1000 ha
+177,Antigua and Barbuda,1999,0.0,1000 ha
+178,Antigua and Barbuda,2000,0.0,1000 ha
+179,Antigua and Barbuda,2001,0.0,1000 ha
+180,Antigua and Barbuda,2002,0.0,1000 ha
+181,Antigua and Barbuda,2003,0.0,1000 ha
+182,Antigua and Barbuda,2004,0.0,1000 ha
+183,Antigua and Barbuda,2005,0.0,1000 ha
+184,Antigua and Barbuda,2006,0.0,1000 ha
+185,Antigua and Barbuda,2007,0.0,1000 ha
+186,Antigua and Barbuda,2008,0.0,1000 ha
+187,Antigua and Barbuda,2009,0.0,1000 ha
+188,Antigua and Barbuda,2010,0.0,1000 ha
+189,Antigua and Barbuda,2011,0.0,1000 ha
+190,Antigua and Barbuda,2012,0.0,1000 ha
+191,Antigua and Barbuda,2013,0.0,1000 ha
+192,Argentina,1990,1738.0,1000 ha
+193,Argentina,1991,1738.0,1000 ha
+194,Argentina,1992,1738.0,1000 ha
+195,Argentina,1993,1738.0,1000 ha
+196,Argentina,1994,1738.0,1000 ha
+197,Argentina,1995,1738.0,1000 ha
+198,Argentina,1996,1738.0,1000 ha
+199,Argentina,1997,1738.0,1000 ha
+200,Argentina,1998,1738.0,1000 ha
+201,Argentina,1999,1738.0,1000 ha
+202,Argentina,2000,1738.0,1000 ha
+203,Argentina,2001,1738.0,1000 ha
+204,Argentina,2002,1738.0,1000 ha
+205,Argentina,2003,1738.0,1000 ha
+206,Argentina,2004,1738.0,1000 ha
+207,Argentina,2005,1738.0,1000 ha
+208,Argentina,2006,1738.0,1000 ha
+209,Argentina,2007,1738.0,1000 ha
+210,Argentina,2008,1738.0,1000 ha
+211,Argentina,2009,1738.0,1000 ha
+212,Argentina,2010,1738.0,1000 ha
+213,Argentina,2011,1738.0,1000 ha
+214,Argentina,2012,1738.0,1000 ha
+215,Argentina,2013,1738.0,1000 ha
+216,Armenia,1992,17.0,1000 ha
+217,Armenia,1993,17.0,1000 ha
+218,Armenia,1994,17.0,1000 ha
+219,Armenia,1995,17.0,1000 ha
+220,Armenia,1996,17.0,1000 ha
+221,Armenia,1997,17.0,1000 ha
+222,Armenia,1998,17.0,1000 ha
+223,Armenia,1999,17.0,1000 ha
+224,Armenia,2000,17.0,1000 ha
+225,Armenia,2001,17.0,1000 ha
+226,Armenia,2002,17.0,1000 ha
+227,Armenia,2003,17.0,1000 ha
+228,Armenia,2004,17.0,1000 ha
+229,Armenia,2005,17.0,1000 ha
+230,Armenia,2006,17.0,1000 ha
+231,Armenia,2007,17.0,1000 ha
+232,Armenia,2008,17.0,1000 ha
+233,Armenia,2009,17.0,1000 ha
+234,Armenia,2010,17.0,1000 ha
+235,Armenia,2011,17.0,1000 ha
+236,Armenia,2012,17.0,1000 ha
+237,Armenia,2013,17.0,1000 ha
+238,Aruba,1990,0.0,1000 ha
+239,Aruba,1991,0.0,1000 ha
+240,Aruba,1992,0.0,1000 ha
+241,Aruba,1993,0.0,1000 ha
+242,Aruba,1994,0.0,1000 ha
+243,Aruba,1995,0.0,1000 ha
+244,Aruba,1996,0.0,1000 ha
+245,Aruba,1997,0.0,1000 ha
+246,Aruba,1998,0.0,1000 ha
+247,Aruba,1999,0.0,1000 ha
+248,Aruba,2000,0.0,1000 ha
+249,Aruba,2001,0.0,1000 ha
+250,Aruba,2002,0.0,1000 ha
+251,Aruba,2003,0.0,1000 ha
+252,Aruba,2004,0.0,1000 ha
+253,Aruba,2005,0.0,1000 ha
+254,Aruba,2006,0.0,1000 ha
+255,Aruba,2007,0.0,1000 ha
+256,Aruba,2008,0.0,1000 ha
+257,Aruba,2009,0.0,1000 ha
+258,Aruba,2010,0.0,1000 ha
+259,Aruba,2011,0.0,1000 ha
+260,Aruba,2012,0.0,1000 ha
+261,Aruba,2013,0.0,1000 ha
+262,Australia,1990,5233.0,1000 ha
+263,Australia,1991,5233.0,1000 ha
+264,Australia,1992,5233.0,1000 ha
+265,Australia,1993,5233.0,1000 ha
+266,Australia,1994,5233.0,1000 ha
+267,Australia,1995,5233.0,1000 ha
+268,Australia,1996,5233.0,1000 ha
+269,Australia,1997,5233.0,1000 ha
+270,Australia,1998,5233.0,1000 ha
+271,Australia,1999,5233.0,1000 ha
+272,Australia,2000,5233.0,1000 ha
+273,Australia,2001,5233.0,1000 ha
+274,Australia,2002,5233.0,1000 ha
+275,Australia,2003,5233.0,1000 ha
+276,Australia,2004,5233.0,1000 ha
+277,Australia,2005,5233.0,1000 ha
+278,Australia,2006,5194.2,1000 ha
+279,Australia,2007,5155.4,1000 ha
+280,Australia,2008,5116.6,1000 ha
+281,Australia,2009,5077.8,1000 ha
+282,Australia,2010,5039.0,1000 ha
+283,Australia,2011,5039.0,1000 ha
+284,Australia,2012,5039.0,1000 ha
+285,Australia,2013,5039.0,1000 ha
+286,Austria,1990,114.0,1000 ha
+287,Austria,1991,114.0,1000 ha
+288,Austria,1992,114.0,1000 ha
+289,Austria,1993,114.0,1000 ha
+290,Austria,1994,114.0,1000 ha
+291,Austria,1995,114.0,1000 ha
+292,Austria,1996,114.0,1000 ha
+293,Austria,1997,114.0,1000 ha
+294,Austria,1998,114.0,1000 ha
+295,Austria,1999,114.0,1000 ha
+296,Austria,2000,114.0,1000 ha
+297,Austria,2001,114.0,1000 ha
+298,Austria,2002,114.0,1000 ha
+299,Austria,2003,114.0,1000 ha
+300,Austria,2004,114.0,1000 ha
+301,Austria,2005,114.0,1000 ha
+302,Austria,2006,114.0,1000 ha
+303,Austria,2007,114.0,1000 ha
+304,Austria,2008,114.0,1000 ha
+305,Austria,2009,114.0,1000 ha
+306,Austria,2010,114.0,1000 ha
+307,Austria,2011,114.0,1000 ha
+308,Austria,2012,114.0,1000 ha
+309,Austria,2013,114.0,1000 ha
+310,Azerbaijan,1992,0.0,1000 ha
+311,Azerbaijan,1993,0.0,1000 ha
+312,Azerbaijan,1994,0.0,1000 ha
+313,Azerbaijan,1995,0.0,1000 ha
+314,Azerbaijan,1996,0.0,1000 ha
+315,Azerbaijan,1997,0.0,1000 ha
+316,Azerbaijan,1998,0.0,1000 ha
+317,Azerbaijan,1999,0.0,1000 ha
+318,Azerbaijan,2000,0.0,1000 ha
+319,Azerbaijan,2001,0.0,1000 ha
+320,Azerbaijan,2002,0.0,1000 ha
+321,Azerbaijan,2003,0.0,1000 ha
+322,Azerbaijan,2004,0.0,1000 ha
+323,Azerbaijan,2005,0.0,1000 ha
+324,Azerbaijan,2006,0.0,1000 ha
+325,Azerbaijan,2007,0.0,1000 ha
+326,Azerbaijan,2008,0.0,1000 ha
+327,Azerbaijan,2009,0.0,1000 ha
+328,Azerbaijan,2010,0.0,1000 ha
+329,Azerbaijan,2011,0.0,1000 ha
+330,Azerbaijan,2012,0.0,1000 ha
+331,Azerbaijan,2013,0.0,1000 ha
+332,Bahamas,1990,0.0,1000 ha
+333,Bahamas,1991,0.0,1000 ha
+334,Bahamas,1992,0.0,1000 ha
+335,Bahamas,1993,0.0,1000 ha
+336,Bahamas,1994,0.0,1000 ha
+337,Bahamas,1995,0.0,1000 ha
+338,Bahamas,1996,0.0,1000 ha
+339,Bahamas,1997,0.0,1000 ha
+340,Bahamas,1998,0.0,1000 ha
+341,Bahamas,1999,0.0,1000 ha
+342,Bahamas,2000,0.0,1000 ha
+343,Bahamas,2001,0.0,1000 ha
+344,Bahamas,2002,0.0,1000 ha
+345,Bahamas,2003,0.0,1000 ha
+346,Bahamas,2004,0.0,1000 ha
+347,Bahamas,2005,0.0,1000 ha
+348,Bahamas,2006,0.0,1000 ha
+349,Bahamas,2007,0.0,1000 ha
+350,Bahamas,2008,0.0,1000 ha
+351,Bahamas,2009,0.0,1000 ha
+352,Bahamas,2010,0.0,1000 ha
+353,Bahamas,2011,0.0,1000 ha
+354,Bahamas,2012,0.0,1000 ha
+355,Bahamas,2013,0.0,1000 ha
+356,Bahrain,1990,0.0,1000 ha
+357,Bahrain,1991,0.0,1000 ha
+358,Bahrain,1992,0.0,1000 ha
+359,Bahrain,1993,0.0,1000 ha
+360,Bahrain,1994,0.0,1000 ha
+361,Bahrain,1995,0.0,1000 ha
+362,Bahrain,1996,0.0,1000 ha
+363,Bahrain,1997,0.0,1000 ha
+364,Bahrain,1998,0.0,1000 ha
+365,Bahrain,1999,0.0,1000 ha
+366,Bahrain,2000,0.0,1000 ha
+367,Bahrain,2001,0.0,1000 ha
+368,Bahrain,2002,0.0,1000 ha
+369,Bahrain,2003,0.0,1000 ha
+370,Bahrain,2004,0.0,1000 ha
+371,Bahrain,2005,0.0,1000 ha
+372,Bahrain,2006,0.0,1000 ha
+373,Bahrain,2007,0.0,1000 ha
+374,Bahrain,2008,0.0,1000 ha
+375,Bahrain,2009,0.0,1000 ha
+376,Bahrain,2010,0.0,1000 ha
+377,Bahrain,2011,0.0,1000 ha
+378,Bahrain,2012,0.0,1000 ha
+379,Bahrain,2013,0.0,1000 ha
+380,Bangladesh,1990,436.0,1000 ha
+381,Bangladesh,1991,436.0,1000 ha
+382,Bangladesh,1992,436.0,1000 ha
+383,Bangladesh,1993,436.0,1000 ha
+384,Bangladesh,1994,436.0,1000 ha
+385,Bangladesh,1995,436.0,1000 ha
+386,Bangladesh,1996,436.0,1000 ha
+387,Bangladesh,1997,436.0,1000 ha
+388,Bangladesh,1998,436.0,1000 ha
+389,Bangladesh,1999,436.0,1000 ha
+390,Bangladesh,2000,436.0,1000 ha
+391,Bangladesh,2001,436.0,1000 ha
+392,Bangladesh,2002,436.0,1000 ha
+393,Bangladesh,2003,436.0,1000 ha
+394,Bangladesh,2004,436.0,1000 ha
+395,Bangladesh,2005,436.0,1000 ha
+396,Bangladesh,2006,436.0,1000 ha
+397,Bangladesh,2007,436.0,1000 ha
+398,Bangladesh,2008,436.0,1000 ha
+399,Bangladesh,2009,436.0,1000 ha
+400,Bangladesh,2010,436.0,1000 ha
+401,Bangladesh,2011,431.0,1000 ha
+402,Bangladesh,2012,426.0,1000 ha
+403,Bangladesh,2013,421.0,1000 ha
+404,Barbados,1990,0.003,1000 ha
+405,Barbados,1991,0.003,1000 ha
+406,Barbados,1992,0.003,1000 ha
+407,Barbados,1993,0.003,1000 ha
+408,Barbados,1994,0.003,1000 ha
+409,Barbados,1995,0.003,1000 ha
+410,Barbados,1996,0.003,1000 ha
+411,Barbados,1997,0.003,1000 ha
+412,Barbados,1998,0.003,1000 ha
+413,Barbados,1999,0.003,1000 ha
+414,Barbados,2000,0.003,1000 ha
+415,Barbados,2001,0.003,1000 ha
+416,Barbados,2002,0.003,1000 ha
+417,Barbados,2003,0.003,1000 ha
+418,Barbados,2004,0.003,1000 ha
+419,Barbados,2005,0.003,1000 ha
+420,Barbados,2006,0.003,1000 ha
+421,Barbados,2007,0.003,1000 ha
+422,Barbados,2008,0.003,1000 ha
+423,Barbados,2009,0.003,1000 ha
+424,Barbados,2010,0.003,1000 ha
+425,Barbados,2011,0.003,1000 ha
+426,Barbados,2012,0.003,1000 ha
+427,Barbados,2013,0.003,1000 ha
+428,Belarus,1992,400.0,1000 ha
+429,Belarus,1993,400.0,1000 ha
+430,Belarus,1994,400.0,1000 ha
+431,Belarus,1995,400.0,1000 ha
+432,Belarus,1996,400.0,1000 ha
+433,Belarus,1997,400.0,1000 ha
+434,Belarus,1998,400.0,1000 ha
+435,Belarus,1999,400.0,1000 ha
+436,Belarus,2000,400.0,1000 ha
+437,Belarus,2001,400.0,1000 ha
+438,Belarus,2002,400.0,1000 ha
+439,Belarus,2003,400.0,1000 ha
+440,Belarus,2004,400.0,1000 ha
+441,Belarus,2005,400.0,1000 ha
+442,Belarus,2006,400.0,1000 ha
+443,Belarus,2007,400.0,1000 ha
+444,Belarus,2008,400.0,1000 ha
+445,Belarus,2009,400.0,1000 ha
+446,Belarus,2010,400.0,1000 ha
+447,Belarus,2011,400.0,1000 ha
+448,Belarus,2012,400.0,1000 ha
+449,Belarus,2013,400.0,1000 ha
+450,Belgium,2000,0.0,1000 ha
+451,Belgium,2001,0.0,1000 ha
+452,Belgium,2002,0.0,1000 ha
+453,Belgium,2003,0.0,1000 ha
+454,Belgium,2004,0.0,1000 ha
+455,Belgium,2005,0.0,1000 ha
+456,Belgium,2006,0.0,1000 ha
+457,Belgium,2007,0.0,1000 ha
+458,Belgium,2008,0.0,1000 ha
+459,Belgium,2009,0.0,1000 ha
+460,Belgium,2010,0.0,1000 ha
+461,Belgium,2011,0.0,1000 ha
+462,Belgium,2012,0.0,1000 ha
+463,Belgium,2013,0.0,1000 ha
+464,Belgium-Luxembourg,1990,0.0,1000 ha
+465,Belgium-Luxembourg,1991,0.0,1000 ha
+466,Belgium-Luxembourg,1992,0.0,1000 ha
+467,Belgium-Luxembourg,1993,0.0,1000 ha
+468,Belgium-Luxembourg,1994,0.0,1000 ha
+469,Belgium-Luxembourg,1995,0.0,1000 ha
+470,Belgium-Luxembourg,1996,0.0,1000 ha
+471,Belgium-Luxembourg,1997,0.0,1000 ha
+472,Belgium-Luxembourg,1998,0.0,1000 ha
+473,Belgium-Luxembourg,1999,0.0,1000 ha
+474,Belize,1990,599.0,1000 ha
+475,Belize,1991,599.0,1000 ha
+476,Belize,1992,599.0,1000 ha
+477,Belize,1993,599.0,1000 ha
+478,Belize,1994,599.0,1000 ha
+479,Belize,1995,599.0,1000 ha
+480,Belize,1996,599.0,1000 ha
+481,Belize,1997,599.0,1000 ha
+482,Belize,1998,599.0,1000 ha
+483,Belize,1999,599.0,1000 ha
+484,Belize,2000,599.0,1000 ha
+485,Belize,2001,599.0,1000 ha
+486,Belize,2002,599.0,1000 ha
+487,Belize,2003,599.0,1000 ha
+488,Belize,2004,599.0,1000 ha
+489,Belize,2005,599.0,1000 ha
+490,Belize,2006,599.0,1000 ha
+491,Belize,2007,599.0,1000 ha
+492,Belize,2008,599.0,1000 ha
+493,Belize,2009,599.0,1000 ha
+494,Belize,2010,599.0,1000 ha
+495,Belize,2011,599.0,1000 ha
+496,Belize,2012,599.0,1000 ha
+497,Belize,2013,599.0,1000 ha
+498,Benin,1990,0.0,1000 ha
+499,Benin,1991,0.0,1000 ha
+500,Benin,1992,0.0,1000 ha
+501,Benin,1993,0.0,1000 ha
+502,Benin,1994,0.0,1000 ha
+503,Benin,1995,0.0,1000 ha
+504,Benin,1996,0.0,1000 ha
+505,Benin,1997,0.0,1000 ha
+506,Benin,1998,0.0,1000 ha
+507,Benin,1999,0.0,1000 ha
+508,Benin,2000,0.0,1000 ha
+509,Benin,2001,0.0,1000 ha
+510,Benin,2002,0.0,1000 ha
+511,Benin,2003,0.0,1000 ha
+512,Benin,2004,0.0,1000 ha
+513,Benin,2005,0.0,1000 ha
+514,Benin,2006,0.0,1000 ha
+515,Benin,2007,0.0,1000 ha
+516,Benin,2008,0.0,1000 ha
+517,Benin,2009,0.0,1000 ha
+518,Benin,2010,0.0,1000 ha
+519,Benin,2011,0.0,1000 ha
+520,Benin,2012,0.0,1000 ha
+521,Benin,2013,0.0,1000 ha
+522,Bermuda,1990,0.0,1000 ha
+523,Bermuda,1991,0.0,1000 ha
+524,Bermuda,1992,0.0,1000 ha
+525,Bermuda,1993,0.0,1000 ha
+526,Bermuda,1994,0.0,1000 ha
+527,Bermuda,1995,0.0,1000 ha
+528,Bermuda,1996,0.0,1000 ha
+529,Bermuda,1997,0.0,1000 ha
+530,Bermuda,1998,0.0,1000 ha
+531,Bermuda,1999,0.0,1000 ha
+532,Bermuda,2000,0.0,1000 ha
+533,Bermuda,2001,0.0,1000 ha
+534,Bermuda,2002,0.0,1000 ha
+535,Bermuda,2003,0.0,1000 ha
+536,Bermuda,2004,0.0,1000 ha
+537,Bermuda,2005,0.0,1000 ha
+538,Bermuda,2006,0.0,1000 ha
+539,Bermuda,2007,0.0,1000 ha
+540,Bermuda,2008,0.0,1000 ha
+541,Bermuda,2009,0.0,1000 ha
+542,Bermuda,2010,0.0,1000 ha
+543,Bermuda,2011,0.0,1000 ha
+544,Bermuda,2012,0.0,1000 ha
+545,Bermuda,2013,0.0,1000 ha
+546,Bhutan,1990,413.0,1000 ha
+547,Bhutan,1991,413.0,1000 ha
+548,Bhutan,1992,413.0,1000 ha
+549,Bhutan,1993,413.0,1000 ha
+550,Bhutan,1994,413.0,1000 ha
+551,Bhutan,1995,413.0,1000 ha
+552,Bhutan,1996,413.0,1000 ha
+553,Bhutan,1997,413.0,1000 ha
+554,Bhutan,1998,413.0,1000 ha
+555,Bhutan,1999,413.0,1000 ha
+556,Bhutan,2000,413.0,1000 ha
+557,Bhutan,2001,413.0,1000 ha
+558,Bhutan,2002,413.0,1000 ha
+559,Bhutan,2003,413.0,1000 ha
+560,Bhutan,2004,413.0,1000 ha
+561,Bhutan,2005,413.0,1000 ha
+562,Bhutan,2006,413.0,1000 ha
+563,Bhutan,2007,413.0,1000 ha
+564,Bhutan,2008,413.0,1000 ha
+565,Bhutan,2009,413.0,1000 ha
+566,Bhutan,2010,413.0,1000 ha
+567,Bhutan,2011,413.0,1000 ha
+568,Bhutan,2012,413.0,1000 ha
+569,Bhutan,2013,413.0,1000 ha
+570,Bolivia (Plurinational State of),1990,40804.0,1000 ha
+571,Bolivia (Plurinational State of),1991,40628.2,1000 ha
+572,Bolivia (Plurinational State of),1992,40452.4,1000 ha
+573,Bolivia (Plurinational State of),1993,40276.6,1000 ha
+574,Bolivia (Plurinational State of),1994,40100.8,1000 ha
+575,Bolivia (Plurinational State of),1995,39925.0,1000 ha
+576,Bolivia (Plurinational State of),1996,39749.2,1000 ha
+577,Bolivia (Plurinational State of),1997,39573.4,1000 ha
+578,Bolivia (Plurinational State of),1998,39397.6,1000 ha
+579,Bolivia (Plurinational State of),1999,39221.8,1000 ha
+580,Bolivia (Plurinational State of),2000,39046.0,1000 ha
+581,Bolivia (Plurinational State of),2001,38869.6,1000 ha
+582,Bolivia (Plurinational State of),2002,38693.2,1000 ha
+583,Bolivia (Plurinational State of),2003,38516.8,1000 ha
+584,Bolivia (Plurinational State of),2004,38340.4,1000 ha
+585,Bolivia (Plurinational State of),2005,38164.0,1000 ha
+586,Bolivia (Plurinational State of),2006,37964.0,1000 ha
+587,Bolivia (Plurinational State of),2007,37764.0,1000 ha
+588,Bolivia (Plurinational State of),2008,37564.0,1000 ha
+589,Bolivia (Plurinational State of),2009,37364.0,1000 ha
+590,Bolivia (Plurinational State of),2010,37164.0,1000 ha
+591,Bolivia (Plurinational State of),2011,36964.0,1000 ha
+592,Bolivia (Plurinational State of),2012,36764.0,1000 ha
+593,Bolivia (Plurinational State of),2013,36564.0,1000 ha
+594,Bosnia and Herzegovina,1992,2.0,1000 ha
+595,Bosnia and Herzegovina,1993,2.0,1000 ha
+596,Bosnia and Herzegovina,1994,2.0,1000 ha
+597,Bosnia and Herzegovina,1995,2.0,1000 ha
+598,Bosnia and Herzegovina,1996,2.0,1000 ha
+599,Bosnia and Herzegovina,1997,2.0,1000 ha
+600,Bosnia and Herzegovina,1998,2.0,1000 ha
+601,Bosnia and Herzegovina,1999,2.0,1000 ha
+602,Bosnia and Herzegovina,2000,2.0,1000 ha
+603,Bosnia and Herzegovina,2001,2.0,1000 ha
+604,Bosnia and Herzegovina,2002,2.0,1000 ha
+605,Bosnia and Herzegovina,2003,2.0,1000 ha
+606,Bosnia and Herzegovina,2004,2.0,1000 ha
+607,Bosnia and Herzegovina,2005,2.0,1000 ha
+608,Bosnia and Herzegovina,2006,2.0,1000 ha
+609,Bosnia and Herzegovina,2007,2.0,1000 ha
+610,Bosnia and Herzegovina,2008,2.0,1000 ha
+611,Bosnia and Herzegovina,2009,2.0,1000 ha
+612,Bosnia and Herzegovina,2010,2.0,1000 ha
+613,Bosnia and Herzegovina,2011,2.0,1000 ha
+614,Bosnia and Herzegovina,2012,2.0,1000 ha
+615,Bosnia and Herzegovina,2013,2.0,1000 ha
+616,Botswana,1990,0.0,1000 ha
+617,Botswana,1991,0.0,1000 ha
+618,Botswana,1992,0.0,1000 ha
+619,Botswana,1993,0.0,1000 ha
+620,Botswana,1994,0.0,1000 ha
+621,Botswana,1995,0.0,1000 ha
+622,Botswana,1996,0.0,1000 ha
+623,Botswana,1997,0.0,1000 ha
+624,Botswana,1998,0.0,1000 ha
+625,Botswana,1999,0.0,1000 ha
+626,Botswana,2000,0.0,1000 ha
+627,Botswana,2001,0.0,1000 ha
+628,Botswana,2002,0.0,1000 ha
+629,Botswana,2003,0.0,1000 ha
+630,Botswana,2004,0.0,1000 ha
+631,Botswana,2005,0.0,1000 ha
+632,Botswana,2006,0.0,1000 ha
+633,Botswana,2007,0.0,1000 ha
+634,Botswana,2008,0.0,1000 ha
+635,Botswana,2009,0.0,1000 ha
+636,Botswana,2010,0.0,1000 ha
+637,Botswana,2011,0.0,1000 ha
+638,Botswana,2012,0.0,1000 ha
+639,Botswana,2013,0.0,1000 ha
+640,Brazil,1990,218240.0,1000 ha
+641,Brazil,1991,217462.6,1000 ha
+642,Brazil,1992,216685.2,1000 ha
+643,Brazil,1993,215907.8,1000 ha
+644,Brazil,1994,215130.4,1000 ha
+645,Brazil,1995,214353.0,1000 ha
+646,Brazil,1996,213575.6,1000 ha
+647,Brazil,1997,212798.2,1000 ha
+648,Brazil,1998,212020.8,1000 ha
+649,Brazil,1999,211243.4,1000 ha
+650,Brazil,2000,210466.0,1000 ha
+651,Brazil,2001,209688.4,1000 ha
+652,Brazil,2002,208910.8,1000 ha
+653,Brazil,2003,208133.2,1000 ha
+654,Brazil,2004,207355.6,1000 ha
+655,Brazil,2005,206578.0,1000 ha
+656,Brazil,2006,205800.6,1000 ha
+657,Brazil,2007,205023.2,1000 ha
+658,Brazil,2008,204245.8,1000 ha
+659,Brazil,2009,203468.4,1000 ha
+660,Brazil,2010,202691.0,1000 ha
+661,Brazil,2011,202691.0,1000 ha
+662,Brazil,2012,202691.0,1000 ha
+663,Brazil,2013,202691.0,1000 ha
+664,British Virgin Islands,1990,0.0,1000 ha
+665,British Virgin Islands,1991,0.0,1000 ha
+666,British Virgin Islands,1992,0.0,1000 ha
+667,British Virgin Islands,1993,0.0,1000 ha
+668,British Virgin Islands,1994,0.0,1000 ha
+669,British Virgin Islands,1995,0.0,1000 ha
+670,British Virgin Islands,1996,0.0,1000 ha
+671,British Virgin Islands,1997,0.0,1000 ha
+672,British Virgin Islands,1998,0.0,1000 ha
+673,British Virgin Islands,1999,0.0,1000 ha
+674,British Virgin Islands,2000,0.0,1000 ha
+675,British Virgin Islands,2001,0.0,1000 ha
+676,British Virgin Islands,2002,0.0,1000 ha
+677,British Virgin Islands,2003,0.0,1000 ha
+678,British Virgin Islands,2004,0.0,1000 ha
+679,British Virgin Islands,2005,0.0,1000 ha
+680,British Virgin Islands,2006,0.0,1000 ha
+681,British Virgin Islands,2007,0.0,1000 ha
+682,British Virgin Islands,2008,0.0,1000 ha
+683,British Virgin Islands,2009,0.0,1000 ha
+684,British Virgin Islands,2010,0.0,1000 ha
+685,British Virgin Islands,2011,0.0,1000 ha
+686,British Virgin Islands,2012,0.0,1000 ha
+687,British Virgin Islands,2013,0.0,1000 ha
+688,Brunei Darussalam,1990,313.0,1000 ha
+689,Brunei Darussalam,1991,310.5,1000 ha
+690,Brunei Darussalam,1992,308.0,1000 ha
+691,Brunei Darussalam,1993,305.5,1000 ha
+692,Brunei Darussalam,1994,303.0,1000 ha
+693,Brunei Darussalam,1995,300.5,1000 ha
+694,Brunei Darussalam,1996,298.0,1000 ha
+695,Brunei Darussalam,1997,295.5,1000 ha
+696,Brunei Darussalam,1998,293.0,1000 ha
+697,Brunei Darussalam,1999,290.5,1000 ha
+698,Brunei Darussalam,2000,288.0,1000 ha
+699,Brunei Darussalam,2001,285.4,1000 ha
+700,Brunei Darussalam,2002,282.8,1000 ha
+701,Brunei Darussalam,2003,280.2,1000 ha
+702,Brunei Darussalam,2004,277.6,1000 ha
+703,Brunei Darussalam,2005,275.0,1000 ha
+704,Brunei Darussalam,2006,272.6,1000 ha
+705,Brunei Darussalam,2007,270.2,1000 ha
+706,Brunei Darussalam,2008,267.8,1000 ha
+707,Brunei Darussalam,2009,265.4,1000 ha
+708,Brunei Darussalam,2010,263.0,1000 ha
+709,Brunei Darussalam,2011,263.0,1000 ha
+710,Brunei Darussalam,2012,263.0,1000 ha
+711,Brunei Darussalam,2013,263.0,1000 ha
+712,Bulgaria,1990,157.0,1000 ha
+713,Bulgaria,1991,168.3,1000 ha
+714,Bulgaria,1992,179.6,1000 ha
+715,Bulgaria,1993,190.9,1000 ha
+716,Bulgaria,1994,202.2,1000 ha
+717,Bulgaria,1995,213.5,1000 ha
+718,Bulgaria,1996,224.8,1000 ha
+719,Bulgaria,1997,236.1,1000 ha
+720,Bulgaria,1998,247.4,1000 ha
+721,Bulgaria,1999,258.7,1000 ha
+722,Bulgaria,2000,270.0,1000 ha
+723,Bulgaria,2001,276.8,1000 ha
+724,Bulgaria,2002,283.6,1000 ha
+725,Bulgaria,2003,290.4,1000 ha
+726,Bulgaria,2004,297.2,1000 ha
+727,Bulgaria,2005,304.0,1000 ha
+728,Bulgaria,2006,362.6,1000 ha
+729,Bulgaria,2007,421.2,1000 ha
+730,Bulgaria,2008,479.8,1000 ha
+731,Bulgaria,2009,538.4,1000 ha
+732,Bulgaria,2010,597.0,1000 ha
+733,Bulgaria,2011,597.0,1000 ha
+734,Bulgaria,2012,597.0,1000 ha
+735,Bulgaria,2013,597.0,1000 ha
+736,Burkina Faso,1990,0.0,1000 ha
+737,Burkina Faso,1991,0.0,1000 ha
+738,Burkina Faso,1992,0.0,1000 ha
+739,Burkina Faso,1993,0.0,1000 ha
+740,Burkina Faso,1994,0.0,1000 ha
+741,Burkina Faso,1995,0.0,1000 ha
+742,Burkina Faso,1996,0.0,1000 ha
+743,Burkina Faso,1997,0.0,1000 ha
+744,Burkina Faso,1998,0.0,1000 ha
+745,Burkina Faso,1999,0.0,1000 ha
+746,Burkina Faso,2000,0.0,1000 ha
+747,Burkina Faso,2001,0.0,1000 ha
+748,Burkina Faso,2002,0.0,1000 ha
+749,Burkina Faso,2003,0.0,1000 ha
+750,Burkina Faso,2004,0.0,1000 ha
+751,Burkina Faso,2005,0.0,1000 ha
+752,Burkina Faso,2006,0.0,1000 ha
+753,Burkina Faso,2007,0.0,1000 ha
+754,Burkina Faso,2008,0.0,1000 ha
+755,Burkina Faso,2009,0.0,1000 ha
+756,Burkina Faso,2010,0.0,1000 ha
+757,Burkina Faso,2011,0.0,1000 ha
+758,Burkina Faso,2012,0.0,1000 ha
+759,Burkina Faso,2013,0.0,1000 ha
+760,Burundi,1990,40.0,1000 ha
+761,Burundi,1991,40.0,1000 ha
+762,Burundi,1992,40.0,1000 ha
+763,Burundi,1993,40.0,1000 ha
+764,Burundi,1994,40.0,1000 ha
+765,Burundi,1995,40.0,1000 ha
+766,Burundi,1996,40.0,1000 ha
+767,Burundi,1997,40.0,1000 ha
+768,Burundi,1998,40.0,1000 ha
+769,Burundi,1999,40.0,1000 ha
+770,Burundi,2000,40.0,1000 ha
+771,Burundi,2001,40.0,1000 ha
+772,Burundi,2002,40.0,1000 ha
+773,Burundi,2003,40.0,1000 ha
+774,Burundi,2004,40.0,1000 ha
+775,Burundi,2005,40.0,1000 ha
+776,Burundi,2006,40.0,1000 ha
+777,Burundi,2007,40.0,1000 ha
+778,Burundi,2008,40.0,1000 ha
+779,Burundi,2009,40.0,1000 ha
+780,Burundi,2010,40.0,1000 ha
+781,Burundi,2011,40.0,1000 ha
+782,Burundi,2012,40.0,1000 ha
+783,Burundi,2013,40.0,1000 ha
+784,Cabo Verde,1990,0.0,1000 ha
+785,Cabo Verde,1991,0.0,1000 ha
+786,Cabo Verde,1992,0.0,1000 ha
+787,Cabo Verde,1993,0.0,1000 ha
+788,Cabo Verde,1994,0.0,1000 ha
+789,Cabo Verde,1995,0.0,1000 ha
+790,Cabo Verde,1996,0.0,1000 ha
+791,Cabo Verde,1997,0.0,1000 ha
+792,Cabo Verde,1998,0.0,1000 ha
+793,Cabo Verde,1999,0.0,1000 ha
+794,Cabo Verde,2000,0.0,1000 ha
+795,Cabo Verde,2001,0.0,1000 ha
+796,Cabo Verde,2002,0.0,1000 ha
+797,Cabo Verde,2003,0.0,1000 ha
+798,Cabo Verde,2004,0.0,1000 ha
+799,Cabo Verde,2005,0.0,1000 ha
+800,Cabo Verde,2006,0.0,1000 ha
+801,Cabo Verde,2007,0.0,1000 ha
+802,Cabo Verde,2008,0.0,1000 ha
+803,Cabo Verde,2009,0.0,1000 ha
+804,Cabo Verde,2010,0.0,1000 ha
+805,Cabo Verde,2011,0.0,1000 ha
+806,Cabo Verde,2012,0.0,1000 ha
+807,Cabo Verde,2013,0.0,1000 ha
+808,Cambodia,1990,766.0,1000 ha
+809,Cambodia,1991,735.0,1000 ha
+810,Cambodia,1992,704.0,1000 ha
+811,Cambodia,1993,673.0,1000 ha
+812,Cambodia,1994,642.0,1000 ha
+813,Cambodia,1995,611.0,1000 ha
+814,Cambodia,1996,580.0,1000 ha
+815,Cambodia,1997,549.0,1000 ha
+816,Cambodia,1998,518.0,1000 ha
+817,Cambodia,1999,487.0,1000 ha
+818,Cambodia,2000,456.0,1000 ha
+819,Cambodia,2001,429.2,1000 ha
+820,Cambodia,2002,402.4,1000 ha
+821,Cambodia,2003,375.6,1000 ha
+822,Cambodia,2004,348.8,1000 ha
+823,Cambodia,2005,322.0,1000 ha
+824,Cambodia,2006,322.0,1000 ha
+825,Cambodia,2007,322.0,1000 ha
+826,Cambodia,2008,322.0,1000 ha
+827,Cambodia,2009,322.0,1000 ha
+828,Cambodia,2010,322.0,1000 ha
+829,Cambodia,2011,322.0,1000 ha
+830,Cambodia,2012,322.0,1000 ha
+831,Cambodia,2013,322.0,1000 ha
+832,Cameroon,1990,0.0,1000 ha
+833,Cameroon,1991,0.0,1000 ha
+834,Cameroon,1992,0.0,1000 ha
+835,Cameroon,1993,0.0,1000 ha
+836,Cameroon,1994,0.0,1000 ha
+837,Cameroon,1995,0.0,1000 ha
+838,Cameroon,1996,0.0,1000 ha
+839,Cameroon,1997,0.0,1000 ha
+840,Cameroon,1998,0.0,1000 ha
+841,Cameroon,1999,0.0,1000 ha
+842,Cameroon,2000,0.0,1000 ha
+843,Cameroon,2001,0.0,1000 ha
+844,Cameroon,2002,0.0,1000 ha
+845,Cameroon,2003,0.0,1000 ha
+846,Cameroon,2004,0.0,1000 ha
+847,Cameroon,2005,0.0,1000 ha
+848,Cameroon,2006,0.0,1000 ha
+849,Cameroon,2007,0.0,1000 ha
+850,Cameroon,2008,0.0,1000 ha
+851,Cameroon,2009,0.0,1000 ha
+852,Cameroon,2010,0.0,1000 ha
+853,Cameroon,2011,0.0,1000 ha
+854,Cameroon,2012,0.0,1000 ha
+855,Cameroon,2013,0.0,1000 ha
+856,Canada,1990,206638.0,1000 ha
+857,Canada,1991,206610.1,1000 ha
+858,Canada,1992,206582.2,1000 ha
+859,Canada,1993,206554.3,1000 ha
+860,Canada,1994,206526.4,1000 ha
+861,Canada,1995,206498.5,1000 ha
+862,Canada,1996,206470.6,1000 ha
+863,Canada,1997,206442.7,1000 ha
+864,Canada,1998,206414.8,1000 ha
+865,Canada,1999,206386.9,1000 ha
+866,Canada,2000,206359.0,1000 ha
+867,Canada,2001,206332.2,1000 ha
+868,Canada,2002,206305.4,1000 ha
+869,Canada,2003,206278.6,1000 ha
+870,Canada,2004,206251.8,1000 ha
+871,Canada,2005,206225.0,1000 ha
+872,Canada,2006,206192.4,1000 ha
+873,Canada,2007,206159.8,1000 ha
+874,Canada,2008,206127.2,1000 ha
+875,Canada,2009,206094.6,1000 ha
+876,Canada,2010,206062.0,1000 ha
+877,Canada,2011,206034.4,1000 ha
+878,Canada,2012,206006.8,1000 ha
+879,Canada,2013,205979.2,1000 ha
+880,Cayman Islands,1990,0.0,1000 ha
+881,Cayman Islands,1991,0.0,1000 ha
+882,Cayman Islands,1992,0.0,1000 ha
+883,Cayman Islands,1993,0.0,1000 ha
+884,Cayman Islands,1994,0.0,1000 ha
+885,Cayman Islands,1995,0.0,1000 ha
+886,Cayman Islands,1996,0.0,1000 ha
+887,Cayman Islands,1997,0.0,1000 ha
+888,Cayman Islands,1998,0.0,1000 ha
+889,Cayman Islands,1999,0.0,1000 ha
+890,Cayman Islands,2000,0.0,1000 ha
+891,Cayman Islands,2001,0.0,1000 ha
+892,Cayman Islands,2002,0.0,1000 ha
+893,Cayman Islands,2003,0.0,1000 ha
+894,Cayman Islands,2004,0.0,1000 ha
+895,Cayman Islands,2005,0.0,1000 ha
+896,Cayman Islands,2006,0.0,1000 ha
+897,Cayman Islands,2007,0.0,1000 ha
+898,Cayman Islands,2008,0.0,1000 ha
+899,Cayman Islands,2009,0.0,1000 ha
+900,Cayman Islands,2010,0.0,1000 ha
+901,Cayman Islands,2011,0.0,1000 ha
+902,Cayman Islands,2012,0.0,1000 ha
+903,Cayman Islands,2013,0.0,1000 ha
+904,Central African Republic,1990,3900.0,1000 ha
+905,Central African Republic,1991,3823.5,1000 ha
+906,Central African Republic,1992,3747.0,1000 ha
+907,Central African Republic,1993,3670.5,1000 ha
+908,Central African Republic,1994,3594.0,1000 ha
+909,Central African Republic,1995,3517.5,1000 ha
+910,Central African Republic,1996,3441.0,1000 ha
+911,Central African Republic,1997,3364.5,1000 ha
+912,Central African Republic,1998,3288.0,1000 ha
+913,Central African Republic,1999,3211.5,1000 ha
+914,Central African Republic,2000,3135.0,1000 ha
+915,Central African Republic,2001,3058.4,1000 ha
+916,Central African Republic,2002,2981.8,1000 ha
+917,Central African Republic,2003,2905.2,1000 ha
+918,Central African Republic,2004,2828.6,1000 ha
+919,Central African Republic,2005,2752.0,1000 ha
+920,Central African Republic,2006,2675.6,1000 ha
+921,Central African Republic,2007,2599.2,1000 ha
+922,Central African Republic,2008,2522.8,1000 ha
+923,Central African Republic,2009,2446.4,1000 ha
+924,Central African Republic,2010,2370.0,1000 ha
+925,Central African Republic,2011,2293.6,1000 ha
+926,Central African Republic,2012,2217.2,1000 ha
+927,Central African Republic,2013,2140.8,1000 ha
+928,Chad,1990,0.0,1000 ha
+929,Chad,1991,0.0,1000 ha
+930,Chad,1992,0.0,1000 ha
+931,Chad,1993,0.0,1000 ha
+932,Chad,1994,0.0,1000 ha
+933,Chad,1995,0.0,1000 ha
+934,Chad,1996,0.0,1000 ha
+935,Chad,1997,0.0,1000 ha
+936,Chad,1998,0.0,1000 ha
+937,Chad,1999,0.0,1000 ha
+938,Chad,2000,0.0,1000 ha
+939,Chad,2001,0.0,1000 ha
+940,Chad,2002,0.0,1000 ha
+941,Chad,2003,0.0,1000 ha
+942,Chad,2004,0.0,1000 ha
+943,Chad,2005,0.0,1000 ha
+944,Chad,2006,0.0,1000 ha
+945,Chad,2007,0.0,1000 ha
+946,Chad,2008,0.0,1000 ha
+947,Chad,2009,0.0,1000 ha
+948,Chad,2010,0.0,1000 ha
+949,Chad,2011,0.0,1000 ha
+950,Chad,2012,0.0,1000 ha
+951,Chad,2013,0.0,1000 ha
+952,Channel Islands,1990,0.0,1000 ha
+953,Channel Islands,1991,0.0,1000 ha
+954,Channel Islands,1992,0.0,1000 ha
+955,Channel Islands,1993,0.0,1000 ha
+956,Channel Islands,1994,0.0,1000 ha
+957,Channel Islands,1995,0.0,1000 ha
+958,Channel Islands,1996,0.0,1000 ha
+959,Channel Islands,1997,0.0,1000 ha
+960,Channel Islands,1998,0.0,1000 ha
+961,Channel Islands,1999,0.0,1000 ha
+962,Channel Islands,2000,0.0,1000 ha
+963,Channel Islands,2001,0.0,1000 ha
+964,Channel Islands,2002,0.0,1000 ha
+965,Channel Islands,2003,0.0,1000 ha
+966,Channel Islands,2004,0.0,1000 ha
+967,Channel Islands,2005,0.0,1000 ha
+968,Channel Islands,2006,0.0,1000 ha
+969,Channel Islands,2007,0.0,1000 ha
+970,Channel Islands,2008,0.0,1000 ha
+971,Channel Islands,2009,0.0,1000 ha
+972,Channel Islands,2010,0.0,1000 ha
+973,Channel Islands,2011,0.0,1000 ha
+974,Channel Islands,2012,0.0,1000 ha
+975,Channel Islands,2013,0.0,1000 ha
+976,Chile,1990,4631.0,1000 ha
+977,Chile,1991,4621.5,1000 ha
+978,Chile,1992,4612.0,1000 ha
+979,Chile,1993,4602.5,1000 ha
+980,Chile,1994,4593.0,1000 ha
+981,Chile,1995,4583.5,1000 ha
+982,Chile,1996,4574.0,1000 ha
+983,Chile,1997,4564.5,1000 ha
+984,Chile,1998,4555.0,1000 ha
+985,Chile,1999,4545.5,1000 ha
+986,Chile,2000,4536.0,1000 ha
+987,Chile,2001,4526.4,1000 ha
+988,Chile,2002,4516.8,1000 ha
+989,Chile,2003,4507.2,1000 ha
+990,Chile,2004,4497.6,1000 ha
+991,Chile,2005,4488.0,1000 ha
+992,Chile,2006,4478.2,1000 ha
+993,Chile,2007,4468.4,1000 ha
+994,Chile,2008,4458.6,1000 ha
+995,Chile,2009,4448.8,1000 ha
+996,Chile,2010,4439.0,1000 ha
+997,Chile,2011,4622.2,1000 ha
+998,Chile,2012,4805.4,1000 ha
+999,Chile,2013,4988.6,1000 ha
+1000,China,1990,11646.2,1000 ha
+1001,China,1991,11644.82,1000 ha
+1002,China,1992,11643.44,1000 ha
+1003,China,1993,11642.06,1000 ha
+1004,China,1994,11640.68,1000 ha
+1005,China,1995,11639.3,1000 ha
+1006,China,1996,11637.92,1000 ha
+1007,China,1997,11636.54,1000 ha
+1008,China,1998,11635.16,1000 ha
+1009,China,1999,11633.78,1000 ha
+1010,China,2000,11632.4,1000 ha
+1011,China,2001,11632.4,1000 ha
+1012,China,2002,11632.4,1000 ha
+1013,China,2003,11632.4,1000 ha
+1014,China,2004,11632.4,1000 ha
+1015,China,2005,11632.4,1000 ha
+1016,China,2006,11632.4,1000 ha
+1017,China,2007,11632.4,1000 ha
+1018,China,2008,11632.4,1000 ha
+1019,China,2009,11632.4,1000 ha
+1020,China,2010,11632.4,1000 ha
+1021,China,2011,11632.4,1000 ha
+1022,China,2012,11632.4,1000 ha
+1023,China,2013,11632.4,1000 ha
+1024,"China, mainland",1990,11646.2,1000 ha
+1025,"China, mainland",1991,11644.82,1000 ha
+1026,"China, mainland",1992,11643.44,1000 ha
+1027,"China, mainland",1993,11642.06,1000 ha
+1028,"China, mainland",1994,11640.68,1000 ha
+1029,"China, mainland",1995,11639.3,1000 ha
+1030,"China, mainland",1996,11637.92,1000 ha
+1031,"China, mainland",1997,11636.54,1000 ha
+1032,"China, mainland",1998,11635.16,1000 ha
+1033,"China, mainland",1999,11633.78,1000 ha
+1034,"China, mainland",2000,11632.4,1000 ha
+1035,"China, mainland",2001,11632.4,1000 ha
+1036,"China, mainland",2002,11632.4,1000 ha
+1037,"China, mainland",2003,11632.4,1000 ha
+1038,"China, mainland",2004,11632.4,1000 ha
+1039,"China, mainland",2005,11632.4,1000 ha
+1040,"China, mainland",2006,11632.4,1000 ha
+1041,"China, mainland",2007,11632.4,1000 ha
+1042,"China, mainland",2008,11632.4,1000 ha
+1043,"China, mainland",2009,11632.4,1000 ha
+1044,"China, mainland",2010,11632.4,1000 ha
+1045,"China, mainland",2011,11632.4,1000 ha
+1046,"China, mainland",2012,11632.4,1000 ha
+1047,"China, mainland",2013,11632.4,1000 ha
+1048,Colombia,1990,0.0,1000 ha
+1049,Colombia,1991,0.0,1000 ha
+1050,Colombia,1992,0.0,1000 ha
+1051,Colombia,1993,0.0,1000 ha
+1052,Colombia,1994,0.0,1000 ha
+1053,Colombia,1995,0.0,1000 ha
+1054,Colombia,1996,0.0,1000 ha
+1055,Colombia,1997,0.0,1000 ha
+1056,Colombia,1998,0.0,1000 ha
+1057,Colombia,1999,0.0,1000 ha
+1058,Colombia,2000,0.0,1000 ha
+1059,Colombia,2001,0.0,1000 ha
+1060,Colombia,2002,0.0,1000 ha
+1061,Colombia,2003,0.0,1000 ha
+1062,Colombia,2004,0.0,1000 ha
+1063,Colombia,2005,0.0,1000 ha
+1064,Colombia,2006,0.0,1000 ha
+1065,Colombia,2007,0.0,1000 ha
+1066,Colombia,2008,0.0,1000 ha
+1067,Colombia,2009,0.0,1000 ha
+1068,Colombia,2010,0.0,1000 ha
+1069,Colombia,2011,0.0,1000 ha
+1070,Colombia,2012,0.0,1000 ha
+1071,Colombia,2013,0.0,1000 ha
+1072,Comoros,1990,8.0,1000 ha
+1073,Comoros,1991,8.0,1000 ha
+1074,Comoros,1992,8.0,1000 ha
+1075,Comoros,1993,8.0,1000 ha
+1076,Comoros,1994,8.0,1000 ha
+1077,Comoros,1995,8.0,1000 ha
+1078,Comoros,1996,8.0,1000 ha
+1079,Comoros,1997,8.0,1000 ha
+1080,Comoros,1998,8.0,1000 ha
+1081,Comoros,1999,8.0,1000 ha
+1082,Comoros,2000,8.0,1000 ha
+1083,Comoros,2001,8.0,1000 ha
+1084,Comoros,2002,8.0,1000 ha
+1085,Comoros,2003,8.0,1000 ha
+1086,Comoros,2004,8.0,1000 ha
+1087,Comoros,2005,8.0,1000 ha
+1088,Comoros,2006,8.0,1000 ha
+1089,Comoros,2007,8.0,1000 ha
+1090,Comoros,2008,8.0,1000 ha
+1091,Comoros,2009,8.0,1000 ha
+1092,Comoros,2010,8.0,1000 ha
+1093,Comoros,2011,8.0,1000 ha
+1094,Comoros,2012,8.0,1000 ha
+1095,Comoros,2013,8.0,1000 ha
+1096,Congo,1990,7548.0,1000 ha
+1097,Congo,1991,7542.4,1000 ha
+1098,Congo,1992,7536.8,1000 ha
+1099,Congo,1993,7531.2,1000 ha
+1100,Congo,1994,7525.6,1000 ha
+1101,Congo,1995,7520.0,1000 ha
+1102,Congo,1996,7514.4,1000 ha
+1103,Congo,1997,7508.8,1000 ha
+1104,Congo,1998,7503.2,1000 ha
+1105,Congo,1999,7497.6,1000 ha
+1106,Congo,2000,7492.0,1000 ha
+1107,Congo,2001,7486.4,1000 ha
+1108,Congo,2002,7480.8,1000 ha
+1109,Congo,2003,7475.2,1000 ha
+1110,Congo,2004,7469.6,1000 ha
+1111,Congo,2005,7464.0,1000 ha
+1112,Congo,2006,7458.4,1000 ha
+1113,Congo,2007,7452.8,1000 ha
+1114,Congo,2008,7447.2,1000 ha
+1115,Congo,2009,7441.6,1000 ha
+1116,Congo,2010,7436.0,1000 ha
+1117,Congo,2011,7430.2,1000 ha
+1118,Congo,2012,7424.4,1000 ha
+1119,Congo,2013,7418.6,1000 ha
+1120,Cook Islands,1990,0.0,1000 ha
+1121,Cook Islands,1991,0.0,1000 ha
+1122,Cook Islands,1992,0.0,1000 ha
+1123,Cook Islands,1993,0.0,1000 ha
+1124,Cook Islands,1994,0.0,1000 ha
+1125,Cook Islands,1995,0.0,1000 ha
+1126,Cook Islands,1996,0.0,1000 ha
+1127,Cook Islands,1997,0.0,1000 ha
+1128,Cook Islands,1998,0.0,1000 ha
+1129,Cook Islands,1999,0.0,1000 ha
+1130,Cook Islands,2000,0.0,1000 ha
+1131,Cook Islands,2001,0.0,1000 ha
+1132,Cook Islands,2002,0.0,1000 ha
+1133,Cook Islands,2003,0.0,1000 ha
+1134,Cook Islands,2004,0.0,1000 ha
+1135,Cook Islands,2005,0.0,1000 ha
+1136,Cook Islands,2006,0.0,1000 ha
+1137,Cook Islands,2007,0.0,1000 ha
+1138,Cook Islands,2008,0.0,1000 ha
+1139,Cook Islands,2009,0.0,1000 ha
+1140,Cook Islands,2010,0.0,1000 ha
+1141,Cook Islands,2011,0.0,1000 ha
+1142,Cook Islands,2012,0.0,1000 ha
+1143,Cook Islands,2013,0.0,1000 ha
+1144,Costa Rica,1990,1313.03,1000 ha
+1145,Costa Rica,1991,1243.952,1000 ha
+1146,Costa Rica,1992,1174.874,1000 ha
+1147,Costa Rica,1993,1105.796,1000 ha
+1148,Costa Rica,1994,1036.718,1000 ha
+1149,Costa Rica,1995,967.64,1000 ha
+1150,Costa Rica,1996,898.562,1000 ha
+1151,Costa Rica,1997,829.4839999999999,1000 ha
+1152,Costa Rica,1998,760.4060000000001,1000 ha
+1153,Costa Rica,1999,691.328,1000 ha
+1154,Costa Rica,2000,622.25,1000 ha
+1155,Costa Rica,2001,748.798,1000 ha
+1156,Costa Rica,2002,875.346,1000 ha
+1157,Costa Rica,2003,1001.8939999999999,1000 ha
+1158,Costa Rica,2004,1128.442,1000 ha
+1159,Costa Rica,2005,1254.99,1000 ha
+1160,Costa Rica,2006,1267.258,1000 ha
+1161,Costa Rica,2007,1279.526,1000 ha
+1162,Costa Rica,2008,1291.7939999999999,1000 ha
+1163,Costa Rica,2009,1304.062,1000 ha
+1164,Costa Rica,2010,1316.33,1000 ha
+1165,Costa Rica,2011,1415.944,1000 ha
+1166,Costa Rica,2012,1515.558,1000 ha
+1167,Costa Rica,2013,1615.172,1000 ha
+1168,Côte d'Ivoire,1990,625.0,1000 ha
+1169,Côte d'Ivoire,1991,625.0,1000 ha
+1170,Côte d'Ivoire,1992,625.0,1000 ha
+1171,Côte d'Ivoire,1993,625.0,1000 ha
+1172,Côte d'Ivoire,1994,625.0,1000 ha
+1173,Côte d'Ivoire,1995,625.0,1000 ha
+1174,Côte d'Ivoire,1996,625.0,1000 ha
+1175,Côte d'Ivoire,1997,625.0,1000 ha
+1176,Côte d'Ivoire,1998,625.0,1000 ha
+1177,Côte d'Ivoire,1999,625.0,1000 ha
+1178,Côte d'Ivoire,2000,625.0,1000 ha
+1179,Côte d'Ivoire,2001,625.0,1000 ha
+1180,Côte d'Ivoire,2002,625.0,1000 ha
+1181,Côte d'Ivoire,2003,625.0,1000 ha
+1182,Côte d'Ivoire,2004,625.0,1000 ha
+1183,Côte d'Ivoire,2005,625.0,1000 ha
+1184,Côte d'Ivoire,2006,625.0,1000 ha
+1185,Côte d'Ivoire,2007,625.0,1000 ha
+1186,Côte d'Ivoire,2008,625.0,1000 ha
+1187,Côte d'Ivoire,2009,625.0,1000 ha
+1188,Côte d'Ivoire,2010,625.0,1000 ha
+1189,Côte d'Ivoire,2011,625.0,1000 ha
+1190,Côte d'Ivoire,2012,625.0,1000 ha
+1191,Côte d'Ivoire,2013,625.0,1000 ha
+1192,Croatia,1992,7.0,1000 ha
+1193,Croatia,1993,7.0,1000 ha
+1194,Croatia,1994,7.0,1000 ha
+1195,Croatia,1995,7.0,1000 ha
+1196,Croatia,1996,7.0,1000 ha
+1197,Croatia,1997,7.0,1000 ha
+1198,Croatia,1998,7.0,1000 ha
+1199,Croatia,1999,7.0,1000 ha
+1200,Croatia,2000,7.0,1000 ha
+1201,Croatia,2001,7.0,1000 ha
+1202,Croatia,2002,7.0,1000 ha
+1203,Croatia,2003,7.0,1000 ha
+1204,Croatia,2004,7.0,1000 ha
+1205,Croatia,2005,7.0,1000 ha
+1206,Croatia,2006,7.0,1000 ha
+1207,Croatia,2007,7.0,1000 ha
+1208,Croatia,2008,7.0,1000 ha
+1209,Croatia,2009,7.0,1000 ha
+1210,Croatia,2010,7.0,1000 ha
+1211,Croatia,2011,7.0,1000 ha
+1212,Croatia,2012,7.0,1000 ha
+1213,Croatia,2013,7.0,1000 ha
+1214,Cuba,1990,0.0,1000 ha
+1215,Cuba,1991,0.0,1000 ha
+1216,Cuba,1992,0.0,1000 ha
+1217,Cuba,1993,0.0,1000 ha
+1218,Cuba,1994,0.0,1000 ha
+1219,Cuba,1995,0.0,1000 ha
+1220,Cuba,1996,0.0,1000 ha
+1221,Cuba,1997,0.0,1000 ha
+1222,Cuba,1998,0.0,1000 ha
+1223,Cuba,1999,0.0,1000 ha
+1224,Cuba,2000,0.0,1000 ha
+1225,Cuba,2001,0.0,1000 ha
+1226,Cuba,2002,0.0,1000 ha
+1227,Cuba,2003,0.0,1000 ha
+1228,Cuba,2004,0.0,1000 ha
+1229,Cuba,2005,0.0,1000 ha
+1230,Cuba,2006,0.0,1000 ha
+1231,Cuba,2007,0.0,1000 ha
+1232,Cuba,2008,0.0,1000 ha
+1233,Cuba,2009,0.0,1000 ha
+1234,Cuba,2010,0.0,1000 ha
+1235,Cuba,2011,0.0,1000 ha
+1236,Cuba,2012,0.0,1000 ha
+1237,Cuba,2013,0.0,1000 ha
+1238,Cyprus,1990,13.241,1000 ha
+1239,Cyprus,1991,13.241,1000 ha
+1240,Cyprus,1992,13.241,1000 ha
+1241,Cyprus,1993,13.241,1000 ha
+1242,Cyprus,1994,13.241,1000 ha
+1243,Cyprus,1995,13.241,1000 ha
+1244,Cyprus,1996,13.241,1000 ha
+1245,Cyprus,1997,13.241,1000 ha
+1246,Cyprus,1998,13.241,1000 ha
+1247,Cyprus,1999,13.241,1000 ha
+1248,Cyprus,2000,13.241,1000 ha
+1249,Cyprus,2001,13.241,1000 ha
+1250,Cyprus,2002,13.241,1000 ha
+1251,Cyprus,2003,13.241,1000 ha
+1252,Cyprus,2004,13.241,1000 ha
+1253,Cyprus,2005,13.241,1000 ha
+1254,Cyprus,2006,13.241,1000 ha
+1255,Cyprus,2007,13.241,1000 ha
+1256,Cyprus,2008,13.241,1000 ha
+1257,Cyprus,2009,13.241,1000 ha
+1258,Cyprus,2010,13.241,1000 ha
+1259,Cyprus,2011,13.241,1000 ha
+1260,Cyprus,2012,13.241,1000 ha
+1261,Cyprus,2013,13.241,1000 ha
+1262,Czechia,1993,9.0,1000 ha
+1263,Czechia,1994,9.0,1000 ha
+1264,Czechia,1995,9.0,1000 ha
+1265,Czechia,1996,9.0,1000 ha
+1266,Czechia,1997,9.0,1000 ha
+1267,Czechia,1998,9.0,1000 ha
+1268,Czechia,1999,9.0,1000 ha
+1269,Czechia,2000,9.0,1000 ha
+1270,Czechia,2001,9.0,1000 ha
+1271,Czechia,2002,9.0,1000 ha
+1272,Czechia,2003,9.0,1000 ha
+1273,Czechia,2004,9.0,1000 ha
+1274,Czechia,2005,9.0,1000 ha
+1275,Czechia,2006,9.2,1000 ha
+1276,Czechia,2007,9.4,1000 ha
+1277,Czechia,2008,9.6,1000 ha
+1278,Czechia,2009,9.8,1000 ha
+1279,Czechia,2010,10.0,1000 ha
+1280,Czechia,2011,10.0,1000 ha
+1281,Czechia,2012,10.0,1000 ha
+1282,Czechia,2013,10.0,1000 ha
+1283,Czechoslovakia,1990,33.0,1000 ha
+1284,Czechoslovakia,1991,33.0,1000 ha
+1285,Czechoslovakia,1992,33.0,1000 ha
+1286,Democratic People's Republic of Korea,1990,1129.0,1000 ha
+1287,Democratic People's Republic of Korea,1991,1111.5,1000 ha
+1288,Democratic People's Republic of Korea,1992,1094.0,1000 ha
+1289,Democratic People's Republic of Korea,1993,1076.5,1000 ha
+1290,Democratic People's Republic of Korea,1994,1059.0,1000 ha
+1291,Democratic People's Republic of Korea,1995,1041.5,1000 ha
+1292,Democratic People's Republic of Korea,1996,1024.0,1000 ha
+1293,Democratic People's Republic of Korea,1997,1006.5,1000 ha
+1294,Democratic People's Republic of Korea,1998,989.0,1000 ha
+1295,Democratic People's Republic of Korea,1999,971.5,1000 ha
+1296,Democratic People's Republic of Korea,2000,954.0,1000 ha
+1297,Democratic People's Republic of Korea,2001,936.6,1000 ha
+1298,Democratic People's Republic of Korea,2002,919.2,1000 ha
+1299,Democratic People's Republic of Korea,2003,901.8,1000 ha
+1300,Democratic People's Republic of Korea,2004,884.4,1000 ha
+1301,Democratic People's Republic of Korea,2005,867.0,1000 ha
+1302,Democratic People's Republic of Korea,2006,849.6,1000 ha
+1303,Democratic People's Republic of Korea,2007,832.2,1000 ha
+1304,Democratic People's Republic of Korea,2008,814.8,1000 ha
+1305,Democratic People's Republic of Korea,2009,797.4,1000 ha
+1306,Democratic People's Republic of Korea,2010,780.0,1000 ha
+1307,Democratic People's Republic of Korea,2011,764.2,1000 ha
+1308,Democratic People's Republic of Korea,2012,748.4,1000 ha
+1309,Democratic People's Republic of Korea,2013,732.6,1000 ha
+1310,Democratic Republic of the Congo,1990,105189.0,1000 ha
+1311,Democratic Republic of the Congo,1991,105115.6,1000 ha
+1312,Democratic Republic of the Congo,1992,105042.2,1000 ha
+1313,Democratic Republic of the Congo,1993,104968.8,1000 ha
+1314,Democratic Republic of the Congo,1994,104895.4,1000 ha
+1315,Democratic Republic of the Congo,1995,104822.0,1000 ha
+1316,Democratic Republic of the Congo,1996,104748.6,1000 ha
+1317,Democratic Republic of the Congo,1997,104675.2,1000 ha
+1318,Democratic Republic of the Congo,1998,104601.8,1000 ha
+1319,Democratic Republic of the Congo,1999,104528.4,1000 ha
+1320,Democratic Republic of the Congo,2000,104455.0,1000 ha
+1321,Democratic Republic of the Congo,2001,104381.6,1000 ha
+1322,Democratic Republic of the Congo,2002,104308.2,1000 ha
+1323,Democratic Republic of the Congo,2003,104234.8,1000 ha
+1324,Democratic Republic of the Congo,2004,104161.4,1000 ha
+1325,Democratic Republic of the Congo,2005,104088.0,1000 ha
+1326,Democratic Republic of the Congo,2006,103947.8,1000 ha
+1327,Democratic Republic of the Congo,2007,103807.6,1000 ha
+1328,Democratic Republic of the Congo,2008,103667.4,1000 ha
+1329,Democratic Republic of the Congo,2009,103527.2,1000 ha
+1330,Democratic Republic of the Congo,2010,103387.0,1000 ha
+1331,Democratic Republic of the Congo,2011,103246.8,1000 ha
+1332,Democratic Republic of the Congo,2012,103106.6,1000 ha
+1333,Democratic Republic of the Congo,2013,102966.4,1000 ha
+1334,Denmark,1990,30.0,1000 ha
+1335,Denmark,1991,30.2,1000 ha
+1336,Denmark,1992,30.4,1000 ha
+1337,Denmark,1993,30.6,1000 ha
+1338,Denmark,1994,30.8,1000 ha
+1339,Denmark,1995,31.0,1000 ha
+1340,Denmark,1996,31.2,1000 ha
+1341,Denmark,1997,31.4,1000 ha
+1342,Denmark,1998,31.6,1000 ha
+1343,Denmark,1999,31.8,1000 ha
+1344,Denmark,2000,32.0,1000 ha
+1345,Denmark,2001,31.8,1000 ha
+1346,Denmark,2002,31.6,1000 ha
+1347,Denmark,2003,31.4,1000 ha
+1348,Denmark,2004,31.2,1000 ha
+1349,Denmark,2005,31.0,1000 ha
+1350,Denmark,2006,31.2,1000 ha
+1351,Denmark,2007,31.4,1000 ha
+1352,Denmark,2008,31.6,1000 ha
+1353,Denmark,2009,31.8,1000 ha
+1354,Denmark,2010,32.0,1000 ha
+1355,Denmark,2011,32.4,1000 ha
+1356,Denmark,2012,32.8,1000 ha
+1357,Denmark,2013,33.2,1000 ha
+1358,Djibouti,1990,0.0,1000 ha
+1359,Djibouti,1991,0.0,1000 ha
+1360,Djibouti,1992,0.0,1000 ha
+1361,Djibouti,1993,0.0,1000 ha
+1362,Djibouti,1994,0.0,1000 ha
+1363,Djibouti,1995,0.0,1000 ha
+1364,Djibouti,1996,0.0,1000 ha
+1365,Djibouti,1997,0.0,1000 ha
+1366,Djibouti,1998,0.0,1000 ha
+1367,Djibouti,1999,0.0,1000 ha
+1368,Djibouti,2000,0.0,1000 ha
+1369,Djibouti,2001,0.0,1000 ha
+1370,Djibouti,2002,0.0,1000 ha
+1371,Djibouti,2003,0.0,1000 ha
+1372,Djibouti,2004,0.0,1000 ha
+1373,Djibouti,2005,0.0,1000 ha
+1374,Djibouti,2006,0.0,1000 ha
+1375,Djibouti,2007,0.0,1000 ha
+1376,Djibouti,2008,0.0,1000 ha
+1377,Djibouti,2009,0.0,1000 ha
+1378,Djibouti,2010,0.0,1000 ha
+1379,Djibouti,2011,0.0,1000 ha
+1380,Djibouti,2012,0.0,1000 ha
+1381,Djibouti,2013,0.0,1000 ha
+1382,Dominica,1990,28.42,1000 ha
+1383,Dominica,1991,28.335,1000 ha
+1384,Dominica,1992,28.25,1000 ha
+1385,Dominica,1993,28.165,1000 ha
+1386,Dominica,1994,28.08,1000 ha
+1387,Dominica,1995,27.995,1000 ha
+1388,Dominica,1996,27.91,1000 ha
+1389,Dominica,1997,27.825,1000 ha
+1390,Dominica,1998,27.74,1000 ha
+1391,Dominica,1999,27.655,1000 ha
+1392,Dominica,2000,27.57,1000 ha
+1393,Dominica,2001,27.484,1000 ha
+1394,Dominica,2002,27.398000000000003,1000 ha
+1395,Dominica,2003,27.311999999999998,1000 ha
+1396,Dominica,2004,27.226,1000 ha
+1397,Dominica,2005,27.14,1000 ha
+1398,Dominica,2006,27.055999999999997,1000 ha
+1399,Dominica,2007,26.971999999999998,1000 ha
+1400,Dominica,2008,26.888,1000 ha
+1401,Dominica,2009,26.804000000000002,1000 ha
+1402,Dominica,2010,26.72,1000 ha
+1403,Dominica,2011,26.636,1000 ha
+1404,Dominica,2012,26.552,1000 ha
+1405,Dominica,2013,26.468000000000004,1000 ha
+1406,Dominican Republic,1990,0.0,1000 ha
+1407,Dominican Republic,1991,0.0,1000 ha
+1408,Dominican Republic,1992,0.0,1000 ha
+1409,Dominican Republic,1993,0.0,1000 ha
+1410,Dominican Republic,1994,0.0,1000 ha
+1411,Dominican Republic,1995,0.0,1000 ha
+1412,Dominican Republic,1996,0.0,1000 ha
+1413,Dominican Republic,1997,0.0,1000 ha
+1414,Dominican Republic,1998,0.0,1000 ha
+1415,Dominican Republic,1999,0.0,1000 ha
+1416,Dominican Republic,2000,0.0,1000 ha
+1417,Dominican Republic,2001,0.0,1000 ha
+1418,Dominican Republic,2002,0.0,1000 ha
+1419,Dominican Republic,2003,0.0,1000 ha
+1420,Dominican Republic,2004,0.0,1000 ha
+1421,Dominican Republic,2005,0.0,1000 ha
+1422,Dominican Republic,2006,0.0,1000 ha
+1423,Dominican Republic,2007,0.0,1000 ha
+1424,Dominican Republic,2008,0.0,1000 ha
+1425,Dominican Republic,2009,0.0,1000 ha
+1426,Dominican Republic,2010,0.0,1000 ha
+1427,Dominican Republic,2011,0.0,1000 ha
+1428,Dominican Republic,2012,0.0,1000 ha
+1429,Dominican Republic,2013,0.0,1000 ha
+1430,Ecuador,1990,14586.403999999999,1000 ha
+1431,Ecuador,1991,14489.9274,1000 ha
+1432,Ecuador,1992,14393.4508,1000 ha
+1433,Ecuador,1993,14296.9742,1000 ha
+1434,Ecuador,1994,14200.4976,1000 ha
+1435,Ecuador,1995,14104.021,1000 ha
+1436,Ecuador,1996,14007.5444,1000 ha
+1437,Ecuador,1997,13911.0678,1000 ha
+1438,Ecuador,1998,13814.5912,1000 ha
+1439,Ecuador,1999,13718.1146,1000 ha
+1440,Ecuador,2000,13621.638,1000 ha
+1441,Ecuador,2001,13544.6822,1000 ha
+1442,Ecuador,2002,13467.7264,1000 ha
+1443,Ecuador,2003,13390.7706,1000 ha
+1444,Ecuador,2004,13313.8148,1000 ha
+1445,Ecuador,2005,13236.858999999999,1000 ha
+1446,Ecuador,2006,13159.903,1000 ha
+1447,Ecuador,2007,13082.947,1000 ha
+1448,Ecuador,2008,13005.991000000002,1000 ha
+1449,Ecuador,2009,12929.035,1000 ha
+1450,Ecuador,2010,12852.079,1000 ha
+1451,Ecuador,2011,12775.123,1000 ha
+1452,Ecuador,2012,12698.167,1000 ha
+1453,Ecuador,2013,12621.211000000001,1000 ha
+1454,Egypt,1990,0.0,1000 ha
+1455,Egypt,1991,0.0,1000 ha
+1456,Egypt,1992,0.0,1000 ha
+1457,Egypt,1993,0.0,1000 ha
+1458,Egypt,1994,0.0,1000 ha
+1459,Egypt,1995,0.0,1000 ha
+1460,Egypt,1996,0.0,1000 ha
+1461,Egypt,1997,0.0,1000 ha
+1462,Egypt,1998,0.0,1000 ha
+1463,Egypt,1999,0.0,1000 ha
+1464,Egypt,2000,0.0,1000 ha
+1465,Egypt,2001,0.0,1000 ha
+1466,Egypt,2002,0.0,1000 ha
+1467,Egypt,2003,0.0,1000 ha
+1468,Egypt,2004,0.0,1000 ha
+1469,Egypt,2005,0.0,1000 ha
+1470,Egypt,2006,0.0,1000 ha
+1471,Egypt,2007,0.0,1000 ha
+1472,Egypt,2008,0.0,1000 ha
+1473,Egypt,2009,0.0,1000 ha
+1474,Egypt,2010,0.0,1000 ha
+1475,Egypt,2011,0.0,1000 ha
+1476,Egypt,2012,0.0,1000 ha
+1477,Egypt,2013,0.0,1000 ha
+1478,El Salvador,1990,4.8,1000 ha
+1479,El Salvador,1991,4.8,1000 ha
+1480,El Salvador,1992,4.8,1000 ha
+1481,El Salvador,1993,4.8,1000 ha
+1482,El Salvador,1994,4.8,1000 ha
+1483,El Salvador,1995,4.8,1000 ha
+1484,El Salvador,1996,4.8,1000 ha
+1485,El Salvador,1997,4.8,1000 ha
+1486,El Salvador,1998,4.8,1000 ha
+1487,El Salvador,1999,4.8,1000 ha
+1488,El Salvador,2000,4.8,1000 ha
+1489,El Salvador,2001,4.8,1000 ha
+1490,El Salvador,2002,4.8,1000 ha
+1491,El Salvador,2003,4.8,1000 ha
+1492,El Salvador,2004,4.8,1000 ha
+1493,El Salvador,2005,4.8,1000 ha
+1494,El Salvador,2006,4.8,1000 ha
+1495,El Salvador,2007,4.8,1000 ha
+1496,El Salvador,2008,4.8,1000 ha
+1497,El Salvador,2009,4.8,1000 ha
+1498,El Salvador,2010,4.8,1000 ha
+1499,El Salvador,2011,4.8,1000 ha
+1500,El Salvador,2012,4.8,1000 ha
+1501,El Salvador,2013,4.8,1000 ha
+1502,Equatorial Guinea,1990,0.0,1000 ha
+1503,Equatorial Guinea,1991,0.0,1000 ha
+1504,Equatorial Guinea,1992,0.0,1000 ha
+1505,Equatorial Guinea,1993,0.0,1000 ha
+1506,Equatorial Guinea,1994,0.0,1000 ha
+1507,Equatorial Guinea,1995,0.0,1000 ha
+1508,Equatorial Guinea,1996,0.0,1000 ha
+1509,Equatorial Guinea,1997,0.0,1000 ha
+1510,Equatorial Guinea,1998,0.0,1000 ha
+1511,Equatorial Guinea,1999,0.0,1000 ha
+1512,Equatorial Guinea,2000,0.0,1000 ha
+1513,Equatorial Guinea,2001,0.0,1000 ha
+1514,Equatorial Guinea,2002,0.0,1000 ha
+1515,Equatorial Guinea,2003,0.0,1000 ha
+1516,Equatorial Guinea,2004,0.0,1000 ha
+1517,Equatorial Guinea,2005,0.0,1000 ha
+1518,Equatorial Guinea,2006,0.0,1000 ha
+1519,Equatorial Guinea,2007,0.0,1000 ha
+1520,Equatorial Guinea,2008,0.0,1000 ha
+1521,Equatorial Guinea,2009,0.0,1000 ha
+1522,Equatorial Guinea,2010,0.0,1000 ha
+1523,Equatorial Guinea,2011,0.0,1000 ha
+1524,Equatorial Guinea,2012,0.0,1000 ha
+1525,Equatorial Guinea,2013,0.0,1000 ha
+1526,Eritrea,1993,0.0,1000 ha
+1527,Eritrea,1994,0.0,1000 ha
+1528,Eritrea,1995,0.0,1000 ha
+1529,Eritrea,1996,0.0,1000 ha
+1530,Eritrea,1997,0.0,1000 ha
+1531,Eritrea,1998,0.0,1000 ha
+1532,Eritrea,1999,0.0,1000 ha
+1533,Eritrea,2000,0.0,1000 ha
+1534,Eritrea,2001,0.0,1000 ha
+1535,Eritrea,2002,0.0,1000 ha
+1536,Eritrea,2003,0.0,1000 ha
+1537,Eritrea,2004,0.0,1000 ha
+1538,Eritrea,2005,0.0,1000 ha
+1539,Eritrea,2006,0.0,1000 ha
+1540,Eritrea,2007,0.0,1000 ha
+1541,Eritrea,2008,0.0,1000 ha
+1542,Eritrea,2009,0.0,1000 ha
+1543,Eritrea,2010,0.0,1000 ha
+1544,Eritrea,2011,0.0,1000 ha
+1545,Eritrea,2012,0.0,1000 ha
+1546,Eritrea,2013,0.0,1000 ha
+1547,Estonia,1992,41.6,1000 ha
+1548,Estonia,1993,42.4,1000 ha
+1549,Estonia,1994,43.2,1000 ha
+1550,Estonia,1995,44.0,1000 ha
+1551,Estonia,1996,44.8,1000 ha
+1552,Estonia,1997,45.6,1000 ha
+1553,Estonia,1998,46.4,1000 ha
+1554,Estonia,1999,47.2,1000 ha
+1555,Estonia,2000,48.0,1000 ha
+1556,Estonia,2001,48.8,1000 ha
+1557,Estonia,2002,49.6,1000 ha
+1558,Estonia,2003,50.4,1000 ha
+1559,Estonia,2004,51.2,1000 ha
+1560,Estonia,2005,52.0,1000 ha
+1561,Estonia,2006,52.6,1000 ha
+1562,Estonia,2007,53.2,1000 ha
+1563,Estonia,2008,53.8,1000 ha
+1564,Estonia,2009,54.4,1000 ha
+1565,Estonia,2010,55.0,1000 ha
+1566,Estonia,2011,55.6,1000 ha
+1567,Estonia,2012,56.2,1000 ha
+1568,Estonia,2013,56.8,1000 ha
+1569,Eswatini,1990,0.0,1000 ha
+1570,Eswatini,1991,0.0,1000 ha
+1571,Eswatini,1992,0.0,1000 ha
+1572,Eswatini,1993,0.0,1000 ha
+1573,Eswatini,1994,0.0,1000 ha
+1574,Eswatini,1995,0.0,1000 ha
+1575,Eswatini,1996,0.0,1000 ha
+1576,Eswatini,1997,0.0,1000 ha
+1577,Eswatini,1998,0.0,1000 ha
+1578,Eswatini,1999,0.0,1000 ha
+1579,Eswatini,2000,0.0,1000 ha
+1580,Eswatini,2001,0.0,1000 ha
+1581,Eswatini,2002,0.0,1000 ha
+1582,Eswatini,2003,0.0,1000 ha
+1583,Eswatini,2004,0.0,1000 ha
+1584,Eswatini,2005,0.0,1000 ha
+1585,Eswatini,2006,0.0,1000 ha
+1586,Eswatini,2007,0.0,1000 ha
+1587,Eswatini,2008,0.0,1000 ha
+1588,Eswatini,2009,0.0,1000 ha
+1589,Eswatini,2010,0.0,1000 ha
+1590,Eswatini,2011,0.0,1000 ha
+1591,Eswatini,2012,0.0,1000 ha
+1592,Eswatini,2013,0.0,1000 ha
+1593,Ethiopia,1993,0.0,1000 ha
+1594,Ethiopia,1994,0.0,1000 ha
+1595,Ethiopia,1995,0.0,1000 ha
+1596,Ethiopia,1996,0.0,1000 ha
+1597,Ethiopia,1997,0.0,1000 ha
+1598,Ethiopia,1998,0.0,1000 ha
+1599,Ethiopia,1999,0.0,1000 ha
+1600,Ethiopia,2000,0.0,1000 ha
+1601,Ethiopia,2001,0.0,1000 ha
+1602,Ethiopia,2002,0.0,1000 ha
+1603,Ethiopia,2003,0.0,1000 ha
+1604,Ethiopia,2004,0.0,1000 ha
+1605,Ethiopia,2005,0.0,1000 ha
+1606,Ethiopia,2006,0.0,1000 ha
+1607,Ethiopia,2007,0.0,1000 ha
+1608,Ethiopia,2008,0.0,1000 ha
+1609,Ethiopia,2009,0.0,1000 ha
+1610,Ethiopia,2010,0.0,1000 ha
+1611,Ethiopia,2011,0.0,1000 ha
+1612,Ethiopia,2012,0.0,1000 ha
+1613,Ethiopia,2013,0.0,1000 ha
+1614,Ethiopia PDR,1990,0.0,1000 ha
+1615,Ethiopia PDR,1991,0.0,1000 ha
+1616,Ethiopia PDR,1992,0.0,1000 ha
+1617,Falkland Islands (Malvinas),1990,0.0,1000 ha
+1618,Falkland Islands (Malvinas),1991,0.0,1000 ha
+1619,Falkland Islands (Malvinas),1992,0.0,1000 ha
+1620,Falkland Islands (Malvinas),1993,0.0,1000 ha
+1621,Falkland Islands (Malvinas),1994,0.0,1000 ha
+1622,Falkland Islands (Malvinas),1995,0.0,1000 ha
+1623,Falkland Islands (Malvinas),1996,0.0,1000 ha
+1624,Falkland Islands (Malvinas),1997,0.0,1000 ha
+1625,Falkland Islands (Malvinas),1998,0.0,1000 ha
+1626,Falkland Islands (Malvinas),1999,0.0,1000 ha
+1627,Falkland Islands (Malvinas),2000,0.0,1000 ha
+1628,Falkland Islands (Malvinas),2001,0.0,1000 ha
+1629,Falkland Islands (Malvinas),2002,0.0,1000 ha
+1630,Falkland Islands (Malvinas),2003,0.0,1000 ha
+1631,Falkland Islands (Malvinas),2004,0.0,1000 ha
+1632,Falkland Islands (Malvinas),2005,0.0,1000 ha
+1633,Falkland Islands (Malvinas),2006,0.0,1000 ha
+1634,Falkland Islands (Malvinas),2007,0.0,1000 ha
+1635,Falkland Islands (Malvinas),2008,0.0,1000 ha
+1636,Falkland Islands (Malvinas),2009,0.0,1000 ha
+1637,Falkland Islands (Malvinas),2010,0.0,1000 ha
+1638,Falkland Islands (Malvinas),2011,0.0,1000 ha
+1639,Falkland Islands (Malvinas),2012,0.0,1000 ha
+1640,Falkland Islands (Malvinas),2013,0.0,1000 ha
+1641,Faroe Islands,1990,0.0,1000 ha
+1642,Faroe Islands,1991,0.0,1000 ha
+1643,Faroe Islands,1992,0.0,1000 ha
+1644,Faroe Islands,1993,0.0,1000 ha
+1645,Faroe Islands,1994,0.0,1000 ha
+1646,Faroe Islands,1995,0.0,1000 ha
+1647,Faroe Islands,1996,0.0,1000 ha
+1648,Faroe Islands,1997,0.0,1000 ha
+1649,Faroe Islands,1998,0.0,1000 ha
+1650,Faroe Islands,1999,0.0,1000 ha
+1651,Faroe Islands,2000,0.0,1000 ha
+1652,Faroe Islands,2001,0.0,1000 ha
+1653,Faroe Islands,2002,0.0,1000 ha
+1654,Faroe Islands,2003,0.0,1000 ha
+1655,Faroe Islands,2004,0.0,1000 ha
+1656,Faroe Islands,2005,0.0,1000 ha
+1657,Faroe Islands,2006,0.0,1000 ha
+1658,Faroe Islands,2007,0.0,1000 ha
+1659,Faroe Islands,2008,0.0,1000 ha
+1660,Faroe Islands,2009,0.0,1000 ha
+1661,Faroe Islands,2010,0.0,1000 ha
+1662,Faroe Islands,2011,0.0,1000 ha
+1663,Faroe Islands,2012,0.0,1000 ha
+1664,Faroe Islands,2013,0.0,1000 ha
+1665,Fiji,1990,489.51300000000003,1000 ha
+1666,Fiji,1991,485.0979,1000 ha
+1667,Fiji,1992,480.6828,1000 ha
+1668,Fiji,1993,476.2677,1000 ha
+1669,Fiji,1994,471.8526,1000 ha
+1670,Fiji,1995,467.4375,1000 ha
+1671,Fiji,1996,463.0224,1000 ha
+1672,Fiji,1997,458.6073,1000 ha
+1673,Fiji,1998,454.1922,1000 ha
+1674,Fiji,1999,449.7771,1000 ha
+1675,Fiji,2000,445.36199999999997,1000 ha
+1676,Fiji,2001,445.97,1000 ha
+1677,Fiji,2002,446.57800000000003,1000 ha
+1678,Fiji,2003,447.186,1000 ha
+1679,Fiji,2004,447.79400000000004,1000 ha
+1680,Fiji,2005,448.402,1000 ha
+1681,Fiji,2006,442.7554,1000 ha
+1682,Fiji,2007,437.1088,1000 ha
+1683,Fiji,2008,431.4622,1000 ha
+1684,Fiji,2009,425.8156,1000 ha
+1685,Fiji,2010,420.16900000000004,1000 ha
+1686,Fiji,2011,418.4176,1000 ha
+1687,Fiji,2012,416.6662,1000 ha
+1688,Fiji,2013,414.9148,1000 ha
+1689,Finland,1990,230.207,1000 ha
+1690,Finland,1991,230.207,1000 ha
+1691,Finland,1992,230.207,1000 ha
+1692,Finland,1993,230.207,1000 ha
+1693,Finland,1994,230.207,1000 ha
+1694,Finland,1995,230.207,1000 ha
+1695,Finland,1996,230.207,1000 ha
+1696,Finland,1997,230.207,1000 ha
+1697,Finland,1998,230.207,1000 ha
+1698,Finland,1999,230.207,1000 ha
+1699,Finland,2000,230.207,1000 ha
+1700,Finland,2001,230.207,1000 ha
+1701,Finland,2002,230.207,1000 ha
+1702,Finland,2003,230.207,1000 ha
+1703,Finland,2004,230.207,1000 ha
+1704,Finland,2005,230.207,1000 ha
+1705,Finland,2006,230.207,1000 ha
+1706,Finland,2007,230.207,1000 ha
+1707,Finland,2008,230.207,1000 ha
+1708,Finland,2009,230.207,1000 ha
+1709,Finland,2010,230.207,1000 ha
+1710,Finland,2011,230.207,1000 ha
+1711,Finland,2012,230.207,1000 ha
+1712,Finland,2013,230.207,1000 ha
+1713,France,1990,0.0,1000 ha
+1714,France,1991,0.0,1000 ha
+1715,France,1992,0.0,1000 ha
+1716,France,1993,0.0,1000 ha
+1717,France,1994,0.0,1000 ha
+1718,France,1995,0.0,1000 ha
+1719,France,1996,0.0,1000 ha
+1720,France,1997,0.0,1000 ha
+1721,France,1998,0.0,1000 ha
+1722,France,1999,0.0,1000 ha
+1723,France,2000,0.0,1000 ha
+1724,France,2001,0.0,1000 ha
+1725,France,2002,0.0,1000 ha
+1726,France,2003,0.0,1000 ha
+1727,France,2004,0.0,1000 ha
+1728,France,2005,0.0,1000 ha
+1729,France,2006,0.0,1000 ha
+1730,France,2007,0.0,1000 ha
+1731,France,2008,0.0,1000 ha
+1732,France,2009,0.0,1000 ha
+1733,France,2010,0.0,1000 ha
+1734,France,2011,0.0,1000 ha
+1735,France,2012,0.0,1000 ha
+1736,France,2013,0.0,1000 ha
+1737,French Guiana,1990,8147.3,1000 ha
+1738,French Guiana,1991,8135.1,1000 ha
+1739,French Guiana,1992,8122.9,1000 ha
+1740,French Guiana,1993,8110.7,1000 ha
+1741,French Guiana,1994,8098.5,1000 ha
+1742,French Guiana,1995,8086.3,1000 ha
+1743,French Guiana,1996,8074.1,1000 ha
+1744,French Guiana,1997,8061.9,1000 ha
+1745,French Guiana,1998,8049.7,1000 ha
+1746,French Guiana,1999,8037.5,1000 ha
+1747,French Guiana,2000,8025.3,1000 ha
+1748,French Guiana,2001,8013.1,1000 ha
+1749,French Guiana,2002,8000.9,1000 ha
+1750,French Guiana,2003,7988.7,1000 ha
+1751,French Guiana,2004,7976.5,1000 ha
+1752,French Guiana,2005,7964.3,1000 ha
+1753,French Guiana,2006,7937.7,1000 ha
+1754,French Guiana,2007,7911.1,1000 ha
+1755,French Guiana,2008,7884.5,1000 ha
+1756,French Guiana,2009,7857.9,1000 ha
+1757,French Guiana,2010,7831.3,1000 ha
+1758,French Guiana,2011,7827.6,1000 ha
+1759,French Guiana,2012,7823.9,1000 ha
+1760,French Guiana,2013,7820.2,1000 ha
+1761,French Polynesia,1990,40.0,1000 ha
+1762,French Polynesia,1991,40.0,1000 ha
+1763,French Polynesia,1992,40.0,1000 ha
+1764,French Polynesia,1993,40.0,1000 ha
+1765,French Polynesia,1994,40.0,1000 ha
+1766,French Polynesia,1995,40.0,1000 ha
+1767,French Polynesia,1996,40.0,1000 ha
+1768,French Polynesia,1997,40.0,1000 ha
+1769,French Polynesia,1998,40.0,1000 ha
+1770,French Polynesia,1999,40.0,1000 ha
+1771,French Polynesia,2000,40.0,1000 ha
+1772,French Polynesia,2001,40.0,1000 ha
+1773,French Polynesia,2002,40.0,1000 ha
+1774,French Polynesia,2003,40.0,1000 ha
+1775,French Polynesia,2004,40.0,1000 ha
+1776,French Polynesia,2005,40.0,1000 ha
+1777,French Polynesia,2006,40.0,1000 ha
+1778,French Polynesia,2007,40.0,1000 ha
+1779,French Polynesia,2008,40.0,1000 ha
+1780,French Polynesia,2009,40.0,1000 ha
+1781,French Polynesia,2010,40.0,1000 ha
+1782,French Polynesia,2011,40.0,1000 ha
+1783,French Polynesia,2012,40.0,1000 ha
+1784,French Polynesia,2013,40.0,1000 ha
+1785,Gabon,1990,20934.0,1000 ha
+1786,Gabon,1991,20604.0,1000 ha
+1787,Gabon,1992,20274.0,1000 ha
+1788,Gabon,1993,19944.0,1000 ha
+1789,Gabon,1994,19614.0,1000 ha
+1790,Gabon,1995,19284.0,1000 ha
+1791,Gabon,1996,18954.0,1000 ha
+1792,Gabon,1997,18624.0,1000 ha
+1793,Gabon,1998,18294.0,1000 ha
+1794,Gabon,1999,17964.0,1000 ha
+1795,Gabon,2000,17634.0,1000 ha
+1796,Gabon,2001,17304.0,1000 ha
+1797,Gabon,2002,16974.0,1000 ha
+1798,Gabon,2003,16644.0,1000 ha
+1799,Gabon,2004,16314.0,1000 ha
+1800,Gabon,2005,15984.0,1000 ha
+1801,Gabon,2006,15654.0,1000 ha
+1802,Gabon,2007,15324.0,1000 ha
+1803,Gabon,2008,14994.0,1000 ha
+1804,Gabon,2009,14664.0,1000 ha
+1805,Gabon,2010,14334.0,1000 ha
+1806,Gabon,2011,14028.0,1000 ha
+1807,Gabon,2012,13722.0,1000 ha
+1808,Gabon,2013,13416.0,1000 ha
+1809,Gambia,1990,1.2,1000 ha
+1810,Gambia,1991,1.2,1000 ha
+1811,Gambia,1992,1.2,1000 ha
+1812,Gambia,1993,1.2,1000 ha
+1813,Gambia,1994,1.2,1000 ha
+1814,Gambia,1995,1.2,1000 ha
+1815,Gambia,1996,1.2,1000 ha
+1816,Gambia,1997,1.2,1000 ha
+1817,Gambia,1998,1.2,1000 ha
+1818,Gambia,1999,1.2,1000 ha
+1819,Gambia,2000,1.2,1000 ha
+1820,Gambia,2001,1.16,1000 ha
+1821,Gambia,2002,1.12,1000 ha
+1822,Gambia,2003,1.08,1000 ha
+1823,Gambia,2004,1.04,1000 ha
+1824,Gambia,2005,1.0,1000 ha
+1825,Gambia,2006,0.96,1000 ha
+1826,Gambia,2007,0.92,1000 ha
+1827,Gambia,2008,0.88,1000 ha
+1828,Gambia,2009,0.84,1000 ha
+1829,Gambia,2010,0.8,1000 ha
+1830,Gambia,2011,0.8,1000 ha
+1831,Gambia,2012,0.8,1000 ha
+1832,Gambia,2013,0.8,1000 ha
+1833,Georgia,1992,500.0,1000 ha
+1834,Georgia,1993,500.0,1000 ha
+1835,Georgia,1994,500.0,1000 ha
+1836,Georgia,1995,500.0,1000 ha
+1837,Georgia,1996,500.0,1000 ha
+1838,Georgia,1997,500.0,1000 ha
+1839,Georgia,1998,500.0,1000 ha
+1840,Georgia,1999,500.0,1000 ha
+1841,Georgia,2000,500.0,1000 ha
+1842,Georgia,2001,500.0,1000 ha
+1843,Georgia,2002,500.0,1000 ha
+1844,Georgia,2003,500.0,1000 ha
+1845,Georgia,2004,500.0,1000 ha
+1846,Georgia,2005,500.0,1000 ha
+1847,Georgia,2006,500.0,1000 ha
+1848,Georgia,2007,500.0,1000 ha
+1849,Georgia,2008,500.0,1000 ha
+1850,Georgia,2009,500.0,1000 ha
+1851,Georgia,2010,500.0,1000 ha
+1852,Georgia,2011,500.0,1000 ha
+1853,Georgia,2012,500.0,1000 ha
+1854,Georgia,2013,500.0,1000 ha
+1855,Germany,1990,0.0,1000 ha
+1856,Germany,1991,0.0,1000 ha
+1857,Germany,1992,0.0,1000 ha
+1858,Germany,1993,0.0,1000 ha
+1859,Germany,1994,0.0,1000 ha
+1860,Germany,1995,0.0,1000 ha
+1861,Germany,1996,0.0,1000 ha
+1862,Germany,1997,0.0,1000 ha
+1863,Germany,1998,0.0,1000 ha
+1864,Germany,1999,0.0,1000 ha
+1865,Germany,2000,0.0,1000 ha
+1866,Germany,2001,0.0,1000 ha
+1867,Germany,2002,0.0,1000 ha
+1868,Germany,2003,0.0,1000 ha
+1869,Germany,2004,0.0,1000 ha
+1870,Germany,2005,0.0,1000 ha
+1871,Germany,2006,0.0,1000 ha
+1872,Germany,2007,0.0,1000 ha
+1873,Germany,2008,0.0,1000 ha
+1874,Germany,2009,0.0,1000 ha
+1875,Germany,2010,0.0,1000 ha
+1876,Germany,2011,0.0,1000 ha
+1877,Germany,2012,0.0,1000 ha
+1878,Germany,2013,0.0,1000 ha
+1879,Ghana,1990,395.0,1000 ha
+1880,Ghana,1991,395.0,1000 ha
+1881,Ghana,1992,395.0,1000 ha
+1882,Ghana,1993,395.0,1000 ha
+1883,Ghana,1994,395.0,1000 ha
+1884,Ghana,1995,395.0,1000 ha
+1885,Ghana,1996,395.0,1000 ha
+1886,Ghana,1997,395.0,1000 ha
+1887,Ghana,1998,395.0,1000 ha
+1888,Ghana,1999,395.0,1000 ha
+1889,Ghana,2000,395.0,1000 ha
+1890,Ghana,2001,395.0,1000 ha
+1891,Ghana,2002,395.0,1000 ha
+1892,Ghana,2003,395.0,1000 ha
+1893,Ghana,2004,395.0,1000 ha
+1894,Ghana,2005,395.0,1000 ha
+1895,Ghana,2006,395.0,1000 ha
+1896,Ghana,2007,395.0,1000 ha
+1897,Ghana,2008,395.0,1000 ha
+1898,Ghana,2009,395.0,1000 ha
+1899,Ghana,2010,395.0,1000 ha
+1900,Ghana,2011,395.0,1000 ha
+1901,Ghana,2012,395.0,1000 ha
+1902,Ghana,2013,395.0,1000 ha
+1903,Gibraltar,1990,0.0,1000 ha
+1904,Gibraltar,1991,0.0,1000 ha
+1905,Gibraltar,1992,0.0,1000 ha
+1906,Gibraltar,1993,0.0,1000 ha
+1907,Gibraltar,1994,0.0,1000 ha
+1908,Gibraltar,1995,0.0,1000 ha
+1909,Gibraltar,1996,0.0,1000 ha
+1910,Gibraltar,1997,0.0,1000 ha
+1911,Gibraltar,1998,0.0,1000 ha
+1912,Gibraltar,1999,0.0,1000 ha
+1913,Gibraltar,2000,0.0,1000 ha
+1914,Gibraltar,2001,0.0,1000 ha
+1915,Gibraltar,2002,0.0,1000 ha
+1916,Gibraltar,2003,0.0,1000 ha
+1917,Gibraltar,2004,0.0,1000 ha
+1918,Gibraltar,2005,0.0,1000 ha
+1919,Gibraltar,2006,0.0,1000 ha
+1920,Gibraltar,2007,0.0,1000 ha
+1921,Gibraltar,2008,0.0,1000 ha
+1922,Gibraltar,2009,0.0,1000 ha
+1923,Gibraltar,2010,0.0,1000 ha
+1924,Gibraltar,2011,0.0,1000 ha
+1925,Gibraltar,2012,0.0,1000 ha
+1926,Gibraltar,2013,0.0,1000 ha
+1927,Greece,1990,0.0,1000 ha
+1928,Greece,1991,0.0,1000 ha
+1929,Greece,1992,0.0,1000 ha
+1930,Greece,1993,0.0,1000 ha
+1931,Greece,1994,0.0,1000 ha
+1932,Greece,1995,0.0,1000 ha
+1933,Greece,1996,0.0,1000 ha
+1934,Greece,1997,0.0,1000 ha
+1935,Greece,1998,0.0,1000 ha
+1936,Greece,1999,0.0,1000 ha
+1937,Greece,2000,0.0,1000 ha
+1938,Greece,2001,0.0,1000 ha
+1939,Greece,2002,0.0,1000 ha
+1940,Greece,2003,0.0,1000 ha
+1941,Greece,2004,0.0,1000 ha
+1942,Greece,2005,0.0,1000 ha
+1943,Greece,2006,0.0,1000 ha
+1944,Greece,2007,0.0,1000 ha
+1945,Greece,2008,0.0,1000 ha
+1946,Greece,2009,0.0,1000 ha
+1947,Greece,2010,0.0,1000 ha
+1948,Greece,2011,0.0,1000 ha
+1949,Greece,2012,0.0,1000 ha
+1950,Greece,2013,0.0,1000 ha
+1951,Greenland,1990,0.0,1000 ha
+1952,Greenland,1991,0.0,1000 ha
+1953,Greenland,1992,0.0,1000 ha
+1954,Greenland,1993,0.0,1000 ha
+1955,Greenland,1994,0.0,1000 ha
+1956,Greenland,1995,0.0,1000 ha
+1957,Greenland,1996,0.0,1000 ha
+1958,Greenland,1997,0.0,1000 ha
+1959,Greenland,1998,0.0,1000 ha
+1960,Greenland,1999,0.0,1000 ha
+1961,Greenland,2000,0.0,1000 ha
+1962,Greenland,2001,0.0,1000 ha
+1963,Greenland,2002,0.0,1000 ha
+1964,Greenland,2003,0.0,1000 ha
+1965,Greenland,2004,0.0,1000 ha
+1966,Greenland,2005,0.0,1000 ha
+1967,Greenland,2006,0.0,1000 ha
+1968,Greenland,2007,0.0,1000 ha
+1969,Greenland,2008,0.0,1000 ha
+1970,Greenland,2009,0.0,1000 ha
+1971,Greenland,2010,0.0,1000 ha
+1972,Greenland,2011,0.0,1000 ha
+1973,Greenland,2012,0.0,1000 ha
+1974,Greenland,2013,0.0,1000 ha
+1975,Grenada,1990,2.32,1000 ha
+1976,Grenada,1991,2.32,1000 ha
+1977,Grenada,1992,2.32,1000 ha
+1978,Grenada,1993,2.32,1000 ha
+1979,Grenada,1994,2.32,1000 ha
+1980,Grenada,1995,2.32,1000 ha
+1981,Grenada,1996,2.32,1000 ha
+1982,Grenada,1997,2.32,1000 ha
+1983,Grenada,1998,2.32,1000 ha
+1984,Grenada,1999,2.32,1000 ha
+1985,Grenada,2000,2.32,1000 ha
+1986,Grenada,2001,2.32,1000 ha
+1987,Grenada,2002,2.32,1000 ha
+1988,Grenada,2003,2.32,1000 ha
+1989,Grenada,2004,2.32,1000 ha
+1990,Grenada,2005,2.32,1000 ha
+1991,Grenada,2006,2.32,1000 ha
+1992,Grenada,2007,2.32,1000 ha
+1993,Grenada,2008,2.32,1000 ha
+1994,Grenada,2009,2.32,1000 ha
+1995,Grenada,2010,2.32,1000 ha
+1996,Grenada,2011,2.32,1000 ha
+1997,Grenada,2012,2.32,1000 ha
+1998,Grenada,2013,2.32,1000 ha
+1999,Guadeloupe,1990,35.99,1000 ha
+2000,Guadeloupe,1991,35.99,1000 ha
+2001,Guadeloupe,1992,35.99,1000 ha
+2002,Guadeloupe,1993,35.99,1000 ha
+2003,Guadeloupe,1994,35.99,1000 ha
+2004,Guadeloupe,1995,35.99,1000 ha
+2005,Guadeloupe,1996,35.99,1000 ha
+2006,Guadeloupe,1997,35.99,1000 ha
+2007,Guadeloupe,1998,35.99,1000 ha
+2008,Guadeloupe,1999,35.99,1000 ha
+2009,Guadeloupe,2000,35.99,1000 ha
+2010,Guadeloupe,2001,35.99,1000 ha
+2011,Guadeloupe,2002,35.99,1000 ha
+2012,Guadeloupe,2003,35.99,1000 ha
+2013,Guadeloupe,2004,35.99,1000 ha
+2014,Guadeloupe,2005,35.99,1000 ha
+2015,Guadeloupe,2006,35.99,1000 ha
+2016,Guadeloupe,2007,35.99,1000 ha
+2017,Guadeloupe,2008,35.99,1000 ha
+2018,Guadeloupe,2009,35.99,1000 ha
+2019,Guadeloupe,2010,35.99,1000 ha
+2020,Guadeloupe,2011,35.99,1000 ha
+2021,Guadeloupe,2012,35.99,1000 ha
+2022,Guadeloupe,2013,35.99,1000 ha
+2023,Guam,1990,0.0,1000 ha
+2024,Guam,1991,0.0,1000 ha
+2025,Guam,1992,0.0,1000 ha
+2026,Guam,1993,0.0,1000 ha
+2027,Guam,1994,0.0,1000 ha
+2028,Guam,1995,0.0,1000 ha
+2029,Guam,1996,0.0,1000 ha
+2030,Guam,1997,0.0,1000 ha
+2031,Guam,1998,0.0,1000 ha
+2032,Guam,1999,0.0,1000 ha
+2033,Guam,2000,0.0,1000 ha
+2034,Guam,2001,0.0,1000 ha
+2035,Guam,2002,0.0,1000 ha
+2036,Guam,2003,0.0,1000 ha
+2037,Guam,2004,0.0,1000 ha
+2038,Guam,2005,0.0,1000 ha
+2039,Guam,2006,0.0,1000 ha
+2040,Guam,2007,0.0,1000 ha
+2041,Guam,2008,0.0,1000 ha
+2042,Guam,2009,0.0,1000 ha
+2043,Guam,2010,0.0,1000 ha
+2044,Guam,2011,0.0,1000 ha
+2045,Guam,2012,0.0,1000 ha
+2046,Guam,2013,0.0,1000 ha
+2047,Guatemala,1990,2951.0,1000 ha
+2048,Guatemala,1991,2885.1,1000 ha
+2049,Guatemala,1992,2819.2,1000 ha
+2050,Guatemala,1993,2753.3,1000 ha
+2051,Guatemala,1994,2687.4,1000 ha
+2052,Guatemala,1995,2621.5,1000 ha
+2053,Guatemala,1996,2555.6,1000 ha
+2054,Guatemala,1997,2489.7,1000 ha
+2055,Guatemala,1998,2423.8,1000 ha
+2056,Guatemala,1999,2357.9,1000 ha
+2057,Guatemala,2000,2292.0,1000 ha
+2058,Guatemala,2001,2224.2,1000 ha
+2059,Guatemala,2002,2156.4,1000 ha
+2060,Guatemala,2003,2088.6,1000 ha
+2061,Guatemala,2004,2020.8,1000 ha
+2062,Guatemala,2005,1953.0,1000 ha
+2063,Guatemala,2006,1887.8,1000 ha
+2064,Guatemala,2007,1822.6,1000 ha
+2065,Guatemala,2008,1757.4,1000 ha
+2066,Guatemala,2009,1692.2,1000 ha
+2067,Guatemala,2010,1627.0,1000 ha
+2068,Guatemala,2011,1568.4,1000 ha
+2069,Guatemala,2012,1509.8,1000 ha
+2070,Guatemala,2013,1451.2,1000 ha
+2071,Guinea,1990,63.0,1000 ha
+2072,Guinea,1991,63.0,1000 ha
+2073,Guinea,1992,63.0,1000 ha
+2074,Guinea,1993,63.0,1000 ha
+2075,Guinea,1994,63.0,1000 ha
+2076,Guinea,1995,63.0,1000 ha
+2077,Guinea,1996,63.0,1000 ha
+2078,Guinea,1997,63.0,1000 ha
+2079,Guinea,1998,63.0,1000 ha
+2080,Guinea,1999,63.0,1000 ha
+2081,Guinea,2000,63.0,1000 ha
+2082,Guinea,2001,63.0,1000 ha
+2083,Guinea,2002,63.0,1000 ha
+2084,Guinea,2003,63.0,1000 ha
+2085,Guinea,2004,63.0,1000 ha
+2086,Guinea,2005,63.0,1000 ha
+2087,Guinea,2006,63.0,1000 ha
+2088,Guinea,2007,63.0,1000 ha
+2089,Guinea,2008,63.0,1000 ha
+2090,Guinea,2009,63.0,1000 ha
+2091,Guinea,2010,63.0,1000 ha
+2092,Guinea,2011,63.0,1000 ha
+2093,Guinea,2012,63.0,1000 ha
+2094,Guinea,2013,63.0,1000 ha
+2095,Guinea-Bissau,1990,0.0,1000 ha
+2096,Guinea-Bissau,1991,0.0,1000 ha
+2097,Guinea-Bissau,1992,0.0,1000 ha
+2098,Guinea-Bissau,1993,0.0,1000 ha
+2099,Guinea-Bissau,1994,0.0,1000 ha
+2100,Guinea-Bissau,1995,0.0,1000 ha
+2101,Guinea-Bissau,1996,0.0,1000 ha
+2102,Guinea-Bissau,1997,0.0,1000 ha
+2103,Guinea-Bissau,1998,0.0,1000 ha
+2104,Guinea-Bissau,1999,0.0,1000 ha
+2105,Guinea-Bissau,2000,0.0,1000 ha
+2106,Guinea-Bissau,2001,0.0,1000 ha
+2107,Guinea-Bissau,2002,0.0,1000 ha
+2108,Guinea-Bissau,2003,0.0,1000 ha
+2109,Guinea-Bissau,2004,0.0,1000 ha
+2110,Guinea-Bissau,2005,0.0,1000 ha
+2111,Guinea-Bissau,2006,0.0,1000 ha
+2112,Guinea-Bissau,2007,0.0,1000 ha
+2113,Guinea-Bissau,2008,0.0,1000 ha
+2114,Guinea-Bissau,2009,0.0,1000 ha
+2115,Guinea-Bissau,2010,0.0,1000 ha
+2116,Guinea-Bissau,2011,0.0,1000 ha
+2117,Guinea-Bissau,2012,0.0,1000 ha
+2118,Guinea-Bissau,2013,0.0,1000 ha
+2119,Guyana,1990,9477.0,1000 ha
+2120,Guyana,1991,9357.0,1000 ha
+2121,Guyana,1992,9237.0,1000 ha
+2122,Guyana,1993,9117.0,1000 ha
+2123,Guyana,1994,8997.0,1000 ha
+2124,Guyana,1995,8877.0,1000 ha
+2125,Guyana,1996,8757.0,1000 ha
+2126,Guyana,1997,8637.0,1000 ha
+2127,Guyana,1998,8517.0,1000 ha
+2128,Guyana,1999,8397.0,1000 ha
+2129,Guyana,2000,8277.0,1000 ha
+2130,Guyana,2001,8157.0,1000 ha
+2131,Guyana,2002,8037.0,1000 ha
+2132,Guyana,2003,7917.0,1000 ha
+2133,Guyana,2004,7797.0,1000 ha
+2134,Guyana,2005,7677.0,1000 ha
+2135,Guyana,2006,7557.0,1000 ha
+2136,Guyana,2007,7437.0,1000 ha
+2137,Guyana,2008,7317.0,1000 ha
+2138,Guyana,2009,7197.0,1000 ha
+2139,Guyana,2010,7077.0,1000 ha
+2140,Guyana,2011,6957.0,1000 ha
+2141,Guyana,2012,6837.0,1000 ha
+2142,Guyana,2013,6717.0,1000 ha
+2143,Haiti,1990,0.0,1000 ha
+2144,Haiti,1991,0.0,1000 ha
+2145,Haiti,1992,0.0,1000 ha
+2146,Haiti,1993,0.0,1000 ha
+2147,Haiti,1994,0.0,1000 ha
+2148,Haiti,1995,0.0,1000 ha
+2149,Haiti,1996,0.0,1000 ha
+2150,Haiti,1997,0.0,1000 ha
+2151,Haiti,1998,0.0,1000 ha
+2152,Haiti,1999,0.0,1000 ha
+2153,Haiti,2000,0.0,1000 ha
+2154,Haiti,2001,0.0,1000 ha
+2155,Haiti,2002,0.0,1000 ha
+2156,Haiti,2003,0.0,1000 ha
+2157,Haiti,2004,0.0,1000 ha
+2158,Haiti,2005,0.0,1000 ha
+2159,Haiti,2006,0.0,1000 ha
+2160,Haiti,2007,0.0,1000 ha
+2161,Haiti,2008,0.0,1000 ha
+2162,Haiti,2009,0.0,1000 ha
+2163,Haiti,2010,0.0,1000 ha
+2164,Haiti,2011,0.0,1000 ha
+2165,Haiti,2012,0.0,1000 ha
+2166,Haiti,2013,0.0,1000 ha
+2167,Honduras,1990,457.0,1000 ha
+2168,Honduras,1991,457.0,1000 ha
+2169,Honduras,1992,457.0,1000 ha
+2170,Honduras,1993,457.0,1000 ha
+2171,Honduras,1994,457.0,1000 ha
+2172,Honduras,1995,457.0,1000 ha
+2173,Honduras,1996,457.0,1000 ha
+2174,Honduras,1997,457.0,1000 ha
+2175,Honduras,1998,457.0,1000 ha
+2176,Honduras,1999,457.0,1000 ha
+2177,Honduras,2000,457.0,1000 ha
+2178,Honduras,2001,457.0,1000 ha
+2179,Honduras,2002,457.0,1000 ha
+2180,Honduras,2003,457.0,1000 ha
+2181,Honduras,2004,457.0,1000 ha
+2182,Honduras,2005,457.0,1000 ha
+2183,Honduras,2006,457.0,1000 ha
+2184,Honduras,2007,457.0,1000 ha
+2185,Honduras,2008,457.0,1000 ha
+2186,Honduras,2009,457.0,1000 ha
+2187,Honduras,2010,457.0,1000 ha
+2188,Honduras,2011,457.0,1000 ha
+2189,Honduras,2012,457.0,1000 ha
+2190,Honduras,2013,457.0,1000 ha
+2191,Hungary,1990,0.0,1000 ha
+2192,Hungary,1991,0.0,1000 ha
+2193,Hungary,1992,0.0,1000 ha
+2194,Hungary,1993,0.0,1000 ha
+2195,Hungary,1994,0.0,1000 ha
+2196,Hungary,1995,0.0,1000 ha
+2197,Hungary,1996,0.0,1000 ha
+2198,Hungary,1997,0.0,1000 ha
+2199,Hungary,1998,0.0,1000 ha
+2200,Hungary,1999,0.0,1000 ha
+2201,Hungary,2000,0.0,1000 ha
+2202,Hungary,2001,0.0,1000 ha
+2203,Hungary,2002,0.0,1000 ha
+2204,Hungary,2003,0.0,1000 ha
+2205,Hungary,2004,0.0,1000 ha
+2206,Hungary,2005,0.0,1000 ha
+2207,Hungary,2006,0.0,1000 ha
+2208,Hungary,2007,0.0,1000 ha
+2209,Hungary,2008,0.0,1000 ha
+2210,Hungary,2009,0.0,1000 ha
+2211,Hungary,2010,0.0,1000 ha
+2212,Hungary,2011,0.0,1000 ha
+2213,Hungary,2012,0.0,1000 ha
+2214,Hungary,2013,0.0,1000 ha
+2215,Iceland,1990,0.0,1000 ha
+2216,Iceland,1991,0.0,1000 ha
+2217,Iceland,1992,0.0,1000 ha
+2218,Iceland,1993,0.0,1000 ha
+2219,Iceland,1994,0.0,1000 ha
+2220,Iceland,1995,0.0,1000 ha
+2221,Iceland,1996,0.0,1000 ha
+2222,Iceland,1997,0.0,1000 ha
+2223,Iceland,1998,0.0,1000 ha
+2224,Iceland,1999,0.0,1000 ha
+2225,Iceland,2000,0.0,1000 ha
+2226,Iceland,2001,0.0,1000 ha
+2227,Iceland,2002,0.0,1000 ha
+2228,Iceland,2003,0.0,1000 ha
+2229,Iceland,2004,0.0,1000 ha
+2230,Iceland,2005,0.0,1000 ha
+2231,Iceland,2006,0.0,1000 ha
+2232,Iceland,2007,0.0,1000 ha
+2233,Iceland,2008,0.0,1000 ha
+2234,Iceland,2009,0.0,1000 ha
+2235,Iceland,2010,0.0,1000 ha
+2236,Iceland,2011,0.0,1000 ha
+2237,Iceland,2012,0.0,1000 ha
+2238,Iceland,2013,0.0,1000 ha
+2239,India,1990,15701.0,1000 ha
+2240,India,1991,15701.0,1000 ha
+2241,India,1992,15701.0,1000 ha
+2242,India,1993,15701.0,1000 ha
+2243,India,1994,15701.0,1000 ha
+2244,India,1995,15701.0,1000 ha
+2245,India,1996,15701.0,1000 ha
+2246,India,1997,15701.0,1000 ha
+2247,India,1998,15701.0,1000 ha
+2248,India,1999,15701.0,1000 ha
+2249,India,2000,15701.0,1000 ha
+2250,India,2001,15701.0,1000 ha
+2251,India,2002,15701.0,1000 ha
+2252,India,2003,15701.0,1000 ha
+2253,India,2004,15701.0,1000 ha
+2254,India,2005,15701.0,1000 ha
+2255,India,2006,15701.0,1000 ha
+2256,India,2007,15701.0,1000 ha
+2257,India,2008,15701.0,1000 ha
+2258,India,2009,15701.0,1000 ha
+2259,India,2010,15701.0,1000 ha
+2260,India,2011,15701.0,1000 ha
+2261,India,2012,15701.0,1000 ha
+2262,India,2013,15701.0,1000 ha
+2263,Indonesia,1990,49453.0,1000 ha
+2264,Indonesia,1991,49453.0,1000 ha
+2265,Indonesia,1992,49453.0,1000 ha
+2266,Indonesia,1993,49453.0,1000 ha
+2267,Indonesia,1994,49453.0,1000 ha
+2268,Indonesia,1995,49453.0,1000 ha
+2269,Indonesia,1996,49453.0,1000 ha
+2270,Indonesia,1997,49453.0,1000 ha
+2271,Indonesia,1998,49453.0,1000 ha
+2272,Indonesia,1999,49453.0,1000 ha
+2273,Indonesia,2000,49453.0,1000 ha
+2274,Indonesia,2001,49224.4,1000 ha
+2275,Indonesia,2002,48995.8,1000 ha
+2276,Indonesia,2003,48767.2,1000 ha
+2277,Indonesia,2004,48538.6,1000 ha
+2278,Indonesia,2005,48310.0,1000 ha
+2279,Indonesia,2006,48081.4,1000 ha
+2280,Indonesia,2007,47852.8,1000 ha
+2281,Indonesia,2008,47624.2,1000 ha
+2282,Indonesia,2009,47395.6,1000 ha
+2283,Indonesia,2010,47167.0,1000 ha
+2284,Indonesia,2011,46938.4,1000 ha
+2285,Indonesia,2012,46709.8,1000 ha
+2286,Indonesia,2013,46481.2,1000 ha
+2287,Iran (Islamic Republic of),1990,200.0,1000 ha
+2288,Iran (Islamic Republic of),1991,200.0,1000 ha
+2289,Iran (Islamic Republic of),1992,200.0,1000 ha
+2290,Iran (Islamic Republic of),1993,200.0,1000 ha
+2291,Iran (Islamic Republic of),1994,200.0,1000 ha
+2292,Iran (Islamic Republic of),1995,200.0,1000 ha
+2293,Iran (Islamic Republic of),1996,200.0,1000 ha
+2294,Iran (Islamic Republic of),1997,200.0,1000 ha
+2295,Iran (Islamic Republic of),1998,200.0,1000 ha
+2296,Iran (Islamic Republic of),1999,200.0,1000 ha
+2297,Iran (Islamic Republic of),2000,200.0,1000 ha
+2298,Iran (Islamic Republic of),2001,200.0,1000 ha
+2299,Iran (Islamic Republic of),2002,200.0,1000 ha
+2300,Iran (Islamic Republic of),2003,200.0,1000 ha
+2301,Iran (Islamic Republic of),2004,200.0,1000 ha
+2302,Iran (Islamic Republic of),2005,200.0,1000 ha
+2303,Iran (Islamic Republic of),2006,200.0,1000 ha
+2304,Iran (Islamic Republic of),2007,200.0,1000 ha
+2305,Iran (Islamic Republic of),2008,200.0,1000 ha
+2306,Iran (Islamic Republic of),2009,200.0,1000 ha
+2307,Iran (Islamic Republic of),2010,200.0,1000 ha
+2308,Iran (Islamic Republic of),2011,200.0,1000 ha
+2309,Iran (Islamic Republic of),2012,200.0,1000 ha
+2310,Iran (Islamic Republic of),2013,200.0,1000 ha
+2311,Iraq,1990,0.0,1000 ha
+2312,Iraq,1991,0.0,1000 ha
+2313,Iraq,1992,0.0,1000 ha
+2314,Iraq,1993,0.0,1000 ha
+2315,Iraq,1994,0.0,1000 ha
+2316,Iraq,1995,0.0,1000 ha
+2317,Iraq,1996,0.0,1000 ha
+2318,Iraq,1997,0.0,1000 ha
+2319,Iraq,1998,0.0,1000 ha
+2320,Iraq,1999,0.0,1000 ha
+2321,Iraq,2000,0.0,1000 ha
+2322,Iraq,2001,0.0,1000 ha
+2323,Iraq,2002,0.0,1000 ha
+2324,Iraq,2003,0.0,1000 ha
+2325,Iraq,2004,0.0,1000 ha
+2326,Iraq,2005,0.0,1000 ha
+2327,Iraq,2006,0.0,1000 ha
+2328,Iraq,2007,0.0,1000 ha
+2329,Iraq,2008,0.0,1000 ha
+2330,Iraq,2009,0.0,1000 ha
+2331,Iraq,2010,0.0,1000 ha
+2332,Iraq,2011,0.0,1000 ha
+2333,Iraq,2012,0.0,1000 ha
+2334,Iraq,2013,0.0,1000 ha
+2335,Ireland,1990,0.0,1000 ha
+2336,Ireland,1991,0.0,1000 ha
+2337,Ireland,1992,0.0,1000 ha
+2338,Ireland,1993,0.0,1000 ha
+2339,Ireland,1994,0.0,1000 ha
+2340,Ireland,1995,0.0,1000 ha
+2341,Ireland,1996,0.0,1000 ha
+2342,Ireland,1997,0.0,1000 ha
+2343,Ireland,1998,0.0,1000 ha
+2344,Ireland,1999,0.0,1000 ha
+2345,Ireland,2000,0.0,1000 ha
+2346,Ireland,2001,0.0,1000 ha
+2347,Ireland,2002,0.0,1000 ha
+2348,Ireland,2003,0.0,1000 ha
+2349,Ireland,2004,0.0,1000 ha
+2350,Ireland,2005,0.0,1000 ha
+2351,Ireland,2006,0.0,1000 ha
+2352,Ireland,2007,0.0,1000 ha
+2353,Ireland,2008,0.0,1000 ha
+2354,Ireland,2009,0.0,1000 ha
+2355,Ireland,2010,0.0,1000 ha
+2356,Ireland,2011,0.0,1000 ha
+2357,Ireland,2012,0.0,1000 ha
+2358,Ireland,2013,0.0,1000 ha
+2359,Isle of Man,1990,0.0,1000 ha
+2360,Isle of Man,1991,0.0,1000 ha
+2361,Isle of Man,1992,0.0,1000 ha
+2362,Isle of Man,1993,0.0,1000 ha
+2363,Isle of Man,1994,0.0,1000 ha
+2364,Isle of Man,1995,0.0,1000 ha
+2365,Isle of Man,1996,0.0,1000 ha
+2366,Isle of Man,1997,0.0,1000 ha
+2367,Isle of Man,1998,0.0,1000 ha
+2368,Isle of Man,1999,0.0,1000 ha
+2369,Isle of Man,2000,0.0,1000 ha
+2370,Isle of Man,2001,0.0,1000 ha
+2371,Isle of Man,2002,0.0,1000 ha
+2372,Isle of Man,2003,0.0,1000 ha
+2373,Isle of Man,2004,0.0,1000 ha
+2374,Isle of Man,2005,0.0,1000 ha
+2375,Isle of Man,2006,0.0,1000 ha
+2376,Isle of Man,2007,0.0,1000 ha
+2377,Isle of Man,2008,0.0,1000 ha
+2378,Isle of Man,2009,0.0,1000 ha
+2379,Isle of Man,2010,0.0,1000 ha
+2380,Isle of Man,2011,0.0,1000 ha
+2381,Isle of Man,2012,0.0,1000 ha
+2382,Isle of Man,2013,0.0,1000 ha
+2383,Israel,1990,0.0,1000 ha
+2384,Israel,1991,0.0,1000 ha
+2385,Israel,1992,0.0,1000 ha
+2386,Israel,1993,0.0,1000 ha
+2387,Israel,1994,0.0,1000 ha
+2388,Israel,1995,0.0,1000 ha
+2389,Israel,1996,0.0,1000 ha
+2390,Israel,1997,0.0,1000 ha
+2391,Israel,1998,0.0,1000 ha
+2392,Israel,1999,0.0,1000 ha
+2393,Israel,2000,0.0,1000 ha
+2394,Israel,2001,0.0,1000 ha
+2395,Israel,2002,0.0,1000 ha
+2396,Israel,2003,0.0,1000 ha
+2397,Israel,2004,0.0,1000 ha
+2398,Israel,2005,0.0,1000 ha
+2399,Israel,2006,0.0,1000 ha
+2400,Israel,2007,0.0,1000 ha
+2401,Israel,2008,0.0,1000 ha
+2402,Israel,2009,0.0,1000 ha
+2403,Israel,2010,0.0,1000 ha
+2404,Israel,2011,0.0,1000 ha
+2405,Israel,2012,0.0,1000 ha
+2406,Israel,2013,0.0,1000 ha
+2407,Italy,1990,93.0,1000 ha
+2408,Italy,1991,93.0,1000 ha
+2409,Italy,1992,93.0,1000 ha
+2410,Italy,1993,93.0,1000 ha
+2411,Italy,1994,93.0,1000 ha
+2412,Italy,1995,93.0,1000 ha
+2413,Italy,1996,93.0,1000 ha
+2414,Italy,1997,93.0,1000 ha
+2415,Italy,1998,93.0,1000 ha
+2416,Italy,1999,93.0,1000 ha
+2417,Italy,2000,93.0,1000 ha
+2418,Italy,2001,93.0,1000 ha
+2419,Italy,2002,93.0,1000 ha
+2420,Italy,2003,93.0,1000 ha
+2421,Italy,2004,93.0,1000 ha
+2422,Italy,2005,93.0,1000 ha
+2423,Italy,2006,93.0,1000 ha
+2424,Italy,2007,93.0,1000 ha
+2425,Italy,2008,93.0,1000 ha
+2426,Italy,2009,93.0,1000 ha
+2427,Italy,2010,93.0,1000 ha
+2428,Italy,2011,93.0,1000 ha
+2429,Italy,2012,93.0,1000 ha
+2430,Italy,2013,93.0,1000 ha
+2431,Jamaica,1990,88.9,1000 ha
+2432,Jamaica,1991,88.84,1000 ha
+2433,Jamaica,1992,88.78,1000 ha
+2434,Jamaica,1993,88.72,1000 ha
+2435,Jamaica,1994,88.66,1000 ha
+2436,Jamaica,1995,88.6,1000 ha
+2437,Jamaica,1996,88.54,1000 ha
+2438,Jamaica,1997,88.48,1000 ha
+2439,Jamaica,1998,88.42,1000 ha
+2440,Jamaica,1999,88.36,1000 ha
+2441,Jamaica,2000,88.3,1000 ha
+2442,Jamaica,2001,88.24,1000 ha
+2443,Jamaica,2002,88.18,1000 ha
+2444,Jamaica,2003,88.12,1000 ha
+2445,Jamaica,2004,88.06,1000 ha
+2446,Jamaica,2005,88.0,1000 ha
+2447,Jamaica,2006,87.94,1000 ha
+2448,Jamaica,2007,87.88,1000 ha
+2449,Jamaica,2008,87.82,1000 ha
+2450,Jamaica,2009,87.76,1000 ha
+2451,Jamaica,2010,87.7,1000 ha
+2452,Jamaica,2011,87.66,1000 ha
+2453,Jamaica,2012,87.62,1000 ha
+2454,Jamaica,2013,87.58,1000 ha
+2455,Japan,1990,3764.0,1000 ha
+2456,Japan,1991,3793.0,1000 ha
+2457,Japan,1992,3822.0,1000 ha
+2458,Japan,1993,3851.0,1000 ha
+2459,Japan,1994,3880.0,1000 ha
+2460,Japan,1995,3909.0,1000 ha
+2461,Japan,1996,3938.0,1000 ha
+2462,Japan,1997,3967.0,1000 ha
+2463,Japan,1998,3996.0,1000 ha
+2464,Japan,1999,4025.0,1000 ha
+2465,Japan,2000,4054.0,1000 ha
+2466,Japan,2001,4133.0,1000 ha
+2467,Japan,2002,4212.0,1000 ha
+2468,Japan,2003,4291.0,1000 ha
+2469,Japan,2004,4370.0,1000 ha
+2470,Japan,2005,4449.0,1000 ha
+2471,Japan,2006,4513.2,1000 ha
+2472,Japan,2007,4577.4,1000 ha
+2473,Japan,2008,4641.6,1000 ha
+2474,Japan,2009,4705.8,1000 ha
+2475,Japan,2010,4770.0,1000 ha
+2476,Japan,2011,4797.0,1000 ha
+2477,Japan,2012,4824.0,1000 ha
+2478,Japan,2013,4851.0,1000 ha
+2479,Jordan,1990,0.0,1000 ha
+2480,Jordan,1991,0.0,1000 ha
+2481,Jordan,1992,0.0,1000 ha
+2482,Jordan,1993,0.0,1000 ha
+2483,Jordan,1994,0.0,1000 ha
+2484,Jordan,1995,0.0,1000 ha
+2485,Jordan,1996,0.0,1000 ha
+2486,Jordan,1997,0.0,1000 ha
+2487,Jordan,1998,0.0,1000 ha
+2488,Jordan,1999,0.0,1000 ha
+2489,Jordan,2000,0.0,1000 ha
+2490,Jordan,2001,0.0,1000 ha
+2491,Jordan,2002,0.0,1000 ha
+2492,Jordan,2003,0.0,1000 ha
+2493,Jordan,2004,0.0,1000 ha
+2494,Jordan,2005,0.0,1000 ha
+2495,Jordan,2006,0.0,1000 ha
+2496,Jordan,2007,0.0,1000 ha
+2497,Jordan,2008,0.0,1000 ha
+2498,Jordan,2009,0.0,1000 ha
+2499,Jordan,2010,0.0,1000 ha
+2500,Jordan,2011,0.0,1000 ha
+2501,Jordan,2012,0.0,1000 ha
+2502,Jordan,2013,0.0,1000 ha
+2503,Kazakhstan,1992,0.0,1000 ha
+2504,Kazakhstan,1993,0.0,1000 ha
+2505,Kazakhstan,1994,0.0,1000 ha
+2506,Kazakhstan,1995,0.0,1000 ha
+2507,Kazakhstan,1996,0.0,1000 ha
+2508,Kazakhstan,1997,0.0,1000 ha
+2509,Kazakhstan,1998,0.0,1000 ha
+2510,Kazakhstan,1999,0.0,1000 ha
+2511,Kazakhstan,2000,0.0,1000 ha
+2512,Kazakhstan,2001,0.0,1000 ha
+2513,Kazakhstan,2002,0.0,1000 ha
+2514,Kazakhstan,2003,0.0,1000 ha
+2515,Kazakhstan,2004,0.0,1000 ha
+2516,Kazakhstan,2005,0.0,1000 ha
+2517,Kazakhstan,2006,0.0,1000 ha
+2518,Kazakhstan,2007,0.0,1000 ha
+2519,Kazakhstan,2008,0.0,1000 ha
+2520,Kazakhstan,2009,0.0,1000 ha
+2521,Kazakhstan,2010,0.0,1000 ha
+2522,Kazakhstan,2011,0.0,1000 ha
+2523,Kazakhstan,2012,0.0,1000 ha
+2524,Kazakhstan,2013,0.0,1000 ha
+2525,Kenya,1990,0.0,1000 ha
+2526,Kenya,1991,0.0,1000 ha
+2527,Kenya,1992,0.0,1000 ha
+2528,Kenya,1993,0.0,1000 ha
+2529,Kenya,1994,0.0,1000 ha
+2530,Kenya,1995,0.0,1000 ha
+2531,Kenya,1996,0.0,1000 ha
+2532,Kenya,1997,0.0,1000 ha
+2533,Kenya,1998,0.0,1000 ha
+2534,Kenya,1999,0.0,1000 ha
+2535,Kenya,2000,0.0,1000 ha
+2536,Kenya,2001,0.0,1000 ha
+2537,Kenya,2002,0.0,1000 ha
+2538,Kenya,2003,0.0,1000 ha
+2539,Kenya,2004,0.0,1000 ha
+2540,Kenya,2005,0.0,1000 ha
+2541,Kenya,2006,0.0,1000 ha
+2542,Kenya,2007,0.0,1000 ha
+2543,Kenya,2008,0.0,1000 ha
+2544,Kenya,2009,0.0,1000 ha
+2545,Kenya,2010,0.0,1000 ha
+2546,Kenya,2011,0.0,1000 ha
+2547,Kenya,2012,0.0,1000 ha
+2548,Kenya,2013,0.0,1000 ha
+2549,Kiribati,1990,0.0,1000 ha
+2550,Kiribati,1991,0.0,1000 ha
+2551,Kiribati,1992,0.0,1000 ha
+2552,Kiribati,1993,0.0,1000 ha
+2553,Kiribati,1994,0.0,1000 ha
+2554,Kiribati,1995,0.0,1000 ha
+2555,Kiribati,1996,0.0,1000 ha
+2556,Kiribati,1997,0.0,1000 ha
+2557,Kiribati,1998,0.0,1000 ha
+2558,Kiribati,1999,0.0,1000 ha
+2559,Kiribati,2000,0.0,1000 ha
+2560,Kiribati,2001,0.0,1000 ha
+2561,Kiribati,2002,0.0,1000 ha
+2562,Kiribati,2003,0.0,1000 ha
+2563,Kiribati,2004,0.0,1000 ha
+2564,Kiribati,2005,0.0,1000 ha
+2565,Kiribati,2006,0.0,1000 ha
+2566,Kiribati,2007,0.0,1000 ha
+2567,Kiribati,2008,0.0,1000 ha
+2568,Kiribati,2009,0.0,1000 ha
+2569,Kiribati,2010,0.0,1000 ha
+2570,Kiribati,2011,0.0,1000 ha
+2571,Kiribati,2012,0.0,1000 ha
+2572,Kiribati,2013,0.0,1000 ha
+2573,Kuwait,1990,0.0,1000 ha
+2574,Kuwait,1991,0.0,1000 ha
+2575,Kuwait,1992,0.0,1000 ha
+2576,Kuwait,1993,0.0,1000 ha
+2577,Kuwait,1994,0.0,1000 ha
+2578,Kuwait,1995,0.0,1000 ha
+2579,Kuwait,1996,0.0,1000 ha
+2580,Kuwait,1997,0.0,1000 ha
+2581,Kuwait,1998,0.0,1000 ha
+2582,Kuwait,1999,0.0,1000 ha
+2583,Kuwait,2000,0.0,1000 ha
+2584,Kuwait,2001,0.0,1000 ha
+2585,Kuwait,2002,0.0,1000 ha
+2586,Kuwait,2003,0.0,1000 ha
+2587,Kuwait,2004,0.0,1000 ha
+2588,Kuwait,2005,0.0,1000 ha
+2589,Kuwait,2006,0.0,1000 ha
+2590,Kuwait,2007,0.0,1000 ha
+2591,Kuwait,2008,0.0,1000 ha
+2592,Kuwait,2009,0.0,1000 ha
+2593,Kuwait,2010,0.0,1000 ha
+2594,Kuwait,2011,0.0,1000 ha
+2595,Kuwait,2012,0.0,1000 ha
+2596,Kuwait,2013,0.0,1000 ha
+2597,Kyrgyzstan,1992,793.54,1000 ha
+2598,Kyrgyzstan,1993,793.61,1000 ha
+2599,Kyrgyzstan,1994,793.68,1000 ha
+2600,Kyrgyzstan,1995,793.75,1000 ha
+2601,Kyrgyzstan,1996,793.82,1000 ha
+2602,Kyrgyzstan,1997,793.89,1000 ha
+2603,Kyrgyzstan,1998,793.96,1000 ha
+2604,Kyrgyzstan,1999,794.03,1000 ha
+2605,Kyrgyzstan,2000,794.1,1000 ha
+2606,Kyrgyzstan,2001,795.58,1000 ha
+2607,Kyrgyzstan,2002,797.06,1000 ha
+2608,Kyrgyzstan,2003,798.54,1000 ha
+2609,Kyrgyzstan,2004,800.02,1000 ha
+2610,Kyrgyzstan,2005,801.5,1000 ha
+2611,Kyrgyzstan,2006,767.2,1000 ha
+2612,Kyrgyzstan,2007,732.9,1000 ha
+2613,Kyrgyzstan,2008,698.6,1000 ha
+2614,Kyrgyzstan,2009,664.3,1000 ha
+2615,Kyrgyzstan,2010,630.0,1000 ha
+2616,Kyrgyzstan,2011,630.0,1000 ha
+2617,Kyrgyzstan,2012,630.0,1000 ha
+2618,Kyrgyzstan,2013,630.0,1000 ha
+2619,Lao People's Democratic Republic,1990,1592.9,1000 ha
+2620,Lao People's Democratic Republic,1991,1577.4879999999998,1000 ha
+2621,Lao People's Democratic Republic,1992,1562.076,1000 ha
+2622,Lao People's Democratic Republic,1993,1546.664,1000 ha
+2623,Lao People's Democratic Republic,1994,1531.2520000000002,1000 ha
+2624,Lao People's Democratic Republic,1995,1515.84,1000 ha
+2625,Lao People's Democratic Republic,1996,1500.4279999999999,1000 ha
+2626,Lao People's Democratic Republic,1997,1485.016,1000 ha
+2627,Lao People's Democratic Republic,1998,1469.604,1000 ha
+2628,Lao People's Democratic Republic,1999,1454.192,1000 ha
+2629,Lao People's Democratic Republic,2000,1438.78,1000 ha
+2630,Lao People's Democratic Republic,2001,1422.7279999999998,1000 ha
+2631,Lao People's Democratic Republic,2002,1406.6760000000002,1000 ha
+2632,Lao People's Democratic Republic,2003,1390.624,1000 ha
+2633,Lao People's Democratic Republic,2004,1374.5720000000001,1000 ha
+2634,Lao People's Democratic Republic,2005,1358.52,1000 ha
+2635,Lao People's Democratic Republic,2006,1342.0420000000001,1000 ha
+2636,Lao People's Democratic Republic,2007,1325.5639999999999,1000 ha
+2637,Lao People's Democratic Republic,2008,1309.086,1000 ha
+2638,Lao People's Democratic Republic,2009,1292.608,1000 ha
+2639,Lao People's Democratic Republic,2010,1276.13,1000 ha
+2640,Lao People's Democratic Republic,2011,1259.65,1000 ha
+2641,Lao People's Democratic Republic,2012,1243.17,1000 ha
+2642,Lao People's Democratic Republic,2013,1226.69,1000 ha
+2643,Latvia,1992,17.0,1000 ha
+2644,Latvia,1993,17.0,1000 ha
+2645,Latvia,1994,17.0,1000 ha
+2646,Latvia,1995,17.0,1000 ha
+2647,Latvia,1996,17.0,1000 ha
+2648,Latvia,1997,17.0,1000 ha
+2649,Latvia,1998,17.0,1000 ha
+2650,Latvia,1999,17.0,1000 ha
+2651,Latvia,2000,17.0,1000 ha
+2652,Latvia,2001,16.8,1000 ha
+2653,Latvia,2002,16.6,1000 ha
+2654,Latvia,2003,16.4,1000 ha
+2655,Latvia,2004,16.2,1000 ha
+2656,Latvia,2005,16.0,1000 ha
+2657,Latvia,2006,15.8,1000 ha
+2658,Latvia,2007,15.6,1000 ha
+2659,Latvia,2008,15.4,1000 ha
+2660,Latvia,2009,15.2,1000 ha
+2661,Latvia,2010,15.0,1000 ha
+2662,Latvia,2011,15.2,1000 ha
+2663,Latvia,2012,15.4,1000 ha
+2664,Latvia,2013,15.6,1000 ha
+2665,Lebanon,1990,0.0,1000 ha
+2666,Lebanon,1991,0.0,1000 ha
+2667,Lebanon,1992,0.0,1000 ha
+2668,Lebanon,1993,0.0,1000 ha
+2669,Lebanon,1994,0.0,1000 ha
+2670,Lebanon,1995,0.0,1000 ha
+2671,Lebanon,1996,0.0,1000 ha
+2672,Lebanon,1997,0.0,1000 ha
+2673,Lebanon,1998,0.0,1000 ha
+2674,Lebanon,1999,0.0,1000 ha
+2675,Lebanon,2000,0.0,1000 ha
+2676,Lebanon,2001,0.0,1000 ha
+2677,Lebanon,2002,0.0,1000 ha
+2678,Lebanon,2003,0.0,1000 ha
+2679,Lebanon,2004,0.0,1000 ha
+2680,Lebanon,2005,0.0,1000 ha
+2681,Lebanon,2006,0.0,1000 ha
+2682,Lebanon,2007,0.0,1000 ha
+2683,Lebanon,2008,0.0,1000 ha
+2684,Lebanon,2009,0.0,1000 ha
+2685,Lebanon,2010,0.0,1000 ha
+2686,Lebanon,2011,0.0,1000 ha
+2687,Lebanon,2012,0.0,1000 ha
+2688,Lebanon,2013,0.0,1000 ha
+2689,Lesotho,1990,0.0,1000 ha
+2690,Lesotho,1991,0.0,1000 ha
+2691,Lesotho,1992,0.0,1000 ha
+2692,Lesotho,1993,0.0,1000 ha
+2693,Lesotho,1994,0.0,1000 ha
+2694,Lesotho,1995,0.0,1000 ha
+2695,Lesotho,1996,0.0,1000 ha
+2696,Lesotho,1997,0.0,1000 ha
+2697,Lesotho,1998,0.0,1000 ha
+2698,Lesotho,1999,0.0,1000 ha
+2699,Lesotho,2000,0.0,1000 ha
+2700,Lesotho,2001,0.0,1000 ha
+2701,Lesotho,2002,0.0,1000 ha
+2702,Lesotho,2003,0.0,1000 ha
+2703,Lesotho,2004,0.0,1000 ha
+2704,Lesotho,2005,0.0,1000 ha
+2705,Lesotho,2006,0.0,1000 ha
+2706,Lesotho,2007,0.0,1000 ha
+2707,Lesotho,2008,0.0,1000 ha
+2708,Lesotho,2009,0.0,1000 ha
+2709,Lesotho,2010,0.0,1000 ha
+2710,Lesotho,2011,0.0,1000 ha
+2711,Lesotho,2012,0.0,1000 ha
+2712,Lesotho,2013,0.0,1000 ha
+2713,Liberia,1990,175.0,1000 ha
+2714,Liberia,1991,175.0,1000 ha
+2715,Liberia,1992,175.0,1000 ha
+2716,Liberia,1993,175.0,1000 ha
+2717,Liberia,1994,175.0,1000 ha
+2718,Liberia,1995,175.0,1000 ha
+2719,Liberia,1996,175.0,1000 ha
+2720,Liberia,1997,175.0,1000 ha
+2721,Liberia,1998,175.0,1000 ha
+2722,Liberia,1999,175.0,1000 ha
+2723,Liberia,2000,175.0,1000 ha
+2724,Liberia,2001,175.0,1000 ha
+2725,Liberia,2002,175.0,1000 ha
+2726,Liberia,2003,175.0,1000 ha
+2727,Liberia,2004,175.0,1000 ha
+2728,Liberia,2005,175.0,1000 ha
+2729,Liberia,2006,175.0,1000 ha
+2730,Liberia,2007,175.0,1000 ha
+2731,Liberia,2008,175.0,1000 ha
+2732,Liberia,2009,175.0,1000 ha
+2733,Liberia,2010,175.0,1000 ha
+2734,Liberia,2011,175.0,1000 ha
+2735,Liberia,2012,175.0,1000 ha
+2736,Liberia,2013,175.0,1000 ha
+2737,Libya,1990,0.0,1000 ha
+2738,Libya,1991,0.0,1000 ha
+2739,Libya,1992,0.0,1000 ha
+2740,Libya,1993,0.0,1000 ha
+2741,Libya,1994,0.0,1000 ha
+2742,Libya,1995,0.0,1000 ha
+2743,Libya,1996,0.0,1000 ha
+2744,Libya,1997,0.0,1000 ha
+2745,Libya,1998,0.0,1000 ha
+2746,Libya,1999,0.0,1000 ha
+2747,Libya,2000,0.0,1000 ha
+2748,Libya,2001,0.0,1000 ha
+2749,Libya,2002,0.0,1000 ha
+2750,Libya,2003,0.0,1000 ha
+2751,Libya,2004,0.0,1000 ha
+2752,Libya,2005,0.0,1000 ha
+2753,Libya,2006,0.0,1000 ha
+2754,Libya,2007,0.0,1000 ha
+2755,Libya,2008,0.0,1000 ha
+2756,Libya,2009,0.0,1000 ha
+2757,Libya,2010,0.0,1000 ha
+2758,Libya,2011,0.0,1000 ha
+2759,Libya,2012,0.0,1000 ha
+2760,Libya,2013,0.0,1000 ha
+2761,Liechtenstein,1990,1.5,1000 ha
+2762,Liechtenstein,1991,1.5,1000 ha
+2763,Liechtenstein,1992,1.5,1000 ha
+2764,Liechtenstein,1993,1.5,1000 ha
+2765,Liechtenstein,1994,1.5,1000 ha
+2766,Liechtenstein,1995,1.5,1000 ha
+2767,Liechtenstein,1996,1.5,1000 ha
+2768,Liechtenstein,1997,1.5,1000 ha
+2769,Liechtenstein,1998,1.5,1000 ha
+2770,Liechtenstein,1999,1.5,1000 ha
+2771,Liechtenstein,2000,1.5,1000 ha
+2772,Liechtenstein,2001,1.5,1000 ha
+2773,Liechtenstein,2002,1.5,1000 ha
+2774,Liechtenstein,2003,1.5,1000 ha
+2775,Liechtenstein,2004,1.5,1000 ha
+2776,Liechtenstein,2005,1.5,1000 ha
+2777,Liechtenstein,2006,1.5,1000 ha
+2778,Liechtenstein,2007,1.5,1000 ha
+2779,Liechtenstein,2008,1.5,1000 ha
+2780,Liechtenstein,2009,1.5,1000 ha
+2781,Liechtenstein,2010,1.5,1000 ha
+2782,Liechtenstein,2011,1.5,1000 ha
+2783,Liechtenstein,2012,1.5,1000 ha
+2784,Liechtenstein,2013,1.5,1000 ha
+2785,Lithuania,1992,20.2,1000 ha
+2786,Lithuania,1993,20.3,1000 ha
+2787,Lithuania,1994,20.4,1000 ha
+2788,Lithuania,1995,20.5,1000 ha
+2789,Lithuania,1996,20.6,1000 ha
+2790,Lithuania,1997,20.7,1000 ha
+2791,Lithuania,1998,20.8,1000 ha
+2792,Lithuania,1999,20.9,1000 ha
+2793,Lithuania,2000,21.0,1000 ha
+2794,Lithuania,2001,22.0,1000 ha
+2795,Lithuania,2002,23.0,1000 ha
+2796,Lithuania,2003,24.0,1000 ha
+2797,Lithuania,2004,25.0,1000 ha
+2798,Lithuania,2005,26.0,1000 ha
+2799,Lithuania,2006,26.0,1000 ha
+2800,Lithuania,2007,26.0,1000 ha
+2801,Lithuania,2008,26.0,1000 ha
+2802,Lithuania,2009,26.0,1000 ha
+2803,Lithuania,2010,26.0,1000 ha
+2804,Lithuania,2011,26.0,1000 ha
+2805,Lithuania,2012,26.0,1000 ha
+2806,Lithuania,2013,26.0,1000 ha
+2807,Luxembourg,2000,0.0,1000 ha
+2808,Luxembourg,2001,0.0,1000 ha
+2809,Luxembourg,2002,0.0,1000 ha
+2810,Luxembourg,2003,0.0,1000 ha
+2811,Luxembourg,2004,0.0,1000 ha
+2812,Luxembourg,2005,0.0,1000 ha
+2813,Luxembourg,2006,0.0,1000 ha
+2814,Luxembourg,2007,0.0,1000 ha
+2815,Luxembourg,2008,0.0,1000 ha
+2816,Luxembourg,2009,0.0,1000 ha
+2817,Luxembourg,2010,0.0,1000 ha
+2818,Luxembourg,2011,0.0,1000 ha
+2819,Luxembourg,2012,0.0,1000 ha
+2820,Luxembourg,2013,0.0,1000 ha
+2821,Madagascar,1990,3367.0,1000 ha
+2822,Madagascar,1991,3348.2,1000 ha
+2823,Madagascar,1992,3329.4,1000 ha
+2824,Madagascar,1993,3310.6,1000 ha
+2825,Madagascar,1994,3291.8,1000 ha
+2826,Madagascar,1995,3273.0,1000 ha
+2827,Madagascar,1996,3254.2,1000 ha
+2828,Madagascar,1997,3235.4,1000 ha
+2829,Madagascar,1998,3216.6,1000 ha
+2830,Madagascar,1999,3197.8,1000 ha
+2831,Madagascar,2000,3179.0,1000 ha
+2832,Madagascar,2001,3170.6,1000 ha
+2833,Madagascar,2002,3162.2,1000 ha
+2834,Madagascar,2003,3153.8,1000 ha
+2835,Madagascar,2004,3145.4,1000 ha
+2836,Madagascar,2005,3137.0,1000 ha
+2837,Madagascar,2006,3116.8,1000 ha
+2838,Madagascar,2007,3096.6,1000 ha
+2839,Madagascar,2008,3076.4,1000 ha
+2840,Madagascar,2009,3056.2,1000 ha
+2841,Madagascar,2010,3036.0,1000 ha
+2842,Madagascar,2011,3027.4,1000 ha
+2843,Madagascar,2012,3018.8,1000 ha
+2844,Madagascar,2013,3010.2,1000 ha
+2845,Malawi,1990,1727.0,1000 ha
+2846,Malawi,1991,1687.3,1000 ha
+2847,Malawi,1992,1647.6,1000 ha
+2848,Malawi,1993,1607.9,1000 ha
+2849,Malawi,1994,1568.2,1000 ha
+2850,Malawi,1995,1528.5,1000 ha
+2851,Malawi,1996,1488.8,1000 ha
+2852,Malawi,1997,1449.1,1000 ha
+2853,Malawi,1998,1409.4,1000 ha
+2854,Malawi,1999,1369.7,1000 ha
+2855,Malawi,2000,1330.0,1000 ha
+2856,Malawi,2001,1290.4,1000 ha
+2857,Malawi,2002,1250.8,1000 ha
+2858,Malawi,2003,1211.2,1000 ha
+2859,Malawi,2004,1171.6,1000 ha
+2860,Malawi,2005,1132.0,1000 ha
+2861,Malawi,2006,1092.4,1000 ha
+2862,Malawi,2007,1052.8,1000 ha
+2863,Malawi,2008,1013.2,1000 ha
+2864,Malawi,2009,973.6,1000 ha
+2865,Malawi,2010,934.0,1000 ha
+2866,Malawi,2011,916.2,1000 ha
+2867,Malawi,2012,898.4,1000 ha
+2868,Malawi,2013,880.6,1000 ha
+2869,Malaysia,1990,3820.0,1000 ha
+2870,Malaysia,1991,3841.0,1000 ha
+2871,Malaysia,1992,3862.0,1000 ha
+2872,Malaysia,1993,3883.0,1000 ha
+2873,Malaysia,1994,3904.0,1000 ha
+2874,Malaysia,1995,3925.0,1000 ha
+2875,Malaysia,1996,3946.0,1000 ha
+2876,Malaysia,1997,3967.0,1000 ha
+2877,Malaysia,1998,3988.0,1000 ha
+2878,Malaysia,1999,4009.0,1000 ha
+2879,Malaysia,2000,4030.0,1000 ha
+2880,Malaysia,2001,4210.0,1000 ha
+2881,Malaysia,2002,4390.0,1000 ha
+2882,Malaysia,2003,4570.0,1000 ha
+2883,Malaysia,2004,4750.0,1000 ha
+2884,Malaysia,2005,4930.0,1000 ha
+2885,Malaysia,2006,4917.4,1000 ha
+2886,Malaysia,2007,4904.8,1000 ha
+2887,Malaysia,2008,4892.2,1000 ha
+2888,Malaysia,2009,4879.6,1000 ha
+2889,Malaysia,2010,4867.0,1000 ha
+2890,Malaysia,2011,4901.8,1000 ha
+2891,Malaysia,2012,4936.6,1000 ha
+2892,Malaysia,2013,4971.4,1000 ha
+2893,Maldives,1990,0.0,1000 ha
+2894,Maldives,1991,0.0,1000 ha
+2895,Maldives,1992,0.0,1000 ha
+2896,Maldives,1993,0.0,1000 ha
+2897,Maldives,1994,0.0,1000 ha
+2898,Maldives,1995,0.0,1000 ha
+2899,Maldives,1996,0.0,1000 ha
+2900,Maldives,1997,0.0,1000 ha
+2901,Maldives,1998,0.0,1000 ha
+2902,Maldives,1999,0.0,1000 ha
+2903,Maldives,2000,0.0,1000 ha
+2904,Maldives,2001,0.0,1000 ha
+2905,Maldives,2002,0.0,1000 ha
+2906,Maldives,2003,0.0,1000 ha
+2907,Maldives,2004,0.0,1000 ha
+2908,Maldives,2005,0.0,1000 ha
+2909,Maldives,2006,0.0,1000 ha
+2910,Maldives,2007,0.0,1000 ha
+2911,Maldives,2008,0.0,1000 ha
+2912,Maldives,2009,0.0,1000 ha
+2913,Maldives,2010,0.0,1000 ha
+2914,Maldives,2011,0.0,1000 ha
+2915,Maldives,2012,0.0,1000 ha
+2916,Maldives,2013,0.0,1000 ha
+2917,Mali,1990,0.0,1000 ha
+2918,Mali,1991,0.0,1000 ha
+2919,Mali,1992,0.0,1000 ha
+2920,Mali,1993,0.0,1000 ha
+2921,Mali,1994,0.0,1000 ha
+2922,Mali,1995,0.0,1000 ha
+2923,Mali,1996,0.0,1000 ha
+2924,Mali,1997,0.0,1000 ha
+2925,Mali,1998,0.0,1000 ha
+2926,Mali,1999,0.0,1000 ha
+2927,Mali,2000,0.0,1000 ha
+2928,Mali,2001,0.0,1000 ha
+2929,Mali,2002,0.0,1000 ha
+2930,Mali,2003,0.0,1000 ha
+2931,Mali,2004,0.0,1000 ha
+2932,Mali,2005,0.0,1000 ha
+2933,Mali,2006,0.0,1000 ha
+2934,Mali,2007,0.0,1000 ha
+2935,Mali,2008,0.0,1000 ha
+2936,Mali,2009,0.0,1000 ha
+2937,Mali,2010,0.0,1000 ha
+2938,Mali,2011,0.0,1000 ha
+2939,Mali,2012,0.0,1000 ha
+2940,Mali,2013,0.0,1000 ha
+2941,Malta,1990,0.0,1000 ha
+2942,Malta,1991,0.0,1000 ha
+2943,Malta,1992,0.0,1000 ha
+2944,Malta,1993,0.0,1000 ha
+2945,Malta,1994,0.0,1000 ha
+2946,Malta,1995,0.0,1000 ha
+2947,Malta,1996,0.0,1000 ha
+2948,Malta,1997,0.0,1000 ha
+2949,Malta,1998,0.0,1000 ha
+2950,Malta,1999,0.0,1000 ha
+2951,Malta,2000,0.0,1000 ha
+2952,Malta,2001,0.0,1000 ha
+2953,Malta,2002,0.0,1000 ha
+2954,Malta,2003,0.0,1000 ha
+2955,Malta,2004,0.0,1000 ha
+2956,Malta,2005,0.0,1000 ha
+2957,Malta,2006,0.0,1000 ha
+2958,Malta,2007,0.0,1000 ha
+2959,Malta,2008,0.0,1000 ha
+2960,Malta,2009,0.0,1000 ha
+2961,Malta,2010,0.0,1000 ha
+2962,Malta,2011,0.0,1000 ha
+2963,Malta,2012,0.0,1000 ha
+2964,Malta,2013,0.0,1000 ha
+2965,Marshall Islands,1991,8.186,1000 ha
+2966,Marshall Islands,1992,8.186,1000 ha
+2967,Marshall Islands,1993,8.186,1000 ha
+2968,Marshall Islands,1994,8.186,1000 ha
+2969,Marshall Islands,1995,8.186,1000 ha
+2970,Marshall Islands,1996,8.186,1000 ha
+2971,Marshall Islands,1997,8.186,1000 ha
+2972,Marshall Islands,1998,8.186,1000 ha
+2973,Marshall Islands,1999,8.186,1000 ha
+2974,Marshall Islands,2000,8.186,1000 ha
+2975,Marshall Islands,2001,8.186,1000 ha
+2976,Marshall Islands,2002,8.186,1000 ha
+2977,Marshall Islands,2003,8.186,1000 ha
+2978,Marshall Islands,2004,8.186,1000 ha
+2979,Marshall Islands,2005,8.186,1000 ha
+2980,Marshall Islands,2006,8.186,1000 ha
+2981,Marshall Islands,2007,8.186,1000 ha
+2982,Marshall Islands,2008,8.186,1000 ha
+2983,Marshall Islands,2009,8.186,1000 ha
+2984,Marshall Islands,2010,8.186,1000 ha
+2985,Marshall Islands,2011,8.186,1000 ha
+2986,Marshall Islands,2012,8.186,1000 ha
+2987,Marshall Islands,2013,8.186,1000 ha
+2988,Martinique,1990,0.0,1000 ha
+2989,Martinique,1991,0.0,1000 ha
+2990,Martinique,1992,0.0,1000 ha
+2991,Martinique,1993,0.0,1000 ha
+2992,Martinique,1994,0.0,1000 ha
+2993,Martinique,1995,0.0,1000 ha
+2994,Martinique,1996,0.0,1000 ha
+2995,Martinique,1997,0.0,1000 ha
+2996,Martinique,1998,0.0,1000 ha
+2997,Martinique,1999,0.0,1000 ha
+2998,Martinique,2000,0.0,1000 ha
+2999,Martinique,2001,0.0,1000 ha
+3000,Martinique,2002,0.0,1000 ha
+3001,Martinique,2003,0.0,1000 ha
+3002,Martinique,2004,0.0,1000 ha
+3003,Martinique,2005,0.0,1000 ha
+3004,Martinique,2006,0.0,1000 ha
+3005,Martinique,2007,0.0,1000 ha
+3006,Martinique,2008,0.0,1000 ha
+3007,Martinique,2009,0.0,1000 ha
+3008,Martinique,2010,0.0,1000 ha
+3009,Martinique,2011,0.0,1000 ha
+3010,Martinique,2012,0.0,1000 ha
+3011,Martinique,2013,0.0,1000 ha
+3012,Mauritania,1990,0.0,1000 ha
+3013,Mauritania,1991,0.0,1000 ha
+3014,Mauritania,1992,0.0,1000 ha
+3015,Mauritania,1993,0.0,1000 ha
+3016,Mauritania,1994,0.0,1000 ha
+3017,Mauritania,1995,0.0,1000 ha
+3018,Mauritania,1996,0.0,1000 ha
+3019,Mauritania,1997,0.0,1000 ha
+3020,Mauritania,1998,0.0,1000 ha
+3021,Mauritania,1999,0.0,1000 ha
+3022,Mauritania,2000,0.0,1000 ha
+3023,Mauritania,2001,0.0,1000 ha
+3024,Mauritania,2002,0.0,1000 ha
+3025,Mauritania,2003,0.0,1000 ha
+3026,Mauritania,2004,0.0,1000 ha
+3027,Mauritania,2005,0.0,1000 ha
+3028,Mauritania,2006,0.0,1000 ha
+3029,Mauritania,2007,0.0,1000 ha
+3030,Mauritania,2008,0.0,1000 ha
+3031,Mauritania,2009,0.0,1000 ha
+3032,Mauritania,2010,0.0,1000 ha
+3033,Mauritania,2011,0.0,1000 ha
+3034,Mauritania,2012,0.0,1000 ha
+3035,Mauritania,2013,0.0,1000 ha
+3036,Mauritius,1990,0.0,1000 ha
+3037,Mauritius,1991,0.0,1000 ha
+3038,Mauritius,1992,0.0,1000 ha
+3039,Mauritius,1993,0.0,1000 ha
+3040,Mauritius,1994,0.0,1000 ha
+3041,Mauritius,1995,0.0,1000 ha
+3042,Mauritius,1996,0.0,1000 ha
+3043,Mauritius,1997,0.0,1000 ha
+3044,Mauritius,1998,0.0,1000 ha
+3045,Mauritius,1999,0.0,1000 ha
+3046,Mauritius,2000,0.0,1000 ha
+3047,Mauritius,2001,0.0,1000 ha
+3048,Mauritius,2002,0.0,1000 ha
+3049,Mauritius,2003,0.0,1000 ha
+3050,Mauritius,2004,0.0,1000 ha
+3051,Mauritius,2005,0.0,1000 ha
+3052,Mauritius,2006,0.0,1000 ha
+3053,Mauritius,2007,0.0,1000 ha
+3054,Mauritius,2008,0.0,1000 ha
+3055,Mauritius,2009,0.0,1000 ha
+3056,Mauritius,2010,0.0,1000 ha
+3057,Mauritius,2011,0.0,1000 ha
+3058,Mauritius,2012,0.0,1000 ha
+3059,Mauritius,2013,0.0,1000 ha
+3060,Mayotte,1990,1.45,1000 ha
+3061,Mayotte,1991,1.45,1000 ha
+3062,Mayotte,1992,1.45,1000 ha
+3063,Mayotte,1993,1.45,1000 ha
+3064,Mayotte,1994,1.45,1000 ha
+3065,Mayotte,1995,1.45,1000 ha
+3066,Mayotte,1996,1.45,1000 ha
+3067,Mayotte,1997,1.45,1000 ha
+3068,Mayotte,1998,1.45,1000 ha
+3069,Mayotte,1999,1.45,1000 ha
+3070,Mayotte,2000,1.45,1000 ha
+3071,Mayotte,2001,1.45,1000 ha
+3072,Mayotte,2002,1.45,1000 ha
+3073,Mayotte,2003,1.45,1000 ha
+3074,Mayotte,2004,1.45,1000 ha
+3075,Mayotte,2005,1.45,1000 ha
+3076,Mayotte,2006,1.45,1000 ha
+3077,Mayotte,2007,1.45,1000 ha
+3078,Mayotte,2008,1.45,1000 ha
+3079,Mayotte,2009,1.45,1000 ha
+3080,Mayotte,2010,1.45,1000 ha
+3081,Mayotte,2011,1.45,1000 ha
+3082,Mayotte,2012,1.45,1000 ha
+3083,Mayotte,2013,1.45,1000 ha
+3084,Mexico,1990,39443.0,1000 ha
+3085,Mexico,1991,39029.0,1000 ha
+3086,Mexico,1992,38615.0,1000 ha
+3087,Mexico,1993,38201.0,1000 ha
+3088,Mexico,1994,37787.0,1000 ha
+3089,Mexico,1995,37373.0,1000 ha
+3090,Mexico,1996,36959.0,1000 ha
+3091,Mexico,1997,36545.0,1000 ha
+3092,Mexico,1998,36131.0,1000 ha
+3093,Mexico,1999,35717.0,1000 ha
+3094,Mexico,2000,35303.0,1000 ha
+3095,Mexico,2001,35007.6,1000 ha
+3096,Mexico,2002,34712.2,1000 ha
+3097,Mexico,2003,34416.8,1000 ha
+3098,Mexico,2004,34121.4,1000 ha
+3099,Mexico,2005,33826.0,1000 ha
+3100,Mexico,2006,33694.4,1000 ha
+3101,Mexico,2007,33562.8,1000 ha
+3102,Mexico,2008,33431.2,1000 ha
+3103,Mexico,2009,33299.6,1000 ha
+3104,Mexico,2010,33168.0,1000 ha
+3105,Mexico,2011,33145.6,1000 ha
+3106,Mexico,2012,33123.2,1000 ha
+3107,Mexico,2013,33100.8,1000 ha
+3108,Micronesia (Federated States of),1991,40.0146,1000 ha
+3109,Micronesia (Federated States of),1992,40.4542,1000 ha
+3110,Micronesia (Federated States of),1993,40.8938,1000 ha
+3111,Micronesia (Federated States of),1994,41.3334,1000 ha
+3112,Micronesia (Federated States of),1995,41.773,1000 ha
+3113,Micronesia (Federated States of),1996,42.2126,1000 ha
+3114,Micronesia (Federated States of),1997,42.6522,1000 ha
+3115,Micronesia (Federated States of),1998,43.0918,1000 ha
+3116,Micronesia (Federated States of),1999,43.5314,1000 ha
+3117,Micronesia (Federated States of),2000,43.971000000000004,1000 ha
+3118,Micronesia (Federated States of),2001,44.4106,1000 ha
+3119,Micronesia (Federated States of),2002,44.8502,1000 ha
+3120,Micronesia (Federated States of),2003,45.2898,1000 ha
+3121,Micronesia (Federated States of),2004,45.7294,1000 ha
+3122,Micronesia (Federated States of),2005,46.169,1000 ha
+3123,Micronesia (Federated States of),2006,46.6086,1000 ha
+3124,Micronesia (Federated States of),2007,47.0482,1000 ha
+3125,Micronesia (Federated States of),2008,47.4878,1000 ha
+3126,Micronesia (Federated States of),2009,47.9274,1000 ha
+3127,Micronesia (Federated States of),2010,48.367,1000 ha
+3128,Micronesia (Federated States of),2011,48.367,1000 ha
+3129,Micronesia (Federated States of),2012,48.367,1000 ha
+3130,Micronesia (Federated States of),2013,48.367,1000 ha
+3131,Mongolia,1990,12534.0,1000 ha
+3132,Mongolia,1991,12452.01,1000 ha
+3133,Mongolia,1992,12370.02,1000 ha
+3134,Mongolia,1993,12288.03,1000 ha
+3135,Mongolia,1994,12206.04,1000 ha
+3136,Mongolia,1995,12124.05,1000 ha
+3137,Mongolia,1996,12042.06,1000 ha
+3138,Mongolia,1997,11960.07,1000 ha
+3139,Mongolia,1998,11878.08,1000 ha
+3140,Mongolia,1999,11796.09,1000 ha
+3141,Mongolia,2000,11714.1,1000 ha
+3142,Mongolia,2001,11632.34,1000 ha
+3143,Mongolia,2002,11550.58,1000 ha
+3144,Mongolia,2003,11468.82,1000 ha
+3145,Mongolia,2004,11387.06,1000 ha
+3146,Mongolia,2005,11305.3,1000 ha
+3147,Mongolia,2006,11651.92,1000 ha
+3148,Mongolia,2007,11998.54,1000 ha
+3149,Mongolia,2008,12345.16,1000 ha
+3150,Mongolia,2009,12691.78,1000 ha
+3151,Mongolia,2010,13038.4,1000 ha
+3152,Mongolia,2011,12941.04,1000 ha
+3153,Mongolia,2012,12843.68,1000 ha
+3154,Mongolia,2013,12746.32,1000 ha
+3155,Montenegro,2006,109.0,1000 ha
+3156,Montenegro,2007,109.0,1000 ha
+3157,Montenegro,2008,109.0,1000 ha
+3158,Montenegro,2009,109.0,1000 ha
+3159,Montenegro,2010,109.0,1000 ha
+3160,Montenegro,2011,109.0,1000 ha
+3161,Montenegro,2012,109.0,1000 ha
+3162,Montenegro,2013,109.0,1000 ha
+3163,Montserrat,1990,0.0,1000 ha
+3164,Montserrat,1991,0.0,1000 ha
+3165,Montserrat,1992,0.0,1000 ha
+3166,Montserrat,1993,0.0,1000 ha
+3167,Montserrat,1994,0.0,1000 ha
+3168,Montserrat,1995,0.0,1000 ha
+3169,Montserrat,1996,0.0,1000 ha
+3170,Montserrat,1997,0.0,1000 ha
+3171,Montserrat,1998,0.0,1000 ha
+3172,Montserrat,1999,0.0,1000 ha
+3173,Montserrat,2000,0.0,1000 ha
+3174,Montserrat,2001,0.0,1000 ha
+3175,Montserrat,2002,0.0,1000 ha
+3176,Montserrat,2003,0.0,1000 ha
+3177,Montserrat,2004,0.0,1000 ha
+3178,Montserrat,2005,0.0,1000 ha
+3179,Montserrat,2006,0.0,1000 ha
+3180,Montserrat,2007,0.0,1000 ha
+3181,Montserrat,2008,0.0,1000 ha
+3182,Montserrat,2009,0.0,1000 ha
+3183,Montserrat,2010,0.0,1000 ha
+3184,Montserrat,2011,0.0,1000 ha
+3185,Montserrat,2012,0.0,1000 ha
+3186,Montserrat,2013,0.0,1000 ha
+3187,Morocco,1990,0.0,1000 ha
+3188,Morocco,1991,0.0,1000 ha
+3189,Morocco,1992,0.0,1000 ha
+3190,Morocco,1993,0.0,1000 ha
+3191,Morocco,1994,0.0,1000 ha
+3192,Morocco,1995,0.0,1000 ha
+3193,Morocco,1996,0.0,1000 ha
+3194,Morocco,1997,0.0,1000 ha
+3195,Morocco,1998,0.0,1000 ha
+3196,Morocco,1999,0.0,1000 ha
+3197,Morocco,2000,0.0,1000 ha
+3198,Morocco,2001,0.0,1000 ha
+3199,Morocco,2002,0.0,1000 ha
+3200,Morocco,2003,0.0,1000 ha
+3201,Morocco,2004,0.0,1000 ha
+3202,Morocco,2005,0.0,1000 ha
+3203,Morocco,2006,0.0,1000 ha
+3204,Morocco,2007,0.0,1000 ha
+3205,Morocco,2008,0.0,1000 ha
+3206,Morocco,2009,0.0,1000 ha
+3207,Morocco,2010,0.0,1000 ha
+3208,Morocco,2011,0.0,1000 ha
+3209,Morocco,2012,0.0,1000 ha
+3210,Morocco,2013,0.0,1000 ha
+3211,Mozambique,1990,0.0,1000 ha
+3212,Mozambique,1991,0.0,1000 ha
+3213,Mozambique,1992,0.0,1000 ha
+3214,Mozambique,1993,0.0,1000 ha
+3215,Mozambique,1994,0.0,1000 ha
+3216,Mozambique,1995,0.0,1000 ha
+3217,Mozambique,1996,0.0,1000 ha
+3218,Mozambique,1997,0.0,1000 ha
+3219,Mozambique,1998,0.0,1000 ha
+3220,Mozambique,1999,0.0,1000 ha
+3221,Mozambique,2000,0.0,1000 ha
+3222,Mozambique,2001,0.0,1000 ha
+3223,Mozambique,2002,0.0,1000 ha
+3224,Mozambique,2003,0.0,1000 ha
+3225,Mozambique,2004,0.0,1000 ha
+3226,Mozambique,2005,0.0,1000 ha
+3227,Mozambique,2006,0.0,1000 ha
+3228,Mozambique,2007,0.0,1000 ha
+3229,Mozambique,2008,0.0,1000 ha
+3230,Mozambique,2009,0.0,1000 ha
+3231,Mozambique,2010,0.0,1000 ha
+3232,Mozambique,2011,0.0,1000 ha
+3233,Mozambique,2012,0.0,1000 ha
+3234,Mozambique,2013,0.0,1000 ha
+3235,Myanmar,1990,3192.0,1000 ha
+3236,Myanmar,1991,3192.0,1000 ha
+3237,Myanmar,1992,3192.0,1000 ha
+3238,Myanmar,1993,3192.0,1000 ha
+3239,Myanmar,1994,3192.0,1000 ha
+3240,Myanmar,1995,3192.0,1000 ha
+3241,Myanmar,1996,3192.0,1000 ha
+3242,Myanmar,1997,3192.0,1000 ha
+3243,Myanmar,1998,3192.0,1000 ha
+3244,Myanmar,1999,3192.0,1000 ha
+3245,Myanmar,2000,3192.0,1000 ha
+3246,Myanmar,2001,3192.0,1000 ha
+3247,Myanmar,2002,3192.0,1000 ha
+3248,Myanmar,2003,3192.0,1000 ha
+3249,Myanmar,2004,3192.0,1000 ha
+3250,Myanmar,2005,3192.0,1000 ha
+3251,Myanmar,2006,3192.0,1000 ha
+3252,Myanmar,2007,3192.0,1000 ha
+3253,Myanmar,2008,3192.0,1000 ha
+3254,Myanmar,2009,3192.0,1000 ha
+3255,Myanmar,2010,3192.0,1000 ha
+3256,Myanmar,2011,3192.0,1000 ha
+3257,Myanmar,2012,3192.0,1000 ha
+3258,Myanmar,2013,3192.0,1000 ha
+3259,Namibia,1990,0.0,1000 ha
+3260,Namibia,1991,0.0,1000 ha
+3261,Namibia,1992,0.0,1000 ha
+3262,Namibia,1993,0.0,1000 ha
+3263,Namibia,1994,0.0,1000 ha
+3264,Namibia,1995,0.0,1000 ha
+3265,Namibia,1996,0.0,1000 ha
+3266,Namibia,1997,0.0,1000 ha
+3267,Namibia,1998,0.0,1000 ha
+3268,Namibia,1999,0.0,1000 ha
+3269,Namibia,2000,0.0,1000 ha
+3270,Namibia,2001,0.0,1000 ha
+3271,Namibia,2002,0.0,1000 ha
+3272,Namibia,2003,0.0,1000 ha
+3273,Namibia,2004,0.0,1000 ha
+3274,Namibia,2005,0.0,1000 ha
+3275,Namibia,2006,0.0,1000 ha
+3276,Namibia,2007,0.0,1000 ha
+3277,Namibia,2008,0.0,1000 ha
+3278,Namibia,2009,0.0,1000 ha
+3279,Namibia,2010,0.0,1000 ha
+3280,Namibia,2011,0.0,1000 ha
+3281,Namibia,2012,0.0,1000 ha
+3282,Namibia,2013,0.0,1000 ha
+3283,Nauru,1990,0.0,1000 ha
+3284,Nauru,1991,0.0,1000 ha
+3285,Nauru,1992,0.0,1000 ha
+3286,Nauru,1993,0.0,1000 ha
+3287,Nauru,1994,0.0,1000 ha
+3288,Nauru,1995,0.0,1000 ha
+3289,Nauru,1996,0.0,1000 ha
+3290,Nauru,1997,0.0,1000 ha
+3291,Nauru,1998,0.0,1000 ha
+3292,Nauru,1999,0.0,1000 ha
+3293,Nauru,2000,0.0,1000 ha
+3294,Nauru,2001,0.0,1000 ha
+3295,Nauru,2002,0.0,1000 ha
+3296,Nauru,2003,0.0,1000 ha
+3297,Nauru,2004,0.0,1000 ha
+3298,Nauru,2005,0.0,1000 ha
+3299,Nauru,2006,0.0,1000 ha
+3300,Nauru,2007,0.0,1000 ha
+3301,Nauru,2008,0.0,1000 ha
+3302,Nauru,2009,0.0,1000 ha
+3303,Nauru,2010,0.0,1000 ha
+3304,Nauru,2011,0.0,1000 ha
+3305,Nauru,2012,0.0,1000 ha
+3306,Nauru,2013,0.0,1000 ha
+3307,Nepal,1990,548.0,1000 ha
+3308,Nepal,1991,548.0,1000 ha
+3309,Nepal,1992,548.0,1000 ha
+3310,Nepal,1993,548.0,1000 ha
+3311,Nepal,1994,548.0,1000 ha
+3312,Nepal,1995,548.0,1000 ha
+3313,Nepal,1996,548.0,1000 ha
+3314,Nepal,1997,548.0,1000 ha
+3315,Nepal,1998,548.0,1000 ha
+3316,Nepal,1999,548.0,1000 ha
+3317,Nepal,2000,548.0,1000 ha
+3318,Nepal,2001,543.6,1000 ha
+3319,Nepal,2002,539.2,1000 ha
+3320,Nepal,2003,534.8,1000 ha
+3321,Nepal,2004,530.4,1000 ha
+3322,Nepal,2005,526.0,1000 ha
+3323,Nepal,2006,526.0,1000 ha
+3324,Nepal,2007,526.0,1000 ha
+3325,Nepal,2008,526.0,1000 ha
+3326,Nepal,2009,526.0,1000 ha
+3327,Nepal,2010,526.0,1000 ha
+3328,Nepal,2011,526.0,1000 ha
+3329,Nepal,2012,526.0,1000 ha
+3330,Nepal,2013,526.0,1000 ha
+3331,Netherlands,1990,0.0,1000 ha
+3332,Netherlands,1991,0.0,1000 ha
+3333,Netherlands,1992,0.0,1000 ha
+3334,Netherlands,1993,0.0,1000 ha
+3335,Netherlands,1994,0.0,1000 ha
+3336,Netherlands,1995,0.0,1000 ha
+3337,Netherlands,1996,0.0,1000 ha
+3338,Netherlands,1997,0.0,1000 ha
+3339,Netherlands,1998,0.0,1000 ha
+3340,Netherlands,1999,0.0,1000 ha
+3341,Netherlands,2000,0.0,1000 ha
+3342,Netherlands,2001,0.0,1000 ha
+3343,Netherlands,2002,0.0,1000 ha
+3344,Netherlands,2003,0.0,1000 ha
+3345,Netherlands,2004,0.0,1000 ha
+3346,Netherlands,2005,0.0,1000 ha
+3347,Netherlands,2006,0.0,1000 ha
+3348,Netherlands,2007,0.0,1000 ha
+3349,Netherlands,2008,0.0,1000 ha
+3350,Netherlands,2009,0.0,1000 ha
+3351,Netherlands,2010,0.0,1000 ha
+3352,Netherlands,2011,0.0,1000 ha
+3353,Netherlands,2012,0.0,1000 ha
+3354,Netherlands,2013,0.0,1000 ha
+3355,Netherlands Antilles (former),1990,0.0,1000 ha
+3356,Netherlands Antilles (former),1991,0.0,1000 ha
+3357,Netherlands Antilles (former),1992,0.0,1000 ha
+3358,Netherlands Antilles (former),1993,0.0,1000 ha
+3359,Netherlands Antilles (former),1994,0.0,1000 ha
+3360,Netherlands Antilles (former),1995,0.0,1000 ha
+3361,Netherlands Antilles (former),1996,0.0,1000 ha
+3362,Netherlands Antilles (former),1997,0.0,1000 ha
+3363,Netherlands Antilles (former),1998,0.0,1000 ha
+3364,Netherlands Antilles (former),1999,0.0,1000 ha
+3365,Netherlands Antilles (former),2000,0.0,1000 ha
+3366,Netherlands Antilles (former),2001,0.0,1000 ha
+3367,Netherlands Antilles (former),2002,0.0,1000 ha
+3368,Netherlands Antilles (former),2003,0.0,1000 ha
+3369,Netherlands Antilles (former),2004,0.0,1000 ha
+3370,Netherlands Antilles (former),2005,0.0,1000 ha
+3371,Netherlands Antilles (former),2006,0.0,1000 ha
+3372,Netherlands Antilles (former),2007,0.0,1000 ha
+3373,Netherlands Antilles (former),2008,0.0,1000 ha
+3374,Netherlands Antilles (former),2009,0.0,1000 ha
+3375,Netherlands Antilles (former),2010,0.0,1000 ha
+3376,Netherlands Antilles (former),2011,0.0,1000 ha
+3377,Netherlands Antilles (former),2012,0.0,1000 ha
+3378,Netherlands Antilles (former),2013,0.0,1000 ha
+3379,New Caledonia,1990,431.0,1000 ha
+3380,New Caledonia,1991,431.0,1000 ha
+3381,New Caledonia,1992,431.0,1000 ha
+3382,New Caledonia,1993,431.0,1000 ha
+3383,New Caledonia,1994,431.0,1000 ha
+3384,New Caledonia,1995,431.0,1000 ha
+3385,New Caledonia,1996,431.0,1000 ha
+3386,New Caledonia,1997,431.0,1000 ha
+3387,New Caledonia,1998,431.0,1000 ha
+3388,New Caledonia,1999,431.0,1000 ha
+3389,New Caledonia,2000,431.0,1000 ha
+3390,New Caledonia,2001,431.0,1000 ha
+3391,New Caledonia,2002,431.0,1000 ha
+3392,New Caledonia,2003,431.0,1000 ha
+3393,New Caledonia,2004,431.0,1000 ha
+3394,New Caledonia,2005,431.0,1000 ha
+3395,New Caledonia,2006,431.0,1000 ha
+3396,New Caledonia,2007,431.0,1000 ha
+3397,New Caledonia,2008,431.0,1000 ha
+3398,New Caledonia,2009,431.0,1000 ha
+3399,New Caledonia,2010,431.0,1000 ha
+3400,New Caledonia,2011,431.0,1000 ha
+3401,New Caledonia,2012,431.0,1000 ha
+3402,New Caledonia,2013,431.0,1000 ha
+3403,New Zealand,1990,2144.0,1000 ha
+3404,New Zealand,1991,2144.0,1000 ha
+3405,New Zealand,1992,2144.0,1000 ha
+3406,New Zealand,1993,2144.0,1000 ha
+3407,New Zealand,1994,2144.0,1000 ha
+3408,New Zealand,1995,2144.0,1000 ha
+3409,New Zealand,1996,2144.0,1000 ha
+3410,New Zealand,1997,2144.0,1000 ha
+3411,New Zealand,1998,2144.0,1000 ha
+3412,New Zealand,1999,2144.0,1000 ha
+3413,New Zealand,2000,2144.0,1000 ha
+3414,New Zealand,2001,2144.0,1000 ha
+3415,New Zealand,2002,2144.0,1000 ha
+3416,New Zealand,2003,2144.0,1000 ha
+3417,New Zealand,2004,2144.0,1000 ha
+3418,New Zealand,2005,2144.0,1000 ha
+3419,New Zealand,2006,2144.0,1000 ha
+3420,New Zealand,2007,2144.0,1000 ha
+3421,New Zealand,2008,2144.0,1000 ha
+3422,New Zealand,2009,2144.0,1000 ha
+3423,New Zealand,2010,2144.0,1000 ha
+3424,New Zealand,2011,2147.2,1000 ha
+3425,New Zealand,2012,2150.4,1000 ha
+3426,New Zealand,2013,2153.6,1000 ha
+3427,Nicaragua,1990,1233.988,1000 ha
+3428,Nicaragua,1991,1233.988,1000 ha
+3429,Nicaragua,1992,1233.988,1000 ha
+3430,Nicaragua,1993,1233.988,1000 ha
+3431,Nicaragua,1994,1233.988,1000 ha
+3432,Nicaragua,1995,1233.988,1000 ha
+3433,Nicaragua,1996,1233.988,1000 ha
+3434,Nicaragua,1997,1233.988,1000 ha
+3435,Nicaragua,1998,1233.988,1000 ha
+3436,Nicaragua,1999,1233.988,1000 ha
+3437,Nicaragua,2000,1233.988,1000 ha
+3438,Nicaragua,2001,1233.988,1000 ha
+3439,Nicaragua,2002,1233.988,1000 ha
+3440,Nicaragua,2003,1233.988,1000 ha
+3441,Nicaragua,2004,1233.988,1000 ha
+3442,Nicaragua,2005,1233.988,1000 ha
+3443,Nicaragua,2006,1233.988,1000 ha
+3444,Nicaragua,2007,1233.988,1000 ha
+3445,Nicaragua,2008,1233.988,1000 ha
+3446,Nicaragua,2009,1233.988,1000 ha
+3447,Nicaragua,2010,1233.988,1000 ha
+3448,Nicaragua,2011,1233.9904,1000 ha
+3449,Nicaragua,2012,1233.9928,1000 ha
+3450,Nicaragua,2013,1233.9952,1000 ha
+3451,Niger,1990,220.0,1000 ha
+3452,Niger,1991,220.0,1000 ha
+3453,Niger,1992,220.0,1000 ha
+3454,Niger,1993,220.0,1000 ha
+3455,Niger,1994,220.0,1000 ha
+3456,Niger,1995,220.0,1000 ha
+3457,Niger,1996,220.0,1000 ha
+3458,Niger,1997,220.0,1000 ha
+3459,Niger,1998,220.0,1000 ha
+3460,Niger,1999,220.0,1000 ha
+3461,Niger,2000,220.0,1000 ha
+3462,Niger,2001,220.0,1000 ha
+3463,Niger,2002,220.0,1000 ha
+3464,Niger,2003,220.0,1000 ha
+3465,Niger,2004,220.0,1000 ha
+3466,Niger,2005,220.0,1000 ha
+3467,Niger,2006,220.0,1000 ha
+3468,Niger,2007,220.0,1000 ha
+3469,Niger,2008,220.0,1000 ha
+3470,Niger,2009,220.0,1000 ha
+3471,Niger,2010,220.0,1000 ha
+3472,Niger,2011,220.0,1000 ha
+3473,Niger,2012,220.0,1000 ha
+3474,Niger,2013,220.0,1000 ha
+3475,Nigeria,1990,1556.0,1000 ha
+3476,Nigeria,1991,1474.0,1000 ha
+3477,Nigeria,1992,1392.0,1000 ha
+3478,Nigeria,1993,1310.0,1000 ha
+3479,Nigeria,1994,1228.0,1000 ha
+3480,Nigeria,1995,1146.0,1000 ha
+3481,Nigeria,1996,1064.0,1000 ha
+3482,Nigeria,1997,982.0,1000 ha
+3483,Nigeria,1998,900.0,1000 ha
+3484,Nigeria,1999,818.0,1000 ha
+3485,Nigeria,2000,736.0,1000 ha
+3486,Nigeria,2001,654.0,1000 ha
+3487,Nigeria,2002,572.0,1000 ha
+3488,Nigeria,2003,490.0,1000 ha
+3489,Nigeria,2004,408.0,1000 ha
+3490,Nigeria,2005,326.0,1000 ha
+3491,Nigeria,2006,271.6,1000 ha
+3492,Nigeria,2007,217.2,1000 ha
+3493,Nigeria,2008,162.8,1000 ha
+3494,Nigeria,2009,108.4,1000 ha
+3495,Nigeria,2010,54.0,1000 ha
+3496,Nigeria,2011,47.2,1000 ha
+3497,Nigeria,2012,40.4,1000 ha
+3498,Nigeria,2013,33.6,1000 ha
+3499,Niue,1990,5.6,1000 ha
+3500,Niue,1991,5.6,1000 ha
+3501,Niue,1992,5.6,1000 ha
+3502,Niue,1993,5.6,1000 ha
+3503,Niue,1994,5.6,1000 ha
+3504,Niue,1995,5.6,1000 ha
+3505,Niue,1996,5.6,1000 ha
+3506,Niue,1997,5.6,1000 ha
+3507,Niue,1998,5.6,1000 ha
+3508,Niue,1999,5.6,1000 ha
+3509,Niue,2000,5.6,1000 ha
+3510,Niue,2001,5.6,1000 ha
+3511,Niue,2002,5.6,1000 ha
+3512,Niue,2003,5.6,1000 ha
+3513,Niue,2004,5.6,1000 ha
+3514,Niue,2005,5.6,1000 ha
+3515,Niue,2006,5.6,1000 ha
+3516,Niue,2007,5.6,1000 ha
+3517,Niue,2008,5.6,1000 ha
+3518,Niue,2009,5.6,1000 ha
+3519,Niue,2010,5.6,1000 ha
+3520,Niue,2011,5.6,1000 ha
+3521,Niue,2012,5.6,1000 ha
+3522,Niue,2013,5.6,1000 ha
+3523,Norfolk Island,1990,0.0,1000 ha
+3524,Norfolk Island,1991,0.0,1000 ha
+3525,Norfolk Island,1992,0.0,1000 ha
+3526,Norfolk Island,1993,0.0,1000 ha
+3527,Norfolk Island,1994,0.0,1000 ha
+3528,Norfolk Island,1995,0.0,1000 ha
+3529,Norfolk Island,1996,0.0,1000 ha
+3530,Norfolk Island,1997,0.0,1000 ha
+3531,Norfolk Island,1998,0.0,1000 ha
+3532,Norfolk Island,1999,0.0,1000 ha
+3533,Norfolk Island,2000,0.0,1000 ha
+3534,Norfolk Island,2001,0.0,1000 ha
+3535,Norfolk Island,2002,0.0,1000 ha
+3536,Norfolk Island,2003,0.0,1000 ha
+3537,Norfolk Island,2004,0.0,1000 ha
+3538,Norfolk Island,2005,0.0,1000 ha
+3539,Norfolk Island,2006,0.0,1000 ha
+3540,Norfolk Island,2007,0.0,1000 ha
+3541,Norfolk Island,2008,0.0,1000 ha
+3542,Norfolk Island,2009,0.0,1000 ha
+3543,Norfolk Island,2010,0.0,1000 ha
+3544,Norfolk Island,2011,0.0,1000 ha
+3545,Norfolk Island,2012,0.0,1000 ha
+3546,Norfolk Island,2013,0.0,1000 ha
+3547,North Macedonia,1992,0.0,1000 ha
+3548,North Macedonia,1993,0.0,1000 ha
+3549,North Macedonia,1994,0.0,1000 ha
+3550,North Macedonia,1995,0.0,1000 ha
+3551,North Macedonia,1996,0.0,1000 ha
+3552,North Macedonia,1997,0.0,1000 ha
+3553,North Macedonia,1998,0.0,1000 ha
+3554,North Macedonia,1999,0.0,1000 ha
+3555,North Macedonia,2000,0.0,1000 ha
+3556,North Macedonia,2001,0.0,1000 ha
+3557,North Macedonia,2002,0.0,1000 ha
+3558,North Macedonia,2003,0.0,1000 ha
+3559,North Macedonia,2004,0.0,1000 ha
+3560,North Macedonia,2005,0.0,1000 ha
+3561,North Macedonia,2006,0.0,1000 ha
+3562,North Macedonia,2007,0.0,1000 ha
+3563,North Macedonia,2008,0.0,1000 ha
+3564,North Macedonia,2009,0.0,1000 ha
+3565,North Macedonia,2010,0.0,1000 ha
+3566,North Macedonia,2011,0.0,1000 ha
+3567,North Macedonia,2012,0.0,1000 ha
+3568,North Macedonia,2013,0.0,1000 ha
+3569,Northern Mariana Islands,1991,9.9816,1000 ha
+3570,Northern Mariana Islands,1992,9.8882,1000 ha
+3571,Northern Mariana Islands,1993,9.7948,1000 ha
+3572,Northern Mariana Islands,1994,9.7014,1000 ha
+3573,Northern Mariana Islands,1995,9.607999999999999,1000 ha
+3574,Northern Mariana Islands,1996,9.5146,1000 ha
+3575,Northern Mariana Islands,1997,9.4212,1000 ha
+3576,Northern Mariana Islands,1998,9.3278,1000 ha
+3577,Northern Mariana Islands,1999,9.2344,1000 ha
+3578,Northern Mariana Islands,2000,9.141,1000 ha
+3579,Northern Mariana Islands,2001,9.0476,1000 ha
+3580,Northern Mariana Islands,2002,8.9542,1000 ha
+3581,Northern Mariana Islands,2003,8.8608,1000 ha
+3582,Northern Mariana Islands,2004,8.7674,1000 ha
+3583,Northern Mariana Islands,2005,8.674,1000 ha
+3584,Northern Mariana Islands,2006,8.5806,1000 ha
+3585,Northern Mariana Islands,2007,8.4872,1000 ha
+3586,Northern Mariana Islands,2008,8.3938,1000 ha
+3587,Northern Mariana Islands,2009,8.3004,1000 ha
+3588,Northern Mariana Islands,2010,8.207,1000 ha
+3589,Northern Mariana Islands,2011,8.1136,1000 ha
+3590,Northern Mariana Islands,2012,8.0202,1000 ha
+3591,Northern Mariana Islands,2013,7.9268,1000 ha
+3592,Norway,1990,160.0,1000 ha
+3593,Norway,1991,160.0,1000 ha
+3594,Norway,1992,160.0,1000 ha
+3595,Norway,1993,160.0,1000 ha
+3596,Norway,1994,160.0,1000 ha
+3597,Norway,1995,160.0,1000 ha
+3598,Norway,1996,160.0,1000 ha
+3599,Norway,1997,160.0,1000 ha
+3600,Norway,1998,160.0,1000 ha
+3601,Norway,1999,160.0,1000 ha
+3602,Norway,2000,160.0,1000 ha
+3603,Norway,2001,160.0,1000 ha
+3604,Norway,2002,160.0,1000 ha
+3605,Norway,2003,160.0,1000 ha
+3606,Norway,2004,160.0,1000 ha
+3607,Norway,2005,160.0,1000 ha
+3608,Norway,2006,160.0,1000 ha
+3609,Norway,2007,160.0,1000 ha
+3610,Norway,2008,160.0,1000 ha
+3611,Norway,2009,160.0,1000 ha
+3612,Norway,2010,160.0,1000 ha
+3613,Norway,2011,160.0,1000 ha
+3614,Norway,2012,160.0,1000 ha
+3615,Norway,2013,160.0,1000 ha
+3616,Oman,1990,0.0,1000 ha
+3617,Oman,1991,0.0,1000 ha
+3618,Oman,1992,0.0,1000 ha
+3619,Oman,1993,0.0,1000 ha
+3620,Oman,1994,0.0,1000 ha
+3621,Oman,1995,0.0,1000 ha
+3622,Oman,1996,0.0,1000 ha
+3623,Oman,1997,0.0,1000 ha
+3624,Oman,1998,0.0,1000 ha
+3625,Oman,1999,0.0,1000 ha
+3626,Oman,2000,0.0,1000 ha
+3627,Oman,2001,0.0,1000 ha
+3628,Oman,2002,0.0,1000 ha
+3629,Oman,2003,0.0,1000 ha
+3630,Oman,2004,0.0,1000 ha
+3631,Oman,2005,0.0,1000 ha
+3632,Oman,2006,0.0,1000 ha
+3633,Oman,2007,0.0,1000 ha
+3634,Oman,2008,0.0,1000 ha
+3635,Oman,2009,0.0,1000 ha
+3636,Oman,2010,0.0,1000 ha
+3637,Oman,2011,0.0,1000 ha
+3638,Oman,2012,0.0,1000 ha
+3639,Oman,2013,0.0,1000 ha
+3640,Pacific Islands Trust Territory,1990,57.836000000000006,1000 ha
+3641,Pakistan,1990,0.0,1000 ha
+3642,Pakistan,1991,0.0,1000 ha
+3643,Pakistan,1992,0.0,1000 ha
+3644,Pakistan,1993,0.0,1000 ha
+3645,Pakistan,1994,0.0,1000 ha
+3646,Pakistan,1995,0.0,1000 ha
+3647,Pakistan,1996,0.0,1000 ha
+3648,Pakistan,1997,0.0,1000 ha
+3649,Pakistan,1998,0.0,1000 ha
+3650,Pakistan,1999,0.0,1000 ha
+3651,Pakistan,2000,0.0,1000 ha
+3652,Pakistan,2001,0.0,1000 ha
+3653,Pakistan,2002,0.0,1000 ha
+3654,Pakistan,2003,0.0,1000 ha
+3655,Pakistan,2004,0.0,1000 ha
+3656,Pakistan,2005,0.0,1000 ha
+3657,Pakistan,2006,0.0,1000 ha
+3658,Pakistan,2007,0.0,1000 ha
+3659,Pakistan,2008,0.0,1000 ha
+3660,Pakistan,2009,0.0,1000 ha
+3661,Pakistan,2010,0.0,1000 ha
+3662,Pakistan,2011,0.0,1000 ha
+3663,Pakistan,2012,0.0,1000 ha
+3664,Pakistan,2013,0.0,1000 ha
+3665,Palau,1991,0.0,1000 ha
+3666,Palau,1992,0.0,1000 ha
+3667,Palau,1993,0.0,1000 ha
+3668,Palau,1994,0.0,1000 ha
+3669,Palau,1995,0.0,1000 ha
+3670,Palau,1996,0.0,1000 ha
+3671,Palau,1997,0.0,1000 ha
+3672,Palau,1998,0.0,1000 ha
+3673,Palau,1999,0.0,1000 ha
+3674,Palau,2000,0.0,1000 ha
+3675,Palau,2001,0.0,1000 ha
+3676,Palau,2002,0.0,1000 ha
+3677,Palau,2003,0.0,1000 ha
+3678,Palau,2004,0.0,1000 ha
+3679,Palau,2005,0.0,1000 ha
+3680,Palau,2006,0.0,1000 ha
+3681,Palau,2007,0.0,1000 ha
+3682,Palau,2008,0.0,1000 ha
+3683,Palau,2009,0.0,1000 ha
+3684,Palau,2010,0.0,1000 ha
+3685,Palau,2011,0.0,1000 ha
+3686,Palau,2012,0.0,1000 ha
+3687,Palau,2013,0.0,1000 ha
+3688,Palestine,1990,0.0,1000 ha
+3689,Palestine,1991,0.0,1000 ha
+3690,Palestine,1992,0.0,1000 ha
+3691,Palestine,1993,0.0,1000 ha
+3692,Palestine,1994,0.0,1000 ha
+3693,Palestine,1995,0.0,1000 ha
+3694,Palestine,1996,0.0,1000 ha
+3695,Palestine,1997,0.0,1000 ha
+3696,Palestine,1998,0.0,1000 ha
+3697,Palestine,1999,0.0,1000 ha
+3698,Palestine,2000,0.0,1000 ha
+3699,Palestine,2001,0.0,1000 ha
+3700,Palestine,2002,0.0,1000 ha
+3701,Palestine,2003,0.0,1000 ha
+3702,Palestine,2004,0.0,1000 ha
+3703,Palestine,2005,0.0,1000 ha
+3704,Palestine,2006,0.0,1000 ha
+3705,Palestine,2007,0.0,1000 ha
+3706,Palestine,2008,0.0,1000 ha
+3707,Palestine,2009,0.0,1000 ha
+3708,Palestine,2010,0.0,1000 ha
+3709,Palestine,2011,0.0,1000 ha
+3710,Palestine,2012,0.0,1000 ha
+3711,Palestine,2013,0.0,1000 ha
+3712,Panama,1990,0.0,1000 ha
+3713,Panama,1991,0.0,1000 ha
+3714,Panama,1992,0.0,1000 ha
+3715,Panama,1993,0.0,1000 ha
+3716,Panama,1994,0.0,1000 ha
+3717,Panama,1995,0.0,1000 ha
+3718,Panama,1996,0.0,1000 ha
+3719,Panama,1997,0.0,1000 ha
+3720,Panama,1998,0.0,1000 ha
+3721,Panama,1999,0.0,1000 ha
+3722,Panama,2000,0.0,1000 ha
+3723,Panama,2001,0.0,1000 ha
+3724,Panama,2002,0.0,1000 ha
+3725,Panama,2003,0.0,1000 ha
+3726,Panama,2004,0.0,1000 ha
+3727,Panama,2005,0.0,1000 ha
+3728,Panama,2006,0.0,1000 ha
+3729,Panama,2007,0.0,1000 ha
+3730,Panama,2008,0.0,1000 ha
+3731,Panama,2009,0.0,1000 ha
+3732,Panama,2010,0.0,1000 ha
+3733,Panama,2011,0.0,1000 ha
+3734,Panama,2012,0.0,1000 ha
+3735,Panama,2013,0.0,1000 ha
+3736,Papua New Guinea,1990,31329.0,1000 ha
+3737,Papua New Guinea,1991,30779.8,1000 ha
+3738,Papua New Guinea,1992,30230.6,1000 ha
+3739,Papua New Guinea,1993,29681.4,1000 ha
+3740,Papua New Guinea,1994,29132.2,1000 ha
+3741,Papua New Guinea,1995,28583.0,1000 ha
+3742,Papua New Guinea,1996,28033.8,1000 ha
+3743,Papua New Guinea,1997,27484.6,1000 ha
+3744,Papua New Guinea,1998,26935.4,1000 ha
+3745,Papua New Guinea,1999,26386.2,1000 ha
+3746,Papua New Guinea,2000,25837.0,1000 ha
+3747,Papua New Guinea,2001,25287.8,1000 ha
+3748,Papua New Guinea,2002,24738.6,1000 ha
+3749,Papua New Guinea,2003,24189.4,1000 ha
+3750,Papua New Guinea,2004,23640.2,1000 ha
+3751,Papua New Guinea,2005,23091.0,1000 ha
+3752,Papua New Guinea,2006,22541.8,1000 ha
+3753,Papua New Guinea,2007,21992.6,1000 ha
+3754,Papua New Guinea,2008,21443.4,1000 ha
+3755,Papua New Guinea,2009,20894.2,1000 ha
+3756,Papua New Guinea,2010,20345.0,1000 ha
+3757,Papua New Guinea,2011,19795.8,1000 ha
+3758,Papua New Guinea,2012,19246.6,1000 ha
+3759,Papua New Guinea,2013,18697.4,1000 ha
+3760,Paraguay,1990,1850.0,1000 ha
+3761,Paraguay,1991,1850.0,1000 ha
+3762,Paraguay,1992,1850.0,1000 ha
+3763,Paraguay,1993,1850.0,1000 ha
+3764,Paraguay,1994,1850.0,1000 ha
+3765,Paraguay,1995,1850.0,1000 ha
+3766,Paraguay,1996,1850.0,1000 ha
+3767,Paraguay,1997,1850.0,1000 ha
+3768,Paraguay,1998,1850.0,1000 ha
+3769,Paraguay,1999,1850.0,1000 ha
+3770,Paraguay,2000,1850.0,1000 ha
+3771,Paraguay,2001,1850.0,1000 ha
+3772,Paraguay,2002,1850.0,1000 ha
+3773,Paraguay,2003,1850.0,1000 ha
+3774,Paraguay,2004,1850.0,1000 ha
+3775,Paraguay,2005,1850.0,1000 ha
+3776,Paraguay,2006,1856.8,1000 ha
+3777,Paraguay,2007,1863.6,1000 ha
+3778,Paraguay,2008,1870.4,1000 ha
+3779,Paraguay,2009,1877.2,1000 ha
+3780,Paraguay,2010,1884.0,1000 ha
+3781,Paraguay,2011,1884.0,1000 ha
+3782,Paraguay,2012,1884.0,1000 ha
+3783,Paraguay,2013,1884.0,1000 ha
+3784,Peru,1990,69632.0,1000 ha
+3785,Peru,1991,69437.2,1000 ha
+3786,Peru,1992,69242.4,1000 ha
+3787,Peru,1993,69047.6,1000 ha
+3788,Peru,1994,68852.8,1000 ha
+3789,Peru,1995,68658.0,1000 ha
+3790,Peru,1996,68463.2,1000 ha
+3791,Peru,1997,68268.4,1000 ha
+3792,Peru,1998,68073.6,1000 ha
+3793,Peru,1999,67878.8,1000 ha
+3794,Peru,2000,67684.0,1000 ha
+3795,Peru,2001,67576.8,1000 ha
+3796,Peru,2002,67469.6,1000 ha
+3797,Peru,2003,67362.4,1000 ha
+3798,Peru,2004,67255.2,1000 ha
+3799,Peru,2005,67148.0,1000 ha
+3800,Peru,2006,67023.2,1000 ha
+3801,Peru,2007,66898.4,1000 ha
+3802,Peru,2008,66773.6,1000 ha
+3803,Peru,2009,66648.8,1000 ha
+3804,Peru,2010,66524.0,1000 ha
+3805,Peru,2011,66377.2,1000 ha
+3806,Peru,2012,66230.4,1000 ha
+3807,Peru,2013,66083.6,1000 ha
+3808,Philippines,1990,861.0,1000 ha
+3809,Philippines,1991,861.0,1000 ha
+3810,Philippines,1992,861.0,1000 ha
+3811,Philippines,1993,861.0,1000 ha
+3812,Philippines,1994,861.0,1000 ha
+3813,Philippines,1995,861.0,1000 ha
+3814,Philippines,1996,861.0,1000 ha
+3815,Philippines,1997,861.0,1000 ha
+3816,Philippines,1998,861.0,1000 ha
+3817,Philippines,1999,861.0,1000 ha
+3818,Philippines,2000,861.0,1000 ha
+3819,Philippines,2001,861.0,1000 ha
+3820,Philippines,2002,861.0,1000 ha
+3821,Philippines,2003,861.0,1000 ha
+3822,Philippines,2004,861.0,1000 ha
+3823,Philippines,2005,861.0,1000 ha
+3824,Philippines,2006,861.0,1000 ha
+3825,Philippines,2007,861.0,1000 ha
+3826,Philippines,2008,861.0,1000 ha
+3827,Philippines,2009,861.0,1000 ha
+3828,Philippines,2010,861.0,1000 ha
+3829,Philippines,2011,861.0,1000 ha
+3830,Philippines,2012,861.0,1000 ha
+3831,Philippines,2013,861.0,1000 ha
+3832,Pitcairn Islands,1990,0.0,1000 ha
+3833,Pitcairn Islands,1991,0.0,1000 ha
+3834,Pitcairn Islands,1992,0.0,1000 ha
+3835,Pitcairn Islands,1993,0.0,1000 ha
+3836,Pitcairn Islands,1994,0.0,1000 ha
+3837,Pitcairn Islands,1995,0.0,1000 ha
+3838,Pitcairn Islands,1996,0.0,1000 ha
+3839,Pitcairn Islands,1997,0.0,1000 ha
+3840,Pitcairn Islands,1998,0.0,1000 ha
+3841,Pitcairn Islands,1999,0.0,1000 ha
+3842,Pitcairn Islands,2000,0.0,1000 ha
+3843,Pitcairn Islands,2001,0.0,1000 ha
+3844,Pitcairn Islands,2002,0.0,1000 ha
+3845,Pitcairn Islands,2003,0.0,1000 ha
+3846,Pitcairn Islands,2004,0.0,1000 ha
+3847,Pitcairn Islands,2005,0.0,1000 ha
+3848,Pitcairn Islands,2006,0.0,1000 ha
+3849,Pitcairn Islands,2007,0.0,1000 ha
+3850,Pitcairn Islands,2008,0.0,1000 ha
+3851,Pitcairn Islands,2009,0.0,1000 ha
+3852,Pitcairn Islands,2010,0.0,1000 ha
+3853,Pitcairn Islands,2011,0.0,1000 ha
+3854,Pitcairn Islands,2012,0.0,1000 ha
+3855,Pitcairn Islands,2013,0.0,1000 ha
+3856,Poland,1990,30.0,1000 ha
+3857,Poland,1991,32.1,1000 ha
+3858,Poland,1992,34.2,1000 ha
+3859,Poland,1993,36.3,1000 ha
+3860,Poland,1994,38.4,1000 ha
+3861,Poland,1995,40.5,1000 ha
+3862,Poland,1996,42.6,1000 ha
+3863,Poland,1997,44.7,1000 ha
+3864,Poland,1998,46.8,1000 ha
+3865,Poland,1999,48.9,1000 ha
+3866,Poland,2000,51.0,1000 ha
+3867,Poland,2001,51.6,1000 ha
+3868,Poland,2002,52.2,1000 ha
+3869,Poland,2003,52.8,1000 ha
+3870,Poland,2004,53.4,1000 ha
+3871,Poland,2005,54.0,1000 ha
+3872,Poland,2006,54.4,1000 ha
+3873,Poland,2007,54.8,1000 ha
+3874,Poland,2008,55.2,1000 ha
+3875,Poland,2009,55.6,1000 ha
+3876,Poland,2010,56.0,1000 ha
+3877,Poland,2011,56.6,1000 ha
+3878,Poland,2012,57.2,1000 ha
+3879,Poland,2013,57.8,1000 ha
+3880,Portugal,1990,24.1,1000 ha
+3881,Portugal,1991,24.1,1000 ha
+3882,Portugal,1992,24.1,1000 ha
+3883,Portugal,1993,24.1,1000 ha
+3884,Portugal,1994,24.1,1000 ha
+3885,Portugal,1995,24.1,1000 ha
+3886,Portugal,1996,24.1,1000 ha
+3887,Portugal,1997,24.1,1000 ha
+3888,Portugal,1998,24.1,1000 ha
+3889,Portugal,1999,24.1,1000 ha
+3890,Portugal,2000,24.1,1000 ha
+3891,Portugal,2001,24.1,1000 ha
+3892,Portugal,2002,24.1,1000 ha
+3893,Portugal,2003,24.1,1000 ha
+3894,Portugal,2004,24.1,1000 ha
+3895,Portugal,2005,24.1,1000 ha
+3896,Portugal,2006,24.1,1000 ha
+3897,Portugal,2007,24.1,1000 ha
+3898,Portugal,2008,24.1,1000 ha
+3899,Portugal,2009,24.1,1000 ha
+3900,Portugal,2010,24.1,1000 ha
+3901,Portugal,2011,24.1,1000 ha
+3902,Portugal,2012,24.1,1000 ha
+3903,Portugal,2013,24.1,1000 ha
+3904,Puerto Rico,1990,0.0,1000 ha
+3905,Puerto Rico,1991,0.0,1000 ha
+3906,Puerto Rico,1992,0.0,1000 ha
+3907,Puerto Rico,1993,0.0,1000 ha
+3908,Puerto Rico,1994,0.0,1000 ha
+3909,Puerto Rico,1995,0.0,1000 ha
+3910,Puerto Rico,1996,0.0,1000 ha
+3911,Puerto Rico,1997,0.0,1000 ha
+3912,Puerto Rico,1998,0.0,1000 ha
+3913,Puerto Rico,1999,0.0,1000 ha
+3914,Puerto Rico,2000,0.0,1000 ha
+3915,Puerto Rico,2001,0.0,1000 ha
+3916,Puerto Rico,2002,0.0,1000 ha
+3917,Puerto Rico,2003,0.0,1000 ha
+3918,Puerto Rico,2004,0.0,1000 ha
+3919,Puerto Rico,2005,0.0,1000 ha
+3920,Puerto Rico,2006,0.0,1000 ha
+3921,Puerto Rico,2007,0.0,1000 ha
+3922,Puerto Rico,2008,0.0,1000 ha
+3923,Puerto Rico,2009,0.0,1000 ha
+3924,Puerto Rico,2010,0.0,1000 ha
+3925,Puerto Rico,2011,0.0,1000 ha
+3926,Puerto Rico,2012,0.0,1000 ha
+3927,Puerto Rico,2013,0.0,1000 ha
+3928,Qatar,1990,0.0,1000 ha
+3929,Qatar,1991,0.0,1000 ha
+3930,Qatar,1992,0.0,1000 ha
+3931,Qatar,1993,0.0,1000 ha
+3932,Qatar,1994,0.0,1000 ha
+3933,Qatar,1995,0.0,1000 ha
+3934,Qatar,1996,0.0,1000 ha
+3935,Qatar,1997,0.0,1000 ha
+3936,Qatar,1998,0.0,1000 ha
+3937,Qatar,1999,0.0,1000 ha
+3938,Qatar,2000,0.0,1000 ha
+3939,Qatar,2001,0.0,1000 ha
+3940,Qatar,2002,0.0,1000 ha
+3941,Qatar,2003,0.0,1000 ha
+3942,Qatar,2004,0.0,1000 ha
+3943,Qatar,2005,0.0,1000 ha
+3944,Qatar,2006,0.0,1000 ha
+3945,Qatar,2007,0.0,1000 ha
+3946,Qatar,2008,0.0,1000 ha
+3947,Qatar,2009,0.0,1000 ha
+3948,Qatar,2010,0.0,1000 ha
+3949,Qatar,2011,0.0,1000 ha
+3950,Qatar,2012,0.0,1000 ha
+3951,Qatar,2013,0.0,1000 ha
+3952,Republic of Korea,1990,4277.0,1000 ha
+3953,Republic of Korea,1991,4277.0,1000 ha
+3954,Republic of Korea,1992,4277.0,1000 ha
+3955,Republic of Korea,1993,4277.0,1000 ha
+3956,Republic of Korea,1994,4277.0,1000 ha
+3957,Republic of Korea,1995,4277.0,1000 ha
+3958,Republic of Korea,1996,4277.0,1000 ha
+3959,Republic of Korea,1997,4277.0,1000 ha
+3960,Republic of Korea,1998,4277.0,1000 ha
+3961,Republic of Korea,1999,4277.0,1000 ha
+3962,Republic of Korea,2000,4277.0,1000 ha
+3963,Republic of Korea,2001,4145.0,1000 ha
+3964,Republic of Korea,2002,4013.0,1000 ha
+3965,Republic of Korea,2003,3881.0,1000 ha
+3966,Republic of Korea,2004,3749.0,1000 ha
+3967,Republic of Korea,2005,3617.0,1000 ha
+3968,Republic of Korea,2006,3601.6,1000 ha
+3969,Republic of Korea,2007,3586.2,1000 ha
+3970,Republic of Korea,2008,3570.8,1000 ha
+3971,Republic of Korea,2009,3555.4,1000 ha
+3972,Republic of Korea,2010,3540.0,1000 ha
+3973,Republic of Korea,2011,3524.0,1000 ha
+3974,Republic of Korea,2012,3508.0,1000 ha
+3975,Republic of Korea,2013,3492.0,1000 ha
+3976,Republic of Moldova,1992,0.0,1000 ha
+3977,Republic of Moldova,1993,0.0,1000 ha
+3978,Republic of Moldova,1994,0.0,1000 ha
+3979,Republic of Moldova,1995,0.0,1000 ha
+3980,Republic of Moldova,1996,0.0,1000 ha
+3981,Republic of Moldova,1997,0.0,1000 ha
+3982,Republic of Moldova,1998,0.0,1000 ha
+3983,Republic of Moldova,1999,0.0,1000 ha
+3984,Republic of Moldova,2000,0.0,1000 ha
+3985,Republic of Moldova,2001,0.0,1000 ha
+3986,Republic of Moldova,2002,0.0,1000 ha
+3987,Republic of Moldova,2003,0.0,1000 ha
+3988,Republic of Moldova,2004,0.0,1000 ha
+3989,Republic of Moldova,2005,0.0,1000 ha
+3990,Republic of Moldova,2006,0.0,1000 ha
+3991,Republic of Moldova,2007,0.0,1000 ha
+3992,Republic of Moldova,2008,0.0,1000 ha
+3993,Republic of Moldova,2009,0.0,1000 ha
+3994,Republic of Moldova,2010,0.0,1000 ha
+3995,Republic of Moldova,2011,0.0,1000 ha
+3996,Republic of Moldova,2012,0.0,1000 ha
+3997,Republic of Moldova,2013,0.0,1000 ha
+3998,Réunion,1990,55.0,1000 ha
+3999,Réunion,1991,55.0,1000 ha
+4000,Réunion,1992,55.0,1000 ha
+4001,Réunion,1993,55.0,1000 ha
+4002,Réunion,1994,55.0,1000 ha
+4003,Réunion,1995,55.0,1000 ha
+4004,Réunion,1996,55.0,1000 ha
+4005,Réunion,1997,55.0,1000 ha
+4006,Réunion,1998,55.0,1000 ha
+4007,Réunion,1999,55.0,1000 ha
+4008,Réunion,2000,55.0,1000 ha
+4009,Réunion,2001,55.0,1000 ha
+4010,Réunion,2002,55.0,1000 ha
+4011,Réunion,2003,55.0,1000 ha
+4012,Réunion,2004,55.0,1000 ha
+4013,Réunion,2005,55.0,1000 ha
+4014,Réunion,2006,55.0,1000 ha
+4015,Réunion,2007,55.0,1000 ha
+4016,Réunion,2008,55.0,1000 ha
+4017,Réunion,2009,55.0,1000 ha
+4018,Réunion,2010,55.0,1000 ha
+4019,Réunion,2011,55.0,1000 ha
+4020,Réunion,2012,55.0,1000 ha
+4021,Réunion,2013,55.0,1000 ha
+4022,Romania,1990,263.0,1000 ha
+4023,Romania,1991,263.0,1000 ha
+4024,Romania,1992,263.0,1000 ha
+4025,Romania,1993,263.0,1000 ha
+4026,Romania,1994,263.0,1000 ha
+4027,Romania,1995,263.0,1000 ha
+4028,Romania,1996,263.0,1000 ha
+4029,Romania,1997,263.0,1000 ha
+4030,Romania,1998,263.0,1000 ha
+4031,Romania,1999,263.0,1000 ha
+4032,Romania,2000,263.0,1000 ha
+4033,Romania,2001,263.2,1000 ha
+4034,Romania,2002,263.4,1000 ha
+4035,Romania,2003,263.6,1000 ha
+4036,Romania,2004,263.8,1000 ha
+4037,Romania,2005,264.0,1000 ha
+4038,Romania,2006,265.0,1000 ha
+4039,Romania,2007,266.0,1000 ha
+4040,Romania,2008,267.0,1000 ha
+4041,Romania,2009,268.0,1000 ha
+4042,Romania,2010,269.0,1000 ha
+4043,Romania,2011,271.8,1000 ha
+4044,Romania,2012,274.6,1000 ha
+4045,Romania,2013,277.4,1000 ha
+4046,Russian Federation,1992,245006.72,1000 ha
+4047,Russian Federation,1993,246647.23,1000 ha
+4048,Russian Federation,1994,248287.74,1000 ha
+4049,Russian Federation,1995,249928.25,1000 ha
+4050,Russian Federation,1996,251568.76,1000 ha
+4051,Russian Federation,1997,253209.27,1000 ha
+4052,Russian Federation,1998,254849.78,1000 ha
+4053,Russian Federation,1999,256490.29,1000 ha
+4054,Russian Federation,2000,258130.8,1000 ha
+4055,Russian Federation,2001,257598.6,1000 ha
+4056,Russian Federation,2002,257066.4,1000 ha
+4057,Russian Federation,2003,256534.2,1000 ha
+4058,Russian Federation,2004,256002.0,1000 ha
+4059,Russian Federation,2005,255469.8,1000 ha
+4060,Russian Federation,2006,259044.44,1000 ha
+4061,Russian Federation,2007,262619.08,1000 ha
+4062,Russian Federation,2008,266193.72,1000 ha
+4063,Russian Federation,2009,269768.36,1000 ha
+4064,Russian Federation,2010,273343.0,1000 ha
+4065,Russian Federation,2011,273217.92,1000 ha
+4066,Russian Federation,2012,273092.84,1000 ha
+4067,Russian Federation,2013,272967.76,1000 ha
+4068,Rwanda,1990,7.0,1000 ha
+4069,Rwanda,1991,7.0,1000 ha
+4070,Rwanda,1992,7.0,1000 ha
+4071,Rwanda,1993,7.0,1000 ha
+4072,Rwanda,1994,7.0,1000 ha
+4073,Rwanda,1995,7.0,1000 ha
+4074,Rwanda,1996,7.0,1000 ha
+4075,Rwanda,1997,7.0,1000 ha
+4076,Rwanda,1998,7.0,1000 ha
+4077,Rwanda,1999,7.0,1000 ha
+4078,Rwanda,2000,7.0,1000 ha
+4079,Rwanda,2001,7.0,1000 ha
+4080,Rwanda,2002,7.0,1000 ha
+4081,Rwanda,2003,7.0,1000 ha
+4082,Rwanda,2004,7.0,1000 ha
+4083,Rwanda,2005,7.0,1000 ha
+4084,Rwanda,2006,7.0,1000 ha
+4085,Rwanda,2007,7.0,1000 ha
+4086,Rwanda,2008,7.0,1000 ha
+4087,Rwanda,2009,7.0,1000 ha
+4088,Rwanda,2010,7.0,1000 ha
+4089,Rwanda,2011,7.0,1000 ha
+4090,Rwanda,2012,7.0,1000 ha
+4091,Rwanda,2013,7.0,1000 ha
+4092,"Saint Helena, Ascension and Tristan da Cunha",1990,0.0,1000 ha
+4093,"Saint Helena, Ascension and Tristan da Cunha",1991,0.0,1000 ha
+4094,"Saint Helena, Ascension and Tristan da Cunha",1992,0.0,1000 ha
+4095,"Saint Helena, Ascension and Tristan da Cunha",1993,0.0,1000 ha
+4096,"Saint Helena, Ascension and Tristan da Cunha",1994,0.0,1000 ha
+4097,"Saint Helena, Ascension and Tristan da Cunha",1995,0.0,1000 ha
+4098,"Saint Helena, Ascension and Tristan da Cunha",1996,0.0,1000 ha
+4099,"Saint Helena, Ascension and Tristan da Cunha",1997,0.0,1000 ha
+4100,"Saint Helena, Ascension and Tristan da Cunha",1998,0.0,1000 ha
+4101,"Saint Helena, Ascension and Tristan da Cunha",1999,0.0,1000 ha
+4102,"Saint Helena, Ascension and Tristan da Cunha",2000,0.0,1000 ha
+4103,"Saint Helena, Ascension and Tristan da Cunha",2001,0.0,1000 ha
+4104,"Saint Helena, Ascension and Tristan da Cunha",2002,0.0,1000 ha
+4105,"Saint Helena, Ascension and Tristan da Cunha",2003,0.0,1000 ha
+4106,"Saint Helena, Ascension and Tristan da Cunha",2004,0.0,1000 ha
+4107,"Saint Helena, Ascension and Tristan da Cunha",2005,0.0,1000 ha
+4108,"Saint Helena, Ascension and Tristan da Cunha",2006,0.0,1000 ha
+4109,"Saint Helena, Ascension and Tristan da Cunha",2007,0.0,1000 ha
+4110,"Saint Helena, Ascension and Tristan da Cunha",2008,0.0,1000 ha
+4111,"Saint Helena, Ascension and Tristan da Cunha",2009,0.0,1000 ha
+4112,"Saint Helena, Ascension and Tristan da Cunha",2010,0.0,1000 ha
+4113,"Saint Helena, Ascension and Tristan da Cunha",2011,0.0,1000 ha
+4114,"Saint Helena, Ascension and Tristan da Cunha",2012,0.0,1000 ha
+4115,"Saint Helena, Ascension and Tristan da Cunha",2013,0.0,1000 ha
+4116,Saint Kitts and Nevis,1990,0.0,1000 ha
+4117,Saint Kitts and Nevis,1991,0.0,1000 ha
+4118,Saint Kitts and Nevis,1992,0.0,1000 ha
+4119,Saint Kitts and Nevis,1993,0.0,1000 ha
+4120,Saint Kitts and Nevis,1994,0.0,1000 ha
+4121,Saint Kitts and Nevis,1995,0.0,1000 ha
+4122,Saint Kitts and Nevis,1996,0.0,1000 ha
+4123,Saint Kitts and Nevis,1997,0.0,1000 ha
+4124,Saint Kitts and Nevis,1998,0.0,1000 ha
+4125,Saint Kitts and Nevis,1999,0.0,1000 ha
+4126,Saint Kitts and Nevis,2000,0.0,1000 ha
+4127,Saint Kitts and Nevis,2001,0.0,1000 ha
+4128,Saint Kitts and Nevis,2002,0.0,1000 ha
+4129,Saint Kitts and Nevis,2003,0.0,1000 ha
+4130,Saint Kitts and Nevis,2004,0.0,1000 ha
+4131,Saint Kitts and Nevis,2005,0.0,1000 ha
+4132,Saint Kitts and Nevis,2006,0.0,1000 ha
+4133,Saint Kitts and Nevis,2007,0.0,1000 ha
+4134,Saint Kitts and Nevis,2008,0.0,1000 ha
+4135,Saint Kitts and Nevis,2009,0.0,1000 ha
+4136,Saint Kitts and Nevis,2010,0.0,1000 ha
+4137,Saint Kitts and Nevis,2011,0.0,1000 ha
+4138,Saint Kitts and Nevis,2012,0.0,1000 ha
+4139,Saint Kitts and Nevis,2013,0.0,1000 ha
+4140,Saint Lucia,1990,18.65,1000 ha
+4141,Saint Lucia,1991,18.59,1000 ha
+4142,Saint Lucia,1992,18.53,1000 ha
+4143,Saint Lucia,1993,18.47,1000 ha
+4144,Saint Lucia,1994,18.41,1000 ha
+4145,Saint Lucia,1995,18.35,1000 ha
+4146,Saint Lucia,1996,18.29,1000 ha
+4147,Saint Lucia,1997,18.23,1000 ha
+4148,Saint Lucia,1998,18.17,1000 ha
+4149,Saint Lucia,1999,18.11,1000 ha
+4150,Saint Lucia,2000,18.05,1000 ha
+4151,Saint Lucia,2001,17.99,1000 ha
+4152,Saint Lucia,2002,17.93,1000 ha
+4153,Saint Lucia,2003,17.87,1000 ha
+4154,Saint Lucia,2004,17.81,1000 ha
+4155,Saint Lucia,2005,17.75,1000 ha
+4156,Saint Lucia,2006,17.69,1000 ha
+4157,Saint Lucia,2007,17.63,1000 ha
+4158,Saint Lucia,2008,17.57,1000 ha
+4159,Saint Lucia,2009,17.51,1000 ha
+4160,Saint Lucia,2010,17.45,1000 ha
+4161,Saint Lucia,2011,17.39,1000 ha
+4162,Saint Lucia,2012,17.33,1000 ha
+4163,Saint Lucia,2013,17.27,1000 ha
+4164,Saint Pierre and Miquelon,1990,0.0,1000 ha
+4165,Saint Pierre and Miquelon,1991,0.0,1000 ha
+4166,Saint Pierre and Miquelon,1992,0.0,1000 ha
+4167,Saint Pierre and Miquelon,1993,0.0,1000 ha
+4168,Saint Pierre and Miquelon,1994,0.0,1000 ha
+4169,Saint Pierre and Miquelon,1995,0.0,1000 ha
+4170,Saint Pierre and Miquelon,1996,0.0,1000 ha
+4171,Saint Pierre and Miquelon,1997,0.0,1000 ha
+4172,Saint Pierre and Miquelon,1998,0.0,1000 ha
+4173,Saint Pierre and Miquelon,1999,0.0,1000 ha
+4174,Saint Pierre and Miquelon,2000,0.0,1000 ha
+4175,Saint Pierre and Miquelon,2001,0.0,1000 ha
+4176,Saint Pierre and Miquelon,2002,0.0,1000 ha
+4177,Saint Pierre and Miquelon,2003,0.0,1000 ha
+4178,Saint Pierre and Miquelon,2004,0.0,1000 ha
+4179,Saint Pierre and Miquelon,2005,0.0,1000 ha
+4180,Saint Pierre and Miquelon,2006,0.0,1000 ha
+4181,Saint Pierre and Miquelon,2007,0.0,1000 ha
+4182,Saint Pierre and Miquelon,2008,0.0,1000 ha
+4183,Saint Pierre and Miquelon,2009,0.0,1000 ha
+4184,Saint Pierre and Miquelon,2010,0.0,1000 ha
+4185,Saint Pierre and Miquelon,2011,0.0,1000 ha
+4186,Saint Pierre and Miquelon,2012,0.0,1000 ha
+4187,Saint Pierre and Miquelon,2013,0.0,1000 ha
+4188,Saint Vincent and the Grenadines,1990,0.0,1000 ha
+4189,Saint Vincent and the Grenadines,1991,0.0,1000 ha
+4190,Saint Vincent and the Grenadines,1992,0.0,1000 ha
+4191,Saint Vincent and the Grenadines,1993,0.0,1000 ha
+4192,Saint Vincent and the Grenadines,1994,0.0,1000 ha
+4193,Saint Vincent and the Grenadines,1995,0.0,1000 ha
+4194,Saint Vincent and the Grenadines,1996,0.0,1000 ha
+4195,Saint Vincent and the Grenadines,1997,0.0,1000 ha
+4196,Saint Vincent and the Grenadines,1998,0.0,1000 ha
+4197,Saint Vincent and the Grenadines,1999,0.0,1000 ha
+4198,Saint Vincent and the Grenadines,2000,0.0,1000 ha
+4199,Saint Vincent and the Grenadines,2001,0.0,1000 ha
+4200,Saint Vincent and the Grenadines,2002,0.0,1000 ha
+4201,Saint Vincent and the Grenadines,2003,0.0,1000 ha
+4202,Saint Vincent and the Grenadines,2004,0.0,1000 ha
+4203,Saint Vincent and the Grenadines,2005,0.0,1000 ha
+4204,Saint Vincent and the Grenadines,2006,0.0,1000 ha
+4205,Saint Vincent and the Grenadines,2007,0.0,1000 ha
+4206,Saint Vincent and the Grenadines,2008,0.0,1000 ha
+4207,Saint Vincent and the Grenadines,2009,0.0,1000 ha
+4208,Saint Vincent and the Grenadines,2010,0.0,1000 ha
+4209,Saint Vincent and the Grenadines,2011,0.0,1000 ha
+4210,Saint Vincent and the Grenadines,2012,0.0,1000 ha
+4211,Saint Vincent and the Grenadines,2013,0.0,1000 ha
+4212,Samoa,1990,0.02,1000 ha
+4213,Samoa,1991,0.02,1000 ha
+4214,Samoa,1992,0.02,1000 ha
+4215,Samoa,1993,0.02,1000 ha
+4216,Samoa,1994,0.02,1000 ha
+4217,Samoa,1995,0.02,1000 ha
+4218,Samoa,1996,0.02,1000 ha
+4219,Samoa,1997,0.02,1000 ha
+4220,Samoa,1998,0.02,1000 ha
+4221,Samoa,1999,0.02,1000 ha
+4222,Samoa,2000,0.02,1000 ha
+4223,Samoa,2001,0.02,1000 ha
+4224,Samoa,2002,0.02,1000 ha
+4225,Samoa,2003,0.02,1000 ha
+4226,Samoa,2004,0.02,1000 ha
+4227,Samoa,2005,0.02,1000 ha
+4228,Samoa,2006,0.02,1000 ha
+4229,Samoa,2007,0.02,1000 ha
+4230,Samoa,2008,0.02,1000 ha
+4231,Samoa,2009,0.02,1000 ha
+4232,Samoa,2010,0.02,1000 ha
+4233,Samoa,2011,0.02,1000 ha
+4234,Samoa,2012,0.02,1000 ha
+4235,Samoa,2013,0.02,1000 ha
+4236,San Marino,1990,0.0,1000 ha
+4237,San Marino,1991,0.0,1000 ha
+4238,San Marino,1992,0.0,1000 ha
+4239,San Marino,1993,0.0,1000 ha
+4240,San Marino,1994,0.0,1000 ha
+4241,San Marino,1995,0.0,1000 ha
+4242,San Marino,1996,0.0,1000 ha
+4243,San Marino,1997,0.0,1000 ha
+4244,San Marino,1998,0.0,1000 ha
+4245,San Marino,1999,0.0,1000 ha
+4246,San Marino,2000,0.0,1000 ha
+4247,San Marino,2001,0.0,1000 ha
+4248,San Marino,2002,0.0,1000 ha
+4249,San Marino,2003,0.0,1000 ha
+4250,San Marino,2004,0.0,1000 ha
+4251,San Marino,2005,0.0,1000 ha
+4252,San Marino,2006,0.0,1000 ha
+4253,San Marino,2007,0.0,1000 ha
+4254,San Marino,2008,0.0,1000 ha
+4255,San Marino,2009,0.0,1000 ha
+4256,San Marino,2010,0.0,1000 ha
+4257,San Marino,2011,0.0,1000 ha
+4258,San Marino,2012,0.0,1000 ha
+4259,San Marino,2013,0.0,1000 ha
+4260,Sao Tome and Principe,1990,27.0,1000 ha
+4261,Sao Tome and Principe,1991,27.0,1000 ha
+4262,Sao Tome and Principe,1992,27.0,1000 ha
+4263,Sao Tome and Principe,1993,27.0,1000 ha
+4264,Sao Tome and Principe,1994,27.0,1000 ha
+4265,Sao Tome and Principe,1995,27.0,1000 ha
+4266,Sao Tome and Principe,1996,27.0,1000 ha
+4267,Sao Tome and Principe,1997,27.0,1000 ha
+4268,Sao Tome and Principe,1998,27.0,1000 ha
+4269,Sao Tome and Principe,1999,27.0,1000 ha
+4270,Sao Tome and Principe,2000,27.0,1000 ha
+4271,Sao Tome and Principe,2001,27.0,1000 ha
+4272,Sao Tome and Principe,2002,27.0,1000 ha
+4273,Sao Tome and Principe,2003,27.0,1000 ha
+4274,Sao Tome and Principe,2004,27.0,1000 ha
+4275,Sao Tome and Principe,2005,27.0,1000 ha
+4276,Sao Tome and Principe,2006,27.0,1000 ha
+4277,Sao Tome and Principe,2007,27.0,1000 ha
+4278,Sao Tome and Principe,2008,27.0,1000 ha
+4279,Sao Tome and Principe,2009,27.0,1000 ha
+4280,Sao Tome and Principe,2010,27.0,1000 ha
+4281,Sao Tome and Principe,2011,27.0,1000 ha
+4282,Sao Tome and Principe,2012,27.0,1000 ha
+4283,Sao Tome and Principe,2013,27.0,1000 ha
+4284,Saudi Arabia,1990,360.0,1000 ha
+4285,Saudi Arabia,1991,360.0,1000 ha
+4286,Saudi Arabia,1992,360.0,1000 ha
+4287,Saudi Arabia,1993,360.0,1000 ha
+4288,Saudi Arabia,1994,360.0,1000 ha
+4289,Saudi Arabia,1995,360.0,1000 ha
+4290,Saudi Arabia,1996,360.0,1000 ha
+4291,Saudi Arabia,1997,360.0,1000 ha
+4292,Saudi Arabia,1998,360.0,1000 ha
+4293,Saudi Arabia,1999,360.0,1000 ha
+4294,Saudi Arabia,2000,360.0,1000 ha
+4295,Saudi Arabia,2001,360.0,1000 ha
+4296,Saudi Arabia,2002,360.0,1000 ha
+4297,Saudi Arabia,2003,360.0,1000 ha
+4298,Saudi Arabia,2004,360.0,1000 ha
+4299,Saudi Arabia,2005,360.0,1000 ha
+4300,Saudi Arabia,2006,360.0,1000 ha
+4301,Saudi Arabia,2007,360.0,1000 ha
+4302,Saudi Arabia,2008,360.0,1000 ha
+4303,Saudi Arabia,2009,360.0,1000 ha
+4304,Saudi Arabia,2010,360.0,1000 ha
+4305,Saudi Arabia,2011,360.0,1000 ha
+4306,Saudi Arabia,2012,360.0,1000 ha
+4307,Saudi Arabia,2013,360.0,1000 ha
+4308,Senegal,1990,1759.0,1000 ha
+4309,Senegal,1991,1748.4,1000 ha
+4310,Senegal,1992,1737.8,1000 ha
+4311,Senegal,1993,1727.2,1000 ha
+4312,Senegal,1994,1716.6,1000 ha
+4313,Senegal,1995,1706.0,1000 ha
+4314,Senegal,1996,1695.4,1000 ha
+4315,Senegal,1997,1684.8,1000 ha
+4316,Senegal,1998,1674.2,1000 ha
+4317,Senegal,1999,1663.6,1000 ha
+4318,Senegal,2000,1653.0,1000 ha
+4319,Senegal,2001,1642.0,1000 ha
+4320,Senegal,2002,1631.0,1000 ha
+4321,Senegal,2003,1620.0,1000 ha
+4322,Senegal,2004,1609.0,1000 ha
+4323,Senegal,2005,1598.0,1000 ha
+4324,Senegal,2006,1589.0,1000 ha
+4325,Senegal,2007,1580.0,1000 ha
+4326,Senegal,2008,1571.0,1000 ha
+4327,Senegal,2009,1562.0,1000 ha
+4328,Senegal,2010,1553.0,1000 ha
+4329,Senegal,2011,1544.0,1000 ha
+4330,Senegal,2012,1535.0,1000 ha
+4331,Senegal,2013,1526.0,1000 ha
+4332,Serbia,2006,1.0,1000 ha
+4333,Serbia,2007,1.0,1000 ha
+4334,Serbia,2008,1.0,1000 ha
+4335,Serbia,2009,1.0,1000 ha
+4336,Serbia,2010,1.0,1000 ha
+4337,Serbia,2011,1.0,1000 ha
+4338,Serbia,2012,1.0,1000 ha
+4339,Serbia,2013,1.0,1000 ha
+4340,Serbia and Montenegro,1992,110.0,1000 ha
+4341,Serbia and Montenegro,1993,110.0,1000 ha
+4342,Serbia and Montenegro,1994,110.0,1000 ha
+4343,Serbia and Montenegro,1995,110.0,1000 ha
+4344,Serbia and Montenegro,1996,110.0,1000 ha
+4345,Serbia and Montenegro,1997,110.0,1000 ha
+4346,Serbia and Montenegro,1998,110.0,1000 ha
+4347,Serbia and Montenegro,1999,110.0,1000 ha
+4348,Serbia and Montenegro,2000,110.0,1000 ha
+4349,Serbia and Montenegro,2001,110.0,1000 ha
+4350,Serbia and Montenegro,2002,110.0,1000 ha
+4351,Serbia and Montenegro,2003,110.0,1000 ha
+4352,Serbia and Montenegro,2004,110.0,1000 ha
+4353,Serbia and Montenegro,2005,110.0,1000 ha
+4354,Seychelles,1990,2.0,1000 ha
+4355,Seychelles,1991,2.0,1000 ha
+4356,Seychelles,1992,2.0,1000 ha
+4357,Seychelles,1993,2.0,1000 ha
+4358,Seychelles,1994,2.0,1000 ha
+4359,Seychelles,1995,2.0,1000 ha
+4360,Seychelles,1996,2.0,1000 ha
+4361,Seychelles,1997,2.0,1000 ha
+4362,Seychelles,1998,2.0,1000 ha
+4363,Seychelles,1999,2.0,1000 ha
+4364,Seychelles,2000,2.0,1000 ha
+4365,Seychelles,2001,2.0,1000 ha
+4366,Seychelles,2002,2.0,1000 ha
+4367,Seychelles,2003,2.0,1000 ha
+4368,Seychelles,2004,2.0,1000 ha
+4369,Seychelles,2005,2.0,1000 ha
+4370,Seychelles,2006,2.0,1000 ha
+4371,Seychelles,2007,2.0,1000 ha
+4372,Seychelles,2008,2.0,1000 ha
+4373,Seychelles,2009,2.0,1000 ha
+4374,Seychelles,2010,2.0,1000 ha
+4375,Seychelles,2011,2.0,1000 ha
+4376,Seychelles,2012,2.0,1000 ha
+4377,Seychelles,2013,2.0,1000 ha
+4378,Sierra Leone,1990,224.0,1000 ha
+4379,Sierra Leone,1991,217.3,1000 ha
+4380,Sierra Leone,1992,210.6,1000 ha
+4381,Sierra Leone,1993,203.9,1000 ha
+4382,Sierra Leone,1994,197.2,1000 ha
+4383,Sierra Leone,1995,190.5,1000 ha
+4384,Sierra Leone,1996,183.8,1000 ha
+4385,Sierra Leone,1997,177.1,1000 ha
+4386,Sierra Leone,1998,170.4,1000 ha
+4387,Sierra Leone,1999,163.7,1000 ha
+4388,Sierra Leone,2000,157.0,1000 ha
+4389,Sierra Leone,2001,152.2,1000 ha
+4390,Sierra Leone,2002,147.4,1000 ha
+4391,Sierra Leone,2003,142.6,1000 ha
+4392,Sierra Leone,2004,137.8,1000 ha
+4393,Sierra Leone,2005,133.0,1000 ha
+4394,Sierra Leone,2006,129.0,1000 ha
+4395,Sierra Leone,2007,125.0,1000 ha
+4396,Sierra Leone,2008,121.0,1000 ha
+4397,Sierra Leone,2009,117.0,1000 ha
+4398,Sierra Leone,2010,113.0,1000 ha
+4399,Sierra Leone,2011,107.44,1000 ha
+4400,Sierra Leone,2012,101.88,1000 ha
+4401,Sierra Leone,2013,96.32,1000 ha
+4402,Singapore,1990,0.21,1000 ha
+4403,Singapore,1991,0.21,1000 ha
+4404,Singapore,1992,0.21,1000 ha
+4405,Singapore,1993,0.21,1000 ha
+4406,Singapore,1994,0.21,1000 ha
+4407,Singapore,1995,0.21,1000 ha
+4408,Singapore,1996,0.21,1000 ha
+4409,Singapore,1997,0.21,1000 ha
+4410,Singapore,1998,0.21,1000 ha
+4411,Singapore,1999,0.21,1000 ha
+4412,Singapore,2000,0.21,1000 ha
+4413,Singapore,2001,0.21,1000 ha
+4414,Singapore,2002,0.21,1000 ha
+4415,Singapore,2003,0.21,1000 ha
+4416,Singapore,2004,0.21,1000 ha
+4417,Singapore,2005,0.21,1000 ha
+4418,Singapore,2006,0.21,1000 ha
+4419,Singapore,2007,0.21,1000 ha
+4420,Singapore,2008,0.21,1000 ha
+4421,Singapore,2009,0.21,1000 ha
+4422,Singapore,2010,0.21,1000 ha
+4423,Singapore,2011,0.21,1000 ha
+4424,Singapore,2012,0.21,1000 ha
+4425,Singapore,2013,0.21,1000 ha
+4426,Slovakia,1993,24.0,1000 ha
+4427,Slovakia,1994,24.0,1000 ha
+4428,Slovakia,1995,24.0,1000 ha
+4429,Slovakia,1996,24.0,1000 ha
+4430,Slovakia,1997,24.0,1000 ha
+4431,Slovakia,1998,24.0,1000 ha
+4432,Slovakia,1999,24.0,1000 ha
+4433,Slovakia,2000,24.0,1000 ha
+4434,Slovakia,2001,24.0,1000 ha
+4435,Slovakia,2002,24.0,1000 ha
+4436,Slovakia,2003,24.0,1000 ha
+4437,Slovakia,2004,24.0,1000 ha
+4438,Slovakia,2005,24.0,1000 ha
+4439,Slovakia,2006,24.0,1000 ha
+4440,Slovakia,2007,24.0,1000 ha
+4441,Slovakia,2008,24.0,1000 ha
+4442,Slovakia,2009,24.0,1000 ha
+4443,Slovakia,2010,24.0,1000 ha
+4444,Slovakia,2011,24.0,1000 ha
+4445,Slovakia,2012,24.0,1000 ha
+4446,Slovakia,2013,24.0,1000 ha
+4447,Slovenia,1992,49.8,1000 ha
+4448,Slovenia,1993,50.2,1000 ha
+4449,Slovenia,1994,50.6,1000 ha
+4450,Slovenia,1995,51.0,1000 ha
+4451,Slovenia,1996,51.4,1000 ha
+4452,Slovenia,1997,51.8,1000 ha
+4453,Slovenia,1998,52.2,1000 ha
+4454,Slovenia,1999,52.6,1000 ha
+4455,Slovenia,2000,53.0,1000 ha
+4456,Slovenia,2001,52.2,1000 ha
+4457,Slovenia,2002,51.4,1000 ha
+4458,Slovenia,2003,50.6,1000 ha
+4459,Slovenia,2004,49.8,1000 ha
+4460,Slovenia,2005,49.0,1000 ha
+4461,Slovenia,2006,49.0,1000 ha
+4462,Slovenia,2007,49.0,1000 ha
+4463,Slovenia,2008,49.0,1000 ha
+4464,Slovenia,2009,49.0,1000 ha
+4465,Slovenia,2010,49.0,1000 ha
+4466,Slovenia,2011,49.0,1000 ha
+4467,Slovenia,2012,49.0,1000 ha
+4468,Slovenia,2013,49.0,1000 ha
+4469,Solomon Islands,1990,1105.4,1000 ha
+4470,Solomon Islands,1991,1105.4,1000 ha
+4471,Solomon Islands,1992,1105.4,1000 ha
+4472,Solomon Islands,1993,1105.4,1000 ha
+4473,Solomon Islands,1994,1105.4,1000 ha
+4474,Solomon Islands,1995,1105.4,1000 ha
+4475,Solomon Islands,1996,1105.4,1000 ha
+4476,Solomon Islands,1997,1105.4,1000 ha
+4477,Solomon Islands,1998,1105.4,1000 ha
+4478,Solomon Islands,1999,1105.4,1000 ha
+4479,Solomon Islands,2000,1105.4,1000 ha
+4480,Solomon Islands,2001,1105.4,1000 ha
+4481,Solomon Islands,2002,1105.4,1000 ha
+4482,Solomon Islands,2003,1105.4,1000 ha
+4483,Solomon Islands,2004,1105.4,1000 ha
+4484,Solomon Islands,2005,1105.4,1000 ha
+4485,Solomon Islands,2006,1105.4,1000 ha
+4486,Solomon Islands,2007,1105.4,1000 ha
+4487,Solomon Islands,2008,1105.4,1000 ha
+4488,Solomon Islands,2009,1105.4,1000 ha
+4489,Solomon Islands,2010,1105.4,1000 ha
+4490,Solomon Islands,2011,1105.4,1000 ha
+4491,Solomon Islands,2012,1105.4,1000 ha
+4492,Solomon Islands,2013,1105.4,1000 ha
+4493,Somalia,1990,0.0,1000 ha
+4494,Somalia,1991,0.0,1000 ha
+4495,Somalia,1992,0.0,1000 ha
+4496,Somalia,1993,0.0,1000 ha
+4497,Somalia,1994,0.0,1000 ha
+4498,Somalia,1995,0.0,1000 ha
+4499,Somalia,1996,0.0,1000 ha
+4500,Somalia,1997,0.0,1000 ha
+4501,Somalia,1998,0.0,1000 ha
+4502,Somalia,1999,0.0,1000 ha
+4503,Somalia,2000,0.0,1000 ha
+4504,Somalia,2001,0.0,1000 ha
+4505,Somalia,2002,0.0,1000 ha
+4506,Somalia,2003,0.0,1000 ha
+4507,Somalia,2004,0.0,1000 ha
+4508,Somalia,2005,0.0,1000 ha
+4509,Somalia,2006,0.0,1000 ha
+4510,Somalia,2007,0.0,1000 ha
+4511,Somalia,2008,0.0,1000 ha
+4512,Somalia,2009,0.0,1000 ha
+4513,Somalia,2010,0.0,1000 ha
+4514,Somalia,2011,0.0,1000 ha
+4515,Somalia,2012,0.0,1000 ha
+4516,Somalia,2013,0.0,1000 ha
+4517,South Africa,1990,947.0,1000 ha
+4518,South Africa,1991,947.0,1000 ha
+4519,South Africa,1992,947.0,1000 ha
+4520,South Africa,1993,947.0,1000 ha
+4521,South Africa,1994,947.0,1000 ha
+4522,South Africa,1995,947.0,1000 ha
+4523,South Africa,1996,947.0,1000 ha
+4524,South Africa,1997,947.0,1000 ha
+4525,South Africa,1998,947.0,1000 ha
+4526,South Africa,1999,947.0,1000 ha
+4527,South Africa,2000,947.0,1000 ha
+4528,South Africa,2001,947.0,1000 ha
+4529,South Africa,2002,947.0,1000 ha
+4530,South Africa,2003,947.0,1000 ha
+4531,South Africa,2004,947.0,1000 ha
+4532,South Africa,2005,947.0,1000 ha
+4533,South Africa,2006,947.0,1000 ha
+4534,South Africa,2007,947.0,1000 ha
+4535,South Africa,2008,947.0,1000 ha
+4536,South Africa,2009,947.0,1000 ha
+4537,South Africa,2010,947.0,1000 ha
+4538,South Africa,2011,947.0,1000 ha
+4539,South Africa,2012,947.0,1000 ha
+4540,South Africa,2013,947.0,1000 ha
+4541,South Sudan,2011,0.0,1000 ha
+4542,South Sudan,2012,0.0,1000 ha
+4543,South Sudan,2013,0.0,1000 ha
+4544,Spain,1990,0.0,1000 ha
+4545,Spain,1991,0.0,1000 ha
+4546,Spain,1992,0.0,1000 ha
+4547,Spain,1993,0.0,1000 ha
+4548,Spain,1994,0.0,1000 ha
+4549,Spain,1995,0.0,1000 ha
+4550,Spain,1996,0.0,1000 ha
+4551,Spain,1997,0.0,1000 ha
+4552,Spain,1998,0.0,1000 ha
+4553,Spain,1999,0.0,1000 ha
+4554,Spain,2000,0.0,1000 ha
+4555,Spain,2001,0.0,1000 ha
+4556,Spain,2002,0.0,1000 ha
+4557,Spain,2003,0.0,1000 ha
+4558,Spain,2004,0.0,1000 ha
+4559,Spain,2005,0.0,1000 ha
+4560,Spain,2006,0.0,1000 ha
+4561,Spain,2007,0.0,1000 ha
+4562,Spain,2008,0.0,1000 ha
+4563,Spain,2009,0.0,1000 ha
+4564,Spain,2010,0.0,1000 ha
+4565,Spain,2011,0.0,1000 ha
+4566,Spain,2012,0.0,1000 ha
+4567,Spain,2013,0.0,1000 ha
+4568,Sri Lanka,1990,257.0,1000 ha
+4569,Sri Lanka,1991,251.0,1000 ha
+4570,Sri Lanka,1992,245.0,1000 ha
+4571,Sri Lanka,1993,239.0,1000 ha
+4572,Sri Lanka,1994,233.0,1000 ha
+4573,Sri Lanka,1995,227.0,1000 ha
+4574,Sri Lanka,1996,221.0,1000 ha
+4575,Sri Lanka,1997,215.0,1000 ha
+4576,Sri Lanka,1998,209.0,1000 ha
+4577,Sri Lanka,1999,203.0,1000 ha
+4578,Sri Lanka,2000,197.0,1000 ha
+4579,Sri Lanka,2001,191.0,1000 ha
+4580,Sri Lanka,2002,185.0,1000 ha
+4581,Sri Lanka,2003,179.0,1000 ha
+4582,Sri Lanka,2004,173.0,1000 ha
+4583,Sri Lanka,2005,167.0,1000 ha
+4584,Sri Lanka,2006,167.0,1000 ha
+4585,Sri Lanka,2007,167.0,1000 ha
+4586,Sri Lanka,2008,167.0,1000 ha
+4587,Sri Lanka,2009,167.0,1000 ha
+4588,Sri Lanka,2010,167.0,1000 ha
+4589,Sri Lanka,2011,167.0,1000 ha
+4590,Sri Lanka,2012,167.0,1000 ha
+4591,Sri Lanka,2013,167.0,1000 ha
+4592,Sudan,2011,1393.5320000000002,1000 ha
+4593,Sudan,2012,1381.3229999999999,1000 ha
+4594,Sudan,2013,1369.114,1000 ha
+4595,Sudan (former),1990,1649.922,1000 ha
+4596,Sudan (former),1991,1637.7129,1000 ha
+4597,Sudan (former),1992,1625.5038,1000 ha
+4598,Sudan (former),1993,1613.2947,1000 ha
+4599,Sudan (former),1994,1601.0856,1000 ha
+4600,Sudan (former),1995,1588.8765,1000 ha
+4601,Sudan (former),1996,1576.6674,1000 ha
+4602,Sudan (former),1997,1564.4583,1000 ha
+4603,Sudan (former),1998,1552.2492,1000 ha
+4604,Sudan (former),1999,1540.0401,1000 ha
+4605,Sudan (former),2000,1527.8310000000001,1000 ha
+4606,Sudan (former),2001,1515.622,1000 ha
+4607,Sudan (former),2002,1503.4129999999998,1000 ha
+4608,Sudan (former),2003,1491.204,1000 ha
+4609,Sudan (former),2004,1478.995,1000 ha
+4610,Sudan (former),2005,1466.786,1000 ha
+4611,Sudan (former),2006,1454.5770000000002,1000 ha
+4612,Sudan (former),2007,1442.368,1000 ha
+4613,Sudan (former),2008,1430.1589999999999,1000 ha
+4614,Sudan (former),2009,1417.95,1000 ha
+4615,Sudan (former),2010,1405.741,1000 ha
+4616,Suriname,1990,14986.0,1000 ha
+4617,Suriname,1991,14961.6,1000 ha
+4618,Suriname,1992,14937.2,1000 ha
+4619,Suriname,1993,14912.8,1000 ha
+4620,Suriname,1994,14888.4,1000 ha
+4621,Suriname,1995,14864.0,1000 ha
+4622,Suriname,1996,14839.6,1000 ha
+4623,Suriname,1997,14815.2,1000 ha
+4624,Suriname,1998,14790.8,1000 ha
+4625,Suriname,1999,14766.4,1000 ha
+4626,Suriname,2000,14742.0,1000 ha
+4627,Suriname,2001,14711.6,1000 ha
+4628,Suriname,2002,14681.2,1000 ha
+4629,Suriname,2003,14650.8,1000 ha
+4630,Suriname,2004,14620.4,1000 ha
+4631,Suriname,2005,14590.0,1000 ha
+4632,Suriname,2006,14556.4,1000 ha
+4633,Suriname,2007,14522.8,1000 ha
+4634,Suriname,2008,14489.2,1000 ha
+4635,Suriname,2009,14455.6,1000 ha
+4636,Suriname,2010,14422.0,1000 ha
+4637,Suriname,2011,14341.4,1000 ha
+4638,Suriname,2012,14260.8,1000 ha
+4639,Suriname,2013,14180.2,1000 ha
+4640,Sweden,1990,2417.0,1000 ha
+4641,Sweden,1991,2417.0,1000 ha
+4642,Sweden,1992,2417.0,1000 ha
+4643,Sweden,1993,2417.0,1000 ha
+4644,Sweden,1994,2417.0,1000 ha
+4645,Sweden,1995,2417.0,1000 ha
+4646,Sweden,1996,2417.0,1000 ha
+4647,Sweden,1997,2417.0,1000 ha
+4648,Sweden,1998,2417.0,1000 ha
+4649,Sweden,1999,2417.0,1000 ha
+4650,Sweden,2000,2417.0,1000 ha
+4651,Sweden,2001,2417.0,1000 ha
+4652,Sweden,2002,2417.0,1000 ha
+4653,Sweden,2003,2417.0,1000 ha
+4654,Sweden,2004,2417.0,1000 ha
+4655,Sweden,2005,2417.0,1000 ha
+4656,Sweden,2006,2417.0,1000 ha
+4657,Sweden,2007,2417.0,1000 ha
+4658,Sweden,2008,2417.0,1000 ha
+4659,Sweden,2009,2417.0,1000 ha
+4660,Sweden,2010,2417.0,1000 ha
+4661,Sweden,2011,2417.0,1000 ha
+4662,Sweden,2012,2417.0,1000 ha
+4663,Sweden,2013,2417.0,1000 ha
+4664,Switzerland,1990,40.0,1000 ha
+4665,Switzerland,1991,40.0,1000 ha
+4666,Switzerland,1992,40.0,1000 ha
+4667,Switzerland,1993,40.0,1000 ha
+4668,Switzerland,1994,40.0,1000 ha
+4669,Switzerland,1995,40.0,1000 ha
+4670,Switzerland,1996,40.0,1000 ha
+4671,Switzerland,1997,40.0,1000 ha
+4672,Switzerland,1998,40.0,1000 ha
+4673,Switzerland,1999,40.0,1000 ha
+4674,Switzerland,2000,40.0,1000 ha
+4675,Switzerland,2001,40.0,1000 ha
+4676,Switzerland,2002,40.0,1000 ha
+4677,Switzerland,2003,40.0,1000 ha
+4678,Switzerland,2004,40.0,1000 ha
+4679,Switzerland,2005,40.0,1000 ha
+4680,Switzerland,2006,40.0,1000 ha
+4681,Switzerland,2007,40.0,1000 ha
+4682,Switzerland,2008,40.0,1000 ha
+4683,Switzerland,2009,40.0,1000 ha
+4684,Switzerland,2010,40.0,1000 ha
+4685,Switzerland,2011,40.0,1000 ha
+4686,Switzerland,2012,40.0,1000 ha
+4687,Switzerland,2013,40.0,1000 ha
+4688,Syrian Arab Republic,1990,0.0,1000 ha
+4689,Syrian Arab Republic,1991,0.0,1000 ha
+4690,Syrian Arab Republic,1992,0.0,1000 ha
+4691,Syrian Arab Republic,1993,0.0,1000 ha
+4692,Syrian Arab Republic,1994,0.0,1000 ha
+4693,Syrian Arab Republic,1995,0.0,1000 ha
+4694,Syrian Arab Republic,1996,0.0,1000 ha
+4695,Syrian Arab Republic,1997,0.0,1000 ha
+4696,Syrian Arab Republic,1998,0.0,1000 ha
+4697,Syrian Arab Republic,1999,0.0,1000 ha
+4698,Syrian Arab Republic,2000,0.0,1000 ha
+4699,Syrian Arab Republic,2001,0.0,1000 ha
+4700,Syrian Arab Republic,2002,0.0,1000 ha
+4701,Syrian Arab Republic,2003,0.0,1000 ha
+4702,Syrian Arab Republic,2004,0.0,1000 ha
+4703,Syrian Arab Republic,2005,0.0,1000 ha
+4704,Syrian Arab Republic,2006,0.0,1000 ha
+4705,Syrian Arab Republic,2007,0.0,1000 ha
+4706,Syrian Arab Republic,2008,0.0,1000 ha
+4707,Syrian Arab Republic,2009,0.0,1000 ha
+4708,Syrian Arab Republic,2010,0.0,1000 ha
+4709,Syrian Arab Republic,2011,0.0,1000 ha
+4710,Syrian Arab Republic,2012,0.0,1000 ha
+4711,Syrian Arab Republic,2013,0.0,1000 ha
+4712,Tajikistan,1992,297.0,1000 ha
+4713,Tajikistan,1993,297.0,1000 ha
+4714,Tajikistan,1994,297.0,1000 ha
+4715,Tajikistan,1995,297.0,1000 ha
+4716,Tajikistan,1996,297.0,1000 ha
+4717,Tajikistan,1997,297.0,1000 ha
+4718,Tajikistan,1998,297.0,1000 ha
+4719,Tajikistan,1999,297.0,1000 ha
+4720,Tajikistan,2000,297.0,1000 ha
+4721,Tajikistan,2001,297.0,1000 ha
+4722,Tajikistan,2002,297.0,1000 ha
+4723,Tajikistan,2003,297.0,1000 ha
+4724,Tajikistan,2004,297.0,1000 ha
+4725,Tajikistan,2005,297.0,1000 ha
+4726,Tajikistan,2006,297.0,1000 ha
+4727,Tajikistan,2007,297.0,1000 ha
+4728,Tajikistan,2008,297.0,1000 ha
+4729,Tajikistan,2009,297.0,1000 ha
+4730,Tajikistan,2010,297.0,1000 ha
+4731,Tajikistan,2011,297.0,1000 ha
+4732,Tajikistan,2012,297.0,1000 ha
+4733,Tajikistan,2013,297.0,1000 ha
+4734,Thailand,1990,6726.0,1000 ha
+4735,Thailand,1991,6726.0,1000 ha
+4736,Thailand,1992,6726.0,1000 ha
+4737,Thailand,1993,6726.0,1000 ha
+4738,Thailand,1994,6726.0,1000 ha
+4739,Thailand,1995,6726.0,1000 ha
+4740,Thailand,1996,6726.0,1000 ha
+4741,Thailand,1997,6726.0,1000 ha
+4742,Thailand,1998,6726.0,1000 ha
+4743,Thailand,1999,6726.0,1000 ha
+4744,Thailand,2000,6726.0,1000 ha
+4745,Thailand,2001,6726.0,1000 ha
+4746,Thailand,2002,6726.0,1000 ha
+4747,Thailand,2003,6726.0,1000 ha
+4748,Thailand,2004,6726.0,1000 ha
+4749,Thailand,2005,6726.0,1000 ha
+4750,Thailand,2006,6726.0,1000 ha
+4751,Thailand,2007,6726.0,1000 ha
+4752,Thailand,2008,6726.0,1000 ha
+4753,Thailand,2009,6726.0,1000 ha
+4754,Thailand,2010,6726.0,1000 ha
+4755,Thailand,2011,6726.0,1000 ha
+4756,Thailand,2012,6726.0,1000 ha
+4757,Thailand,2013,6726.0,1000 ha
+4758,Timor-Leste,1990,0.0,1000 ha
+4759,Timor-Leste,1991,0.0,1000 ha
+4760,Timor-Leste,1992,0.0,1000 ha
+4761,Timor-Leste,1993,0.0,1000 ha
+4762,Timor-Leste,1994,0.0,1000 ha
+4763,Timor-Leste,1995,0.0,1000 ha
+4764,Timor-Leste,1996,0.0,1000 ha
+4765,Timor-Leste,1997,0.0,1000 ha
+4766,Timor-Leste,1998,0.0,1000 ha
+4767,Timor-Leste,1999,0.0,1000 ha
+4768,Timor-Leste,2000,0.0,1000 ha
+4769,Timor-Leste,2001,0.0,1000 ha
+4770,Timor-Leste,2002,0.0,1000 ha
+4771,Timor-Leste,2003,0.0,1000 ha
+4772,Timor-Leste,2004,0.0,1000 ha
+4773,Timor-Leste,2005,0.0,1000 ha
+4774,Timor-Leste,2006,0.0,1000 ha
+4775,Timor-Leste,2007,0.0,1000 ha
+4776,Timor-Leste,2008,0.0,1000 ha
+4777,Timor-Leste,2009,0.0,1000 ha
+4778,Timor-Leste,2010,0.0,1000 ha
+4779,Timor-Leste,2011,0.0,1000 ha
+4780,Timor-Leste,2012,0.0,1000 ha
+4781,Timor-Leste,2013,0.0,1000 ha
+4782,Togo,1990,0.0,1000 ha
+4783,Togo,1991,0.0,1000 ha
+4784,Togo,1992,0.0,1000 ha
+4785,Togo,1993,0.0,1000 ha
+4786,Togo,1994,0.0,1000 ha
+4787,Togo,1995,0.0,1000 ha
+4788,Togo,1996,0.0,1000 ha
+4789,Togo,1997,0.0,1000 ha
+4790,Togo,1998,0.0,1000 ha
+4791,Togo,1999,0.0,1000 ha
+4792,Togo,2000,0.0,1000 ha
+4793,Togo,2001,0.0,1000 ha
+4794,Togo,2002,0.0,1000 ha
+4795,Togo,2003,0.0,1000 ha
+4796,Togo,2004,0.0,1000 ha
+4797,Togo,2005,0.0,1000 ha
+4798,Togo,2006,0.0,1000 ha
+4799,Togo,2007,0.0,1000 ha
+4800,Togo,2008,0.0,1000 ha
+4801,Togo,2009,0.0,1000 ha
+4802,Togo,2010,0.0,1000 ha
+4803,Togo,2011,0.0,1000 ha
+4804,Togo,2012,0.0,1000 ha
+4805,Togo,2013,0.0,1000 ha
+4806,Tokelau,1990,0.0,1000 ha
+4807,Tokelau,1991,0.0,1000 ha
+4808,Tokelau,1992,0.0,1000 ha
+4809,Tokelau,1993,0.0,1000 ha
+4810,Tokelau,1994,0.0,1000 ha
+4811,Tokelau,1995,0.0,1000 ha
+4812,Tokelau,1996,0.0,1000 ha
+4813,Tokelau,1997,0.0,1000 ha
+4814,Tokelau,1998,0.0,1000 ha
+4815,Tokelau,1999,0.0,1000 ha
+4816,Tokelau,2000,0.0,1000 ha
+4817,Tokelau,2001,0.0,1000 ha
+4818,Tokelau,2002,0.0,1000 ha
+4819,Tokelau,2003,0.0,1000 ha
+4820,Tokelau,2004,0.0,1000 ha
+4821,Tokelau,2005,0.0,1000 ha
+4822,Tokelau,2006,0.0,1000 ha
+4823,Tokelau,2007,0.0,1000 ha
+4824,Tokelau,2008,0.0,1000 ha
+4825,Tokelau,2009,0.0,1000 ha
+4826,Tokelau,2010,0.0,1000 ha
+4827,Tokelau,2011,0.0,1000 ha
+4828,Tokelau,2012,0.0,1000 ha
+4829,Tokelau,2013,0.0,1000 ha
+4830,Tonga,1990,4.0,1000 ha
+4831,Tonga,1991,4.0,1000 ha
+4832,Tonga,1992,4.0,1000 ha
+4833,Tonga,1993,4.0,1000 ha
+4834,Tonga,1994,4.0,1000 ha
+4835,Tonga,1995,4.0,1000 ha
+4836,Tonga,1996,4.0,1000 ha
+4837,Tonga,1997,4.0,1000 ha
+4838,Tonga,1998,4.0,1000 ha
+4839,Tonga,1999,4.0,1000 ha
+4840,Tonga,2000,4.0,1000 ha
+4841,Tonga,2001,4.0,1000 ha
+4842,Tonga,2002,4.0,1000 ha
+4843,Tonga,2003,4.0,1000 ha
+4844,Tonga,2004,4.0,1000 ha
+4845,Tonga,2005,4.0,1000 ha
+4846,Tonga,2006,4.0,1000 ha
+4847,Tonga,2007,4.0,1000 ha
+4848,Tonga,2008,4.0,1000 ha
+4849,Tonga,2009,4.0,1000 ha
+4850,Tonga,2010,4.0,1000 ha
+4851,Tonga,2011,4.0,1000 ha
+4852,Tonga,2012,4.0,1000 ha
+4853,Tonga,2013,4.0,1000 ha
+4854,Trinidad and Tobago,1990,62.4,1000 ha
+4855,Trinidad and Tobago,1991,62.4,1000 ha
+4856,Trinidad and Tobago,1992,62.4,1000 ha
+4857,Trinidad and Tobago,1993,62.4,1000 ha
+4858,Trinidad and Tobago,1994,62.4,1000 ha
+4859,Trinidad and Tobago,1995,62.4,1000 ha
+4860,Trinidad and Tobago,1996,62.4,1000 ha
+4861,Trinidad and Tobago,1997,62.4,1000 ha
+4862,Trinidad and Tobago,1998,62.4,1000 ha
+4863,Trinidad and Tobago,1999,62.4,1000 ha
+4864,Trinidad and Tobago,2000,62.4,1000 ha
+4865,Trinidad and Tobago,2001,62.4,1000 ha
+4866,Trinidad and Tobago,2002,62.4,1000 ha
+4867,Trinidad and Tobago,2003,62.4,1000 ha
+4868,Trinidad and Tobago,2004,62.4,1000 ha
+4869,Trinidad and Tobago,2005,62.4,1000 ha
+4870,Trinidad and Tobago,2006,62.4,1000 ha
+4871,Trinidad and Tobago,2007,62.4,1000 ha
+4872,Trinidad and Tobago,2008,62.4,1000 ha
+4873,Trinidad and Tobago,2009,62.4,1000 ha
+4874,Trinidad and Tobago,2010,62.4,1000 ha
+4875,Trinidad and Tobago,2011,62.4,1000 ha
+4876,Trinidad and Tobago,2012,62.4,1000 ha
+4877,Trinidad and Tobago,2013,62.4,1000 ha
+4878,Tunisia,1990,0.0,1000 ha
+4879,Tunisia,1991,0.0,1000 ha
+4880,Tunisia,1992,0.0,1000 ha
+4881,Tunisia,1993,0.0,1000 ha
+4882,Tunisia,1994,0.0,1000 ha
+4883,Tunisia,1995,0.0,1000 ha
+4884,Tunisia,1996,0.0,1000 ha
+4885,Tunisia,1997,0.0,1000 ha
+4886,Tunisia,1998,0.0,1000 ha
+4887,Tunisia,1999,0.0,1000 ha
+4888,Tunisia,2000,0.0,1000 ha
+4889,Tunisia,2001,0.0,1000 ha
+4890,Tunisia,2002,0.0,1000 ha
+4891,Tunisia,2003,0.0,1000 ha
+4892,Tunisia,2004,0.0,1000 ha
+4893,Tunisia,2005,0.0,1000 ha
+4894,Tunisia,2006,0.0,1000 ha
+4895,Tunisia,2007,0.0,1000 ha
+4896,Tunisia,2008,0.0,1000 ha
+4897,Tunisia,2009,0.0,1000 ha
+4898,Tunisia,2010,0.0,1000 ha
+4899,Tunisia,2011,0.0,1000 ha
+4900,Tunisia,2012,0.0,1000 ha
+4901,Tunisia,2013,0.0,1000 ha
+4902,Turkey,1990,826.0,1000 ha
+4903,Turkey,1991,827.1,1000 ha
+4904,Turkey,1992,828.2,1000 ha
+4905,Turkey,1993,829.3,1000 ha
+4906,Turkey,1994,830.4,1000 ha
+4907,Turkey,1995,831.5,1000 ha
+4908,Turkey,1996,832.6,1000 ha
+4909,Turkey,1997,833.7,1000 ha
+4910,Turkey,1998,834.8,1000 ha
+4911,Turkey,1999,835.9,1000 ha
+4912,Turkey,2000,837.0,1000 ha
+4913,Turkey,2001,841.4,1000 ha
+4914,Turkey,2002,845.8,1000 ha
+4915,Turkey,2003,850.2,1000 ha
+4916,Turkey,2004,854.6,1000 ha
+4917,Turkey,2005,859.0,1000 ha
+4918,Turkey,2006,863.4,1000 ha
+4919,Turkey,2007,867.8,1000 ha
+4920,Turkey,2008,872.2,1000 ha
+4921,Turkey,2009,876.6,1000 ha
+4922,Turkey,2010,881.0,1000 ha
+4923,Turkey,2011,887.4,1000 ha
+4924,Turkey,2012,893.8,1000 ha
+4925,Turkey,2013,900.2,1000 ha
+4926,Turkmenistan,1992,104.0,1000 ha
+4927,Turkmenistan,1993,104.0,1000 ha
+4928,Turkmenistan,1994,104.0,1000 ha
+4929,Turkmenistan,1995,104.0,1000 ha
+4930,Turkmenistan,1996,104.0,1000 ha
+4931,Turkmenistan,1997,104.0,1000 ha
+4932,Turkmenistan,1998,104.0,1000 ha
+4933,Turkmenistan,1999,104.0,1000 ha
+4934,Turkmenistan,2000,104.0,1000 ha
+4935,Turkmenistan,2001,104.0,1000 ha
+4936,Turkmenistan,2002,104.0,1000 ha
+4937,Turkmenistan,2003,104.0,1000 ha
+4938,Turkmenistan,2004,104.0,1000 ha
+4939,Turkmenistan,2005,104.0,1000 ha
+4940,Turkmenistan,2006,104.0,1000 ha
+4941,Turkmenistan,2007,104.0,1000 ha
+4942,Turkmenistan,2008,104.0,1000 ha
+4943,Turkmenistan,2009,104.0,1000 ha
+4944,Turkmenistan,2010,104.0,1000 ha
+4945,Turkmenistan,2011,104.0,1000 ha
+4946,Turkmenistan,2012,104.0,1000 ha
+4947,Turkmenistan,2013,104.0,1000 ha
+4948,Turks and Caicos Islands,1990,0.0,1000 ha
+4949,Turks and Caicos Islands,1991,0.0,1000 ha
+4950,Turks and Caicos Islands,1992,0.0,1000 ha
+4951,Turks and Caicos Islands,1993,0.0,1000 ha
+4952,Turks and Caicos Islands,1994,0.0,1000 ha
+4953,Turks and Caicos Islands,1995,0.0,1000 ha
+4954,Turks and Caicos Islands,1996,0.0,1000 ha
+4955,Turks and Caicos Islands,1997,0.0,1000 ha
+4956,Turks and Caicos Islands,1998,0.0,1000 ha
+4957,Turks and Caicos Islands,1999,0.0,1000 ha
+4958,Turks and Caicos Islands,2000,0.0,1000 ha
+4959,Turks and Caicos Islands,2001,0.0,1000 ha
+4960,Turks and Caicos Islands,2002,0.0,1000 ha
+4961,Turks and Caicos Islands,2003,0.0,1000 ha
+4962,Turks and Caicos Islands,2004,0.0,1000 ha
+4963,Turks and Caicos Islands,2005,0.0,1000 ha
+4964,Turks and Caicos Islands,2006,0.0,1000 ha
+4965,Turks and Caicos Islands,2007,0.0,1000 ha
+4966,Turks and Caicos Islands,2008,0.0,1000 ha
+4967,Turks and Caicos Islands,2009,0.0,1000 ha
+4968,Turks and Caicos Islands,2010,0.0,1000 ha
+4969,Turks and Caicos Islands,2011,0.0,1000 ha
+4970,Turks and Caicos Islands,2012,0.0,1000 ha
+4971,Turks and Caicos Islands,2013,0.0,1000 ha
+4972,Tuvalu,1990,0.0,1000 ha
+4973,Tuvalu,1991,0.0,1000 ha
+4974,Tuvalu,1992,0.0,1000 ha
+4975,Tuvalu,1993,0.0,1000 ha
+4976,Tuvalu,1994,0.0,1000 ha
+4977,Tuvalu,1995,0.0,1000 ha
+4978,Tuvalu,1996,0.0,1000 ha
+4979,Tuvalu,1997,0.0,1000 ha
+4980,Tuvalu,1998,0.0,1000 ha
+4981,Tuvalu,1999,0.0,1000 ha
+4982,Tuvalu,2000,0.0,1000 ha
+4983,Tuvalu,2001,0.0,1000 ha
+4984,Tuvalu,2002,0.0,1000 ha
+4985,Tuvalu,2003,0.0,1000 ha
+4986,Tuvalu,2004,0.0,1000 ha
+4987,Tuvalu,2005,0.0,1000 ha
+4988,Tuvalu,2006,0.0,1000 ha
+4989,Tuvalu,2007,0.0,1000 ha
+4990,Tuvalu,2008,0.0,1000 ha
+4991,Tuvalu,2009,0.0,1000 ha
+4992,Tuvalu,2010,0.0,1000 ha
+4993,Tuvalu,2011,0.0,1000 ha
+4994,Tuvalu,2012,0.0,1000 ha
+4995,Tuvalu,2013,0.0,1000 ha
+4996,Uganda,1990,0.0,1000 ha
+4997,Uganda,1991,0.0,1000 ha
+4998,Uganda,1992,0.0,1000 ha
+4999,Uganda,1993,0.0,1000 ha
+5000,Uganda,1994,0.0,1000 ha
+5001,Uganda,1995,0.0,1000 ha
+5002,Uganda,1996,0.0,1000 ha
+5003,Uganda,1997,0.0,1000 ha
+5004,Uganda,1998,0.0,1000 ha
+5005,Uganda,1999,0.0,1000 ha
+5006,Uganda,2000,0.0,1000 ha
+5007,Uganda,2001,0.0,1000 ha
+5008,Uganda,2002,0.0,1000 ha
+5009,Uganda,2003,0.0,1000 ha
+5010,Uganda,2004,0.0,1000 ha
+5011,Uganda,2005,0.0,1000 ha
+5012,Uganda,2006,0.0,1000 ha
+5013,Uganda,2007,0.0,1000 ha
+5014,Uganda,2008,0.0,1000 ha
+5015,Uganda,2009,0.0,1000 ha
+5016,Uganda,2010,0.0,1000 ha
+5017,Uganda,2011,0.0,1000 ha
+5018,Uganda,2012,0.0,1000 ha
+5019,Uganda,2013,0.0,1000 ha
+5020,Ukraine,1992,59.0,1000 ha
+5021,Ukraine,1993,59.0,1000 ha
+5022,Ukraine,1994,59.0,1000 ha
+5023,Ukraine,1995,59.0,1000 ha
+5024,Ukraine,1996,59.0,1000 ha
+5025,Ukraine,1997,59.0,1000 ha
+5026,Ukraine,1998,59.0,1000 ha
+5027,Ukraine,1999,59.0,1000 ha
+5028,Ukraine,2000,59.0,1000 ha
+5029,Ukraine,2001,59.0,1000 ha
+5030,Ukraine,2002,59.0,1000 ha
+5031,Ukraine,2003,59.0,1000 ha
+5032,Ukraine,2004,59.0,1000 ha
+5033,Ukraine,2005,59.0,1000 ha
+5034,Ukraine,2006,59.0,1000 ha
+5035,Ukraine,2007,59.0,1000 ha
+5036,Ukraine,2008,59.0,1000 ha
+5037,Ukraine,2009,59.0,1000 ha
+5038,Ukraine,2010,59.0,1000 ha
+5039,Ukraine,2011,59.0,1000 ha
+5040,Ukraine,2012,59.0,1000 ha
+5041,Ukraine,2013,59.0,1000 ha
+5042,United Arab Emirates,1990,0.0,1000 ha
+5043,United Arab Emirates,1991,0.0,1000 ha
+5044,United Arab Emirates,1992,0.0,1000 ha
+5045,United Arab Emirates,1993,0.0,1000 ha
+5046,United Arab Emirates,1994,0.0,1000 ha
+5047,United Arab Emirates,1995,0.0,1000 ha
+5048,United Arab Emirates,1996,0.0,1000 ha
+5049,United Arab Emirates,1997,0.0,1000 ha
+5050,United Arab Emirates,1998,0.0,1000 ha
+5051,United Arab Emirates,1999,0.0,1000 ha
+5052,United Arab Emirates,2000,0.0,1000 ha
+5053,United Arab Emirates,2001,0.0,1000 ha
+5054,United Arab Emirates,2002,0.0,1000 ha
+5055,United Arab Emirates,2003,0.0,1000 ha
+5056,United Arab Emirates,2004,0.0,1000 ha
+5057,United Arab Emirates,2005,0.0,1000 ha
+5058,United Arab Emirates,2006,0.0,1000 ha
+5059,United Arab Emirates,2007,0.0,1000 ha
+5060,United Arab Emirates,2008,0.0,1000 ha
+5061,United Arab Emirates,2009,0.0,1000 ha
+5062,United Arab Emirates,2010,0.0,1000 ha
+5063,United Arab Emirates,2011,0.0,1000 ha
+5064,United Arab Emirates,2012,0.0,1000 ha
+5065,United Arab Emirates,2013,0.0,1000 ha
+5066,United Kingdom,1990,0.0,1000 ha
+5067,United Kingdom,1991,0.0,1000 ha
+5068,United Kingdom,1992,0.0,1000 ha
+5069,United Kingdom,1993,0.0,1000 ha
+5070,United Kingdom,1994,0.0,1000 ha
+5071,United Kingdom,1995,0.0,1000 ha
+5072,United Kingdom,1996,0.0,1000 ha
+5073,United Kingdom,1997,0.0,1000 ha
+5074,United Kingdom,1998,0.0,1000 ha
+5075,United Kingdom,1999,0.0,1000 ha
+5076,United Kingdom,2000,0.0,1000 ha
+5077,United Kingdom,2001,0.0,1000 ha
+5078,United Kingdom,2002,0.0,1000 ha
+5079,United Kingdom,2003,0.0,1000 ha
+5080,United Kingdom,2004,0.0,1000 ha
+5081,United Kingdom,2005,0.0,1000 ha
+5082,United Kingdom,2006,0.0,1000 ha
+5083,United Kingdom,2007,0.0,1000 ha
+5084,United Kingdom,2008,0.0,1000 ha
+5085,United Kingdom,2009,0.0,1000 ha
+5086,United Kingdom,2010,0.0,1000 ha
+5087,United Kingdom,2011,0.0,1000 ha
+5088,United Kingdom,2012,0.0,1000 ha
+5089,United Kingdom,2013,0.0,1000 ha
+5090,United Republic of Tanzania,1990,0.0,1000 ha
+5091,United Republic of Tanzania,1991,0.0,1000 ha
+5092,United Republic of Tanzania,1992,0.0,1000 ha
+5093,United Republic of Tanzania,1993,0.0,1000 ha
+5094,United Republic of Tanzania,1994,0.0,1000 ha
+5095,United Republic of Tanzania,1995,0.0,1000 ha
+5096,United Republic of Tanzania,1996,0.0,1000 ha
+5097,United Republic of Tanzania,1997,0.0,1000 ha
+5098,United Republic of Tanzania,1998,0.0,1000 ha
+5099,United Republic of Tanzania,1999,0.0,1000 ha
+5100,United Republic of Tanzania,2000,0.0,1000 ha
+5101,United Republic of Tanzania,2001,0.0,1000 ha
+5102,United Republic of Tanzania,2002,0.0,1000 ha
+5103,United Republic of Tanzania,2003,0.0,1000 ha
+5104,United Republic of Tanzania,2004,0.0,1000 ha
+5105,United Republic of Tanzania,2005,0.0,1000 ha
+5106,United Republic of Tanzania,2006,0.0,1000 ha
+5107,United Republic of Tanzania,2007,0.0,1000 ha
+5108,United Republic of Tanzania,2008,0.0,1000 ha
+5109,United Republic of Tanzania,2009,0.0,1000 ha
+5110,United Republic of Tanzania,2010,0.0,1000 ha
+5111,United Republic of Tanzania,2011,0.0,1000 ha
+5112,United Republic of Tanzania,2012,0.0,1000 ha
+5113,United Republic of Tanzania,2013,0.0,1000 ha
+5114,United States of America,1990,70012.0,1000 ha
+5115,United States of America,1991,70241.3,1000 ha
+5116,United States of America,1992,70470.6,1000 ha
+5117,United States of America,1993,70699.9,1000 ha
+5118,United States of America,1994,70929.2,1000 ha
+5119,United States of America,1995,71158.5,1000 ha
+5120,United States of America,1996,71387.8,1000 ha
+5121,United States of America,1997,71617.1,1000 ha
+5122,United States of America,1998,71846.4,1000 ha
+5123,United States of America,1999,72075.7,1000 ha
+5124,United States of America,2000,72305.0,1000 ha
+5125,United States of America,2001,72985.8,1000 ha
+5126,United States of America,2002,73666.6,1000 ha
+5127,United States of America,2003,74347.4,1000 ha
+5128,United States of America,2004,75028.2,1000 ha
+5129,United States of America,2005,75709.0,1000 ha
+5130,United States of America,2006,75626.0,1000 ha
+5131,United States of America,2007,75543.0,1000 ha
+5132,United States of America,2008,75460.0,1000 ha
+5133,United States of America,2009,75377.0,1000 ha
+5134,United States of America,2010,75294.0,1000 ha
+5135,United States of America,2011,75295.2,1000 ha
+5136,United States of America,2012,75296.4,1000 ha
+5137,United States of America,2013,75297.6,1000 ha
+5138,United States Virgin Islands,1990,0.0,1000 ha
+5139,United States Virgin Islands,1991,0.0,1000 ha
+5140,United States Virgin Islands,1992,0.0,1000 ha
+5141,United States Virgin Islands,1993,0.0,1000 ha
+5142,United States Virgin Islands,1994,0.0,1000 ha
+5143,United States Virgin Islands,1995,0.0,1000 ha
+5144,United States Virgin Islands,1996,0.0,1000 ha
+5145,United States Virgin Islands,1997,0.0,1000 ha
+5146,United States Virgin Islands,1998,0.0,1000 ha
+5147,United States Virgin Islands,1999,0.0,1000 ha
+5148,United States Virgin Islands,2000,0.0,1000 ha
+5149,United States Virgin Islands,2001,0.0,1000 ha
+5150,United States Virgin Islands,2002,0.0,1000 ha
+5151,United States Virgin Islands,2003,0.0,1000 ha
+5152,United States Virgin Islands,2004,0.0,1000 ha
+5153,United States Virgin Islands,2005,0.0,1000 ha
+5154,United States Virgin Islands,2006,0.0,1000 ha
+5155,United States Virgin Islands,2007,0.0,1000 ha
+5156,United States Virgin Islands,2008,0.0,1000 ha
+5157,United States Virgin Islands,2009,0.0,1000 ha
+5158,United States Virgin Islands,2010,0.0,1000 ha
+5159,United States Virgin Islands,2011,0.0,1000 ha
+5160,United States Virgin Islands,2012,0.0,1000 ha
+5161,United States Virgin Islands,2013,0.0,1000 ha
+5162,Uruguay,1990,239.0,1000 ha
+5163,Uruguay,1991,244.7,1000 ha
+5164,Uruguay,1992,250.4,1000 ha
+5165,Uruguay,1993,256.1,1000 ha
+5166,Uruguay,1994,261.8,1000 ha
+5167,Uruguay,1995,267.5,1000 ha
+5168,Uruguay,1996,273.2,1000 ha
+5169,Uruguay,1997,278.9,1000 ha
+5170,Uruguay,1998,284.6,1000 ha
+5171,Uruguay,1999,290.3,1000 ha
+5172,Uruguay,2000,296.0,1000 ha
+5173,Uruguay,2001,296.0,1000 ha
+5174,Uruguay,2002,296.0,1000 ha
+5175,Uruguay,2003,296.0,1000 ha
+5176,Uruguay,2004,296.0,1000 ha
+5177,Uruguay,2005,296.0,1000 ha
+5178,Uruguay,2006,297.0,1000 ha
+5179,Uruguay,2007,298.0,1000 ha
+5180,Uruguay,2008,299.0,1000 ha
+5181,Uruguay,2009,300.0,1000 ha
+5182,Uruguay,2010,301.0,1000 ha
+5183,Uruguay,2011,303.4,1000 ha
+5184,Uruguay,2012,305.8,1000 ha
+5185,Uruguay,2013,308.2,1000 ha
+5186,USSR,1990,244030.1,1000 ha
+5187,USSR,1991,245671.58,1000 ha
+5188,Uzbekistan,1992,57.0,1000 ha
+5189,Uzbekistan,1993,57.0,1000 ha
+5190,Uzbekistan,1994,57.0,1000 ha
+5191,Uzbekistan,1995,57.0,1000 ha
+5192,Uzbekistan,1996,57.0,1000 ha
+5193,Uzbekistan,1997,57.0,1000 ha
+5194,Uzbekistan,1998,57.0,1000 ha
+5195,Uzbekistan,1999,57.0,1000 ha
+5196,Uzbekistan,2000,57.0,1000 ha
+5197,Uzbekistan,2001,57.0,1000 ha
+5198,Uzbekistan,2002,57.0,1000 ha
+5199,Uzbekistan,2003,57.0,1000 ha
+5200,Uzbekistan,2004,57.0,1000 ha
+5201,Uzbekistan,2005,57.0,1000 ha
+5202,Uzbekistan,2006,60.0,1000 ha
+5203,Uzbekistan,2007,63.0,1000 ha
+5204,Uzbekistan,2008,66.0,1000 ha
+5205,Uzbekistan,2009,69.0,1000 ha
+5206,Uzbekistan,2010,72.0,1000 ha
+5207,Uzbekistan,2011,72.2,1000 ha
+5208,Uzbekistan,2012,72.4,1000 ha
+5209,Uzbekistan,2013,72.6,1000 ha
+5210,Vanuatu,1990,0.0,1000 ha
+5211,Vanuatu,1991,0.0,1000 ha
+5212,Vanuatu,1992,0.0,1000 ha
+5213,Vanuatu,1993,0.0,1000 ha
+5214,Vanuatu,1994,0.0,1000 ha
+5215,Vanuatu,1995,0.0,1000 ha
+5216,Vanuatu,1996,0.0,1000 ha
+5217,Vanuatu,1997,0.0,1000 ha
+5218,Vanuatu,1998,0.0,1000 ha
+5219,Vanuatu,1999,0.0,1000 ha
+5220,Vanuatu,2000,0.0,1000 ha
+5221,Vanuatu,2001,0.0,1000 ha
+5222,Vanuatu,2002,0.0,1000 ha
+5223,Vanuatu,2003,0.0,1000 ha
+5224,Vanuatu,2004,0.0,1000 ha
+5225,Vanuatu,2005,0.0,1000 ha
+5226,Vanuatu,2006,0.0,1000 ha
+5227,Vanuatu,2007,0.0,1000 ha
+5228,Vanuatu,2008,0.0,1000 ha
+5229,Vanuatu,2009,0.0,1000 ha
+5230,Vanuatu,2010,0.0,1000 ha
+5231,Vanuatu,2011,0.0,1000 ha
+5232,Vanuatu,2012,0.0,1000 ha
+5233,Vanuatu,2013,0.0,1000 ha
+5234,Venezuela (Bolivarian Republic of),1990,46568.0,1000 ha
+5235,Venezuela (Bolivarian Republic of),1991,46568.0,1000 ha
+5236,Venezuela (Bolivarian Republic of),1992,46568.0,1000 ha
+5237,Venezuela (Bolivarian Republic of),1993,46568.0,1000 ha
+5238,Venezuela (Bolivarian Republic of),1994,46568.0,1000 ha
+5239,Venezuela (Bolivarian Republic of),1995,46568.0,1000 ha
+5240,Venezuela (Bolivarian Republic of),1996,46568.0,1000 ha
+5241,Venezuela (Bolivarian Republic of),1997,46568.0,1000 ha
+5242,Venezuela (Bolivarian Republic of),1998,46568.0,1000 ha
+5243,Venezuela (Bolivarian Republic of),1999,46568.0,1000 ha
+5244,Venezuela (Bolivarian Republic of),2000,46568.0,1000 ha
+5245,Venezuela (Bolivarian Republic of),2001,46568.0,1000 ha
+5246,Venezuela (Bolivarian Republic of),2002,46568.0,1000 ha
+5247,Venezuela (Bolivarian Republic of),2003,46568.0,1000 ha
+5248,Venezuela (Bolivarian Republic of),2004,46568.0,1000 ha
+5249,Venezuela (Bolivarian Republic of),2005,46568.0,1000 ha
+5250,Venezuela (Bolivarian Republic of),2006,46568.0,1000 ha
+5251,Venezuela (Bolivarian Republic of),2007,46568.0,1000 ha
+5252,Venezuela (Bolivarian Republic of),2008,46568.0,1000 ha
+5253,Venezuela (Bolivarian Republic of),2009,46568.0,1000 ha
+5254,Venezuela (Bolivarian Republic of),2010,46568.0,1000 ha
+5255,Venezuela (Bolivarian Republic of),2011,46403.6,1000 ha
+5256,Venezuela (Bolivarian Republic of),2012,46239.2,1000 ha
+5257,Venezuela (Bolivarian Republic of),2013,46074.8,1000 ha
+5258,Viet Nam,1990,384.0,1000 ha
+5259,Viet Nam,1991,364.3,1000 ha
+5260,Viet Nam,1992,344.6,1000 ha
+5261,Viet Nam,1993,324.9,1000 ha
+5262,Viet Nam,1994,305.2,1000 ha
+5263,Viet Nam,1995,285.5,1000 ha
+5264,Viet Nam,1996,265.8,1000 ha
+5265,Viet Nam,1997,246.1,1000 ha
+5266,Viet Nam,1998,226.4,1000 ha
+5267,Viet Nam,1999,206.7,1000 ha
+5268,Viet Nam,2000,187.0,1000 ha
+5269,Viet Nam,2001,166.6,1000 ha
+5270,Viet Nam,2002,146.2,1000 ha
+5271,Viet Nam,2003,125.8,1000 ha
+5272,Viet Nam,2004,105.4,1000 ha
+5273,Viet Nam,2005,85.0,1000 ha
+5274,Viet Nam,2006,84.6,1000 ha
+5275,Viet Nam,2007,84.2,1000 ha
+5276,Viet Nam,2008,83.8,1000 ha
+5277,Viet Nam,2009,83.4,1000 ha
+5278,Viet Nam,2010,83.0,1000 ha
+5279,Viet Nam,2011,83.0,1000 ha
+5280,Viet Nam,2012,83.0,1000 ha
+5281,Viet Nam,2013,83.0,1000 ha
+5282,Wallis and Futuna Islands,1990,0.0,1000 ha
+5283,Wallis and Futuna Islands,1991,0.0,1000 ha
+5284,Wallis and Futuna Islands,1992,0.0,1000 ha
+5285,Wallis and Futuna Islands,1993,0.0,1000 ha
+5286,Wallis and Futuna Islands,1994,0.0,1000 ha
+5287,Wallis and Futuna Islands,1995,0.0,1000 ha
+5288,Wallis and Futuna Islands,1996,0.0,1000 ha
+5289,Wallis and Futuna Islands,1997,0.0,1000 ha
+5290,Wallis and Futuna Islands,1998,0.0,1000 ha
+5291,Wallis and Futuna Islands,1999,0.0,1000 ha
+5292,Wallis and Futuna Islands,2000,0.0,1000 ha
+5293,Wallis and Futuna Islands,2001,0.0,1000 ha
+5294,Wallis and Futuna Islands,2002,0.0,1000 ha
+5295,Wallis and Futuna Islands,2003,0.0,1000 ha
+5296,Wallis and Futuna Islands,2004,0.0,1000 ha
+5297,Wallis and Futuna Islands,2005,0.0,1000 ha
+5298,Wallis and Futuna Islands,2006,0.0,1000 ha
+5299,Wallis and Futuna Islands,2007,0.0,1000 ha
+5300,Wallis and Futuna Islands,2008,0.0,1000 ha
+5301,Wallis and Futuna Islands,2009,0.0,1000 ha
+5302,Wallis and Futuna Islands,2010,0.0,1000 ha
+5303,Wallis and Futuna Islands,2011,0.0,1000 ha
+5304,Wallis and Futuna Islands,2012,0.0,1000 ha
+5305,Wallis and Futuna Islands,2013,0.0,1000 ha
+5306,Western Sahara,1990,0.0,1000 ha
+5307,Western Sahara,1991,0.0,1000 ha
+5308,Western Sahara,1992,0.0,1000 ha
+5309,Western Sahara,1993,0.0,1000 ha
+5310,Western Sahara,1994,0.0,1000 ha
+5311,Western Sahara,1995,0.0,1000 ha
+5312,Western Sahara,1996,0.0,1000 ha
+5313,Western Sahara,1997,0.0,1000 ha
+5314,Western Sahara,1998,0.0,1000 ha
+5315,Western Sahara,1999,0.0,1000 ha
+5316,Western Sahara,2000,0.0,1000 ha
+5317,Western Sahara,2001,0.0,1000 ha
+5318,Western Sahara,2002,0.0,1000 ha
+5319,Western Sahara,2003,0.0,1000 ha
+5320,Western Sahara,2004,0.0,1000 ha
+5321,Western Sahara,2005,0.0,1000 ha
+5322,Western Sahara,2006,0.0,1000 ha
+5323,Western Sahara,2007,0.0,1000 ha
+5324,Western Sahara,2008,0.0,1000 ha
+5325,Western Sahara,2009,0.0,1000 ha
+5326,Western Sahara,2010,0.0,1000 ha
+5327,Western Sahara,2011,0.0,1000 ha
+5328,Western Sahara,2012,0.0,1000 ha
+5329,Western Sahara,2013,0.0,1000 ha
+5330,Yemen,1990,0.0,1000 ha
+5331,Yemen,1991,0.0,1000 ha
+5332,Yemen,1992,0.0,1000 ha
+5333,Yemen,1993,0.0,1000 ha
+5334,Yemen,1994,0.0,1000 ha
+5335,Yemen,1995,0.0,1000 ha
+5336,Yemen,1996,0.0,1000 ha
+5337,Yemen,1997,0.0,1000 ha
+5338,Yemen,1998,0.0,1000 ha
+5339,Yemen,1999,0.0,1000 ha
+5340,Yemen,2000,0.0,1000 ha
+5341,Yemen,2001,0.0,1000 ha
+5342,Yemen,2002,0.0,1000 ha
+5343,Yemen,2003,0.0,1000 ha
+5344,Yemen,2004,0.0,1000 ha
+5345,Yemen,2005,0.0,1000 ha
+5346,Yemen,2006,0.0,1000 ha
+5347,Yemen,2007,0.0,1000 ha
+5348,Yemen,2008,0.0,1000 ha
+5349,Yemen,2009,0.0,1000 ha
+5350,Yemen,2010,0.0,1000 ha
+5351,Yemen,2011,0.0,1000 ha
+5352,Yemen,2012,0.0,1000 ha
+5353,Yemen,2013,0.0,1000 ha
+5354,Yugoslav SFR,1990,168.0,1000 ha
+5355,Yugoslav SFR,1991,168.4,1000 ha
+5356,Zambia,1990,0.0,1000 ha
+5357,Zambia,1991,0.0,1000 ha
+5358,Zambia,1992,0.0,1000 ha
+5359,Zambia,1993,0.0,1000 ha
+5360,Zambia,1994,0.0,1000 ha
+5361,Zambia,1995,0.0,1000 ha
+5362,Zambia,1996,0.0,1000 ha
+5363,Zambia,1997,0.0,1000 ha
+5364,Zambia,1998,0.0,1000 ha
+5365,Zambia,1999,0.0,1000 ha
+5366,Zambia,2000,0.0,1000 ha
+5367,Zambia,2001,0.0,1000 ha
+5368,Zambia,2002,0.0,1000 ha
+5369,Zambia,2003,0.0,1000 ha
+5370,Zambia,2004,0.0,1000 ha
+5371,Zambia,2005,0.0,1000 ha
+5372,Zambia,2006,0.0,1000 ha
+5373,Zambia,2007,0.0,1000 ha
+5374,Zambia,2008,0.0,1000 ha
+5375,Zambia,2009,0.0,1000 ha
+5376,Zambia,2010,0.0,1000 ha
+5377,Zambia,2011,0.0,1000 ha
+5378,Zambia,2012,0.0,1000 ha
+5379,Zambia,2013,0.0,1000 ha
+5380,Zimbabwe,1990,801.0,1000 ha
+5381,Zimbabwe,1991,801.0,1000 ha
+5382,Zimbabwe,1992,801.0,1000 ha
+5383,Zimbabwe,1993,801.0,1000 ha
+5384,Zimbabwe,1994,801.0,1000 ha
+5385,Zimbabwe,1995,801.0,1000 ha
+5386,Zimbabwe,1996,801.0,1000 ha
+5387,Zimbabwe,1997,801.0,1000 ha
+5388,Zimbabwe,1998,801.0,1000 ha
+5389,Zimbabwe,1999,801.0,1000 ha
+5390,Zimbabwe,2000,801.0,1000 ha
+5391,Zimbabwe,2001,801.0,1000 ha
+5392,Zimbabwe,2002,801.0,1000 ha
+5393,Zimbabwe,2003,801.0,1000 ha
+5394,Zimbabwe,2004,801.0,1000 ha
+5395,Zimbabwe,2005,801.0,1000 ha
+5396,Zimbabwe,2006,801.0,1000 ha
+5397,Zimbabwe,2007,801.0,1000 ha
+5398,Zimbabwe,2008,801.0,1000 ha
+5399,Zimbabwe,2009,801.0,1000 ha
+5400,Zimbabwe,2010,801.0,1000 ha
+5401,Zimbabwe,2011,801.0,1000 ha
+5402,Zimbabwe,2012,801.0,1000 ha
+5403,Zimbabwe,2013,801.0,1000 ha

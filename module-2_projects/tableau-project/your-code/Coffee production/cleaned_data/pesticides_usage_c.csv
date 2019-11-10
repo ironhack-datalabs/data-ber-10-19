@@ -1,0 +1,3861 @@
+,Country,Year,pesticides_usage,Unit
+0,Albania,1990,121.0,tonnes
+1,Albania,1991,121.0,tonnes
+2,Albania,1992,121.0,tonnes
+3,Albania,1993,121.0,tonnes
+4,Albania,1994,201.0,tonnes
+5,Albania,1995,251.0,tonnes
+6,Albania,1996,261.89,tonnes
+7,Albania,1997,272.78,tonnes
+8,Albania,1998,283.68,tonnes
+9,Albania,1999,294.57,tonnes
+10,Albania,2000,305.46,tonnes
+11,Albania,2001,316.35,tonnes
+12,Albania,2002,327.25,tonnes
+13,Albania,2003,338.14,tonnes
+14,Albania,2004,349.03,tonnes
+15,Albania,2005,359.92,tonnes
+16,Albania,2006,370.82,tonnes
+17,Albania,2007,381.71,tonnes
+18,Albania,2008,392.6,tonnes
+19,Albania,2009,403.49,tonnes
+20,Albania,2010,582.93,tonnes
+21,Albania,2011,574.62,tonnes
+22,Albania,2012,353.05,tonnes
+23,Albania,2013,441.53,tonnes
+24,Algeria,1990,4684.13,tonnes
+25,Algeria,1991,6035.05,tonnes
+26,Algeria,1992,2816.84,tonnes
+27,Algeria,1993,2650.67,tonnes
+28,Algeria,1994,2999.28,tonnes
+29,Algeria,1995,5196.29,tonnes
+30,Algeria,1996,1131.55,tonnes
+31,Algeria,1997,762.82,tonnes
+32,Algeria,1998,439.62,tonnes
+33,Algeria,1999,1168.83,tonnes
+34,Algeria,2000,1673.1,tonnes
+35,Algeria,2001,2177.37,tonnes
+36,Algeria,2002,2681.64,tonnes
+37,Algeria,2003,3185.91,tonnes
+38,Algeria,2004,3690.18,tonnes
+39,Algeria,2005,2726.44,tonnes
+40,Algeria,2006,2419.85,tonnes
+41,Algeria,2007,3478.36,tonnes
+42,Algeria,2008,5635.95,tonnes
+43,Algeria,2009,3084.25,tonnes
+44,Algeria,2010,1785.42,tonnes
+45,Algeria,2011,7528.05,tonnes
+46,Algeria,2012,8896.01,tonnes
+47,Algeria,2013,8185.41,tonnes
+48,Angola,1990,64.0,tonnes
+49,Angola,1991,81.67,tonnes
+50,Angola,1992,25.33,tonnes
+51,Angola,1993,169.0,tonnes
+52,Angola,1994,25.5,tonnes
+53,Angola,1995,336.0,tonnes
+54,Angola,1996,40.0,tonnes
+55,Angola,1997,40.0,tonnes
+56,Angola,1998,40.0,tonnes
+57,Angola,1999,40.0,tonnes
+58,Angola,2000,40.0,tonnes
+59,Angola,2001,40.0,tonnes
+60,Angola,2002,40.0,tonnes
+61,Angola,2003,40.0,tonnes
+62,Angola,2004,40.0,tonnes
+63,Angola,2005,40.0,tonnes
+64,Angola,2006,40.0,tonnes
+65,Angola,2007,40.0,tonnes
+66,Angola,2008,40.0,tonnes
+67,Angola,2009,40.0,tonnes
+68,Angola,2010,40.0,tonnes
+69,Angola,2011,40.0,tonnes
+70,Angola,2012,40.0,tonnes
+71,Angola,2013,40.0,tonnes
+72,Antigua and Barbuda,1990,7.52,tonnes
+73,Antigua and Barbuda,1991,7.52,tonnes
+74,Antigua and Barbuda,1992,7.52,tonnes
+75,Antigua and Barbuda,1993,7.52,tonnes
+76,Antigua and Barbuda,1994,7.52,tonnes
+77,Antigua and Barbuda,1995,7.52,tonnes
+78,Antigua and Barbuda,1996,7.52,tonnes
+79,Antigua and Barbuda,1997,7.52,tonnes
+80,Antigua and Barbuda,1998,7.52,tonnes
+81,Antigua and Barbuda,1999,7.52,tonnes
+82,Antigua and Barbuda,2000,7.52,tonnes
+83,Antigua and Barbuda,2001,7.52,tonnes
+84,Antigua and Barbuda,2002,7.52,tonnes
+85,Antigua and Barbuda,2003,7.52,tonnes
+86,Antigua and Barbuda,2004,7.52,tonnes
+87,Antigua and Barbuda,2005,7.52,tonnes
+88,Antigua and Barbuda,2006,7.52,tonnes
+89,Antigua and Barbuda,2007,7.52,tonnes
+90,Antigua and Barbuda,2008,7.52,tonnes
+91,Antigua and Barbuda,2009,7.52,tonnes
+92,Antigua and Barbuda,2010,7.52,tonnes
+93,Antigua and Barbuda,2011,39.26,tonnes
+94,Antigua and Barbuda,2012,31.5,tonnes
+95,Antigua and Barbuda,2013,28.3,tonnes
+96,Argentina,1990,26156.0,tonnes
+97,Argentina,1991,26156.0,tonnes
+98,Argentina,1992,26156.0,tonnes
+99,Argentina,1993,26156.0,tonnes
+100,Argentina,1994,30195.0,tonnes
+101,Argentina,1995,37842.0,tonnes
+102,Argentina,1996,54595.0,tonnes
+103,Argentina,1997,77691.0,tonnes
+104,Argentina,1998,62397.0,tonnes
+105,Argentina,1999,73152.15,tonnes
+106,Argentina,2000,83907.29,tonnes
+107,Argentina,2001,94662.44,tonnes
+108,Argentina,2002,105417.59,tonnes
+109,Argentina,2003,116172.73,tonnes
+110,Argentina,2004,126927.88,tonnes
+111,Argentina,2005,137683.03,tonnes
+112,Argentina,2006,148438.17,tonnes
+113,Argentina,2007,185617.65,tonnes
+114,Argentina,2008,202151.41,tonnes
+115,Argentina,2009,138831.47,tonnes
+116,Argentina,2010,234430.38,tonnes
+117,Argentina,2011,219255.93,tonnes
+118,Argentina,2012,215405.95,tonnes
+119,Argentina,2013,211555.98,tonnes
+120,Armenia,1992,8.0,tonnes
+121,Armenia,1993,8.0,tonnes
+122,Armenia,1994,23.0,tonnes
+123,Armenia,1995,23.9,tonnes
+124,Armenia,1996,32.0,tonnes
+125,Armenia,1997,41.46,tonnes
+126,Armenia,1998,50.92,tonnes
+127,Armenia,1999,60.38,tonnes
+128,Armenia,2000,69.85,tonnes
+129,Armenia,2001,79.31,tonnes
+130,Armenia,2002,88.77,tonnes
+131,Armenia,2003,98.23,tonnes
+132,Armenia,2004,204.77,tonnes
+133,Armenia,2005,220.51,tonnes
+134,Armenia,2006,227.55,tonnes
+135,Armenia,2007,241.71,tonnes
+136,Armenia,2008,218.2,tonnes
+137,Armenia,2009,198.36,tonnes
+138,Armenia,2010,278.72,tonnes
+139,Armenia,2011,278.72,tonnes
+140,Armenia,2012,278.72,tonnes
+141,Armenia,2013,278.72,tonnes
+142,Australia,1990,17866.0,tonnes
+143,Australia,1991,17866.0,tonnes
+144,Australia,1992,22234.0,tonnes
+145,Australia,1993,23899.0,tonnes
+146,Australia,1994,21057.0,tonnes
+147,Australia,1995,25598.0,tonnes
+148,Australia,1996,31185.0,tonnes
+149,Australia,1997,34091.0,tonnes
+150,Australia,1998,37215.0,tonnes
+151,Australia,1999,34200.0,tonnes
+152,Australia,2000,33475.0,tonnes
+153,Australia,2001,32710.0,tonnes
+154,Australia,2002,26651.0,tonnes
+155,Australia,2003,32418.0,tonnes
+156,Australia,2004,36276.0,tonnes
+157,Australia,2005,34310.0,tonnes
+158,Australia,2006,35900.0,tonnes
+159,Australia,2007,32446.24,tonnes
+160,Australia,2008,42935.38,tonnes
+161,Australia,2009,38065.69,tonnes
+162,Australia,2010,42169.39,tonnes
+163,Australia,2011,47632.98,tonnes
+164,Australia,2012,48687.88,tonnes
+165,Australia,2013,45177.19,tonnes
+166,Austria,1990,4246.0,tonnes
+167,Austria,1991,4487.0,tonnes
+168,Austria,1992,3897.0,tonnes
+169,Austria,1993,3984.0,tonnes
+170,Austria,1994,3619.0,tonnes
+171,Austria,1995,3402.0,tonnes
+172,Austria,1996,3565.0,tonnes
+173,Austria,1997,3689.6,tonnes
+174,Austria,1998,3340.3,tonnes
+175,Austria,1999,3418.6,tonnes
+176,Austria,2000,3563.2,tonnes
+177,Austria,2001,3132.2,tonnes
+178,Austria,2002,3079.2,tonnes
+179,Austria,2003,3384.9,tonnes
+180,Austria,2004,3301.7,tonnes
+181,Austria,2005,3404.0,tonnes
+182,Austria,2006,3415.7,tonnes
+183,Austria,2007,3526.6,tonnes
+184,Austria,2008,4246.7,tonnes
+185,Austria,2009,3531.8,tonnes
+186,Austria,2010,3692.4,tonnes
+187,Austria,2011,3441.5,tonnes
+188,Austria,2012,3563.3,tonnes
+189,Austria,2013,3108.6,tonnes
+190,Azerbaijan,1992,148.68,tonnes
+191,Azerbaijan,1993,148.68,tonnes
+192,Azerbaijan,1994,148.68,tonnes
+193,Azerbaijan,1995,148.68,tonnes
+194,Azerbaijan,1996,148.68,tonnes
+195,Azerbaijan,1997,148.68,tonnes
+196,Azerbaijan,1998,148.68,tonnes
+197,Azerbaijan,1999,148.68,tonnes
+198,Azerbaijan,2000,148.68,tonnes
+199,Azerbaijan,2001,148.68,tonnes
+200,Azerbaijan,2002,148.68,tonnes
+201,Azerbaijan,2003,148.68,tonnes
+202,Azerbaijan,2004,148.68,tonnes
+203,Azerbaijan,2005,148.68,tonnes
+204,Azerbaijan,2006,148.68,tonnes
+205,Azerbaijan,2007,148.68,tonnes
+206,Azerbaijan,2008,262.99,tonnes
+207,Azerbaijan,2009,316.18,tonnes
+208,Azerbaijan,2010,333.85,tonnes
+209,Azerbaijan,2011,461.84,tonnes
+210,Azerbaijan,2012,516.35,tonnes
+211,Azerbaijan,2013,489.8,tonnes
+212,Bahamas,1990,452.87,tonnes
+213,Bahamas,1991,452.87,tonnes
+214,Bahamas,1992,452.87,tonnes
+215,Bahamas,1993,452.87,tonnes
+216,Bahamas,1994,452.87,tonnes
+217,Bahamas,1995,452.87,tonnes
+218,Bahamas,1996,452.87,tonnes
+219,Bahamas,1997,452.87,tonnes
+220,Bahamas,1998,452.87,tonnes
+221,Bahamas,1999,452.87,tonnes
+222,Bahamas,2000,452.87,tonnes
+223,Bahamas,2001,363.18,tonnes
+224,Bahamas,2002,325.34,tonnes
+225,Bahamas,2003,270.38,tonnes
+226,Bahamas,2004,237.73,tonnes
+227,Bahamas,2005,292.96,tonnes
+228,Bahamas,2006,253.73,tonnes
+229,Bahamas,2007,253.73,tonnes
+230,Bahamas,2008,253.73,tonnes
+231,Bahamas,2009,253.73,tonnes
+232,Bahamas,2010,253.73,tonnes
+233,Bahamas,2011,253.73,tonnes
+234,Bahamas,2012,253.73,tonnes
+235,Bahamas,2013,253.73,tonnes
+236,Bahrain,1990,14.05,tonnes
+237,Bahrain,1991,14.05,tonnes
+238,Bahrain,1992,14.05,tonnes
+239,Bahrain,1993,14.05,tonnes
+240,Bahrain,1994,30.86,tonnes
+241,Bahrain,1995,12.46,tonnes
+242,Bahrain,1996,12.16,tonnes
+243,Bahrain,1997,9.42,tonnes
+244,Bahrain,1998,11.15,tonnes
+245,Bahrain,1999,12.65,tonnes
+246,Bahrain,2000,8.65,tonnes
+247,Bahrain,2001,9.2,tonnes
+248,Bahrain,2002,0.91,tonnes
+249,Bahrain,2003,6.03,tonnes
+250,Bahrain,2004,12.24,tonnes
+251,Bahrain,2005,12.75,tonnes
+252,Bahrain,2006,12.12,tonnes
+253,Bahrain,2007,16.25,tonnes
+254,Bahrain,2008,10.45,tonnes
+255,Bahrain,2009,12.59,tonnes
+256,Bahrain,2010,9.84,tonnes
+257,Bahrain,2011,9.14,tonnes
+258,Bahrain,2012,9.14,tonnes
+259,Bahrain,2013,9.14,tonnes
+260,Bangladesh,1990,1266.0,tonnes
+261,Bangladesh,1991,1287.0,tonnes
+262,Bangladesh,1992,1453.0,tonnes
+263,Bangladesh,1993,1487.0,tonnes
+264,Bangladesh,1994,1594.5,tonnes
+265,Bangladesh,1995,1702.0,tonnes
+266,Bangladesh,1996,1919.0,tonnes
+267,Bangladesh,1997,2035.0,tonnes
+268,Bangladesh,1998,2068.0,tonnes
+269,Bangladesh,1999,2532.0,tonnes
+270,Bangladesh,2000,3170.0,tonnes
+271,Bangladesh,2001,3312.12,tonnes
+272,Bangladesh,2002,4186.81,tonnes
+273,Bangladesh,2003,5446.67,tonnes
+274,Bangladesh,2004,6984.41,tonnes
+275,Bangladesh,2005,8083.26,tonnes
+276,Bangladesh,2006,9408.51,tonnes
+277,Bangladesh,2007,10914.45,tonnes
+278,Bangladesh,2008,12402.75,tonnes
+279,Bangladesh,2009,13755.78,tonnes
+280,Bangladesh,2010,13250.83,tonnes
+281,Bangladesh,2011,14798.28,tonnes
+282,Bangladesh,2012,13289.18,tonnes
+283,Bangladesh,2013,15330.16,tonnes
+284,Barbados,1990,550.0,tonnes
+285,Barbados,1991,550.0,tonnes
+286,Barbados,1992,550.0,tonnes
+287,Barbados,1993,550.0,tonnes
+288,Barbados,1994,514.0,tonnes
+289,Barbados,1995,664.0,tonnes
+290,Barbados,1996,475.0,tonnes
+291,Barbados,1997,168.46,tonnes
+292,Barbados,1998,168.46,tonnes
+293,Barbados,1999,168.46,tonnes
+294,Barbados,2000,168.46,tonnes
+295,Barbados,2001,168.46,tonnes
+296,Barbados,2002,168.46,tonnes
+297,Barbados,2003,168.46,tonnes
+298,Barbados,2004,168.46,tonnes
+299,Barbados,2005,168.46,tonnes
+300,Barbados,2006,168.46,tonnes
+301,Barbados,2007,168.46,tonnes
+302,Barbados,2008,168.46,tonnes
+303,Barbados,2009,168.46,tonnes
+304,Barbados,2010,168.46,tonnes
+305,Barbados,2011,168.46,tonnes
+306,Barbados,2012,168.46,tonnes
+307,Barbados,2013,168.46,tonnes
+308,Belarus,1992,4896.89,tonnes
+309,Belarus,1993,4896.89,tonnes
+310,Belarus,1994,4896.89,tonnes
+311,Belarus,1995,4896.89,tonnes
+312,Belarus,1996,4896.89,tonnes
+313,Belarus,1997,4896.89,tonnes
+314,Belarus,1998,4896.89,tonnes
+315,Belarus,1999,4896.89,tonnes
+316,Belarus,2000,4896.89,tonnes
+317,Belarus,2001,4896.89,tonnes
+318,Belarus,2002,4896.89,tonnes
+319,Belarus,2003,4896.89,tonnes
+320,Belarus,2004,4896.89,tonnes
+321,Belarus,2005,4896.89,tonnes
+322,Belarus,2006,4896.89,tonnes
+323,Belarus,2007,4896.89,tonnes
+324,Belarus,2008,4896.89,tonnes
+325,Belarus,2009,4896.89,tonnes
+326,Belarus,2010,4896.89,tonnes
+327,Belarus,2011,4896.89,tonnes
+328,Belarus,2012,5682.01,tonnes
+329,Belarus,2013,5479.34,tonnes
+330,Belgium,2000,9560.49,tonnes
+331,Belgium,2001,8529.07,tonnes
+332,Belgium,2002,9204.64,tonnes
+333,Belgium,2003,8822.52,tonnes
+334,Belgium,2004,9186.39,tonnes
+335,Belgium,2005,9776.26,tonnes
+336,Belgium,2006,8244.16,tonnes
+337,Belgium,2007,6712.05,tonnes
+338,Belgium,2008,6516.47,tonnes
+339,Belgium,2009,5496.04,tonnes
+340,Belgium,2010,4644.53,tonnes
+341,Belgium,2011,5740.44,tonnes
+342,Belgium,2012,6139.3,tonnes
+343,Belgium,2013,5905.6,tonnes
+344,Belgium-Luxembourg,1990,9074.21,tonnes
+345,Belgium-Luxembourg,1991,9074.21,tonnes
+346,Belgium-Luxembourg,1992,9074.21,tonnes
+347,Belgium-Luxembourg,1993,9074.21,tonnes
+348,Belgium-Luxembourg,1994,8449.91,tonnes
+349,Belgium-Luxembourg,1995,9007.08,tonnes
+350,Belgium-Luxembourg,1996,8742.92,tonnes
+351,Belgium-Luxembourg,1997,8306.6,tonnes
+352,Belgium-Luxembourg,1998,9095.89,tonnes
+353,Belgium-Luxembourg,1999,8829.62,tonnes
+354,Belize,1990,771.0,tonnes
+355,Belize,1991,696.0,tonnes
+356,Belize,1992,997.0,tonnes
+357,Belize,1993,1057.83,tonnes
+358,Belize,1994,1118.67,tonnes
+359,Belize,1995,1179.5,tonnes
+360,Belize,1996,1240.33,tonnes
+361,Belize,1997,1301.17,tonnes
+362,Belize,1998,1362.0,tonnes
+363,Belize,1999,1362.0,tonnes
+364,Belize,2000,1296.0,tonnes
+365,Belize,2001,1719.0,tonnes
+366,Belize,2002,1529.27,tonnes
+367,Belize,2003,1339.54,tonnes
+368,Belize,2004,1149.81,tonnes
+369,Belize,2005,960.08,tonnes
+370,Belize,2006,770.35,tonnes
+371,Belize,2007,674.53,tonnes
+372,Belize,2008,984.03,tonnes
+373,Belize,2009,788.62,tonnes
+374,Belize,2010,700.39,tonnes
+375,Belize,2011,826.58,tonnes
+376,Belize,2012,638.28,tonnes
+377,Belize,2013,1036.68,tonnes
+378,Bhutan,1990,3.92,tonnes
+379,Bhutan,1991,4.54,tonnes
+380,Bhutan,1992,4.53,tonnes
+381,Bhutan,1993,3.39,tonnes
+382,Bhutan,1994,24.5,tonnes
+383,Bhutan,1995,29.18,tonnes
+384,Bhutan,1996,32.33,tonnes
+385,Bhutan,1997,2.0,tonnes
+386,Bhutan,1998,2.31,tonnes
+387,Bhutan,1999,2.4,tonnes
+388,Bhutan,2000,3.21,tonnes
+389,Bhutan,2001,2.54,tonnes
+390,Bhutan,2002,1.87,tonnes
+391,Bhutan,2003,5.16,tonnes
+392,Bhutan,2004,6.64,tonnes
+393,Bhutan,2005,2.09,tonnes
+394,Bhutan,2006,5.93,tonnes
+395,Bhutan,2007,7.05,tonnes
+396,Bhutan,2008,5.82,tonnes
+397,Bhutan,2009,5.68,tonnes
+398,Bhutan,2010,6.56,tonnes
+399,Bhutan,2011,9.07,tonnes
+400,Bhutan,2012,7.44,tonnes
+401,Bhutan,2013,5.4,tonnes
+402,Bolivia (Plurinational State of),1990,2243.34,tonnes
+403,Bolivia (Plurinational State of),1991,1456.24,tonnes
+404,Bolivia (Plurinational State of),1992,706.97,tonnes
+405,Bolivia (Plurinational State of),1993,1066.4,tonnes
+406,Bolivia (Plurinational State of),1994,1424.31,tonnes
+407,Bolivia (Plurinational State of),1995,1782.22,tonnes
+408,Bolivia (Plurinational State of),1996,2140.12,tonnes
+409,Bolivia (Plurinational State of),1997,2498.03,tonnes
+410,Bolivia (Plurinational State of),1998,2855.94,tonnes
+411,Bolivia (Plurinational State of),1999,3213.85,tonnes
+412,Bolivia (Plurinational State of),2000,3571.76,tonnes
+413,Bolivia (Plurinational State of),2001,3929.66,tonnes
+414,Bolivia (Plurinational State of),2002,4287.57,tonnes
+415,Bolivia (Plurinational State of),2003,4645.48,tonnes
+416,Bolivia (Plurinational State of),2004,6269.53,tonnes
+417,Bolivia (Plurinational State of),2005,7143.74,tonnes
+418,Bolivia (Plurinational State of),2006,7770.18,tonnes
+419,Bolivia (Plurinational State of),2007,8179.42,tonnes
+420,Bolivia (Plurinational State of),2008,8869.27,tonnes
+421,Bolivia (Plurinational State of),2009,10280.78,tonnes
+422,Bolivia (Plurinational State of),2010,11822.61,tonnes
+423,Bolivia (Plurinational State of),2011,12384.95,tonnes
+424,Bolivia (Plurinational State of),2012,13476.67,tonnes
+425,Bolivia (Plurinational State of),2013,16227.45,tonnes
+426,Botswana,1990,17.0,tonnes
+427,Botswana,1991,19.0,tonnes
+428,Botswana,1992,17.0,tonnes
+429,Botswana,1993,17.0,tonnes
+430,Botswana,1994,17.0,tonnes
+431,Botswana,1995,17.0,tonnes
+432,Botswana,1996,17.0,tonnes
+433,Botswana,1997,17.0,tonnes
+434,Botswana,1998,17.0,tonnes
+435,Botswana,1999,17.0,tonnes
+436,Botswana,2000,17.0,tonnes
+437,Botswana,2001,17.0,tonnes
+438,Botswana,2002,17.0,tonnes
+439,Botswana,2003,17.0,tonnes
+440,Botswana,2004,17.0,tonnes
+441,Botswana,2005,17.0,tonnes
+442,Botswana,2006,17.0,tonnes
+443,Botswana,2007,17.0,tonnes
+444,Botswana,2008,17.0,tonnes
+445,Botswana,2009,17.0,tonnes
+446,Botswana,2010,17.0,tonnes
+447,Botswana,2011,17.0,tonnes
+448,Botswana,2012,17.0,tonnes
+449,Botswana,2013,17.0,tonnes
+450,Brazil,1990,49695.0,tonnes
+451,Brazil,1991,58349.44,tonnes
+452,Brazil,1992,67003.89,tonnes
+453,Brazil,1993,75658.33,tonnes
+454,Brazil,1994,84312.78,tonnes
+455,Brazil,1995,92967.22,tonnes
+456,Brazil,1996,101621.67,tonnes
+457,Brazil,1997,110276.11,tonnes
+458,Brazil,1998,118930.56,tonnes
+459,Brazil,1999,127585.0,tonnes
+460,Brazil,2000,140423.0,tonnes
+461,Brazil,2001,151523.0,tonnes
+462,Brazil,2002,145552.0,tonnes
+463,Brazil,2003,182446.0,tonnes
+464,Brazil,2004,214725.0,tonnes
+465,Brazil,2005,232232.0,tonnes
+466,Brazil,2006,238716.0,tonnes
+467,Brazil,2007,304031.0,tonnes
+468,Brazil,2008,312637.0,tonnes
+469,Brazil,2009,335742.0,tonnes
+470,Brazil,2010,342580.0,tonnes
+471,Brazil,2011,345026.0,tonnes
+472,Brazil,2012,346583.0,tonnes
+473,Brazil,2013,367778.0,tonnes
+474,Brunei Darussalam,1990,2.1,tonnes
+475,Brunei Darussalam,1991,2.1,tonnes
+476,Brunei Darussalam,1992,2.1,tonnes
+477,Brunei Darussalam,1993,2.1,tonnes
+478,Brunei Darussalam,1994,2.1,tonnes
+479,Brunei Darussalam,1995,2.1,tonnes
+480,Brunei Darussalam,1996,2.1,tonnes
+481,Brunei Darussalam,1997,2.1,tonnes
+482,Brunei Darussalam,1998,2.1,tonnes
+483,Brunei Darussalam,1999,2.1,tonnes
+484,Brunei Darussalam,2000,2.1,tonnes
+485,Brunei Darussalam,2001,2.1,tonnes
+486,Brunei Darussalam,2002,2.1,tonnes
+487,Brunei Darussalam,2003,2.1,tonnes
+488,Brunei Darussalam,2004,2.1,tonnes
+489,Brunei Darussalam,2005,2.1,tonnes
+490,Brunei Darussalam,2006,9.92,tonnes
+491,Brunei Darussalam,2007,13.65,tonnes
+492,Brunei Darussalam,2008,5.98,tonnes
+493,Brunei Darussalam,2009,27.93,tonnes
+494,Brunei Darussalam,2010,38.49,tonnes
+495,Brunei Darussalam,2011,9.06,tonnes
+496,Brunei Darussalam,2012,1.62,tonnes
+497,Brunei Darussalam,2013,11.97,tonnes
+498,Bulgaria,1990,3906.0,tonnes
+499,Bulgaria,1991,3906.0,tonnes
+500,Bulgaria,1992,3906.0,tonnes
+501,Bulgaria,1993,3777.25,tonnes
+502,Bulgaria,1994,3648.5,tonnes
+503,Bulgaria,1995,3519.75,tonnes
+504,Bulgaria,1996,3391.0,tonnes
+505,Bulgaria,1997,3262.25,tonnes
+506,Bulgaria,1998,3133.5,tonnes
+507,Bulgaria,1999,3004.75,tonnes
+508,Bulgaria,2000,2876.0,tonnes
+509,Bulgaria,2001,2747.25,tonnes
+510,Bulgaria,2002,2618.5,tonnes
+511,Bulgaria,2003,2489.75,tonnes
+512,Bulgaria,2004,2361.0,tonnes
+513,Bulgaria,2005,2232.25,tonnes
+514,Bulgaria,2006,2103.5,tonnes
+515,Bulgaria,2007,1974.75,tonnes
+516,Bulgaria,2008,1846.0,tonnes
+517,Bulgaria,2009,1717.25,tonnes
+518,Bulgaria,2010,1588.5,tonnes
+519,Bulgaria,2011,1459.75,tonnes
+520,Bulgaria,2012,1331.0,tonnes
+521,Bulgaria,2013,1197.0,tonnes
+522,Burkina Faso,1990,29.1,tonnes
+523,Burkina Faso,1991,29.1,tonnes
+524,Burkina Faso,1992,29.1,tonnes
+525,Burkina Faso,1993,17.0,tonnes
+526,Burkina Faso,1994,6.0,tonnes
+527,Burkina Faso,1995,3.04,tonnes
+528,Burkina Faso,1996,39.16,tonnes
+529,Burkina Faso,1997,75.29,tonnes
+530,Burkina Faso,1998,111.41,tonnes
+531,Burkina Faso,1999,93.43,tonnes
+532,Burkina Faso,2000,75.44,tonnes
+533,Burkina Faso,2001,57.46,tonnes
+534,Burkina Faso,2002,39.47,tonnes
+535,Burkina Faso,2003,21.49,tonnes
+536,Burkina Faso,2004,1.28,tonnes
+537,Burkina Faso,2005,92.21,tonnes
+538,Burkina Faso,2006,109.24,tonnes
+539,Burkina Faso,2007,292.05,tonnes
+540,Burkina Faso,2008,190.92,tonnes
+541,Burkina Faso,2009,132.3,tonnes
+542,Burkina Faso,2010,442.89,tonnes
+543,Burkina Faso,2011,843.0,tonnes
+544,Burkina Faso,2012,843.0,tonnes
+545,Burkina Faso,2013,843.0,tonnes
+546,Burundi,1990,92.08,tonnes
+547,Burundi,1991,92.08,tonnes
+548,Burundi,1992,92.08,tonnes
+549,Burundi,1993,96.99,tonnes
+550,Burundi,1994,84.45,tonnes
+551,Burundi,1995,144.2,tonnes
+552,Burundi,1996,207.1,tonnes
+553,Burundi,1997,117.56,tonnes
+554,Burundi,1998,107.29,tonnes
+555,Burundi,1999,150.24,tonnes
+556,Burundi,2000,109.87,tonnes
+557,Burundi,2001,72.58,tonnes
+558,Burundi,2002,98.1,tonnes
+559,Burundi,2003,263.7,tonnes
+560,Burundi,2004,508.26,tonnes
+561,Burundi,2005,304.83,tonnes
+562,Burundi,2006,190.51,tonnes
+563,Burundi,2007,412.66,tonnes
+564,Burundi,2008,456.44,tonnes
+565,Burundi,2009,177.75,tonnes
+566,Burundi,2010,264.53,tonnes
+567,Burundi,2011,75.64,tonnes
+568,Burundi,2012,98.59,tonnes
+569,Burundi,2013,956.06,tonnes
+570,Cabo Verde,1990,1.0,tonnes
+571,Cabo Verde,1991,1.0,tonnes
+572,Cabo Verde,1992,1.0,tonnes
+573,Cabo Verde,1993,1.0,tonnes
+574,Cabo Verde,1994,2.0,tonnes
+575,Cabo Verde,1995,0.68,tonnes
+576,Cabo Verde,1996,0.5,tonnes
+577,Cabo Verde,1997,1.74,tonnes
+578,Cabo Verde,1998,7.03,tonnes
+579,Cabo Verde,1999,11.0,tonnes
+580,Cabo Verde,2000,7.0,tonnes
+581,Cabo Verde,2001,5.0,tonnes
+582,Cabo Verde,2002,5.0,tonnes
+583,Cabo Verde,2003,5.0,tonnes
+584,Cabo Verde,2004,5.0,tonnes
+585,Cabo Verde,2005,5.0,tonnes
+586,Cabo Verde,2006,5.0,tonnes
+587,Cabo Verde,2007,5.0,tonnes
+588,Cabo Verde,2008,5.0,tonnes
+589,Cabo Verde,2009,5.0,tonnes
+590,Cabo Verde,2010,5.0,tonnes
+591,Cabo Verde,2011,5.0,tonnes
+592,Cabo Verde,2012,5.0,tonnes
+593,Cabo Verde,2013,5.0,tonnes
+594,Cameroon,1990,914.96,tonnes
+595,Cameroon,1991,190.47,tonnes
+596,Cameroon,1992,1842.46,tonnes
+597,Cameroon,1993,1244.42,tonnes
+598,Cameroon,1994,646.39,tonnes
+599,Cameroon,1995,48.35,tonnes
+600,Cameroon,1996,180.08,tonnes
+601,Cameroon,1997,630.12,tonnes
+602,Cameroon,1998,258.02,tonnes
+603,Cameroon,1999,654.0,tonnes
+604,Cameroon,2000,546.0,tonnes
+605,Cameroon,2001,687.0,tonnes
+606,Cameroon,2002,815.79,tonnes
+607,Cameroon,2003,957.36,tonnes
+608,Cameroon,2004,849.48,tonnes
+609,Cameroon,2005,829.59,tonnes
+610,Cameroon,2006,950.22,tonnes
+611,Cameroon,2007,918.88,tonnes
+612,Cameroon,2008,882.13,tonnes
+613,Cameroon,2009,813.77,tonnes
+614,Cameroon,2010,1160.63,tonnes
+615,Cameroon,2011,1372.47,tonnes
+616,Cameroon,2012,1372.47,tonnes
+617,Cameroon,2013,1372.47,tonnes
+618,Canada,1990,29568.0,tonnes
+619,Canada,1991,29477.5,tonnes
+620,Canada,1992,29387.0,tonnes
+621,Canada,1993,29296.5,tonnes
+622,Canada,1994,29206.0,tonnes
+623,Canada,1995,32223.4,tonnes
+624,Canada,1996,35240.8,tonnes
+625,Canada,1997,38258.2,tonnes
+626,Canada,1998,41275.6,tonnes
+627,Canada,1999,44293.0,tonnes
+628,Canada,2000,39667.0,tonnes
+629,Canada,2001,38456.0,tonnes
+630,Canada,2002,34226.0,tonnes
+631,Canada,2003,35596.0,tonnes
+632,Canada,2004,36138.0,tonnes
+633,Canada,2005,36363.0,tonnes
+634,Canada,2006,36572.75,tonnes
+635,Canada,2007,45140.03,tonnes
+636,Canada,2008,53707.3,tonnes
+637,Canada,2009,54529.4,tonnes
+638,Canada,2010,61050.0,tonnes
+639,Canada,2011,62107.2,tonnes
+640,Canada,2012,73508.9,tonnes
+641,Canada,2013,81659.8,tonnes
+642,Central African Republic,1990,0.04,tonnes
+643,Central African Republic,1991,0.04,tonnes
+644,Central African Republic,1992,0.04,tonnes
+645,Central African Republic,1993,0.25,tonnes
+646,Central African Republic,1994,2.16,tonnes
+647,Central African Republic,1995,22.87,tonnes
+648,Central African Republic,1996,22.87,tonnes
+649,Central African Republic,1997,22.87,tonnes
+650,Central African Republic,1998,22.87,tonnes
+651,Central African Republic,1999,22.87,tonnes
+652,Central African Republic,2000,22.87,tonnes
+653,Central African Republic,2001,22.87,tonnes
+654,Central African Republic,2002,22.87,tonnes
+655,Central African Republic,2003,22.87,tonnes
+656,Central African Republic,2004,22.87,tonnes
+657,Central African Republic,2005,22.87,tonnes
+658,Central African Republic,2006,22.87,tonnes
+659,Central African Republic,2007,22.87,tonnes
+660,Central African Republic,2008,22.87,tonnes
+661,Central African Republic,2009,22.87,tonnes
+662,Central African Republic,2010,22.87,tonnes
+663,Central African Republic,2011,22.87,tonnes
+664,Central African Republic,2012,22.87,tonnes
+665,Central African Republic,2013,22.87,tonnes
+666,Chad,1990,57.0,tonnes
+667,Chad,1991,60.0,tonnes
+668,Chad,1992,45.0,tonnes
+669,Chad,1993,5.0,tonnes
+670,Chad,1994,15.0,tonnes
+671,Chad,1995,2.0,tonnes
+672,Chad,1996,1.0,tonnes
+673,Chad,1997,42.0,tonnes
+674,Chad,1998,42.0,tonnes
+675,Chad,1999,42.0,tonnes
+676,Chad,2000,42.0,tonnes
+677,Chad,2001,42.0,tonnes
+678,Chad,2002,42.0,tonnes
+679,Chad,2003,42.0,tonnes
+680,Chad,2004,42.0,tonnes
+681,Chad,2005,42.0,tonnes
+682,Chad,2006,42.0,tonnes
+683,Chad,2007,42.0,tonnes
+684,Chad,2008,42.0,tonnes
+685,Chad,2009,42.0,tonnes
+686,Chad,2010,42.0,tonnes
+687,Chad,2011,42.0,tonnes
+688,Chad,2012,42.0,tonnes
+689,Chad,2013,42.0,tonnes
+690,Chile,1990,15373.0,tonnes
+691,Chile,1991,15373.0,tonnes
+692,Chile,1992,15373.0,tonnes
+693,Chile,1993,15373.0,tonnes
+694,Chile,1994,15373.0,tonnes
+695,Chile,1995,15373.0,tonnes
+696,Chile,1996,15373.0,tonnes
+697,Chile,1997,15373.0,tonnes
+698,Chile,1998,15373.0,tonnes
+699,Chile,1999,15373.0,tonnes
+700,Chile,2000,14264.54,tonnes
+701,Chile,2001,13156.09,tonnes
+702,Chile,2002,12047.63,tonnes
+703,Chile,2003,10939.18,tonnes
+704,Chile,2004,9830.72,tonnes
+705,Chile,2005,9830.72,tonnes
+706,Chile,2006,9830.72,tonnes
+707,Chile,2007,9830.72,tonnes
+708,Chile,2008,9830.72,tonnes
+709,Chile,2009,9830.72,tonnes
+710,Chile,2010,9830.72,tonnes
+711,Chile,2011,9830.72,tonnes
+712,Chile,2012,9830.72,tonnes
+713,Chile,2013,9830.72,tonnes
+714,China,1990,775408.37,tonnes
+715,China,1991,775388.37,tonnes
+716,China,1992,809244.37,tonnes
+717,China,1993,854860.37,tonnes
+718,China,1994,988608.37,tonnes
+719,China,1995,1097075.37,tonnes
+720,China,1996,1150843.77,tonnes
+721,China,1997,1204908.17,tonnes
+722,China,1998,1240708.57,tonnes
+723,China,1999,1333139.97,tonnes
+724,China,2000,1288619.37,tonnes
+725,China,2001,1283381.37,tonnes
+726,China,2002,1322948.37,tonnes
+727,China,2003,1335502.74,tonnes
+728,China,2004,1395814.01,tonnes
+729,China,2005,1469311.84,tonnes
+730,China,2006,1546108.98,tonnes
+731,China,2007,1632584.56,tonnes
+732,China,2008,1681188.47,tonnes
+733,China,2009,1717687.15,tonnes
+734,China,2010,1765944.22,tonnes
+735,China,2011,1795371.35,tonnes
+736,China,2012,1815505.77,tonnes
+737,China,2013,1811604.85,tonnes
+738,"China, Hong Kong SAR",1990,115.0,tonnes
+739,"China, Hong Kong SAR",1991,95.0,tonnes
+740,"China, Hong Kong SAR",1992,84.0,tonnes
+741,"China, Hong Kong SAR",1993,74.0,tonnes
+742,"China, Hong Kong SAR",1994,71.0,tonnes
+743,"China, Hong Kong SAR",1995,45.0,tonnes
+744,"China, Hong Kong SAR",1996,45.4,tonnes
+745,"China, Hong Kong SAR",1997,45.8,tonnes
+746,"China, Hong Kong SAR",1998,46.2,tonnes
+747,"China, Hong Kong SAR",1999,46.6,tonnes
+748,"China, Hong Kong SAR",2000,47.0,tonnes
+749,"China, Hong Kong SAR",2001,53.0,tonnes
+750,"China, Hong Kong SAR",2002,84.0,tonnes
+751,"China, Hong Kong SAR",2003,90.0,tonnes
+752,"China, Hong Kong SAR",2004,51.0,tonnes
+753,"China, Hong Kong SAR",2005,45.0,tonnes
+754,"China, Hong Kong SAR",2006,48.0,tonnes
+755,"China, Hong Kong SAR",2007,45.0,tonnes
+756,"China, Hong Kong SAR",2008,55.0,tonnes
+757,"China, Hong Kong SAR",2009,46.0,tonnes
+758,"China, Hong Kong SAR",2010,41.0,tonnes
+759,"China, Hong Kong SAR",2011,63.0,tonnes
+760,"China, Hong Kong SAR",2012,56.0,tonnes
+761,"China, Hong Kong SAR",2013,57.0,tonnes
+762,"China, Macao SAR",1990,32.37,tonnes
+763,"China, Macao SAR",1991,32.37,tonnes
+764,"China, Macao SAR",1992,32.37,tonnes
+765,"China, Macao SAR",1993,32.37,tonnes
+766,"China, Macao SAR",1994,32.37,tonnes
+767,"China, Macao SAR",1995,32.37,tonnes
+768,"China, Macao SAR",1996,32.37,tonnes
+769,"China, Macao SAR",1997,32.37,tonnes
+770,"China, Macao SAR",1998,32.37,tonnes
+771,"China, Macao SAR",1999,32.37,tonnes
+772,"China, Macao SAR",2000,32.37,tonnes
+773,"China, Macao SAR",2001,32.37,tonnes
+774,"China, Macao SAR",2002,32.37,tonnes
+775,"China, Macao SAR",2003,43.74,tonnes
+776,"China, Macao SAR",2004,32.01,tonnes
+777,"China, Macao SAR",2005,38.84,tonnes
+778,"China, Macao SAR",2006,46.98,tonnes
+779,"China, Macao SAR",2007,47.56,tonnes
+780,"China, Macao SAR",2008,53.47,tonnes
+781,"China, Macao SAR",2009,52.15,tonnes
+782,"China, Macao SAR",2010,53.22,tonnes
+783,"China, Macao SAR",2011,52.35,tonnes
+784,"China, Macao SAR",2012,53.77,tonnes
+785,"China, Macao SAR",2013,53.85,tonnes
+786,"China, mainland",1990,765307.0,tonnes
+787,"China, mainland",1991,765307.0,tonnes
+788,"China, mainland",1992,799174.0,tonnes
+789,"China, mainland",1993,844800.0,tonnes
+790,"China, mainland",1994,978551.0,tonnes
+791,"China, mainland",1995,1087044.0,tonnes
+792,"China, mainland",1996,1140812.0,tonnes
+793,"China, mainland",1997,1195466.0,tonnes
+794,"China, mainland",1998,1231699.0,tonnes
+795,"China, mainland",1999,1321620.0,tonnes
+796,"China, mainland",2000,1279533.0,tonnes
+797,"China, mainland",2001,1274820.0,tonnes
+798,"China, mainland",2002,1312285.0,tonnes
+799,"China, mainland",2003,1325226.0,tonnes
+800,"China, mainland",2004,1386028.0,tonnes
+801,"China, mainland",2005,1460000.0,tonnes
+802,"China, mainland",2006,1537000.0,tonnes
+803,"China, mainland",2007,1623000.0,tonnes
+804,"China, mainland",2008,1672300.0,tonnes
+805,"China, mainland",2009,1709000.0,tonnes
+806,"China, mainland",2010,1758000.0,tonnes
+807,"China, mainland",2011,1787002.0,tonnes
+808,"China, mainland",2012,1806000.0,tonnes
+809,"China, mainland",2013,1801862.0,tonnes
+810,"China, Taiwan Province of",1990,9954.0,tonnes
+811,"China, Taiwan Province of",1991,9954.0,tonnes
+812,"China, Taiwan Province of",1992,9954.0,tonnes
+813,"China, Taiwan Province of",1993,9954.0,tonnes
+814,"China, Taiwan Province of",1994,9954.0,tonnes
+815,"China, Taiwan Province of",1995,9954.0,tonnes
+816,"China, Taiwan Province of",1996,9954.0,tonnes
+817,"China, Taiwan Province of",1997,9364.0,tonnes
+818,"China, Taiwan Province of",1998,8931.0,tonnes
+819,"China, Taiwan Province of",1999,11441.0,tonnes
+820,"China, Taiwan Province of",2000,9007.0,tonnes
+821,"China, Taiwan Province of",2001,8476.0,tonnes
+822,"China, Taiwan Province of",2002,10547.0,tonnes
+823,"China, Taiwan Province of",2003,10143.0,tonnes
+824,"China, Taiwan Province of",2004,9703.0,tonnes
+825,"China, Taiwan Province of",2005,9228.0,tonnes
+826,"China, Taiwan Province of",2006,9014.0,tonnes
+827,"China, Taiwan Province of",2007,9492.0,tonnes
+828,"China, Taiwan Province of",2008,8780.0,tonnes
+829,"China, Taiwan Province of",2009,8589.0,tonnes
+830,"China, Taiwan Province of",2010,7850.0,tonnes
+831,"China, Taiwan Province of",2011,8254.0,tonnes
+832,"China, Taiwan Province of",2012,9396.0,tonnes
+833,"China, Taiwan Province of",2013,9632.0,tonnes
+834,Colombia,1990,18058.29,tonnes
+835,Colombia,1991,16817.0,tonnes
+836,Colombia,1992,15305.94,tonnes
+837,Colombia,1993,14961.81,tonnes
+838,Colombia,1994,17051.34,tonnes
+839,Colombia,1995,20156.23,tonnes
+840,Colombia,1996,18131.0,tonnes
+841,Colombia,1997,16005.0,tonnes
+842,Colombia,1998,60687.0,tonnes
+843,Colombia,1999,66088.0,tonnes
+844,Colombia,2000,75843.01,tonnes
+845,Colombia,2001,85515.31,tonnes
+846,Colombia,2002,84023.27,tonnes
+847,Colombia,2003,88772.16,tonnes
+848,Colombia,2004,105514.2,tonnes
+849,Colombia,2005,117881.47,tonnes
+850,Colombia,2006,98328.65,tonnes
+851,Colombia,2007,82439.08,tonnes
+852,Colombia,2008,48538.99,tonnes
+853,Colombia,2009,51435.15,tonnes
+854,Colombia,2010,48618.49,tonnes
+855,Colombia,2011,53797.03,tonnes
+856,Colombia,2012,48727.73,tonnes
+857,Colombia,2013,54563.38,tonnes
+858,Comoros,1990,0.7,tonnes
+859,Comoros,1991,0.7,tonnes
+860,Comoros,1992,0.7,tonnes
+861,Comoros,1993,0.7,tonnes
+862,Comoros,1994,0.7,tonnes
+863,Comoros,1995,0.7,tonnes
+864,Comoros,1996,0.7,tonnes
+865,Comoros,1997,0.7,tonnes
+866,Comoros,1998,0.7,tonnes
+867,Comoros,1999,0.7,tonnes
+868,Comoros,2000,0.7,tonnes
+869,Comoros,2001,0.67,tonnes
+870,Comoros,2002,0.64,tonnes
+871,Comoros,2003,0.61,tonnes
+872,Comoros,2004,0.58,tonnes
+873,Comoros,2005,0.55,tonnes
+874,Comoros,2006,0.52,tonnes
+875,Comoros,2007,0.49,tonnes
+876,Comoros,2008,0.27,tonnes
+877,Comoros,2009,0.03,tonnes
+878,Comoros,2010,0.03,tonnes
+879,Comoros,2011,0.03,tonnes
+880,Comoros,2012,0.03,tonnes
+881,Comoros,2013,0.03,tonnes
+882,Congo,1990,27.0,tonnes
+883,Congo,1991,29.0,tonnes
+884,Congo,1992,35.0,tonnes
+885,Congo,1993,41.0,tonnes
+886,Congo,1994,11.2,tonnes
+887,Congo,1995,12.2,tonnes
+888,Congo,1996,14.2,tonnes
+889,Congo,1997,13.24,tonnes
+890,Congo,1998,12.27,tonnes
+891,Congo,1999,11.31,tonnes
+892,Congo,2000,10.34,tonnes
+893,Congo,2001,9.38,tonnes
+894,Congo,2002,8.41,tonnes
+895,Congo,2003,7.45,tonnes
+896,Congo,2004,6.48,tonnes
+897,Congo,2005,5.52,tonnes
+898,Congo,2006,4.55,tonnes
+899,Congo,2007,3.59,tonnes
+900,Congo,2008,2.62,tonnes
+901,Congo,2009,1.66,tonnes
+902,Congo,2010,0.87,tonnes
+903,Congo,2011,0.87,tonnes
+904,Congo,2012,0.87,tonnes
+905,Congo,2013,0.87,tonnes
+906,Cook Islands,1990,1.0,tonnes
+907,Cook Islands,1991,1.0,tonnes
+908,Cook Islands,1992,1.0,tonnes
+909,Cook Islands,1993,1.0,tonnes
+910,Cook Islands,1994,0.86,tonnes
+911,Cook Islands,1995,0.71,tonnes
+912,Cook Islands,1996,0.9,tonnes
+913,Cook Islands,1997,1.63,tonnes
+914,Cook Islands,1998,1.58,tonnes
+915,Cook Islands,1999,1.5,tonnes
+916,Cook Islands,2000,1.5,tonnes
+917,Cook Islands,2001,1.9,tonnes
+918,Cook Islands,2002,2.29,tonnes
+919,Cook Islands,2003,2.69,tonnes
+920,Cook Islands,2004,2.79,tonnes
+921,Cook Islands,2005,3.04,tonnes
+922,Cook Islands,2006,3.21,tonnes
+923,Cook Islands,2007,3.23,tonnes
+924,Cook Islands,2008,3.6,tonnes
+925,Cook Islands,2009,3.33,tonnes
+926,Cook Islands,2010,3.33,tonnes
+927,Cook Islands,2011,3.33,tonnes
+928,Cook Islands,2012,3.33,tonnes
+929,Cook Islands,2013,3.33,tonnes
+930,Costa Rica,1990,1447.15,tonnes
+931,Costa Rica,1991,1447.15,tonnes
+932,Costa Rica,1992,1447.15,tonnes
+933,Costa Rica,1993,1447.15,tonnes
+934,Costa Rica,1994,1475.13,tonnes
+935,Costa Rica,1995,1503.12,tonnes
+936,Costa Rica,1996,2747.79,tonnes
+937,Costa Rica,1997,4104.66,tonnes
+938,Costa Rica,1998,7898.0,tonnes
+939,Costa Rica,1999,16889.0,tonnes
+940,Costa Rica,2000,25865.0,tonnes
+941,Costa Rica,2001,10704.0,tonnes
+942,Costa Rica,2002,11125.01,tonnes
+943,Costa Rica,2003,10639.01,tonnes
+944,Costa Rica,2004,10990.02,tonnes
+945,Costa Rica,2005,10937.02,tonnes
+946,Costa Rica,2006,10988.03,tonnes
+947,Costa Rica,2007,12746.56,tonnes
+948,Costa Rica,2008,13317.0,tonnes
+949,Costa Rica,2009,12306.67,tonnes
+950,Costa Rica,2010,14241.84,tonnes
+951,Costa Rica,2011,12811.25,tonnes
+952,Costa Rica,2012,12811.25,tonnes
+953,Costa Rica,2013,12811.25,tonnes
+954,Côte d'Ivoire,1990,16.0,tonnes
+955,Côte d'Ivoire,1991,16.0,tonnes
+956,Côte d'Ivoire,1992,16.0,tonnes
+957,Côte d'Ivoire,1993,16.0,tonnes
+958,Côte d'Ivoire,1994,143.0,tonnes
+959,Côte d'Ivoire,1995,134.0,tonnes
+960,Côte d'Ivoire,1996,93.0,tonnes
+961,Côte d'Ivoire,1997,93.0,tonnes
+962,Côte d'Ivoire,1998,93.0,tonnes
+963,Côte d'Ivoire,1999,93.0,tonnes
+964,Côte d'Ivoire,2000,93.0,tonnes
+965,Côte d'Ivoire,2001,93.0,tonnes
+966,Côte d'Ivoire,2002,93.0,tonnes
+967,Côte d'Ivoire,2003,93.0,tonnes
+968,Côte d'Ivoire,2004,93.0,tonnes
+969,Côte d'Ivoire,2005,93.0,tonnes
+970,Côte d'Ivoire,2006,93.0,tonnes
+971,Côte d'Ivoire,2007,93.0,tonnes
+972,Côte d'Ivoire,2008,93.0,tonnes
+973,Côte d'Ivoire,2009,93.0,tonnes
+974,Côte d'Ivoire,2010,93.0,tonnes
+975,Côte d'Ivoire,2011,93.0,tonnes
+976,Côte d'Ivoire,2012,93.0,tonnes
+977,Côte d'Ivoire,2013,93.0,tonnes
+978,Croatia,1992,2304.0,tonnes
+979,Croatia,1993,2675.33,tonnes
+980,Croatia,1994,3046.67,tonnes
+981,Croatia,1995,3418.0,tonnes
+982,Croatia,1996,3148.0,tonnes
+983,Croatia,1997,3026.25,tonnes
+984,Croatia,1998,2904.5,tonnes
+985,Croatia,1999,2782.75,tonnes
+986,Croatia,2000,2661.0,tonnes
+987,Croatia,2001,2539.25,tonnes
+988,Croatia,2002,2417.5,tonnes
+989,Croatia,2003,2295.75,tonnes
+990,Croatia,2004,2174.0,tonnes
+991,Croatia,2005,2053.0,tonnes
+992,Croatia,2006,2150.0,tonnes
+993,Croatia,2007,2015.0,tonnes
+994,Croatia,2008,2388.0,tonnes
+995,Croatia,2009,2070.0,tonnes
+996,Croatia,2010,1540.0,tonnes
+997,Croatia,2011,1638.74,tonnes
+998,Croatia,2012,1737.48,tonnes
+999,Croatia,2013,1836.21,tonnes
+1000,Cyprus,1990,2184.51,tonnes
+1001,Cyprus,1991,1970.71,tonnes
+1002,Cyprus,1992,1695.53,tonnes
+1003,Cyprus,1993,2044.07,tonnes
+1004,Cyprus,1994,2518.2,tonnes
+1005,Cyprus,1995,2030.77,tonnes
+1006,Cyprus,1996,2417.19,tonnes
+1007,Cyprus,1997,2224.09,tonnes
+1008,Cyprus,1998,1660.96,tonnes
+1009,Cyprus,1999,1097.84,tonnes
+1010,Cyprus,2000,534.71,tonnes
+1011,Cyprus,2001,627.82,tonnes
+1012,Cyprus,2002,975.0,tonnes
+1013,Cyprus,2003,720.0,tonnes
+1014,Cyprus,2004,650.0,tonnes
+1015,Cyprus,2005,620.0,tonnes
+1016,Cyprus,2006,812.0,tonnes
+1017,Cyprus,2007,495.0,tonnes
+1018,Cyprus,2008,447.0,tonnes
+1019,Cyprus,2009,707.0,tonnes
+1020,Cyprus,2010,620.0,tonnes
+1021,Cyprus,2011,567.7,tonnes
+1022,Cyprus,2012,727.01,tonnes
+1023,Cyprus,2013,886.89,tonnes
+1024,Czechia,1993,3545.1,tonnes
+1025,Czechia,1994,3593.15,tonnes
+1026,Czechia,1995,3757.2,tonnes
+1027,Czechia,1996,3631.1,tonnes
+1028,Czechia,1997,4085.03,tonnes
+1029,Czechia,1998,4351.03,tonnes
+1030,Czechia,1999,4242.02,tonnes
+1031,Czechia,2000,4533.04,tonnes
+1032,Czechia,2001,4649.12,tonnes
+1033,Czechia,2002,4977.62,tonnes
+1034,Czechia,2003,4590.0,tonnes
+1035,Czechia,2004,5318.44,tonnes
+1036,Czechia,2005,5384.76,tonnes
+1037,Czechia,2006,5693.11,tonnes
+1038,Czechia,2007,6194.49,tonnes
+1039,Czechia,2008,5440.0,tonnes
+1040,Czechia,2009,4759.9,tonnes
+1041,Czechia,2010,4957.4,tonnes
+1042,Czechia,2011,5306.06,tonnes
+1043,Czechia,2012,5345.4,tonnes
+1044,Czechia,2013,5146.98,tonnes
+1045,Denmark,1990,5650.0,tonnes
+1046,Denmark,1991,4628.0,tonnes
+1047,Denmark,1992,4566.0,tonnes
+1048,Denmark,1993,4103.0,tonnes
+1049,Denmark,1994,3922.0,tonnes
+1050,Denmark,1995,5043.0,tonnes
+1051,Denmark,1996,3672.0,tonnes
+1052,Denmark,1997,3679.0,tonnes
+1053,Denmark,1998,3623.0,tonnes
+1054,Denmark,1999,2867.0,tonnes
+1055,Denmark,2000,3174.0,tonnes
+1056,Denmark,2001,3311.0,tonnes
+1057,Denmark,2002,2868.0,tonnes
+1058,Denmark,2003,2954.0,tonnes
+1059,Denmark,2004,2899.0,tonnes
+1060,Denmark,2005,3246.0,tonnes
+1061,Denmark,2006,3212.0,tonnes
+1062,Denmark,2007,3336.0,tonnes
+1063,Denmark,2008,4145.0,tonnes
+1064,Denmark,2009,2836.0,tonnes
+1065,Denmark,2010,3894.0,tonnes
+1066,Denmark,2011,4249.48,tonnes
+1067,Denmark,2012,5716.0,tonnes
+1068,Denmark,2013,4118.0,tonnes
+1069,Dominican Republic,1990,4971.0,tonnes
+1070,Dominican Republic,1991,4971.0,tonnes
+1071,Dominican Republic,1992,4971.0,tonnes
+1072,Dominican Republic,1993,4971.0,tonnes
+1073,Dominican Republic,1994,4971.0,tonnes
+1074,Dominican Republic,1995,3449.0,tonnes
+1075,Dominican Republic,1996,3493.0,tonnes
+1076,Dominican Republic,1997,3846.0,tonnes
+1077,Dominican Republic,1998,4375.0,tonnes
+1078,Dominican Republic,1999,5398.0,tonnes
+1079,Dominican Republic,2000,5082.0,tonnes
+1080,Dominican Republic,2001,7182.0,tonnes
+1081,Dominican Republic,2002,4018.07,tonnes
+1082,Dominican Republic,2003,854.14,tonnes
+1083,Dominican Republic,2004,3713.96,tonnes
+1084,Dominican Republic,2005,3515.56,tonnes
+1085,Dominican Republic,2006,4116.45,tonnes
+1086,Dominican Republic,2007,5689.8,tonnes
+1087,Dominican Republic,2008,5409.43,tonnes
+1088,Dominican Republic,2009,5975.25,tonnes
+1089,Dominican Republic,2010,6316.61,tonnes
+1090,Dominican Republic,2011,6275.95,tonnes
+1091,Dominican Republic,2012,6235.29,tonnes
+1092,Dominican Republic,2013,6194.62,tonnes
+1093,Ecuador,1990,2537.0,tonnes
+1094,Ecuador,1991,2377.0,tonnes
+1095,Ecuador,1992,2012.0,tonnes
+1096,Ecuador,1993,1844.0,tonnes
+1097,Ecuador,1994,2670.0,tonnes
+1098,Ecuador,1995,2658.0,tonnes
+1099,Ecuador,1996,2407.0,tonnes
+1100,Ecuador,1997,7612.0,tonnes
+1101,Ecuador,1998,21500.0,tonnes
+1102,Ecuador,1999,14216.0,tonnes
+1103,Ecuador,2000,17948.0,tonnes
+1104,Ecuador,2001,7344.0,tonnes
+1105,Ecuador,2002,1306.49,tonnes
+1106,Ecuador,2003,30634.53,tonnes
+1107,Ecuador,2004,29799.84,tonnes
+1108,Ecuador,2005,18391.23,tonnes
+1109,Ecuador,2006,7953.42,tonnes
+1110,Ecuador,2007,14156.16,tonnes
+1111,Ecuador,2008,15396.14,tonnes
+1112,Ecuador,2009,9666.87,tonnes
+1113,Ecuador,2010,31637.12,tonnes
+1114,Ecuador,2011,17529.44,tonnes
+1115,Ecuador,2012,11469.74,tonnes
+1116,Ecuador,2013,6471.77,tonnes
+1117,Egypt,1990,13214.0,tonnes
+1118,Egypt,1991,8255.0,tonnes
+1119,Egypt,1992,6156.0,tonnes
+1120,Egypt,1993,4175.0,tonnes
+1121,Egypt,1994,4283.0,tonnes
+1122,Egypt,1995,4391.0,tonnes
+1123,Egypt,1996,4499.0,tonnes
+1124,Egypt,1997,4607.0,tonnes
+1125,Egypt,1998,4715.0,tonnes
+1126,Egypt,1999,4823.0,tonnes
+1127,Egypt,2000,4931.0,tonnes
+1128,Egypt,2001,5039.0,tonnes
+1129,Egypt,2002,5147.0,tonnes
+1130,Egypt,2003,5255.0,tonnes
+1131,Egypt,2004,5363.0,tonnes
+1132,Egypt,2005,5471.0,tonnes
+1133,Egypt,2006,9781.0,tonnes
+1134,Egypt,2007,9105.0,tonnes
+1135,Egypt,2008,9527.0,tonnes
+1136,Egypt,2009,9013.0,tonnes
+1137,Egypt,2010,11590.0,tonnes
+1138,Egypt,2011,12945.0,tonnes
+1139,Egypt,2012,13991.0,tonnes
+1140,Egypt,2013,13653.0,tonnes
+1141,El Salvador,1990,2524.0,tonnes
+1142,El Salvador,1991,4096.0,tonnes
+1143,El Salvador,1992,3940.77,tonnes
+1144,El Salvador,1993,3785.54,tonnes
+1145,El Salvador,1994,3630.31,tonnes
+1146,El Salvador,1995,3475.08,tonnes
+1147,El Salvador,1996,3319.85,tonnes
+1148,El Salvador,1997,3164.62,tonnes
+1149,El Salvador,1998,3009.39,tonnes
+1150,El Salvador,1999,2854.16,tonnes
+1151,El Salvador,2000,2698.93,tonnes
+1152,El Salvador,2001,2543.7,tonnes
+1153,El Salvador,2002,2388.47,tonnes
+1154,El Salvador,2003,2233.24,tonnes
+1155,El Salvador,2004,2078.01,tonnes
+1156,El Salvador,2005,1922.78,tonnes
+1157,El Salvador,2006,2265.72,tonnes
+1158,El Salvador,2007,1940.78,tonnes
+1159,El Salvador,2008,3899.48,tonnes
+1160,El Salvador,2009,3333.88,tonnes
+1161,El Salvador,2010,3598.59,tonnes
+1162,El Salvador,2011,3231.13,tonnes
+1163,El Salvador,2012,2595.16,tonnes
+1164,El Salvador,2013,6005.08,tonnes
+1165,Eritrea,1993,4.44,tonnes
+1166,Eritrea,1994,4.44,tonnes
+1167,Eritrea,1995,4.44,tonnes
+1168,Eritrea,1996,4.44,tonnes
+1169,Eritrea,1997,30.92,tonnes
+1170,Eritrea,1998,19.61,tonnes
+1171,Eritrea,1999,22.28,tonnes
+1172,Eritrea,2000,24.96,tonnes
+1173,Eritrea,2001,27.63,tonnes
+1174,Eritrea,2002,27.63,tonnes
+1175,Eritrea,2003,27.63,tonnes
+1176,Eritrea,2004,27.63,tonnes
+1177,Eritrea,2005,27.63,tonnes
+1178,Eritrea,2006,27.63,tonnes
+1179,Eritrea,2007,27.63,tonnes
+1180,Eritrea,2008,27.63,tonnes
+1181,Eritrea,2009,27.63,tonnes
+1182,Eritrea,2010,27.63,tonnes
+1183,Eritrea,2011,27.63,tonnes
+1184,Eritrea,2012,27.63,tonnes
+1185,Eritrea,2013,27.63,tonnes
+1186,Estonia,1992,469.0,tonnes
+1187,Estonia,1993,170.0,tonnes
+1188,Estonia,1994,176.0,tonnes
+1189,Estonia,1995,154.0,tonnes
+1190,Estonia,1996,133.0,tonnes
+1191,Estonia,1997,200.0,tonnes
+1192,Estonia,1998,195.0,tonnes
+1193,Estonia,1999,187.0,tonnes
+1194,Estonia,2000,315.0,tonnes
+1195,Estonia,2001,329.0,tonnes
+1196,Estonia,2002,331.0,tonnes
+1197,Estonia,2003,323.0,tonnes
+1198,Estonia,2004,351.0,tonnes
+1199,Estonia,2005,386.0,tonnes
+1200,Estonia,2006,452.0,tonnes
+1201,Estonia,2007,460.0,tonnes
+1202,Estonia,2008,551.0,tonnes
+1203,Estonia,2009,402.0,tonnes
+1204,Estonia,2010,514.0,tonnes
+1205,Estonia,2011,460.0,tonnes
+1206,Estonia,2012,553.0,tonnes
+1207,Estonia,2013,567.0,tonnes
+1208,Ethiopia,1993,242.0,tonnes
+1209,Ethiopia,1994,242.0,tonnes
+1210,Ethiopia,1995,242.0,tonnes
+1211,Ethiopia,1996,383.0,tonnes
+1212,Ethiopia,1997,383.0,tonnes
+1213,Ethiopia,1998,383.0,tonnes
+1214,Ethiopia,1999,494.83,tonnes
+1215,Ethiopia,2000,606.67,tonnes
+1216,Ethiopia,2001,630.0,tonnes
+1217,Ethiopia,2002,824.63,tonnes
+1218,Ethiopia,2003,1019.25,tonnes
+1219,Ethiopia,2004,1213.88,tonnes
+1220,Ethiopia,2005,1408.5,tonnes
+1221,Ethiopia,2006,2603.1,tonnes
+1222,Ethiopia,2007,2593.9,tonnes
+1223,Ethiopia,2008,2270.6,tonnes
+1224,Ethiopia,2009,3699.2,tonnes
+1225,Ethiopia,2010,4128.1,tonnes
+1226,Ethiopia,2011,4128.1,tonnes
+1227,Ethiopia,2012,4128.1,tonnes
+1228,Ethiopia,2013,4128.1,tonnes
+1229,Fiji,1990,148.39,tonnes
+1230,Fiji,1991,698.98,tonnes
+1231,Fiji,1992,135.18,tonnes
+1232,Fiji,1993,160.65,tonnes
+1233,Fiji,1994,186.13,tonnes
+1234,Fiji,1995,211.6,tonnes
+1235,Fiji,1996,237.07,tonnes
+1236,Fiji,1997,262.54,tonnes
+1237,Fiji,1998,288.02,tonnes
+1238,Fiji,1999,313.49,tonnes
+1239,Fiji,2000,338.96,tonnes
+1240,Fiji,2001,364.43,tonnes
+1241,Fiji,2002,389.9,tonnes
+1242,Fiji,2003,415.38,tonnes
+1243,Fiji,2004,440.85,tonnes
+1244,Fiji,2005,466.32,tonnes
+1245,Fiji,2006,491.79,tonnes
+1246,Fiji,2007,517.26,tonnes
+1247,Fiji,2008,542.74,tonnes
+1248,Fiji,2009,709.7,tonnes
+1249,Fiji,2010,689.97,tonnes
+1250,Fiji,2011,710.1,tonnes
+1251,Fiji,2012,805.54,tonnes
+1252,Fiji,2013,769.07,tonnes
+1253,Finland,1990,2001.0,tonnes
+1254,Finland,1991,1738.0,tonnes
+1255,Finland,1992,1372.0,tonnes
+1256,Finland,1993,1200.0,tonnes
+1257,Finland,1994,1247.0,tonnes
+1258,Finland,1995,1041.0,tonnes
+1259,Finland,1996,909.0,tonnes
+1260,Finland,1997,999.0,tonnes
+1261,Finland,1998,1164.0,tonnes
+1262,Finland,1999,1139.0,tonnes
+1263,Finland,2000,1147.48,tonnes
+1264,Finland,2001,1423.27,tonnes
+1265,Finland,2002,1620.36,tonnes
+1266,Finland,2003,1666.82,tonnes
+1267,Finland,2004,1489.12,tonnes
+1268,Finland,2005,1431.04,tonnes
+1269,Finland,2006,1645.3,tonnes
+1270,Finland,2007,1479.45,tonnes
+1271,Finland,2008,1621.86,tonnes
+1272,Finland,2009,1693.8,tonnes
+1273,Finland,2010,1746.71,tonnes
+1274,Finland,2011,1707.54,tonnes
+1275,Finland,2012,1545.25,tonnes
+1276,Finland,2013,1475.39,tonnes
+1277,France,1990,97701.0,tonnes
+1278,France,1991,103434.0,tonnes
+1279,France,1992,85249.0,tonnes
+1280,France,1993,91953.0,tonnes
+1281,France,1994,89515.0,tonnes
+1282,France,1995,84011.0,tonnes
+1283,France,1996,97890.0,tonnes
+1284,France,1997,109793.0,tonnes
+1285,France,1998,107754.0,tonnes
+1286,France,1999,114696.0,tonnes
+1287,France,2000,97878.0,tonnes
+1288,France,2001,99694.0,tonnes
+1289,France,2002,82448.0,tonnes
+1290,France,2003,74531.0,tonnes
+1291,France,2004,76120.5,tonnes
+1292,France,2005,78290.0,tonnes
+1293,France,2006,71640.5,tonnes
+1294,France,2007,77255.0,tonnes
+1295,France,2008,78601.0,tonnes
+1296,France,2009,63692.0,tonnes
+1297,France,2010,61911.0,tonnes
+1298,France,2011,61039.0,tonnes
+1299,France,2012,63547.59,tonnes
+1300,France,2013,66497.29,tonnes
+1301,French Polynesia,1990,41.3,tonnes
+1302,French Polynesia,1991,41.3,tonnes
+1303,French Polynesia,1992,41.3,tonnes
+1304,French Polynesia,1993,41.3,tonnes
+1305,French Polynesia,1994,41.3,tonnes
+1306,French Polynesia,1995,41.3,tonnes
+1307,French Polynesia,1996,41.3,tonnes
+1308,French Polynesia,1997,41.3,tonnes
+1309,French Polynesia,1998,41.3,tonnes
+1310,French Polynesia,1999,41.3,tonnes
+1311,French Polynesia,2000,41.3,tonnes
+1312,French Polynesia,2001,41.3,tonnes
+1313,French Polynesia,2002,41.3,tonnes
+1314,French Polynesia,2003,44.33,tonnes
+1315,French Polynesia,2004,47.35,tonnes
+1316,French Polynesia,2005,55.33,tonnes
+1317,French Polynesia,2006,45.3,tonnes
+1318,French Polynesia,2007,48.64,tonnes
+1319,French Polynesia,2008,53.82,tonnes
+1320,French Polynesia,2009,45.43,tonnes
+1321,French Polynesia,2010,27.73,tonnes
+1322,French Polynesia,2011,43.21,tonnes
+1323,French Polynesia,2012,29.1,tonnes
+1324,French Polynesia,2013,25.7,tonnes
+1325,Gambia,1990,34.0,tonnes
+1326,Gambia,1991,34.0,tonnes
+1327,Gambia,1992,34.0,tonnes
+1328,Gambia,1993,20.03,tonnes
+1329,Gambia,1994,2.02,tonnes
+1330,Gambia,1995,8.04,tonnes
+1331,Gambia,1996,8.31,tonnes
+1332,Gambia,1997,74.73,tonnes
+1333,Gambia,1998,141.16,tonnes
+1334,Gambia,1999,207.58,tonnes
+1335,Gambia,2000,274.0,tonnes
+1336,Gambia,2001,237.0,tonnes
+1337,Gambia,2002,250.0,tonnes
+1338,Gambia,2003,345.0,tonnes
+1339,Gambia,2004,559.0,tonnes
+1340,Gambia,2005,813.0,tonnes
+1341,Gambia,2006,2061.0,tonnes
+1342,Gambia,2007,588.0,tonnes
+1343,Gambia,2008,588.0,tonnes
+1344,Gambia,2009,588.0,tonnes
+1345,Gambia,2010,588.0,tonnes
+1346,Gambia,2011,588.0,tonnes
+1347,Gambia,2012,588.0,tonnes
+1348,Gambia,2013,588.0,tonnes
+1349,Germany,1990,31289.0,tonnes
+1350,Germany,1991,32006.0,tonnes
+1351,Germany,1992,29542.0,tonnes
+1352,Germany,1993,25170.0,tonnes
+1353,Germany,1994,26330.0,tonnes
+1354,Germany,1995,30090.0,tonnes
+1355,Germany,1996,31683.0,tonnes
+1356,Germany,1997,30414.0,tonnes
+1357,Germany,1998,33377.0,tonnes
+1358,Germany,1999,30019.0,tonnes
+1359,Germany,2000,35273.17,tonnes
+1360,Germany,2001,33423.49,tonnes
+1361,Germany,2002,34431.72,tonnes
+1362,Germany,2003,35539.26,tonnes
+1363,Germany,2004,34930.37,tonnes
+1364,Germany,2005,36386.27,tonnes
+1365,Germany,2006,38540.15,tonnes
+1366,Germany,2007,40740.64,tonnes
+1367,Germany,2008,43413.01,tonnes
+1368,Germany,2009,39289.43,tonnes
+1369,Germany,2010,40832.42,tonnes
+1370,Germany,2011,43754.35,tonnes
+1371,Germany,2012,45522.5,tonnes
+1372,Germany,2013,43756.1,tonnes
+1373,Ghana,1990,65.8,tonnes
+1374,Ghana,1991,65.8,tonnes
+1375,Ghana,1992,65.8,tonnes
+1376,Ghana,1993,65.8,tonnes
+1377,Ghana,1994,65.8,tonnes
+1378,Ghana,1995,65.8,tonnes
+1379,Ghana,1996,1575.5,tonnes
+1380,Ghana,1997,502.0,tonnes
+1381,Ghana,1998,297.78,tonnes
+1382,Ghana,1999,114.13,tonnes
+1383,Ghana,2000,81.63,tonnes
+1384,Ghana,2001,82.0,tonnes
+1385,Ghana,2002,89.74,tonnes
+1386,Ghana,2003,108.67,tonnes
+1387,Ghana,2004,127.6,tonnes
+1388,Ghana,2005,165.84,tonnes
+1389,Ghana,2006,771.0,tonnes
+1390,Ghana,2007,119.86,tonnes
+1391,Ghana,2008,350.83,tonnes
+1392,Ghana,2009,378.97,tonnes
+1393,Ghana,2010,378.97,tonnes
+1394,Ghana,2011,378.97,tonnes
+1395,Ghana,2012,378.97,tonnes
+1396,Ghana,2013,378.97,tonnes
+1397,Greece,1990,7420.0,tonnes
+1398,Greece,1991,7420.0,tonnes
+1399,Greece,1992,7869.0,tonnes
+1400,Greece,1993,8826.0,tonnes
+1401,Greece,1994,6341.0,tonnes
+1402,Greece,1995,6663.0,tonnes
+1403,Greece,1996,7296.0,tonnes
+1404,Greece,1997,9223.0,tonnes
+1405,Greece,1998,10702.0,tonnes
+1406,Greece,1999,9635.0,tonnes
+1407,Greece,2000,10627.0,tonnes
+1408,Greece,2001,10725.0,tonnes
+1409,Greece,2002,12209.42,tonnes
+1410,Greece,2003,11836.84,tonnes
+1411,Greece,2004,12650.26,tonnes
+1412,Greece,2005,13488.68,tonnes
+1413,Greece,2006,7505.3,tonnes
+1414,Greece,2007,7345.7,tonnes
+1415,Greece,2008,5130.8,tonnes
+1416,Greece,2009,3404.4,tonnes
+1417,Greece,2010,5607.7,tonnes
+1418,Greece,2011,8189.8,tonnes
+1419,Greece,2012,8002.2,tonnes
+1420,Greece,2013,8081.72,tonnes
+1421,Guatemala,1990,12004.33,tonnes
+1422,Guatemala,1991,12004.33,tonnes
+1423,Guatemala,1992,12004.33,tonnes
+1424,Guatemala,1993,12004.33,tonnes
+1425,Guatemala,1994,12004.33,tonnes
+1426,Guatemala,1995,12004.33,tonnes
+1427,Guatemala,1996,12004.33,tonnes
+1428,Guatemala,1997,11419.53,tonnes
+1429,Guatemala,1998,10834.74,tonnes
+1430,Guatemala,1999,10249.94,tonnes
+1431,Guatemala,2000,9665.14,tonnes
+1432,Guatemala,2001,10025.35,tonnes
+1433,Guatemala,2002,10385.57,tonnes
+1434,Guatemala,2003,10745.78,tonnes
+1435,Guatemala,2004,11966.11,tonnes
+1436,Guatemala,2005,13512.61,tonnes
+1437,Guatemala,2006,15958.27,tonnes
+1438,Guatemala,2007,22890.57,tonnes
+1439,Guatemala,2008,18099.47,tonnes
+1440,Guatemala,2009,13284.9,tonnes
+1441,Guatemala,2010,14906.85,tonnes
+1442,Guatemala,2011,16540.71,tonnes
+1443,Guatemala,2012,19726.3,tonnes
+1444,Guatemala,2013,20489.4,tonnes
+1445,Guinea,1990,80.0,tonnes
+1446,Guinea,1991,80.0,tonnes
+1447,Guinea,1992,80.0,tonnes
+1448,Guinea,1993,21.0,tonnes
+1449,Guinea,1994,39.0,tonnes
+1450,Guinea,1995,153.0,tonnes
+1451,Guinea,1996,157.0,tonnes
+1452,Guinea,1997,157.0,tonnes
+1453,Guinea,1998,181.35,tonnes
+1454,Guinea,1999,205.71,tonnes
+1455,Guinea,2000,230.06,tonnes
+1456,Guinea,2001,254.42,tonnes
+1457,Guinea,2002,278.77,tonnes
+1458,Guinea,2003,303.13,tonnes
+1459,Guinea,2004,327.49,tonnes
+1460,Guinea,2005,351.84,tonnes
+1461,Guinea,2006,376.19,tonnes
+1462,Guinea,2007,400.55,tonnes
+1463,Guinea,2008,424.9,tonnes
+1464,Guinea,2009,449.26,tonnes
+1465,Guinea,2010,556.24,tonnes
+1466,Guinea,2011,663.23,tonnes
+1467,Guinea,2012,770.21,tonnes
+1468,Guinea,2013,877.19,tonnes
+1469,Guinea-Bissau,1990,32.0,tonnes
+1470,Guinea-Bissau,1991,38.0,tonnes
+1471,Guinea-Bissau,1992,4.0,tonnes
+1472,Guinea-Bissau,1993,25.0,tonnes
+1473,Guinea-Bissau,1994,21.0,tonnes
+1474,Guinea-Bissau,1995,17.0,tonnes
+1475,Guinea-Bissau,1996,13.0,tonnes
+1476,Guinea-Bissau,1997,9.0,tonnes
+1477,Guinea-Bissau,1998,5.0,tonnes
+1478,Guinea-Bissau,1999,1.0,tonnes
+1479,Guinea-Bissau,2000,41.5,tonnes
+1480,Guinea-Bissau,2001,82.0,tonnes
+1481,Guinea-Bissau,2002,82.0,tonnes
+1482,Guinea-Bissau,2003,82.0,tonnes
+1483,Guinea-Bissau,2004,82.0,tonnes
+1484,Guinea-Bissau,2005,82.0,tonnes
+1485,Guinea-Bissau,2006,82.0,tonnes
+1486,Guinea-Bissau,2007,82.0,tonnes
+1487,Guinea-Bissau,2008,82.0,tonnes
+1488,Guinea-Bissau,2009,82.0,tonnes
+1489,Guinea-Bissau,2010,82.0,tonnes
+1490,Guinea-Bissau,2011,82.0,tonnes
+1491,Guinea-Bissau,2012,82.0,tonnes
+1492,Guinea-Bissau,2013,82.0,tonnes
+1493,Guyana,1990,289.9,tonnes
+1494,Guyana,1991,289.9,tonnes
+1495,Guyana,1992,289.9,tonnes
+1496,Guyana,1993,289.9,tonnes
+1497,Guyana,1994,289.9,tonnes
+1498,Guyana,1995,289.9,tonnes
+1499,Guyana,1996,289.9,tonnes
+1500,Guyana,1997,289.9,tonnes
+1501,Guyana,1998,289.9,tonnes
+1502,Guyana,1999,289.9,tonnes
+1503,Guyana,2000,289.9,tonnes
+1504,Guyana,2001,289.9,tonnes
+1505,Guyana,2002,289.9,tonnes
+1506,Guyana,2003,289.9,tonnes
+1507,Guyana,2004,289.9,tonnes
+1508,Guyana,2005,270.78,tonnes
+1509,Guyana,2006,343.12,tonnes
+1510,Guyana,2007,246.5,tonnes
+1511,Guyana,2008,234.27,tonnes
+1512,Guyana,2009,264.47,tonnes
+1513,Guyana,2010,211.83,tonnes
+1514,Guyana,2011,400.76,tonnes
+1515,Guyana,2012,427.73,tonnes
+1516,Guyana,2013,358.72,tonnes
+1517,Haiti,1990,17.14,tonnes
+1518,Haiti,1991,18.86,tonnes
+1519,Haiti,1992,11.52,tonnes
+1520,Haiti,1993,6.96,tonnes
+1521,Haiti,1994,8.58,tonnes
+1522,Haiti,1995,12.32,tonnes
+1523,Haiti,1996,14.44,tonnes
+1524,Haiti,1997,16.35,tonnes
+1525,Haiti,1998,23.78,tonnes
+1526,Haiti,1999,26.32,tonnes
+1527,Haiti,2000,27.85,tonnes
+1528,Haiti,2001,27.85,tonnes
+1529,Haiti,2002,27.85,tonnes
+1530,Haiti,2003,27.85,tonnes
+1531,Haiti,2004,27.85,tonnes
+1532,Haiti,2005,27.85,tonnes
+1533,Haiti,2006,27.85,tonnes
+1534,Haiti,2007,27.85,tonnes
+1535,Haiti,2008,27.85,tonnes
+1536,Haiti,2009,27.85,tonnes
+1537,Haiti,2010,27.85,tonnes
+1538,Haiti,2011,27.85,tonnes
+1539,Haiti,2012,27.85,tonnes
+1540,Haiti,2013,27.85,tonnes
+1541,Honduras,1990,4576.61,tonnes
+1542,Honduras,1991,3368.28,tonnes
+1543,Honduras,1992,5965.38,tonnes
+1544,Honduras,1993,6768.0,tonnes
+1545,Honduras,1994,2550.86,tonnes
+1546,Honduras,1995,7800.0,tonnes
+1547,Honduras,1996,6464.0,tonnes
+1548,Honduras,1997,6980.0,tonnes
+1549,Honduras,1998,3495.0,tonnes
+1550,Honduras,1999,2387.0,tonnes
+1551,Honduras,2000,4376.0,tonnes
+1552,Honduras,2001,1156.0,tonnes
+1553,Honduras,2002,1784.3,tonnes
+1554,Honduras,2003,2412.61,tonnes
+1555,Honduras,2004,3040.91,tonnes
+1556,Honduras,2005,3669.21,tonnes
+1557,Honduras,2006,4297.51,tonnes
+1558,Honduras,2007,5283.93,tonnes
+1559,Honduras,2008,5130.42,tonnes
+1560,Honduras,2009,4344.36,tonnes
+1561,Honduras,2010,5736.63,tonnes
+1562,Honduras,2011,6324.41,tonnes
+1563,Honduras,2012,7194.91,tonnes
+1564,Honduras,2013,7194.91,tonnes
+1565,Hungary,1990,12756.0,tonnes
+1566,Hungary,1991,8069.0,tonnes
+1567,Hungary,1992,5777.0,tonnes
+1568,Hungary,1993,10197.0,tonnes
+1569,Hungary,1994,9574.0,tonnes
+1570,Hungary,1995,7715.0,tonnes
+1571,Hungary,1996,6946.0,tonnes
+1572,Hungary,1997,4445.0,tonnes
+1573,Hungary,1998,5280.0,tonnes
+1574,Hungary,1999,4598.0,tonnes
+1575,Hungary,2000,4151.0,tonnes
+1576,Hungary,2001,5458.0,tonnes
+1577,Hungary,2002,8249.9,tonnes
+1578,Hungary,2003,8742.3,tonnes
+1579,Hungary,2004,9955.7,tonnes
+1580,Hungary,2005,9689.6,tonnes
+1581,Hungary,2006,11535.0,tonnes
+1582,Hungary,2007,11188.4,tonnes
+1583,Hungary,2008,12092.8,tonnes
+1584,Hungary,2009,11151.2,tonnes
+1585,Hungary,2010,10305.1,tonnes
+1586,Hungary,2011,8473.26,tonnes
+1587,Hungary,2012,8141.17,tonnes
+1588,Hungary,2013,7744.5,tonnes
+1589,Iceland,1990,3.21,tonnes
+1590,Iceland,1991,3.21,tonnes
+1591,Iceland,1992,3.21,tonnes
+1592,Iceland,1993,3.21,tonnes
+1593,Iceland,1994,3.21,tonnes
+1594,Iceland,1995,3.21,tonnes
+1595,Iceland,1996,3.21,tonnes
+1596,Iceland,1997,3.21,tonnes
+1597,Iceland,1998,3.21,tonnes
+1598,Iceland,1999,3.21,tonnes
+1599,Iceland,2000,4.18,tonnes
+1600,Iceland,2001,4.74,tonnes
+1601,Iceland,2002,4.02,tonnes
+1602,Iceland,2003,4.01,tonnes
+1603,Iceland,2004,6.01,tonnes
+1604,Iceland,2005,5.01,tonnes
+1605,Iceland,2006,5.0,tonnes
+1606,Iceland,2007,5.34,tonnes
+1607,Iceland,2008,5.73,tonnes
+1608,Iceland,2009,4.37,tonnes
+1609,Iceland,2010,2.73,tonnes
+1610,Iceland,2011,3.43,tonnes
+1611,Iceland,2012,3.14,tonnes
+1612,Iceland,2013,2.41,tonnes
+1613,India,1990,75000.0,tonnes
+1614,India,1991,72133.0,tonnes
+1615,India,1992,70791.0,tonnes
+1616,India,1993,66388.0,tonnes
+1617,India,1994,61357.0,tonnes
+1618,India,1995,61257.0,tonnes
+1619,India,1996,56114.0,tonnes
+1620,India,1997,52279.0,tonnes
+1621,India,1998,49157.0,tonnes
+1622,India,1999,46195.0,tonnes
+1623,India,2000,44957.52,tonnes
+1624,India,2001,43720.04,tonnes
+1625,India,2002,42482.56,tonnes
+1626,India,2003,41245.08,tonnes
+1627,India,2004,35113.0,tonnes
+1628,India,2005,35342.0,tonnes
+1629,India,2006,37423.0,tonnes
+1630,India,2007,27422.77,tonnes
+1631,India,2008,14485.33,tonnes
+1632,India,2009,28707.01,tonnes
+1633,India,2010,40093.69,tonnes
+1634,India,2011,55540.0,tonnes
+1635,India,2012,52980.0,tonnes
+1636,India,2013,45620.0,tonnes
+1637,Indonesia,1990,2432.0,tonnes
+1638,Indonesia,1991,3259.0,tonnes
+1639,Indonesia,1992,867.5,tonnes
+1640,Indonesia,1993,1597.0,tonnes
+1641,Indonesia,1994,1597.0,tonnes
+1642,Indonesia,1995,1597.0,tonnes
+1643,Indonesia,1996,1597.0,tonnes
+1644,Indonesia,1997,1597.0,tonnes
+1645,Indonesia,1998,1597.0,tonnes
+1646,Indonesia,1999,1597.0,tonnes
+1647,Indonesia,2000,1597.0,tonnes
+1648,Indonesia,2001,1597.0,tonnes
+1649,Indonesia,2002,1597.0,tonnes
+1650,Indonesia,2003,1597.0,tonnes
+1651,Indonesia,2004,1597.0,tonnes
+1652,Indonesia,2005,1597.0,tonnes
+1653,Indonesia,2006,1597.0,tonnes
+1654,Indonesia,2007,1597.0,tonnes
+1655,Indonesia,2008,1597.0,tonnes
+1656,Indonesia,2009,1597.0,tonnes
+1657,Indonesia,2010,1597.0,tonnes
+1658,Indonesia,2011,1597.0,tonnes
+1659,Indonesia,2012,1597.0,tonnes
+1660,Indonesia,2013,1597.0,tonnes
+1661,Iran (Islamic Republic of),1990,10644.0,tonnes
+1662,Iran (Islamic Republic of),1991,16349.0,tonnes
+1663,Iran (Islamic Republic of),1992,11683.0,tonnes
+1664,Iran (Islamic Republic of),1993,9572.0,tonnes
+1665,Iran (Islamic Republic of),1994,10324.0,tonnes
+1666,Iran (Islamic Republic of),1995,8746.0,tonnes
+1667,Iran (Islamic Republic of),1996,5332.0,tonnes
+1668,Iran (Islamic Republic of),1997,6307.96,tonnes
+1669,Iran (Islamic Republic of),1998,7283.93,tonnes
+1670,Iran (Islamic Republic of),1999,8259.89,tonnes
+1671,Iran (Islamic Republic of),2000,9235.85,tonnes
+1672,Iran (Islamic Republic of),2001,8809.76,tonnes
+1673,Iran (Islamic Republic of),2002,9355.71,tonnes
+1674,Iran (Islamic Republic of),2003,9854.61,tonnes
+1675,Iran (Islamic Republic of),2004,9702.04,tonnes
+1676,Iran (Islamic Republic of),2005,7508.01,tonnes
+1677,Iran (Islamic Republic of),2006,7921.22,tonnes
+1678,Iran (Islamic Republic of),2007,5557.99,tonnes
+1679,Iran (Islamic Republic of),2008,2602.28,tonnes
+1680,Iran (Islamic Republic of),2009,2308.01,tonnes
+1681,Iran (Islamic Republic of),2010,2852.05,tonnes
+1682,Iran (Islamic Republic of),2011,3396.1,tonnes
+1683,Iran (Islamic Republic of),2012,5733.28,tonnes
+1684,Iran (Islamic Republic of),2013,5173.01,tonnes
+1685,Iraq,1990,692.0,tonnes
+1686,Iraq,1991,692.0,tonnes
+1687,Iraq,1992,692.0,tonnes
+1688,Iraq,1993,692.0,tonnes
+1689,Iraq,1994,692.0,tonnes
+1690,Iraq,1995,816.0,tonnes
+1691,Iraq,1996,616.0,tonnes
+1692,Iraq,1997,848.0,tonnes
+1693,Iraq,1998,755.0,tonnes
+1694,Iraq,1999,508.0,tonnes
+1695,Iraq,2000,548.0,tonnes
+1696,Iraq,2001,837.47,tonnes
+1697,Iraq,2002,878.68,tonnes
+1698,Iraq,2003,853.65,tonnes
+1699,Iraq,2004,828.62,tonnes
+1700,Iraq,2005,873.01,tonnes
+1701,Iraq,2006,824.14,tonnes
+1702,Iraq,2007,1062.61,tonnes
+1703,Iraq,2008,955.13,tonnes
+1704,Iraq,2009,847.66,tonnes
+1705,Iraq,2010,740.18,tonnes
+1706,Iraq,2011,632.7,tonnes
+1707,Iraq,2012,525.23,tonnes
+1708,Iraq,2013,417.75,tonnes
+1709,Ireland,1990,2014.0,tonnes
+1710,Ireland,1991,2014.0,tonnes
+1711,Ireland,1992,2014.0,tonnes
+1712,Ireland,1993,2014.0,tonnes
+1713,Ireland,1994,2014.0,tonnes
+1714,Ireland,1995,2152.0,tonnes
+1715,Ireland,1996,1577.0,tonnes
+1716,Ireland,1997,2201.0,tonnes
+1717,Ireland,1998,2257.0,tonnes
+1718,Ireland,1999,1930.0,tonnes
+1719,Ireland,2000,1942.21,tonnes
+1720,Ireland,2001,2333.67,tonnes
+1721,Ireland,2002,2614.27,tonnes
+1722,Ireland,2003,2719.41,tonnes
+1723,Ireland,2004,2978.49,tonnes
+1724,Ireland,2005,2624.89,tonnes
+1725,Ireland,2006,2766.64,tonnes
+1726,Ireland,2007,3083.02,tonnes
+1727,Ireland,2008,2790.17,tonnes
+1728,Ireland,2009,2268.1,tonnes
+1729,Ireland,2010,2529.2,tonnes
+1730,Ireland,2011,3664.3,tonnes
+1731,Ireland,2012,2925.1,tonnes
+1732,Ireland,2013,2950.8,tonnes
+1733,Israel,1990,2491.0,tonnes
+1734,Israel,1991,2491.0,tonnes
+1735,Israel,1992,2491.0,tonnes
+1736,Israel,1993,2491.0,tonnes
+1737,Israel,1994,2491.0,tonnes
+1738,Israel,1995,2491.0,tonnes
+1739,Israel,1996,2491.0,tonnes
+1740,Israel,1997,2491.0,tonnes
+1741,Israel,1998,2491.0,tonnes
+1742,Israel,1999,2975.02,tonnes
+1743,Israel,2000,3459.04,tonnes
+1744,Israel,2001,3943.05,tonnes
+1745,Israel,2002,4427.07,tonnes
+1746,Israel,2003,4911.09,tonnes
+1747,Israel,2004,5395.11,tonnes
+1748,Israel,2005,5879.13,tonnes
+1749,Israel,2006,6363.14,tonnes
+1750,Israel,2007,6847.16,tonnes
+1751,Israel,2008,7331.18,tonnes
+1752,Israel,2009,6650.0,tonnes
+1753,Israel,2010,6753.0,tonnes
+1754,Israel,2011,6124.0,tonnes
+1755,Israel,2012,6009.0,tonnes
+1756,Israel,2013,6005.0,tonnes
+1757,Italy,1990,100596.4,tonnes
+1758,Italy,1991,88916.6,tonnes
+1759,Italy,1992,88227.6,tonnes
+1760,Italy,1993,89282.2,tonnes
+1761,Italy,1994,81217.6,tonnes
+1762,Italy,1995,84153.0,tonnes
+1763,Italy,1996,74617.2,tonnes
+1764,Italy,1997,84799.0,tonnes
+1765,Italy,1998,84117.0,tonnes
+1766,Italy,1999,81583.0,tonnes
+1767,Italy,2000,79447.0,tonnes
+1768,Italy,2001,75978.0,tonnes
+1769,Italy,2002,94211.0,tonnes
+1770,Italy,2003,86058.0,tonnes
+1771,Italy,2004,83810.0,tonnes
+1772,Italy,2005,84647.0,tonnes
+1773,Italy,2006,74349.0,tonnes
+1774,Italy,2007,80454.0,tonnes
+1775,Italy,2008,79643.0,tonnes
+1776,Italy,2009,74172.0,tonnes
+1777,Italy,2010,71613.0,tonnes
+1778,Italy,2011,70690.0,tonnes
+1779,Italy,2012,61889.0,tonnes
+1780,Italy,2013,55633.0,tonnes
+1781,Jamaica,1990,1217.44,tonnes
+1782,Jamaica,1991,1217.44,tonnes
+1783,Jamaica,1992,1217.44,tonnes
+1784,Jamaica,1993,1217.44,tonnes
+1785,Jamaica,1994,1217.44,tonnes
+1786,Jamaica,1995,1258.99,tonnes
+1787,Jamaica,1996,1316.11,tonnes
+1788,Jamaica,1997,620.7,tonnes
+1789,Jamaica,1998,620.7,tonnes
+1790,Jamaica,1999,620.7,tonnes
+1791,Jamaica,2000,620.7,tonnes
+1792,Jamaica,2001,620.7,tonnes
+1793,Jamaica,2002,620.7,tonnes
+1794,Jamaica,2003,620.7,tonnes
+1795,Jamaica,2004,620.7,tonnes
+1796,Jamaica,2005,620.7,tonnes
+1797,Jamaica,2006,620.7,tonnes
+1798,Jamaica,2007,620.7,tonnes
+1799,Jamaica,2008,620.7,tonnes
+1800,Jamaica,2009,620.7,tonnes
+1801,Jamaica,2010,620.7,tonnes
+1802,Jamaica,2011,620.7,tonnes
+1803,Jamaica,2012,620.7,tonnes
+1804,Jamaica,2013,620.7,tonnes
+1805,Japan,1990,79821.18,tonnes
+1806,Japan,1991,79821.18,tonnes
+1807,Japan,1992,79821.18,tonnes
+1808,Japan,1993,79821.18,tonnes
+1809,Japan,1994,79821.18,tonnes
+1810,Japan,1995,79821.18,tonnes
+1811,Japan,1996,79821.18,tonnes
+1812,Japan,1997,79821.18,tonnes
+1813,Japan,1998,79821.18,tonnes
+1814,Japan,1999,79821.18,tonnes
+1815,Japan,2000,79821.18,tonnes
+1816,Japan,2001,78735.45,tonnes
+1817,Japan,2002,70262.54,tonnes
+1818,Japan,2003,67869.72,tonnes
+1819,Japan,2004,64688.88,tonnes
+1820,Japan,2005,63829.77,tonnes
+1821,Japan,2006,65248.26,tonnes
+1822,Japan,2007,61164.07,tonnes
+1823,Japan,2008,58750.0,tonnes
+1824,Japan,2009,60970.8,tonnes
+1825,Japan,2010,55576.0,tonnes
+1826,Japan,2011,51796.3,tonnes
+1827,Japan,2012,54716.4,tonnes
+1828,Japan,2013,52794.3,tonnes
+1829,Jordan,1990,734.0,tonnes
+1830,Jordan,1991,926.0,tonnes
+1831,Jordan,1992,1365.0,tonnes
+1832,Jordan,1993,786.0,tonnes
+1833,Jordan,1994,773.5,tonnes
+1834,Jordan,1995,761.0,tonnes
+1835,Jordan,1996,910.0,tonnes
+1836,Jordan,1997,875.0,tonnes
+1837,Jordan,1998,845.0,tonnes
+1838,Jordan,1999,525.0,tonnes
+1839,Jordan,2000,553.0,tonnes
+1840,Jordan,2001,1419.71,tonnes
+1841,Jordan,2002,1566.41,tonnes
+1842,Jordan,2003,1319.66,tonnes
+1843,Jordan,2004,736.06,tonnes
+1844,Jordan,2005,1735.74,tonnes
+1845,Jordan,2006,1141.93,tonnes
+1846,Jordan,2007,1350.86,tonnes
+1847,Jordan,2008,1265.7,tonnes
+1848,Jordan,2009,1089.5,tonnes
+1849,Jordan,2010,932.8,tonnes
+1850,Jordan,2011,1111.9,tonnes
+1851,Jordan,2012,708.0,tonnes
+1852,Jordan,2013,1010.0,tonnes
+1853,Kazakhstan,1992,17182.0,tonnes
+1854,Kazakhstan,1993,17182.0,tonnes
+1855,Kazakhstan,1994,17182.0,tonnes
+1856,Kazakhstan,1995,13536.0,tonnes
+1857,Kazakhstan,1996,13047.0,tonnes
+1858,Kazakhstan,1997,8112.0,tonnes
+1859,Kazakhstan,1998,6416.14,tonnes
+1860,Kazakhstan,1999,4720.28,tonnes
+1861,Kazakhstan,2000,3024.42,tonnes
+1862,Kazakhstan,2001,3007.26,tonnes
+1863,Kazakhstan,2002,3361.84,tonnes
+1864,Kazakhstan,2003,3606.55,tonnes
+1865,Kazakhstan,2004,3802.92,tonnes
+1866,Kazakhstan,2005,3666.62,tonnes
+1867,Kazakhstan,2006,3926.27,tonnes
+1868,Kazakhstan,2007,5575.89,tonnes
+1869,Kazakhstan,2008,7044.9,tonnes
+1870,Kazakhstan,2009,8716.14,tonnes
+1871,Kazakhstan,2010,6283.85,tonnes
+1872,Kazakhstan,2011,10656.6,tonnes
+1873,Kazakhstan,2012,8674.58,tonnes
+1874,Kazakhstan,2013,8738.38,tonnes
+1875,Kenya,1990,3469.0,tonnes
+1876,Kenya,1991,3469.0,tonnes
+1877,Kenya,1992,3469.0,tonnes
+1878,Kenya,1993,3469.0,tonnes
+1879,Kenya,1994,3469.0,tonnes
+1880,Kenya,1995,4607.0,tonnes
+1881,Kenya,1996,6344.0,tonnes
+1882,Kenya,1997,5172.0,tonnes
+1883,Kenya,1998,4114.0,tonnes
+1884,Kenya,1999,3056.0,tonnes
+1885,Kenya,2000,1998.0,tonnes
+1886,Kenya,2001,1578.0,tonnes
+1887,Kenya,2002,1578.0,tonnes
+1888,Kenya,2003,1578.0,tonnes
+1889,Kenya,2004,1578.0,tonnes
+1890,Kenya,2005,1578.0,tonnes
+1891,Kenya,2006,1578.0,tonnes
+1892,Kenya,2007,1578.0,tonnes
+1893,Kenya,2008,1578.0,tonnes
+1894,Kenya,2009,1578.0,tonnes
+1895,Kenya,2010,1578.0,tonnes
+1896,Kenya,2011,1578.0,tonnes
+1897,Kenya,2012,1578.0,tonnes
+1898,Kenya,2013,1578.0,tonnes
+1899,Kuwait,1990,14.0,tonnes
+1900,Kuwait,1991,14.0,tonnes
+1901,Kuwait,1992,14.0,tonnes
+1902,Kuwait,1993,14.0,tonnes
+1903,Kuwait,1994,14.0,tonnes
+1904,Kuwait,1995,14.0,tonnes
+1905,Kuwait,1996,18.0,tonnes
+1906,Kuwait,1997,20.0,tonnes
+1907,Kuwait,1998,32.0,tonnes
+1908,Kuwait,1999,32.0,tonnes
+1909,Kuwait,2000,32.0,tonnes
+1910,Kuwait,2001,32.0,tonnes
+1911,Kuwait,2002,32.0,tonnes
+1912,Kuwait,2003,32.0,tonnes
+1913,Kuwait,2004,32.0,tonnes
+1914,Kuwait,2005,32.0,tonnes
+1915,Kuwait,2006,32.0,tonnes
+1916,Kuwait,2007,32.0,tonnes
+1917,Kuwait,2008,32.0,tonnes
+1918,Kuwait,2009,32.0,tonnes
+1919,Kuwait,2010,32.0,tonnes
+1920,Kuwait,2011,32.0,tonnes
+1921,Kuwait,2012,32.0,tonnes
+1922,Kuwait,2013,32.0,tonnes
+1923,Kyrgyzstan,1992,2418.0,tonnes
+1924,Kyrgyzstan,1993,2200.86,tonnes
+1925,Kyrgyzstan,1994,1983.72,tonnes
+1926,Kyrgyzstan,1995,1766.59,tonnes
+1927,Kyrgyzstan,1996,1549.45,tonnes
+1928,Kyrgyzstan,1997,1332.31,tonnes
+1929,Kyrgyzstan,1998,1115.17,tonnes
+1930,Kyrgyzstan,1999,898.04,tonnes
+1931,Kyrgyzstan,2000,680.9,tonnes
+1932,Kyrgyzstan,2001,609.6,tonnes
+1933,Kyrgyzstan,2002,733.2,tonnes
+1934,Kyrgyzstan,2003,1302.6,tonnes
+1935,Kyrgyzstan,2004,1321.3,tonnes
+1936,Kyrgyzstan,2005,1081.1,tonnes
+1937,Kyrgyzstan,2006,796.0,tonnes
+1938,Kyrgyzstan,2007,1026.2,tonnes
+1939,Kyrgyzstan,2008,662.8,tonnes
+1940,Kyrgyzstan,2009,266.8,tonnes
+1941,Kyrgyzstan,2010,350.1,tonnes
+1942,Kyrgyzstan,2011,312.9,tonnes
+1943,Kyrgyzstan,2012,365.1,tonnes
+1944,Kyrgyzstan,2013,341.1,tonnes
+1945,Lao People's Democratic Republic,1990,21.0,tonnes
+1946,Lao People's Democratic Republic,1991,21.0,tonnes
+1947,Lao People's Democratic Republic,1992,21.0,tonnes
+1948,Lao People's Democratic Republic,1993,46.0,tonnes
+1949,Lao People's Democratic Republic,1994,36.11,tonnes
+1950,Lao People's Democratic Republic,1995,26.22,tonnes
+1951,Lao People's Democratic Republic,1996,16.33,tonnes
+1952,Lao People's Democratic Republic,1997,6.44,tonnes
+1953,Lao People's Democratic Republic,1998,2.23,tonnes
+1954,Lao People's Democratic Republic,1999,1.76,tonnes
+1955,Lao People's Democratic Republic,2000,1.28,tonnes
+1956,Lao People's Democratic Republic,2001,1.82,tonnes
+1957,Lao People's Democratic Republic,2002,2.35,tonnes
+1958,Lao People's Democratic Republic,2003,2.89,tonnes
+1959,Lao People's Democratic Republic,2004,3.42,tonnes
+1960,Lao People's Democratic Republic,2005,3.96,tonnes
+1961,Lao People's Democratic Republic,2006,4.5,tonnes
+1962,Lao People's Democratic Republic,2007,0.53,tonnes
+1963,Lao People's Democratic Republic,2008,0.07,tonnes
+1964,Lao People's Democratic Republic,2009,25.67,tonnes
+1965,Lao People's Democratic Republic,2010,1.85,tonnes
+1966,Lao People's Democratic Republic,2011,43.81,tonnes
+1967,Lao People's Democratic Republic,2012,43.53,tonnes
+1968,Lao People's Democratic Republic,2013,125.89,tonnes
+1969,Latvia,1992,1005.0,tonnes
+1970,Latvia,1993,476.0,tonnes
+1971,Latvia,1994,294.0,tonnes
+1972,Latvia,1995,358.0,tonnes
+1973,Latvia,1996,361.0,tonnes
+1974,Latvia,1997,334.0,tonnes
+1975,Latvia,1998,369.0,tonnes
+1976,Latvia,1999,326.86,tonnes
+1977,Latvia,2000,284.72,tonnes
+1978,Latvia,2001,367.4,tonnes
+1979,Latvia,2002,335.31,tonnes
+1980,Latvia,2003,477.63,tonnes
+1981,Latvia,2004,594.46,tonnes
+1982,Latvia,2005,723.54,tonnes
+1983,Latvia,2006,743.57,tonnes
+1984,Latvia,2007,1113.49,tonnes
+1985,Latvia,2008,1033.0,tonnes
+1986,Latvia,2009,881.2,tonnes
+1987,Latvia,2010,1027.5,tonnes
+1988,Latvia,2011,1070.5,tonnes
+1989,Latvia,2012,1396.96,tonnes
+1990,Latvia,2013,1250.0,tonnes
+1991,Lebanon,1990,1221.0,tonnes
+1992,Lebanon,1991,1221.0,tonnes
+1993,Lebanon,1992,1221.0,tonnes
+1994,Lebanon,1993,1221.0,tonnes
+1995,Lebanon,1994,1221.0,tonnes
+1996,Lebanon,1995,1221.0,tonnes
+1997,Lebanon,1996,1221.0,tonnes
+1998,Lebanon,1997,1816.0,tonnes
+1999,Lebanon,1998,1816.0,tonnes
+2000,Lebanon,1999,1816.0,tonnes
+2001,Lebanon,2000,1816.0,tonnes
+2002,Lebanon,2001,1816.0,tonnes
+2003,Lebanon,2002,1816.0,tonnes
+2004,Lebanon,2003,1816.0,tonnes
+2005,Lebanon,2004,1816.0,tonnes
+2006,Lebanon,2005,1816.0,tonnes
+2007,Lebanon,2006,1816.0,tonnes
+2008,Lebanon,2007,1816.0,tonnes
+2009,Lebanon,2008,1816.0,tonnes
+2010,Lebanon,2009,1816.0,tonnes
+2011,Lebanon,2010,1816.0,tonnes
+2012,Lebanon,2011,1816.0,tonnes
+2013,Lebanon,2012,1816.0,tonnes
+2014,Lebanon,2013,1816.0,tonnes
+2015,Lesotho,1990,0.3,tonnes
+2016,Lesotho,1991,0.3,tonnes
+2017,Lesotho,1992,0.3,tonnes
+2018,Lesotho,1993,0.3,tonnes
+2019,Lesotho,1994,0.3,tonnes
+2020,Lesotho,1995,0.3,tonnes
+2021,Lesotho,1996,0.3,tonnes
+2022,Lesotho,1997,0.3,tonnes
+2023,Lesotho,1998,0.3,tonnes
+2024,Lesotho,1999,0.3,tonnes
+2025,Lesotho,2000,0.3,tonnes
+2026,Lesotho,2001,0.3,tonnes
+2027,Lesotho,2002,0.3,tonnes
+2028,Lesotho,2003,0.3,tonnes
+2029,Lesotho,2004,0.3,tonnes
+2030,Lesotho,2005,0.53,tonnes
+2031,Lesotho,2006,5.25,tonnes
+2032,Lesotho,2007,35.27,tonnes
+2033,Lesotho,2008,37.44,tonnes
+2034,Lesotho,2009,77.7,tonnes
+2035,Lesotho,2010,80.07,tonnes
+2036,Lesotho,2011,175.27,tonnes
+2037,Lesotho,2012,271.84,tonnes
+2038,Lesotho,2013,62.32,tonnes
+2039,Libya,1990,2733.64,tonnes
+2040,Libya,1991,2733.64,tonnes
+2041,Libya,1992,2733.64,tonnes
+2042,Libya,1993,2733.64,tonnes
+2043,Libya,1994,2733.64,tonnes
+2044,Libya,1995,2733.64,tonnes
+2045,Libya,1996,2733.64,tonnes
+2046,Libya,1997,2733.64,tonnes
+2047,Libya,1998,2733.64,tonnes
+2048,Libya,1999,2733.64,tonnes
+2049,Libya,2000,2733.64,tonnes
+2050,Libya,2001,2733.64,tonnes
+2051,Libya,2002,2733.64,tonnes
+2052,Libya,2003,2733.64,tonnes
+2053,Libya,2004,2733.64,tonnes
+2054,Libya,2005,2733.64,tonnes
+2055,Libya,2006,1654.17,tonnes
+2056,Libya,2007,947.62,tonnes
+2057,Libya,2008,974.53,tonnes
+2058,Libya,2009,1556.77,tonnes
+2059,Libya,2010,606.92,tonnes
+2060,Libya,2011,606.92,tonnes
+2061,Libya,2012,606.92,tonnes
+2062,Libya,2013,606.92,tonnes
+2063,Lithuania,1992,1380.0,tonnes
+2064,Lithuania,1993,936.0,tonnes
+2065,Lithuania,1994,713.0,tonnes
+2066,Lithuania,1995,737.0,tonnes
+2067,Lithuania,1996,979.0,tonnes
+2068,Lithuania,1997,928.0,tonnes
+2069,Lithuania,1998,812.0,tonnes
+2070,Lithuania,1999,695.0,tonnes
+2071,Lithuania,2000,688.06,tonnes
+2072,Lithuania,2001,726.09,tonnes
+2073,Lithuania,2002,792.62,tonnes
+2074,Lithuania,2003,847.22,tonnes
+2075,Lithuania,2004,1023.62,tonnes
+2076,Lithuania,2005,1048.52,tonnes
+2077,Lithuania,2006,1197.02,tonnes
+2078,Lithuania,2007,2722.82,tonnes
+2079,Lithuania,2008,2723.06,tonnes
+2080,Lithuania,2009,2748.8,tonnes
+2081,Lithuania,2010,1803.77,tonnes
+2082,Lithuania,2011,2062.34,tonnes
+2083,Lithuania,2012,2559.9,tonnes
+2084,Lithuania,2013,2515.69,tonnes
+2085,Luxembourg,2000,154.25,tonnes
+2086,Luxembourg,2001,154.25,tonnes
+2087,Luxembourg,2002,154.25,tonnes
+2088,Luxembourg,2003,154.25,tonnes
+2089,Luxembourg,2004,154.25,tonnes
+2090,Luxembourg,2005,154.25,tonnes
+2091,Luxembourg,2006,154.25,tonnes
+2092,Luxembourg,2007,154.25,tonnes
+2093,Luxembourg,2008,154.25,tonnes
+2094,Luxembourg,2009,154.25,tonnes
+2095,Luxembourg,2010,154.25,tonnes
+2096,Luxembourg,2011,154.25,tonnes
+2097,Luxembourg,2012,154.25,tonnes
+2098,Luxembourg,2013,155.19,tonnes
+2099,Madagascar,1990,128.41,tonnes
+2100,Madagascar,1991,131.0,tonnes
+2101,Madagascar,1992,101.15,tonnes
+2102,Madagascar,1993,109.41,tonnes
+2103,Madagascar,1994,76.27,tonnes
+2104,Madagascar,1995,73.15,tonnes
+2105,Madagascar,1996,152.01,tonnes
+2106,Madagascar,1997,139.9,tonnes
+2107,Madagascar,1998,88.26,tonnes
+2108,Madagascar,1999,49.53,tonnes
+2109,Madagascar,2000,130.46,tonnes
+2110,Madagascar,2001,87.59,tonnes
+2111,Madagascar,2002,240.9,tonnes
+2112,Madagascar,2003,146.87,tonnes
+2113,Madagascar,2004,68.16,tonnes
+2114,Madagascar,2005,114.51,tonnes
+2115,Madagascar,2006,109.39,tonnes
+2116,Madagascar,2007,93.88,tonnes
+2117,Madagascar,2008,112.25,tonnes
+2118,Madagascar,2009,143.9,tonnes
+2119,Madagascar,2010,241.89,tonnes
+2120,Madagascar,2011,310.49,tonnes
+2121,Madagascar,2012,377.81,tonnes
+2122,Madagascar,2013,508.0,tonnes
+2123,Malawi,1990,171.8,tonnes
+2124,Malawi,1991,171.8,tonnes
+2125,Malawi,1992,171.8,tonnes
+2126,Malawi,1993,171.8,tonnes
+2127,Malawi,1994,171.8,tonnes
+2128,Malawi,1995,171.8,tonnes
+2129,Malawi,1996,171.8,tonnes
+2130,Malawi,1997,171.8,tonnes
+2131,Malawi,1998,136.11,tonnes
+2132,Malawi,1999,125.39,tonnes
+2133,Malawi,2000,207.94,tonnes
+2134,Malawi,2001,168.02,tonnes
+2135,Malawi,2002,128.11,tonnes
+2136,Malawi,2003,88.19,tonnes
+2137,Malawi,2004,48.28,tonnes
+2138,Malawi,2005,295.51,tonnes
+2139,Malawi,2006,202.35,tonnes
+2140,Malawi,2007,524.46,tonnes
+2141,Malawi,2008,624.52,tonnes
+2142,Malawi,2009,736.25,tonnes
+2143,Malawi,2010,584.12,tonnes
+2144,Malawi,2011,553.57,tonnes
+2145,Malawi,2012,775.83,tonnes
+2146,Malawi,2013,1500.27,tonnes
+2147,Malaysia,1990,39406.48,tonnes
+2148,Malaysia,1991,39406.48,tonnes
+2149,Malaysia,1992,39406.48,tonnes
+2150,Malaysia,1993,39406.48,tonnes
+2151,Malaysia,1994,39406.48,tonnes
+2152,Malaysia,1995,39406.48,tonnes
+2153,Malaysia,1996,39406.48,tonnes
+2154,Malaysia,1997,39406.48,tonnes
+2155,Malaysia,1998,39406.48,tonnes
+2156,Malaysia,1999,39406.48,tonnes
+2157,Malaysia,2000,39406.48,tonnes
+2158,Malaysia,2001,39406.48,tonnes
+2159,Malaysia,2002,39406.48,tonnes
+2160,Malaysia,2003,39406.48,tonnes
+2161,Malaysia,2004,39406.48,tonnes
+2162,Malaysia,2005,39406.48,tonnes
+2163,Malaysia,2006,39406.48,tonnes
+2164,Malaysia,2007,46868.35,tonnes
+2165,Malaysia,2008,54821.91,tonnes
+2166,Malaysia,2009,52464.19,tonnes
+2167,Malaysia,2010,60194.83,tonnes
+2168,Malaysia,2011,41562.16,tonnes
+2169,Malaysia,2012,49810.48,tonnes
+2170,Malaysia,2013,61445.6,tonnes
+2171,Maldives,1990,44.33,tonnes
+2172,Maldives,1991,44.33,tonnes
+2173,Maldives,1992,44.33,tonnes
+2174,Maldives,1993,44.33,tonnes
+2175,Maldives,1994,44.33,tonnes
+2176,Maldives,1995,44.33,tonnes
+2177,Maldives,1996,44.33,tonnes
+2178,Maldives,1997,44.33,tonnes
+2179,Maldives,1998,44.33,tonnes
+2180,Maldives,1999,44.33,tonnes
+2181,Maldives,2000,44.33,tonnes
+2182,Maldives,2001,44.33,tonnes
+2183,Maldives,2002,44.33,tonnes
+2184,Maldives,2003,44.33,tonnes
+2185,Maldives,2004,44.33,tonnes
+2186,Maldives,2005,44.33,tonnes
+2187,Maldives,2006,44.33,tonnes
+2188,Maldives,2007,44.33,tonnes
+2189,Maldives,2008,44.33,tonnes
+2190,Maldives,2009,44.33,tonnes
+2191,Maldives,2010,44.33,tonnes
+2192,Maldives,2011,44.33,tonnes
+2193,Maldives,2012,66.17,tonnes
+2194,Maldives,2013,236.16,tonnes
+2195,Mali,1990,247.07,tonnes
+2196,Mali,1991,141.05,tonnes
+2197,Mali,1992,91.45,tonnes
+2198,Mali,1993,86.04,tonnes
+2199,Mali,1994,80.63,tonnes
+2200,Mali,1995,75.22,tonnes
+2201,Mali,1996,69.81,tonnes
+2202,Mali,1997,64.4,tonnes
+2203,Mali,1998,59.0,tonnes
+2204,Mali,1999,53.59,tonnes
+2205,Mali,2000,48.18,tonnes
+2206,Mali,2001,42.77,tonnes
+2207,Mali,2002,37.36,tonnes
+2208,Mali,2003,31.95,tonnes
+2209,Mali,2004,26.54,tonnes
+2210,Mali,2005,21.13,tonnes
+2211,Mali,2006,17.34,tonnes
+2212,Mali,2007,12.31,tonnes
+2213,Mali,2008,19.05,tonnes
+2214,Mali,2009,8.44,tonnes
+2215,Mali,2010,8.09,tonnes
+2216,Mali,2011,6.83,tonnes
+2217,Mali,2012,3.75,tonnes
+2218,Mali,2013,3.75,tonnes
+2219,Malta,1990,326.48,tonnes
+2220,Malta,1991,326.48,tonnes
+2221,Malta,1992,326.48,tonnes
+2222,Malta,1993,326.48,tonnes
+2223,Malta,1994,447.26,tonnes
+2224,Malta,1995,210.34,tonnes
+2225,Malta,1996,154.0,tonnes
+2226,Malta,1997,258.38,tonnes
+2227,Malta,1998,260.8,tonnes
+2228,Malta,1999,138.79,tonnes
+2229,Malta,2000,181.92,tonnes
+2230,Malta,2001,111.77,tonnes
+2231,Malta,2002,113.25,tonnes
+2232,Malta,2003,114.73,tonnes
+2233,Malta,2004,116.21,tonnes
+2234,Malta,2005,117.69,tonnes
+2235,Malta,2006,119.17,tonnes
+2236,Malta,2007,120.65,tonnes
+2237,Malta,2008,121.27,tonnes
+2238,Malta,2009,121.89,tonnes
+2239,Malta,2010,122.51,tonnes
+2240,Malta,2011,123.14,tonnes
+2241,Malta,2012,123.76,tonnes
+2242,Malta,2013,124.38,tonnes
+2243,Mauritania,1990,39.09,tonnes
+2244,Mauritania,1991,39.09,tonnes
+2245,Mauritania,1992,39.09,tonnes
+2246,Mauritania,1993,39.09,tonnes
+2247,Mauritania,1994,39.09,tonnes
+2248,Mauritania,1995,39.09,tonnes
+2249,Mauritania,1996,39.09,tonnes
+2250,Mauritania,1997,39.09,tonnes
+2251,Mauritania,1998,39.09,tonnes
+2252,Mauritania,1999,39.09,tonnes
+2253,Mauritania,2000,39.09,tonnes
+2254,Mauritania,2001,39.09,tonnes
+2255,Mauritania,2002,3.2,tonnes
+2256,Mauritania,2003,3.22,tonnes
+2257,Mauritania,2004,702.5,tonnes
+2258,Mauritania,2005,1.1,tonnes
+2259,Mauritania,2006,1.7,tonnes
+2260,Mauritania,2007,9.8,tonnes
+2261,Mauritania,2008,17.22,tonnes
+2262,Mauritania,2009,4.29,tonnes
+2263,Mauritania,2010,67.59,tonnes
+2264,Mauritania,2011,13.35,tonnes
+2265,Mauritania,2012,26.41,tonnes
+2266,Mauritania,2013,26.41,tonnes
+2267,Mauritius,1990,889.0,tonnes
+2268,Mauritius,1991,773.24,tonnes
+2269,Mauritius,1992,657.49,tonnes
+2270,Mauritius,1993,541.73,tonnes
+2271,Mauritius,1994,425.97,tonnes
+2272,Mauritius,1995,485.35,tonnes
+2273,Mauritius,1996,445.06,tonnes
+2274,Mauritius,1997,527.1,tonnes
+2275,Mauritius,1998,560.34,tonnes
+2276,Mauritius,1999,532.78,tonnes
+2277,Mauritius,2000,593.67,tonnes
+2278,Mauritius,2001,673.23,tonnes
+2279,Mauritius,2002,695.15,tonnes
+2280,Mauritius,2003,783.47,tonnes
+2281,Mauritius,2004,739.82,tonnes
+2282,Mauritius,2005,769.65,tonnes
+2283,Mauritius,2006,821.82,tonnes
+2284,Mauritius,2007,703.78,tonnes
+2285,Mauritius,2008,799.91,tonnes
+2286,Mauritius,2009,818.87,tonnes
+2287,Mauritius,2010,841.32,tonnes
+2288,Mauritius,2011,812.18,tonnes
+2289,Mauritius,2012,734.91,tonnes
+2290,Mauritius,2013,782.21,tonnes
+2291,Mexico,1990,26624.98,tonnes
+2292,Mexico,1991,26624.98,tonnes
+2293,Mexico,1992,26624.98,tonnes
+2294,Mexico,1993,26624.98,tonnes
+2295,Mexico,1994,26624.98,tonnes
+2296,Mexico,1995,26624.98,tonnes
+2297,Mexico,1996,26624.98,tonnes
+2298,Mexico,1997,26624.98,tonnes
+2299,Mexico,1998,26624.98,tonnes
+2300,Mexico,1999,26624.98,tonnes
+2301,Mexico,2000,26624.98,tonnes
+2302,Mexico,2001,23371.7,tonnes
+2303,Mexico,2002,11535.83,tonnes
+2304,Mexico,2003,16285.16,tonnes
+2305,Mexico,2004,18507.68,tonnes
+2306,Mexico,2005,39171.9,tonnes
+2307,Mexico,2006,38402.66,tonnes
+2308,Mexico,2007,50894.34,tonnes
+2309,Mexico,2008,50154.53,tonnes
+2310,Mexico,2009,50327.9,tonnes
+2311,Mexico,2010,52305.13,tonnes
+2312,Mexico,2011,53219.63,tonnes
+2313,Mexico,2012,49213.67,tonnes
+2314,Mexico,2013,47551.15,tonnes
+2315,Montenegro,2006,0.55,tonnes
+2316,Montenegro,2007,0.55,tonnes
+2317,Montenegro,2008,0.55,tonnes
+2318,Montenegro,2009,0.55,tonnes
+2319,Montenegro,2010,66.0,tonnes
+2320,Montenegro,2011,75.0,tonnes
+2321,Montenegro,2012,71.0,tonnes
+2322,Montenegro,2013,82.0,tonnes
+2323,Morocco,1990,9364.0,tonnes
+2324,Morocco,1991,9771.14,tonnes
+2325,Morocco,1992,10178.29,tonnes
+2326,Morocco,1993,10585.43,tonnes
+2327,Morocco,1994,10992.57,tonnes
+2328,Morocco,1995,11399.71,tonnes
+2329,Morocco,1996,11806.86,tonnes
+2330,Morocco,1997,12214.0,tonnes
+2331,Morocco,1998,12621.14,tonnes
+2332,Morocco,1999,13028.29,tonnes
+2333,Morocco,2000,13435.43,tonnes
+2334,Morocco,2001,13842.57,tonnes
+2335,Morocco,2002,14249.71,tonnes
+2336,Morocco,2003,14656.86,tonnes
+2337,Morocco,2004,15064.0,tonnes
+2338,Morocco,2005,14588.0,tonnes
+2339,Morocco,2006,13697.0,tonnes
+2340,Morocco,2007,13697.0,tonnes
+2341,Morocco,2008,13697.0,tonnes
+2342,Morocco,2009,13697.0,tonnes
+2343,Morocco,2010,13697.0,tonnes
+2344,Morocco,2011,13697.0,tonnes
+2345,Morocco,2012,13697.0,tonnes
+2346,Morocco,2013,13697.0,tonnes
+2347,Mozambique,1990,102.26,tonnes
+2348,Mozambique,1991,102.26,tonnes
+2349,Mozambique,1992,102.26,tonnes
+2350,Mozambique,1993,102.26,tonnes
+2351,Mozambique,1994,102.26,tonnes
+2352,Mozambique,1995,72.19,tonnes
+2353,Mozambique,1996,65.85,tonnes
+2354,Mozambique,1997,60.63,tonnes
+2355,Mozambique,1998,53.43,tonnes
+2356,Mozambique,1999,46.24,tonnes
+2357,Mozambique,2000,39.04,tonnes
+2358,Mozambique,2001,31.85,tonnes
+2359,Mozambique,2002,24.65,tonnes
+2360,Mozambique,2003,267.03,tonnes
+2361,Mozambique,2004,572.99,tonnes
+2362,Mozambique,2005,770.88,tonnes
+2363,Mozambique,2006,891.54,tonnes
+2364,Mozambique,2007,547.31,tonnes
+2365,Mozambique,2008,890.47,tonnes
+2366,Mozambique,2009,914.92,tonnes
+2367,Mozambique,2010,1187.1,tonnes
+2368,Mozambique,2011,766.93,tonnes
+2369,Mozambique,2012,766.93,tonnes
+2370,Mozambique,2013,766.93,tonnes
+2371,Myanmar,1990,209.08,tonnes
+2372,Myanmar,1991,114.02,tonnes
+2373,Myanmar,1992,151.2,tonnes
+2374,Myanmar,1993,160.36,tonnes
+2375,Myanmar,1994,190.03,tonnes
+2376,Myanmar,1995,264.76,tonnes
+2377,Myanmar,1996,137.24,tonnes
+2378,Myanmar,1997,145.54,tonnes
+2379,Myanmar,1998,282.88,tonnes
+2380,Myanmar,1999,420.21,tonnes
+2381,Myanmar,2000,557.55,tonnes
+2382,Myanmar,2001,694.89,tonnes
+2383,Myanmar,2002,949.06,tonnes
+2384,Myanmar,2003,858.94,tonnes
+2385,Myanmar,2004,1042.39,tonnes
+2386,Myanmar,2005,1462.73,tonnes
+2387,Myanmar,2006,3872.16,tonnes
+2388,Myanmar,2007,3329.67,tonnes
+2389,Myanmar,2008,1450.35,tonnes
+2390,Myanmar,2009,1114.68,tonnes
+2391,Myanmar,2010,3340.09,tonnes
+2392,Myanmar,2011,4653.25,tonnes
+2393,Myanmar,2012,3050.45,tonnes
+2394,Myanmar,2013,2898.2,tonnes
+2395,Namibia,1990,42.0,tonnes
+2396,Namibia,1991,39.0,tonnes
+2397,Namibia,1992,48.0,tonnes
+2398,Namibia,1993,56.0,tonnes
+2399,Namibia,1994,56.0,tonnes
+2400,Namibia,1995,56.0,tonnes
+2401,Namibia,1996,56.0,tonnes
+2402,Namibia,1997,56.0,tonnes
+2403,Namibia,1998,56.0,tonnes
+2404,Namibia,1999,56.0,tonnes
+2405,Namibia,2000,56.0,tonnes
+2406,Namibia,2001,56.0,tonnes
+2407,Namibia,2002,56.0,tonnes
+2408,Namibia,2003,56.0,tonnes
+2409,Namibia,2004,56.0,tonnes
+2410,Namibia,2005,56.0,tonnes
+2411,Namibia,2006,56.0,tonnes
+2412,Namibia,2007,56.0,tonnes
+2413,Namibia,2008,56.0,tonnes
+2414,Namibia,2009,56.0,tonnes
+2415,Namibia,2010,56.0,tonnes
+2416,Namibia,2011,56.0,tonnes
+2417,Namibia,2012,56.0,tonnes
+2418,Namibia,2013,56.0,tonnes
+2419,Nepal,1990,60.11,tonnes
+2420,Nepal,1991,60.11,tonnes
+2421,Nepal,1992,60.11,tonnes
+2422,Nepal,1993,60.11,tonnes
+2423,Nepal,1994,60.11,tonnes
+2424,Nepal,1995,60.11,tonnes
+2425,Nepal,1996,70.43,tonnes
+2426,Nepal,1997,80.75,tonnes
+2427,Nepal,1998,91.07,tonnes
+2428,Nepal,1999,101.39,tonnes
+2429,Nepal,2000,111.72,tonnes
+2430,Nepal,2001,122.04,tonnes
+2431,Nepal,2002,132.36,tonnes
+2432,Nepal,2003,142.68,tonnes
+2433,Nepal,2004,153.0,tonnes
+2434,Nepal,2005,127.99,tonnes
+2435,Nepal,2006,128.73,tonnes
+2436,Nepal,2007,344.06,tonnes
+2437,Nepal,2008,353.43,tonnes
+2438,Nepal,2009,209.52,tonnes
+2439,Nepal,2010,332.01,tonnes
+2440,Nepal,2011,342.92,tonnes
+2441,Nepal,2012,410.32,tonnes
+2442,Nepal,2013,454.53,tonnes
+2443,Netherlands,1990,9729.0,tonnes
+2444,Netherlands,1991,9338.0,tonnes
+2445,Netherlands,1992,9030.0,tonnes
+2446,Netherlands,1993,10505.0,tonnes
+2447,Netherlands,1994,8646.99,tonnes
+2448,Netherlands,1995,12601.97,tonnes
+2449,Netherlands,1996,8923.96,tonnes
+2450,Netherlands,1997,10568.95,tonnes
+2451,Netherlands,1998,11762.94,tonnes
+2452,Netherlands,1999,11152.92,tonnes
+2453,Netherlands,2000,11382.84,tonnes
+2454,Netherlands,2001,9424.73,tonnes
+2455,Netherlands,2002,9700.44,tonnes
+2456,Netherlands,2003,9550.04,tonnes
+2457,Netherlands,2004,10655.4,tonnes
+2458,Netherlands,2005,10703.85,tonnes
+2459,Netherlands,2006,10461.35,tonnes
+2460,Netherlands,2007,12073.15,tonnes
+2461,Netherlands,2008,10777.08,tonnes
+2462,Netherlands,2009,9857.2,tonnes
+2463,Netherlands,2010,9586.03,tonnes
+2464,Netherlands,2011,10953.91,tonnes
+2465,Netherlands,2012,11348.39,tonnes
+2466,Netherlands,2013,10720.17,tonnes
+2467,New Caledonia,1990,28.2,tonnes
+2468,New Caledonia,1991,28.2,tonnes
+2469,New Caledonia,1992,28.2,tonnes
+2470,New Caledonia,1993,28.2,tonnes
+2471,New Caledonia,1994,28.2,tonnes
+2472,New Caledonia,1995,28.2,tonnes
+2473,New Caledonia,1996,28.2,tonnes
+2474,New Caledonia,1997,28.2,tonnes
+2475,New Caledonia,1998,28.2,tonnes
+2476,New Caledonia,1999,28.2,tonnes
+2477,New Caledonia,2000,28.2,tonnes
+2478,New Caledonia,2001,28.2,tonnes
+2479,New Caledonia,2002,28.2,tonnes
+2480,New Caledonia,2003,28.2,tonnes
+2481,New Caledonia,2004,28.2,tonnes
+2482,New Caledonia,2005,28.2,tonnes
+2483,New Caledonia,2006,28.2,tonnes
+2484,New Caledonia,2007,28.2,tonnes
+2485,New Caledonia,2008,28.2,tonnes
+2486,New Caledonia,2009,28.2,tonnes
+2487,New Caledonia,2010,32.6,tonnes
+2488,New Caledonia,2011,26.2,tonnes
+2489,New Caledonia,2012,26.4,tonnes
+2490,New Caledonia,2013,21.79,tonnes
+2491,New Zealand,1990,3490.0,tonnes
+2492,New Zealand,1991,3490.0,tonnes
+2493,New Zealand,1992,3490.0,tonnes
+2494,New Zealand,1993,3489.0,tonnes
+2495,New Zealand,1994,3515.0,tonnes
+2496,New Zealand,1995,3904.0,tonnes
+2497,New Zealand,1996,3499.0,tonnes
+2498,New Zealand,1997,3249.0,tonnes
+2499,New Zealand,1998,3055.16,tonnes
+2500,New Zealand,1999,2535.3,tonnes
+2501,New Zealand,2000,3634.3,tonnes
+2502,New Zealand,2001,3333.2,tonnes
+2503,New Zealand,2002,4170.0,tonnes
+2504,New Zealand,2003,3891.0,tonnes
+2505,New Zealand,2004,4050.0,tonnes
+2506,New Zealand,2005,4058.0,tonnes
+2507,New Zealand,2006,4388.0,tonnes
+2508,New Zealand,2007,4939.0,tonnes
+2509,New Zealand,2008,5857.0,tonnes
+2510,New Zealand,2009,5086.0,tonnes
+2511,New Zealand,2010,5086.0,tonnes
+2512,New Zealand,2011,5086.0,tonnes
+2513,New Zealand,2012,5086.0,tonnes
+2514,New Zealand,2013,5086.0,tonnes
+2515,Nicaragua,1990,575.0,tonnes
+2516,Nicaragua,1991,575.0,tonnes
+2517,Nicaragua,1992,575.0,tonnes
+2518,Nicaragua,1993,977.0,tonnes
+2519,Nicaragua,1994,799.0,tonnes
+2520,Nicaragua,1995,876.0,tonnes
+2521,Nicaragua,1996,2041.7,tonnes
+2522,Nicaragua,1997,3207.4,tonnes
+2523,Nicaragua,1998,4373.1,tonnes
+2524,Nicaragua,1999,4097.16,tonnes
+2525,Nicaragua,2000,3925.63,tonnes
+2526,Nicaragua,2001,3603.5,tonnes
+2527,Nicaragua,2002,5715.36,tonnes
+2528,Nicaragua,2003,5613.57,tonnes
+2529,Nicaragua,2004,4581.73,tonnes
+2530,Nicaragua,2005,9391.92,tonnes
+2531,Nicaragua,2006,6889.26,tonnes
+2532,Nicaragua,2007,9850.26,tonnes
+2533,Nicaragua,2008,10173.91,tonnes
+2534,Nicaragua,2009,9387.95,tonnes
+2535,Nicaragua,2010,12242.19,tonnes
+2536,Nicaragua,2011,4932.05,tonnes
+2537,Nicaragua,2012,4413.82,tonnes
+2538,Nicaragua,2013,4413.82,tonnes
+2539,Niger,1990,62.0,tonnes
+2540,Niger,1991,62.0,tonnes
+2541,Niger,1992,62.0,tonnes
+2542,Niger,1993,62.0,tonnes
+2543,Niger,1994,62.0,tonnes
+2544,Niger,1995,62.0,tonnes
+2545,Niger,1996,22.0,tonnes
+2546,Niger,1997,34.0,tonnes
+2547,Niger,1998,36.0,tonnes
+2548,Niger,1999,26.0,tonnes
+2549,Niger,2000,62.0,tonnes
+2550,Niger,2001,31.0,tonnes
+2551,Niger,2002,29.44,tonnes
+2552,Niger,2003,27.88,tonnes
+2553,Niger,2004,26.31,tonnes
+2554,Niger,2005,24.75,tonnes
+2555,Niger,2006,21.12,tonnes
+2556,Niger,2007,30.57,tonnes
+2557,Niger,2008,12.04,tonnes
+2558,Niger,2009,7.32,tonnes
+2559,Niger,2010,11.49,tonnes
+2560,Niger,2011,10.59,tonnes
+2561,Niger,2012,21.37,tonnes
+2562,Niger,2013,21.37,tonnes
+2563,North Macedonia,1992,970.0,tonnes
+2564,North Macedonia,1993,659.0,tonnes
+2565,North Macedonia,1994,540.0,tonnes
+2566,North Macedonia,1995,573.0,tonnes
+2567,North Macedonia,1996,556.0,tonnes
+2568,North Macedonia,1997,507.0,tonnes
+2569,North Macedonia,1998,529.0,tonnes
+2570,North Macedonia,1999,412.5,tonnes
+2571,North Macedonia,2000,296.0,tonnes
+2572,North Macedonia,2001,175.0,tonnes
+2573,North Macedonia,2002,240.0,tonnes
+2574,North Macedonia,2003,210.0,tonnes
+2575,North Macedonia,2004,262.0,tonnes
+2576,North Macedonia,2005,149.0,tonnes
+2577,North Macedonia,2006,327.0,tonnes
+2578,North Macedonia,2007,119.0,tonnes
+2579,North Macedonia,2008,85.0,tonnes
+2580,North Macedonia,2009,98.0,tonnes
+2581,North Macedonia,2010,98.0,tonnes
+2582,North Macedonia,2011,98.0,tonnes
+2583,North Macedonia,2012,98.0,tonnes
+2584,North Macedonia,2013,98.0,tonnes
+2585,Norway,1990,1183.0,tonnes
+2586,Norway,1991,760.0,tonnes
+2587,Norway,1992,767.9,tonnes
+2588,Norway,1993,749.0,tonnes
+2589,Norway,1994,848.0,tonnes
+2590,Norway,1995,913.14,tonnes
+2591,Norway,1996,698.25,tonnes
+2592,Norway,1997,735.43,tonnes
+2593,Norway,1998,934.02,tonnes
+2594,Norway,1999,802.02,tonnes
+2595,Norway,2000,348.24,tonnes
+2596,Norway,2001,512.66,tonnes
+2597,Norway,2002,799.19,tonnes
+2598,Norway,2003,668.51,tonnes
+2599,Norway,2004,827.45,tonnes
+2600,Norway,2005,518.94,tonnes
+2601,Norway,2006,696.34,tonnes
+2602,Norway,2007,722.07,tonnes
+2603,Norway,2008,800.9,tonnes
+2604,Norway,2009,534.56,tonnes
+2605,Norway,2010,698.98,tonnes
+2606,Norway,2011,823.96,tonnes
+2607,Norway,2012,813.93,tonnes
+2608,Norway,2013,761.97,tonnes
+2609,Oman,1990,27.74,tonnes
+2610,Oman,1991,17.51,tonnes
+2611,Oman,1992,112.31,tonnes
+2612,Oman,1993,88.92,tonnes
+2613,Oman,1994,65.53,tonnes
+2614,Oman,1995,68.6,tonnes
+2615,Oman,1996,71.67,tonnes
+2616,Oman,1997,270.42,tonnes
+2617,Oman,1998,283.88,tonnes
+2618,Oman,1999,157.33,tonnes
+2619,Oman,2000,30.78,tonnes
+2620,Oman,2001,52.15,tonnes
+2621,Oman,2002,73.52,tonnes
+2622,Oman,2003,94.88,tonnes
+2623,Oman,2004,116.25,tonnes
+2624,Oman,2005,137.62,tonnes
+2625,Oman,2006,158.98,tonnes
+2626,Oman,2007,180.35,tonnes
+2627,Oman,2008,201.72,tonnes
+2628,Oman,2009,223.08,tonnes
+2629,Oman,2010,244.45,tonnes
+2630,Oman,2011,292.3,tonnes
+2631,Oman,2012,339.04,tonnes
+2632,Oman,2013,439.38,tonnes
+2633,Pakistan,1990,5299.0,tonnes
+2634,Pakistan,1991,5962.0,tonnes
+2635,Pakistan,1992,5518.0,tonnes
+2636,Pakistan,1993,4945.0,tonnes
+2637,Pakistan,1994,6183.0,tonnes
+2638,Pakistan,1995,7681.0,tonnes
+2639,Pakistan,1996,11967.0,tonnes
+2640,Pakistan,1997,16936.0,tonnes
+2641,Pakistan,1998,18406.0,tonnes
+2642,Pakistan,1999,20467.0,tonnes
+2643,Pakistan,2000,27894.0,tonnes
+2644,Pakistan,2001,11871.0,tonnes
+2645,Pakistan,2002,10881.83,tonnes
+2646,Pakistan,2003,9892.65,tonnes
+2647,Pakistan,2004,8903.48,tonnes
+2648,Pakistan,2005,7914.31,tonnes
+2649,Pakistan,2006,6925.13,tonnes
+2650,Pakistan,2007,5935.96,tonnes
+2651,Pakistan,2008,4946.79,tonnes
+2652,Pakistan,2009,3957.61,tonnes
+2653,Pakistan,2010,2968.44,tonnes
+2654,Pakistan,2011,1979.27,tonnes
+2655,Pakistan,2012,990.09,tonnes
+2656,Pakistan,2013,0.92,tonnes
+2657,Palestine,1990,1263.43,tonnes
+2658,Palestine,1991,1263.43,tonnes
+2659,Palestine,1992,1263.43,tonnes
+2660,Palestine,1993,1263.43,tonnes
+2661,Palestine,1994,1263.43,tonnes
+2662,Palestine,1995,1263.43,tonnes
+2663,Palestine,1996,1263.43,tonnes
+2664,Palestine,1997,1263.43,tonnes
+2665,Palestine,1998,1263.43,tonnes
+2666,Palestine,1999,1263.43,tonnes
+2667,Palestine,2000,1263.43,tonnes
+2668,Palestine,2001,1263.43,tonnes
+2669,Palestine,2002,1263.43,tonnes
+2670,Palestine,2003,1238.78,tonnes
+2671,Palestine,2004,1237.54,tonnes
+2672,Palestine,2005,1243.3,tonnes
+2673,Palestine,2006,1290.78,tonnes
+2674,Palestine,2007,1265.82,tonnes
+2675,Palestine,2008,1348.14,tonnes
+2676,Palestine,2009,1348.14,tonnes
+2677,Palestine,2010,1348.14,tonnes
+2678,Palestine,2011,1348.14,tonnes
+2679,Palestine,2012,1348.14,tonnes
+2680,Palestine,2013,1348.14,tonnes
+2681,Panama,1990,3305.09,tonnes
+2682,Panama,1991,3305.09,tonnes
+2683,Panama,1992,3305.09,tonnes
+2684,Panama,1993,3305.09,tonnes
+2685,Panama,1994,3305.09,tonnes
+2686,Panama,1995,3305.09,tonnes
+2687,Panama,1996,3305.09,tonnes
+2688,Panama,1997,3305.09,tonnes
+2689,Panama,1998,1648.08,tonnes
+2690,Panama,1999,1309.53,tonnes
+2691,Panama,2000,970.97,tonnes
+2692,Panama,2001,2786.15,tonnes
+2693,Panama,2002,2138.79,tonnes
+2694,Panama,2003,2445.72,tonnes
+2695,Panama,2004,2587.99,tonnes
+2696,Panama,2005,2674.77,tonnes
+2697,Panama,2006,2630.67,tonnes
+2698,Panama,2007,2237.75,tonnes
+2699,Panama,2008,2141.4,tonnes
+2700,Panama,2009,2045.04,tonnes
+2701,Panama,2010,1948.68,tonnes
+2702,Panama,2011,1852.32,tonnes
+2703,Panama,2012,1371.35,tonnes
+2704,Panama,2013,2477.29,tonnes
+2705,Papua New Guinea,1990,121.0,tonnes
+2706,Papua New Guinea,1991,121.0,tonnes
+2707,Papua New Guinea,1992,121.0,tonnes
+2708,Papua New Guinea,1993,172.0,tonnes
+2709,Papua New Guinea,1994,176.0,tonnes
+2710,Papua New Guinea,1995,105.0,tonnes
+2711,Papua New Guinea,1996,105.0,tonnes
+2712,Papua New Guinea,1997,105.0,tonnes
+2713,Papua New Guinea,1998,105.0,tonnes
+2714,Papua New Guinea,1999,105.0,tonnes
+2715,Papua New Guinea,2000,105.0,tonnes
+2716,Papua New Guinea,2001,105.0,tonnes
+2717,Papua New Guinea,2002,105.0,tonnes
+2718,Papua New Guinea,2003,105.0,tonnes
+2719,Papua New Guinea,2004,105.0,tonnes
+2720,Papua New Guinea,2005,105.0,tonnes
+2721,Papua New Guinea,2006,105.0,tonnes
+2722,Papua New Guinea,2007,105.0,tonnes
+2723,Papua New Guinea,2008,105.0,tonnes
+2724,Papua New Guinea,2009,105.0,tonnes
+2725,Papua New Guinea,2010,105.0,tonnes
+2726,Papua New Guinea,2011,105.0,tonnes
+2727,Papua New Guinea,2012,105.0,tonnes
+2728,Papua New Guinea,2013,105.0,tonnes
+2729,Paraguay,1990,3380.0,tonnes
+2730,Paraguay,1991,3380.0,tonnes
+2731,Paraguay,1992,3380.0,tonnes
+2732,Paraguay,1993,5806.8,tonnes
+2733,Paraguay,1994,8233.6,tonnes
+2734,Paraguay,1995,10660.4,tonnes
+2735,Paraguay,1996,13087.2,tonnes
+2736,Paraguay,1997,15514.0,tonnes
+2737,Paraguay,1998,12196.0,tonnes
+2738,Paraguay,1999,5064.93,tonnes
+2739,Paraguay,2000,3507.87,tonnes
+2740,Paraguay,2001,10583.8,tonnes
+2741,Paraguay,2002,11753.73,tonnes
+2742,Paraguay,2003,12923.66,tonnes
+2743,Paraguay,2004,14093.58,tonnes
+2744,Paraguay,2005,15263.51,tonnes
+2745,Paraguay,2006,16433.44,tonnes
+2746,Paraguay,2007,17603.37,tonnes
+2747,Paraguay,2008,18773.3,tonnes
+2748,Paraguay,2009,19943.22,tonnes
+2749,Paraguay,2010,21113.15,tonnes
+2750,Paraguay,2011,22283.08,tonnes
+2751,Paraguay,2012,23453.01,tonnes
+2752,Paraguay,2013,24667.05,tonnes
+2753,Peru,1990,1278.8,tonnes
+2754,Peru,1991,1278.8,tonnes
+2755,Peru,1992,1278.8,tonnes
+2756,Peru,1993,1278.8,tonnes
+2757,Peru,1994,1278.8,tonnes
+2758,Peru,1995,1278.8,tonnes
+2759,Peru,1996,1543.45,tonnes
+2760,Peru,1997,1793.6,tonnes
+2761,Peru,1998,1855.76,tonnes
+2762,Peru,1999,1752.69,tonnes
+2763,Peru,2000,2200.44,tonnes
+2764,Peru,2001,2959.55,tonnes
+2765,Peru,2002,2851.02,tonnes
+2766,Peru,2003,2805.71,tonnes
+2767,Peru,2004,3084.91,tonnes
+2768,Peru,2005,3533.63,tonnes
+2769,Peru,2006,4193.59,tonnes
+2770,Peru,2007,2883.17,tonnes
+2771,Peru,2008,4937.67,tonnes
+2772,Peru,2009,4656.01,tonnes
+2773,Peru,2010,6170.44,tonnes
+2774,Peru,2011,6030.69,tonnes
+2775,Peru,2012,7288.63,tonnes
+2776,Peru,2013,7091.56,tonnes
+2777,Poland,1990,5422.0,tonnes
+2778,Poland,1991,5422.0,tonnes
+2779,Poland,1992,7363.0,tonnes
+2780,Poland,1993,8825.0,tonnes
+2781,Poland,1994,9330.0,tonnes
+2782,Poland,1995,7136.0,tonnes
+2783,Poland,1996,9824.0,tonnes
+2784,Poland,1997,9839.71,tonnes
+2785,Poland,1998,8981.43,tonnes
+2786,Poland,1999,8692.14,tonnes
+2787,Poland,2000,9017.86,tonnes
+2788,Poland,2001,8968.57,tonnes
+2789,Poland,2002,10415.29,tonnes
+2790,Poland,2003,7184.0,tonnes
+2791,Poland,2004,8726.0,tonnes
+2792,Poland,2005,16039.0,tonnes
+2793,Poland,2006,17101.0,tonnes
+2794,Poland,2007,18721.0,tonnes
+2795,Poland,2008,20611.02,tonnes
+2796,Poland,2009,18493.03,tonnes
+2797,Poland,2010,19449.02,tonnes
+2798,Poland,2011,21779.27,tonnes
+2799,Poland,2012,21885.99,tonnes
+2800,Poland,2013,22204.46,tonnes
+2801,Portugal,1990,9357.0,tonnes
+2802,Portugal,1991,9357.0,tonnes
+2803,Portugal,1992,6117.0,tonnes
+2804,Portugal,1993,8985.0,tonnes
+2805,Portugal,1994,9580.0,tonnes
+2806,Portugal,1995,11815.0,tonnes
+2807,Portugal,1996,12457.0,tonnes
+2808,Portugal,1997,12825.5,tonnes
+2809,Portugal,1998,14389.0,tonnes
+2810,Portugal,1999,15411.0,tonnes
+2811,Portugal,2000,15470.0,tonnes
+2812,Portugal,2001,15503.0,tonnes
+2813,Portugal,2002,17574.52,tonnes
+2814,Portugal,2003,17128.03,tonnes
+2815,Portugal,2004,17015.55,tonnes
+2816,Portugal,2005,16402.07,tonnes
+2817,Portugal,2006,15726.58,tonnes
+2818,Portugal,2007,16682.39,tonnes
+2819,Portugal,2008,17080.26,tonnes
+2820,Portugal,2009,13984.91,tonnes
+2821,Portugal,2010,13774.18,tonnes
+2822,Portugal,2011,14024.98,tonnes
+2823,Portugal,2012,12444.24,tonnes
+2824,Portugal,2013,10126.8,tonnes
+2825,Qatar,1990,3.0,tonnes
+2826,Qatar,1991,3.0,tonnes
+2827,Qatar,1992,3.0,tonnes
+2828,Qatar,1993,3.0,tonnes
+2829,Qatar,1994,3.0,tonnes
+2830,Qatar,1995,4.0,tonnes
+2831,Qatar,1996,6.0,tonnes
+2832,Qatar,1997,21.5,tonnes
+2833,Qatar,1998,37.0,tonnes
+2834,Qatar,1999,52.5,tonnes
+2835,Qatar,2000,68.0,tonnes
+2836,Qatar,2001,68.0,tonnes
+2837,Qatar,2002,68.0,tonnes
+2838,Qatar,2003,68.0,tonnes
+2839,Qatar,2004,68.0,tonnes
+2840,Qatar,2005,68.0,tonnes
+2841,Qatar,2006,68.0,tonnes
+2842,Qatar,2007,68.0,tonnes
+2843,Qatar,2008,68.0,tonnes
+2844,Qatar,2009,68.0,tonnes
+2845,Qatar,2010,68.0,tonnes
+2846,Qatar,2011,68.0,tonnes
+2847,Qatar,2012,68.0,tonnes
+2848,Qatar,2013,68.0,tonnes
+2849,Republic of Korea,1990,25082.0,tonnes
+2850,Republic of Korea,1991,27476.0,tonnes
+2851,Republic of Korea,1992,26718.0,tonnes
+2852,Republic of Korea,1993,25999.0,tonnes
+2853,Republic of Korea,1994,26184.0,tonnes
+2854,Republic of Korea,1995,25845.0,tonnes
+2855,Republic of Korea,1996,24620.0,tonnes
+2856,Republic of Korea,1997,24819.0,tonnes
+2857,Republic of Korea,1998,22103.0,tonnes
+2858,Republic of Korea,1999,25837.0,tonnes
+2859,Republic of Korea,2000,25684.0,tonnes
+2860,Republic of Korea,2001,28218.0,tonnes
+2861,Republic of Korea,2002,25844.0,tonnes
+2862,Republic of Korea,2003,24610.0,tonnes
+2863,Republic of Korea,2004,25323.0,tonnes
+2864,Republic of Korea,2005,24506.0,tonnes
+2865,Republic of Korea,2006,24076.0,tonnes
+2866,Republic of Korea,2007,24262.0,tonnes
+2867,Republic of Korea,2008,25368.0,tonnes
+2868,Republic of Korea,2009,22790.0,tonnes
+2869,Republic of Korea,2010,20431.0,tonnes
+2870,Republic of Korea,2011,19131.0,tonnes
+2871,Republic of Korea,2012,17438.0,tonnes
+2872,Republic of Korea,2013,18708.0,tonnes
+2873,Republic of Moldova,1992,2897.0,tonnes
+2874,Republic of Moldova,1993,2501.0,tonnes
+2875,Republic of Moldova,1994,2553.73,tonnes
+2876,Republic of Moldova,1995,2606.45,tonnes
+2877,Republic of Moldova,1996,2659.18,tonnes
+2878,Republic of Moldova,1997,2711.91,tonnes
+2879,Republic of Moldova,1998,2764.64,tonnes
+2880,Republic of Moldova,1999,2817.36,tonnes
+2881,Republic of Moldova,2000,2870.09,tonnes
+2882,Republic of Moldova,2001,2877.1,tonnes
+2883,Republic of Moldova,2002,2606.87,tonnes
+2884,Republic of Moldova,2003,2715.73,tonnes
+2885,Republic of Moldova,2004,2915.4,tonnes
+2886,Republic of Moldova,2005,2394.93,tonnes
+2887,Republic of Moldova,2006,2466.37,tonnes
+2888,Republic of Moldova,2007,2556.03,tonnes
+2889,Republic of Moldova,2008,2924.63,tonnes
+2890,Republic of Moldova,2009,2308.27,tonnes
+2891,Republic of Moldova,2010,2466.13,tonnes
+2892,Republic of Moldova,2011,2453.95,tonnes
+2893,Republic of Moldova,2012,2316.22,tonnes
+2894,Republic of Moldova,2013,2409.25,tonnes
+2895,Romania,1990,25255.0,tonnes
+2896,Romania,1991,19898.0,tonnes
+2897,Romania,1992,15134.0,tonnes
+2898,Romania,1993,24252.0,tonnes
+2899,Romania,1994,21811.0,tonnes
+2900,Romania,1995,20113.0,tonnes
+2901,Romania,1996,17425.0,tonnes
+2902,Romania,1997,15349.0,tonnes
+2903,Romania,1998,13979.0,tonnes
+2904,Romania,1999,11280.0,tonnes
+2905,Romania,2000,9427.4,tonnes
+2906,Romania,2001,7871.1,tonnes
+2907,Romania,2002,7875.7,tonnes
+2908,Romania,2003,6928.1,tonnes
+2909,Romania,2004,6778.2,tonnes
+2910,Romania,2005,7565.7,tonnes
+2911,Romania,2006,6733.2,tonnes
+2912,Romania,2007,6314.0,tonnes
+2913,Romania,2008,7193.7,tonnes
+2914,Romania,2009,6548.7,tonnes
+2915,Romania,2010,7249.2,tonnes
+2916,Romania,2011,6582.9,tonnes
+2917,Romania,2012,6418.7,tonnes
+2918,Romania,2013,6947.9,tonnes
+2919,Russian Federation,1992,25961.0,tonnes
+2920,Russian Federation,1993,25961.0,tonnes
+2921,Russian Federation,1994,25961.0,tonnes
+2922,Russian Federation,1995,25961.0,tonnes
+2923,Russian Federation,1996,25961.0,tonnes
+2924,Russian Federation,1997,25961.0,tonnes
+2925,Russian Federation,1998,25961.0,tonnes
+2926,Russian Federation,1999,25961.0,tonnes
+2927,Russian Federation,2000,25961.0,tonnes
+2928,Russian Federation,2001,25961.0,tonnes
+2929,Russian Federation,2002,25961.0,tonnes
+2930,Russian Federation,2003,25961.0,tonnes
+2931,Russian Federation,2004,25961.0,tonnes
+2932,Russian Federation,2005,25961.0,tonnes
+2933,Russian Federation,2006,25961.0,tonnes
+2934,Russian Federation,2007,25961.0,tonnes
+2935,Russian Federation,2008,25961.0,tonnes
+2936,Russian Federation,2009,25961.0,tonnes
+2937,Russian Federation,2010,25961.0,tonnes
+2938,Russian Federation,2011,25961.0,tonnes
+2939,Russian Federation,2012,25961.0,tonnes
+2940,Russian Federation,2013,25961.0,tonnes
+2941,Rwanda,1990,157.0,tonnes
+2942,Rwanda,1991,107.0,tonnes
+2943,Rwanda,1992,97.0,tonnes
+2944,Rwanda,1993,127.4,tonnes
+2945,Rwanda,1994,157.8,tonnes
+2946,Rwanda,1995,188.2,tonnes
+2947,Rwanda,1996,218.6,tonnes
+2948,Rwanda,1997,249.0,tonnes
+2949,Rwanda,1998,157.0,tonnes
+2950,Rwanda,1999,152.0,tonnes
+2951,Rwanda,2000,147.0,tonnes
+2952,Rwanda,2001,72.09,tonnes
+2953,Rwanda,2002,106.52,tonnes
+2954,Rwanda,2003,140.95,tonnes
+2955,Rwanda,2004,159.9,tonnes
+2956,Rwanda,2005,223.37,tonnes
+2957,Rwanda,2006,289.26,tonnes
+2958,Rwanda,2007,398.74,tonnes
+2959,Rwanda,2008,322.47,tonnes
+2960,Rwanda,2009,1188.41,tonnes
+2961,Rwanda,2010,954.75,tonnes
+2962,Rwanda,2011,182.59,tonnes
+2963,Rwanda,2012,926.6,tonnes
+2964,Rwanda,2013,1841.5,tonnes
+2965,Saint Kitts and Nevis,1990,10.88,tonnes
+2966,Saint Kitts and Nevis,1991,10.88,tonnes
+2967,Saint Kitts and Nevis,1992,10.88,tonnes
+2968,Saint Kitts and Nevis,1993,10.88,tonnes
+2969,Saint Kitts and Nevis,1994,10.88,tonnes
+2970,Saint Kitts and Nevis,1995,10.88,tonnes
+2971,Saint Kitts and Nevis,1996,10.88,tonnes
+2972,Saint Kitts and Nevis,1997,10.88,tonnes
+2973,Saint Kitts and Nevis,1998,10.88,tonnes
+2974,Saint Kitts and Nevis,1999,10.88,tonnes
+2975,Saint Kitts and Nevis,2000,10.88,tonnes
+2976,Saint Kitts and Nevis,2001,10.28,tonnes
+2977,Saint Kitts and Nevis,2002,11.32,tonnes
+2978,Saint Kitts and Nevis,2003,11.92,tonnes
+2979,Saint Kitts and Nevis,2004,12.52,tonnes
+2980,Saint Kitts and Nevis,2005,12.62,tonnes
+2981,Saint Kitts and Nevis,2006,12.57,tonnes
+2982,Saint Kitts and Nevis,2007,12.57,tonnes
+2983,Saint Kitts and Nevis,2008,14.96,tonnes
+2984,Saint Kitts and Nevis,2009,15.08,tonnes
+2985,Saint Kitts and Nevis,2010,14.61,tonnes
+2986,Saint Kitts and Nevis,2011,14.78,tonnes
+2987,Saint Kitts and Nevis,2012,1.99,tonnes
+2988,Saint Kitts and Nevis,2013,0.94,tonnes
+2989,Saint Lucia,1990,97.0,tonnes
+2990,Saint Lucia,1991,97.0,tonnes
+2991,Saint Lucia,1992,97.0,tonnes
+2992,Saint Lucia,1993,97.0,tonnes
+2993,Saint Lucia,1994,97.0,tonnes
+2994,Saint Lucia,1995,97.0,tonnes
+2995,Saint Lucia,1996,97.0,tonnes
+2996,Saint Lucia,1997,97.0,tonnes
+2997,Saint Lucia,1998,49.0,tonnes
+2998,Saint Lucia,1999,196.0,tonnes
+2999,Saint Lucia,2000,196.0,tonnes
+3000,Saint Lucia,2001,196.0,tonnes
+3001,Saint Lucia,2002,196.0,tonnes
+3002,Saint Lucia,2003,196.0,tonnes
+3003,Saint Lucia,2004,196.0,tonnes
+3004,Saint Lucia,2005,196.0,tonnes
+3005,Saint Lucia,2006,196.0,tonnes
+3006,Saint Lucia,2007,196.0,tonnes
+3007,Saint Lucia,2008,196.0,tonnes
+3008,Saint Lucia,2009,196.0,tonnes
+3009,Saint Lucia,2010,196.0,tonnes
+3010,Saint Lucia,2011,196.0,tonnes
+3011,Saint Lucia,2012,196.0,tonnes
+3012,Saint Lucia,2013,196.0,tonnes
+3013,Samoa,1990,48.07,tonnes
+3014,Samoa,1991,48.07,tonnes
+3015,Samoa,1992,36.0,tonnes
+3016,Samoa,1993,23.53,tonnes
+3017,Samoa,1994,48.27,tonnes
+3018,Samoa,1995,44.18,tonnes
+3019,Samoa,1996,23.66,tonnes
+3020,Samoa,1997,29.78,tonnes
+3021,Samoa,1998,12.05,tonnes
+3022,Samoa,1999,10.02,tonnes
+3023,Samoa,2000,6.77,tonnes
+3024,Samoa,2001,12.43,tonnes
+3025,Samoa,2002,18.08,tonnes
+3026,Samoa,2003,23.74,tonnes
+3027,Samoa,2004,29.4,tonnes
+3028,Samoa,2005,35.06,tonnes
+3029,Samoa,2006,40.71,tonnes
+3030,Samoa,2007,46.37,tonnes
+3031,Samoa,2008,52.03,tonnes
+3032,Samoa,2009,57.69,tonnes
+3033,Samoa,2010,63.34,tonnes
+3034,Samoa,2011,69.0,tonnes
+3035,Samoa,2012,74.66,tonnes
+3036,Samoa,2013,80.32,tonnes
+3037,Saudi Arabia,1990,994.0,tonnes
+3038,Saudi Arabia,1991,994.0,tonnes
+3039,Saudi Arabia,1992,994.0,tonnes
+3040,Saudi Arabia,1993,994.0,tonnes
+3041,Saudi Arabia,1994,994.0,tonnes
+3042,Saudi Arabia,1995,994.0,tonnes
+3043,Saudi Arabia,1996,994.0,tonnes
+3044,Saudi Arabia,1997,2516.19,tonnes
+3045,Saudi Arabia,1998,2686.24,tonnes
+3046,Saudi Arabia,1999,2856.29,tonnes
+3047,Saudi Arabia,2000,3026.34,tonnes
+3048,Saudi Arabia,2001,3196.4,tonnes
+3049,Saudi Arabia,2002,3366.45,tonnes
+3050,Saudi Arabia,2003,3536.5,tonnes
+3051,Saudi Arabia,2004,3706.55,tonnes
+3052,Saudi Arabia,2005,3876.61,tonnes
+3053,Saudi Arabia,2006,4046.66,tonnes
+3054,Saudi Arabia,2007,4216.71,tonnes
+3055,Saudi Arabia,2008,4372.61,tonnes
+3056,Saudi Arabia,2009,4528.51,tonnes
+3057,Saudi Arabia,2010,4684.4,tonnes
+3058,Saudi Arabia,2011,4840.3,tonnes
+3059,Saudi Arabia,2012,4996.2,tonnes
+3060,Saudi Arabia,2013,5412.5,tonnes
+3061,Senegal,1990,384.0,tonnes
+3062,Senegal,1991,384.0,tonnes
+3063,Senegal,1992,384.0,tonnes
+3064,Senegal,1993,357.55,tonnes
+3065,Senegal,1994,547.3,tonnes
+3066,Senegal,1995,435.31,tonnes
+3067,Senegal,1996,411.33,tonnes
+3068,Senegal,1997,437.23,tonnes
+3069,Senegal,1998,450.71,tonnes
+3070,Senegal,1999,470.87,tonnes
+3071,Senegal,2000,491.03,tonnes
+3072,Senegal,2001,282.02,tonnes
+3073,Senegal,2002,328.0,tonnes
+3074,Senegal,2003,373.99,tonnes
+3075,Senegal,2004,419.97,tonnes
+3076,Senegal,2005,465.95,tonnes
+3077,Senegal,2006,511.93,tonnes
+3078,Senegal,2007,557.92,tonnes
+3079,Senegal,2008,603.9,tonnes
+3080,Senegal,2009,649.88,tonnes
+3081,Senegal,2010,695.86,tonnes
+3082,Senegal,2011,741.85,tonnes
+3083,Senegal,2012,787.83,tonnes
+3084,Senegal,2013,722.53,tonnes
+3085,Serbia and Montenegro,1992,1230.37,tonnes
+3086,Serbia and Montenegro,1993,1814.21,tonnes
+3087,Serbia and Montenegro,1994,1699.42,tonnes
+3088,Serbia and Montenegro,1995,1467.01,tonnes
+3089,Serbia and Montenegro,1996,1441.12,tonnes
+3090,Serbia and Montenegro,1997,1356.57,tonnes
+3091,Serbia and Montenegro,1998,1404.18,tonnes
+3092,Serbia and Montenegro,1999,1330.17,tonnes
+3093,Serbia and Montenegro,2000,1248.34,tonnes
+3094,Serbia and Montenegro,2001,1321.53,tonnes
+3095,Serbia and Montenegro,2002,1160.73,tonnes
+3096,Serbia and Montenegro,2003,1021.33,tonnes
+3097,Serbia and Montenegro,2004,1041.89,tonnes
+3098,Serbia and Montenegro,2005,1041.89,tonnes
+3099,Seychelles,1990,10.29,tonnes
+3100,Seychelles,1991,9.06,tonnes
+3101,Seychelles,1992,14.15,tonnes
+3102,Seychelles,1993,30.77,tonnes
+3103,Seychelles,1994,32.85,tonnes
+3104,Seychelles,1995,35.69,tonnes
+3105,Seychelles,1996,34.73,tonnes
+3106,Seychelles,1997,24.31,tonnes
+3107,Seychelles,1998,18.75,tonnes
+3108,Seychelles,1999,18.75,tonnes
+3109,Seychelles,2000,18.75,tonnes
+3110,Seychelles,2001,18.75,tonnes
+3111,Seychelles,2002,18.75,tonnes
+3112,Seychelles,2003,18.75,tonnes
+3113,Seychelles,2004,18.75,tonnes
+3114,Seychelles,2005,18.75,tonnes
+3115,Seychelles,2006,18.75,tonnes
+3116,Seychelles,2007,18.75,tonnes
+3117,Seychelles,2008,18.75,tonnes
+3118,Seychelles,2009,18.75,tonnes
+3119,Seychelles,2010,18.75,tonnes
+3120,Seychelles,2011,18.75,tonnes
+3121,Seychelles,2012,18.75,tonnes
+3122,Seychelles,2013,18.75,tonnes
+3123,Slovakia,1993,3889.7,tonnes
+3124,Slovakia,1994,4158.5,tonnes
+3125,Slovakia,1995,6146.9,tonnes
+3126,Slovakia,1996,3981.4,tonnes
+3127,Slovakia,1997,3247.2,tonnes
+3128,Slovakia,1998,3582.5,tonnes
+3129,Slovakia,1999,2831.9,tonnes
+3130,Slovakia,2000,1457.49,tonnes
+3131,Slovakia,2001,1549.87,tonnes
+3132,Slovakia,2002,1642.21,tonnes
+3133,Slovakia,2003,1515.43,tonnes
+3134,Slovakia,2004,1573.03,tonnes
+3135,Slovakia,2005,1545.6,tonnes
+3136,Slovakia,2006,1586.97,tonnes
+3137,Slovakia,2007,1595.47,tonnes
+3138,Slovakia,2008,1498.24,tonnes
+3139,Slovakia,2009,1654.12,tonnes
+3140,Slovakia,2010,1880.75,tonnes
+3141,Slovakia,2011,1410.5,tonnes
+3142,Slovakia,2012,1563.78,tonnes
+3143,Slovakia,2013,1620.28,tonnes
+3144,Slovenia,1992,1309.0,tonnes
+3145,Slovenia,1993,1112.0,tonnes
+3146,Slovenia,1994,944.0,tonnes
+3147,Slovenia,1995,987.0,tonnes
+3148,Slovenia,1996,953.0,tonnes
+3149,Slovenia,1997,1245.0,tonnes
+3150,Slovenia,1998,1091.0,tonnes
+3151,Slovenia,1999,1133.0,tonnes
+3152,Slovenia,2000,1468.0,tonnes
+3153,Slovenia,2001,1387.0,tonnes
+3154,Slovenia,2002,1181.64,tonnes
+3155,Slovenia,2003,1377.08,tonnes
+3156,Slovenia,2004,1572.6,tonnes
+3157,Slovenia,2005,1397.04,tonnes
+3158,Slovenia,2006,1292.68,tonnes
+3159,Slovenia,2007,1165.47,tonnes
+3160,Slovenia,2008,1226.92,tonnes
+3161,Slovenia,2009,1170.18,tonnes
+3162,Slovenia,2010,1140.22,tonnes
+3163,Slovenia,2011,1126.3,tonnes
+3164,Slovenia,2012,1019.01,tonnes
+3165,Slovenia,2013,918.96,tonnes
+3166,South Africa,1990,16582.0,tonnes
+3167,South Africa,1991,16582.0,tonnes
+3168,South Africa,1992,16582.0,tonnes
+3169,South Africa,1993,16582.0,tonnes
+3170,South Africa,1994,16582.0,tonnes
+3171,South Africa,1995,18025.0,tonnes
+3172,South Africa,1996,19508.0,tonnes
+3173,South Africa,1997,21596.0,tonnes
+3174,South Africa,1998,24304.0,tonnes
+3175,South Africa,1999,26098.8,tonnes
+3176,South Africa,2000,26857.0,tonnes
+3177,South Africa,2001,26857.0,tonnes
+3178,South Africa,2002,26857.0,tonnes
+3179,South Africa,2003,26857.0,tonnes
+3180,South Africa,2004,26857.0,tonnes
+3181,South Africa,2005,26857.0,tonnes
+3182,South Africa,2006,26857.0,tonnes
+3183,South Africa,2007,26857.0,tonnes
+3184,South Africa,2008,26857.0,tonnes
+3185,South Africa,2009,26857.0,tonnes
+3186,South Africa,2010,26857.0,tonnes
+3187,South Africa,2011,26857.0,tonnes
+3188,South Africa,2012,26857.0,tonnes
+3189,South Africa,2013,26857.0,tonnes
+3190,Spain,1990,39562.0,tonnes
+3191,Spain,1991,39147.0,tonnes
+3192,Spain,1992,31839.0,tonnes
+3193,Spain,1993,29408.0,tonnes
+3194,Spain,1994,31244.0,tonnes
+3195,Spain,1995,27852.0,tonnes
+3196,Spain,1996,33236.0,tonnes
+3197,Spain,1997,34023.0,tonnes
+3198,Spain,1998,35070.0,tonnes
+3199,Spain,1999,33614.0,tonnes
+3200,Spain,2000,34597.0,tonnes
+3201,Spain,2001,35700.0,tonnes
+3202,Spain,2002,40727.0,tonnes
+3203,Spain,2003,41586.0,tonnes
+3204,Spain,2004,47445.0,tonnes
+3205,Spain,2005,41017.0,tonnes
+3206,Spain,2006,39767.0,tonnes
+3207,Spain,2007,39286.0,tonnes
+3208,Spain,2008,40719.0,tonnes
+3209,Spain,2009,35199.0,tonnes
+3210,Spain,2010,39043.0,tonnes
+3211,Spain,2011,53549.0,tonnes
+3212,Spain,2012,48668.0,tonnes
+3213,Spain,2013,54197.0,tonnes
+3214,Sri Lanka,1990,1571.33,tonnes
+3215,Sri Lanka,1991,1409.15,tonnes
+3216,Sri Lanka,1992,2144.31,tonnes
+3217,Sri Lanka,1993,1753.2,tonnes
+3218,Sri Lanka,1994,1860.7,tonnes
+3219,Sri Lanka,1995,1735.5,tonnes
+3220,Sri Lanka,1996,1654.41,tonnes
+3221,Sri Lanka,1997,1622.4,tonnes
+3222,Sri Lanka,1998,1532.41,tonnes
+3223,Sri Lanka,1999,1766.91,tonnes
+3224,Sri Lanka,2000,1695.71,tonnes
+3225,Sri Lanka,2001,1705.05,tonnes
+3226,Sri Lanka,2002,1714.39,tonnes
+3227,Sri Lanka,2003,1723.73,tonnes
+3228,Sri Lanka,2004,1733.07,tonnes
+3229,Sri Lanka,2005,1742.41,tonnes
+3230,Sri Lanka,2006,1751.75,tonnes
+3231,Sri Lanka,2007,1439.8,tonnes
+3232,Sri Lanka,2008,1152.39,tonnes
+3233,Sri Lanka,2009,1170.36,tonnes
+3234,Sri Lanka,2010,1450.54,tonnes
+3235,Sri Lanka,2011,1290.31,tonnes
+3236,Sri Lanka,2012,1112.8,tonnes
+3237,Sri Lanka,2013,1235.31,tonnes
+3238,Sudan,2012,2469.47,tonnes
+3239,Sudan,2013,2469.47,tonnes
+3240,Sudan (former),1990,1643.0,tonnes
+3241,Sudan (former),1991,1643.0,tonnes
+3242,Sudan (former),1992,1643.0,tonnes
+3243,Sudan (former),1993,498.0,tonnes
+3244,Sudan (former),1994,1015.0,tonnes
+3245,Sudan (former),1995,1302.0,tonnes
+3246,Sudan (former),1996,1384.0,tonnes
+3247,Sudan (former),1997,1223.0,tonnes
+3248,Sudan (former),1998,904.0,tonnes
+3249,Sudan (former),1999,585.0,tonnes
+3250,Sudan (former),2000,266.0,tonnes
+3251,Sudan (former),2001,517.66,tonnes
+3252,Sudan (former),2002,769.33,tonnes
+3253,Sudan (former),2003,1020.99,tonnes
+3254,Sudan (former),2004,1272.66,tonnes
+3255,Sudan (former),2005,1524.32,tonnes
+3256,Sudan (former),2006,1268.83,tonnes
+3257,Sudan (former),2007,1063.38,tonnes
+3258,Sudan (former),2008,1364.79,tonnes
+3259,Sudan (former),2009,2425.77,tonnes
+3260,Sudan (former),2010,2862.47,tonnes
+3261,Sudan (former),2011,2862.47,tonnes
+3262,Suriname,1990,217.0,tonnes
+3263,Suriname,1991,207.0,tonnes
+3264,Suriname,1992,197.5,tonnes
+3265,Suriname,1993,188.0,tonnes
+3266,Suriname,1994,178.5,tonnes
+3267,Suriname,1995,169.0,tonnes
+3268,Suriname,1996,142.0,tonnes
+3269,Suriname,1997,139.0,tonnes
+3270,Suriname,1998,151.33,tonnes
+3271,Suriname,1999,163.67,tonnes
+3272,Suriname,2000,176.0,tonnes
+3273,Suriname,2001,268.01,tonnes
+3274,Suriname,2002,360.03,tonnes
+3275,Suriname,2003,415.86,tonnes
+3276,Suriname,2004,337.59,tonnes
+3277,Suriname,2005,376.46,tonnes
+3278,Suriname,2006,340.36,tonnes
+3279,Suriname,2007,397.75,tonnes
+3280,Suriname,2008,391.39,tonnes
+3281,Suriname,2009,431.83,tonnes
+3282,Suriname,2010,477.87,tonnes
+3283,Suriname,2011,936.24,tonnes
+3284,Suriname,2012,633.92,tonnes
+3285,Suriname,2013,537.49,tonnes
+3286,Sweden,1990,2310.0,tonnes
+3287,Sweden,1991,1841.0,tonnes
+3288,Sweden,1992,1497.0,tonnes
+3289,Sweden,1993,1466.0,tonnes
+3290,Sweden,1994,1962.0,tonnes
+3291,Sweden,1995,1225.0,tonnes
+3292,Sweden,1996,1529.0,tonnes
+3293,Sweden,1997,1534.0,tonnes
+3294,Sweden,1998,1555.0,tonnes
+3295,Sweden,1999,1602.0,tonnes
+3296,Sweden,2000,1721.0,tonnes
+3297,Sweden,2001,1789.0,tonnes
+3298,Sweden,2002,2198.0,tonnes
+3299,Sweden,2003,2549.0,tonnes
+3300,Sweden,2004,1353.0,tonnes
+3301,Sweden,2005,2132.0,tonnes
+3302,Sweden,2006,2220.0,tonnes
+3303,Sweden,2007,2157.0,tonnes
+3304,Sweden,2008,2352.0,tonnes
+3305,Sweden,2009,1935.0,tonnes
+3306,Sweden,2010,1982.0,tonnes
+3307,Sweden,2011,1781.0,tonnes
+3308,Sweden,2012,1814.0,tonnes
+3309,Sweden,2013,1620.0,tonnes
+3310,Switzerland,1990,2282.0,tonnes
+3311,Switzerland,1991,2055.9,tonnes
+3312,Switzerland,1992,2018.7,tonnes
+3313,Switzerland,1993,1934.5,tonnes
+3314,Switzerland,1994,1922.5,tonnes
+3315,Switzerland,1995,1826.3,tonnes
+3316,Switzerland,1996,1746.3,tonnes
+3317,Switzerland,1997,1644.3,tonnes
+3318,Switzerland,1998,1563.6,tonnes
+3319,Switzerland,1999,1526.6,tonnes
+3320,Switzerland,2000,1576.9,tonnes
+3321,Switzerland,2001,1561.9,tonnes
+3322,Switzerland,2002,1526.6,tonnes
+3323,Switzerland,2003,1476.7,tonnes
+3324,Switzerland,2004,1390.7,tonnes
+3325,Switzerland,2005,1388.3,tonnes
+3326,Switzerland,2006,1359.04,tonnes
+3327,Switzerland,2007,2099.3,tonnes
+3328,Switzerland,2008,2011.47,tonnes
+3329,Switzerland,2009,2170.4,tonnes
+3330,Switzerland,2010,2059.6,tonnes
+3331,Switzerland,2011,2132.14,tonnes
+3332,Switzerland,2012,2077.9,tonnes
+3333,Switzerland,2013,2098.5,tonnes
+3334,Syrian Arab Republic,1990,858.62,tonnes
+3335,Syrian Arab Republic,1991,858.62,tonnes
+3336,Syrian Arab Republic,1992,858.62,tonnes
+3337,Syrian Arab Republic,1993,858.62,tonnes
+3338,Syrian Arab Republic,1994,858.62,tonnes
+3339,Syrian Arab Republic,1995,858.62,tonnes
+3340,Syrian Arab Republic,1996,858.62,tonnes
+3341,Syrian Arab Republic,1997,858.62,tonnes
+3342,Syrian Arab Republic,1998,1796.14,tonnes
+3343,Syrian Arab Republic,1999,2043.3,tonnes
+3344,Syrian Arab Republic,2000,1306.25,tonnes
+3345,Syrian Arab Republic,2001,1422.24,tonnes
+3346,Syrian Arab Republic,2002,1422.24,tonnes
+3347,Syrian Arab Republic,2003,1422.24,tonnes
+3348,Syrian Arab Republic,2004,1422.24,tonnes
+3349,Syrian Arab Republic,2005,1422.24,tonnes
+3350,Syrian Arab Republic,2006,1422.24,tonnes
+3351,Syrian Arab Republic,2007,1422.24,tonnes
+3352,Syrian Arab Republic,2008,1422.24,tonnes
+3353,Syrian Arab Republic,2009,1422.24,tonnes
+3354,Syrian Arab Republic,2010,1422.24,tonnes
+3355,Syrian Arab Republic,2011,1422.24,tonnes
+3356,Syrian Arab Republic,2012,1422.24,tonnes
+3357,Syrian Arab Republic,2013,1422.24,tonnes
+3358,Tajikistan,1992,2280.0,tonnes
+3359,Tajikistan,1993,2280.0,tonnes
+3360,Tajikistan,1994,714.0,tonnes
+3361,Tajikistan,1995,54.0,tonnes
+3362,Tajikistan,1996,826.0,tonnes
+3363,Tajikistan,1997,751.31,tonnes
+3364,Tajikistan,1998,676.63,tonnes
+3365,Tajikistan,1999,601.94,tonnes
+3366,Tajikistan,2000,527.25,tonnes
+3367,Tajikistan,2001,452.56,tonnes
+3368,Tajikistan,2002,377.88,tonnes
+3369,Tajikistan,2003,303.19,tonnes
+3370,Tajikistan,2004,228.5,tonnes
+3371,Tajikistan,2005,235.4,tonnes
+3372,Tajikistan,2006,241.9,tonnes
+3373,Tajikistan,2007,247.9,tonnes
+3374,Tajikistan,2008,253.5,tonnes
+3375,Tajikistan,2009,258.1,tonnes
+3376,Tajikistan,2010,262.1,tonnes
+3377,Tajikistan,2011,264.6,tonnes
+3378,Tajikistan,2012,264.6,tonnes
+3379,Tajikistan,2013,264.6,tonnes
+3380,Thailand,1990,18849.0,tonnes
+3381,Thailand,1991,18849.0,tonnes
+3382,Thailand,1992,18849.0,tonnes
+3383,Thailand,1993,18849.0,tonnes
+3384,Thailand,1994,20448.0,tonnes
+3385,Thailand,1995,24062.0,tonnes
+3386,Thailand,1996,21901.0,tonnes
+3387,Thailand,1997,23960.0,tonnes
+3388,Thailand,1998,19212.0,tonnes
+3389,Thailand,1999,22761.0,tonnes
+3390,Thailand,2000,20334.0,tonnes
+3391,Thailand,2001,30629.67,tonnes
+3392,Thailand,2002,40925.33,tonnes
+3393,Thailand,2003,51221.0,tonnes
+3394,Thailand,2004,88548.0,tonnes
+3395,Thailand,2005,43831.0,tonnes
+3396,Thailand,2006,41220.0,tonnes
+3397,Thailand,2007,66858.0,tonnes
+3398,Thailand,2008,65423.0,tonnes
+3399,Thailand,2009,67933.0,tonnes
+3400,Thailand,2010,68986.0,tonnes
+3401,Thailand,2011,87191.0,tonnes
+3402,Thailand,2012,69921.0,tonnes
+3403,Thailand,2013,8190.5,tonnes
+3404,Timor-Leste,1990,0.06,tonnes
+3405,Timor-Leste,1991,0.06,tonnes
+3406,Timor-Leste,1992,0.06,tonnes
+3407,Timor-Leste,1993,0.06,tonnes
+3408,Timor-Leste,1994,0.06,tonnes
+3409,Timor-Leste,1995,0.06,tonnes
+3410,Timor-Leste,1996,0.06,tonnes
+3411,Timor-Leste,1997,0.06,tonnes
+3412,Timor-Leste,1998,0.06,tonnes
+3413,Timor-Leste,1999,0.06,tonnes
+3414,Timor-Leste,2000,0.06,tonnes
+3415,Timor-Leste,2001,0.06,tonnes
+3416,Timor-Leste,2002,0.06,tonnes
+3417,Timor-Leste,2003,2.35,tonnes
+3418,Timor-Leste,2004,0.91,tonnes
+3419,Timor-Leste,2005,0.82,tonnes
+3420,Timor-Leste,2006,1.65,tonnes
+3421,Timor-Leste,2007,2.47,tonnes
+3422,Timor-Leste,2008,1.39,tonnes
+3423,Timor-Leste,2009,1.78,tonnes
+3424,Timor-Leste,2010,1.78,tonnes
+3425,Timor-Leste,2011,1.78,tonnes
+3426,Timor-Leste,2012,1.78,tonnes
+3427,Timor-Leste,2013,1.78,tonnes
+3428,Togo,1990,324.0,tonnes
+3429,Togo,1991,213.0,tonnes
+3430,Togo,1992,192.0,tonnes
+3431,Togo,1993,206.0,tonnes
+3432,Togo,1994,203.0,tonnes
+3433,Togo,1995,198.0,tonnes
+3434,Togo,1996,197.0,tonnes
+3435,Togo,1997,228.07,tonnes
+3436,Togo,1998,259.13,tonnes
+3437,Togo,1999,290.2,tonnes
+3438,Togo,2000,321.27,tonnes
+3439,Togo,2001,352.34,tonnes
+3440,Togo,2002,383.4,tonnes
+3441,Togo,2003,414.47,tonnes
+3442,Togo,2004,584.76,tonnes
+3443,Togo,2005,203.09,tonnes
+3444,Togo,2006,268.78,tonnes
+3445,Togo,2007,262.45,tonnes
+3446,Togo,2008,229.94,tonnes
+3447,Togo,2009,172.19,tonnes
+3448,Togo,2010,242.01,tonnes
+3449,Togo,2011,145.74,tonnes
+3450,Togo,2012,341.43,tonnes
+3451,Togo,2013,371.9,tonnes
+3452,Tonga,1990,11.21,tonnes
+3453,Tonga,1991,11.21,tonnes
+3454,Tonga,1992,11.21,tonnes
+3455,Tonga,1993,11.21,tonnes
+3456,Tonga,1994,11.21,tonnes
+3457,Tonga,1995,11.21,tonnes
+3458,Tonga,1996,11.21,tonnes
+3459,Tonga,1997,11.21,tonnes
+3460,Tonga,1998,11.21,tonnes
+3461,Tonga,1999,11.21,tonnes
+3462,Tonga,2000,11.21,tonnes
+3463,Tonga,2001,11.21,tonnes
+3464,Tonga,2002,11.21,tonnes
+3465,Tonga,2003,11.21,tonnes
+3466,Tonga,2004,11.21,tonnes
+3467,Tonga,2005,11.21,tonnes
+3468,Tonga,2006,11.21,tonnes
+3469,Tonga,2007,11.21,tonnes
+3470,Tonga,2008,11.21,tonnes
+3471,Tonga,2009,11.21,tonnes
+3472,Tonga,2010,11.21,tonnes
+3473,Tonga,2011,11.21,tonnes
+3474,Tonga,2012,11.21,tonnes
+3475,Tonga,2013,11.21,tonnes
+3476,Trinidad and Tobago,1990,328.41,tonnes
+3477,Trinidad and Tobago,1991,386.21,tonnes
+3478,Trinidad and Tobago,1992,384.63,tonnes
+3479,Trinidad and Tobago,1993,313.46,tonnes
+3480,Trinidad and Tobago,1994,298.71,tonnes
+3481,Trinidad and Tobago,1995,283.95,tonnes
+3482,Trinidad and Tobago,1996,269.2,tonnes
+3483,Trinidad and Tobago,1997,254.44,tonnes
+3484,Trinidad and Tobago,1998,239.69,tonnes
+3485,Trinidad and Tobago,1999,224.94,tonnes
+3486,Trinidad and Tobago,2000,210.18,tonnes
+3487,Trinidad and Tobago,2001,195.43,tonnes
+3488,Trinidad and Tobago,2002,180.68,tonnes
+3489,Trinidad and Tobago,2003,165.92,tonnes
+3490,Trinidad and Tobago,2004,151.17,tonnes
+3491,Trinidad and Tobago,2005,136.41,tonnes
+3492,Trinidad and Tobago,2006,121.66,tonnes
+3493,Trinidad and Tobago,2007,106.91,tonnes
+3494,Trinidad and Tobago,2008,92.15,tonnes
+3495,Trinidad and Tobago,2009,77.4,tonnes
+3496,Trinidad and Tobago,2010,2026.91,tonnes
+3497,Trinidad and Tobago,2011,170.35,tonnes
+3498,Trinidad and Tobago,2012,2101.23,tonnes
+3499,Trinidad and Tobago,2013,856.9,tonnes
+3500,Tunisia,1990,909.0,tonnes
+3501,Tunisia,1991,909.0,tonnes
+3502,Tunisia,1992,909.0,tonnes
+3503,Tunisia,1993,909.0,tonnes
+3504,Tunisia,1994,909.0,tonnes
+3505,Tunisia,1995,909.0,tonnes
+3506,Tunisia,1996,909.0,tonnes
+3507,Tunisia,1997,909.0,tonnes
+3508,Tunisia,1998,915.34,tonnes
+3509,Tunisia,1999,921.68,tonnes
+3510,Tunisia,2000,928.02,tonnes
+3511,Tunisia,2001,934.36,tonnes
+3512,Tunisia,2002,940.7,tonnes
+3513,Tunisia,2003,947.04,tonnes
+3514,Tunisia,2004,953.38,tonnes
+3515,Tunisia,2005,959.72,tonnes
+3516,Tunisia,2006,966.06,tonnes
+3517,Tunisia,2007,972.4,tonnes
+3518,Tunisia,2008,978.74,tonnes
+3519,Tunisia,2009,985.08,tonnes
+3520,Tunisia,2010,985.08,tonnes
+3521,Tunisia,2011,985.08,tonnes
+3522,Tunisia,2012,985.08,tonnes
+3523,Tunisia,2013,985.08,tonnes
+3524,Turkey,1990,29918.0,tonnes
+3525,Turkey,1991,24343.0,tonnes
+3526,Turkey,1992,27110.0,tonnes
+3527,Turkey,1993,28042.0,tonnes
+3528,Turkey,1994,24219.0,tonnes
+3529,Turkey,1995,27350.33,tonnes
+3530,Turkey,1996,30326.67,tonnes
+3531,Turkey,1997,34431.0,tonnes
+3532,Turkey,1998,30162.0,tonnes
+3533,Turkey,1999,33089.0,tonnes
+3534,Turkey,2000,33471.0,tonnes
+3535,Turkey,2001,25539.0,tonnes
+3536,Turkey,2002,27928.49,tonnes
+3537,Turkey,2003,33095.97,tonnes
+3538,Turkey,2004,28859.46,tonnes
+3539,Turkey,2005,40367.95,tonnes
+3540,Turkey,2006,27464.43,tonnes
+3541,Turkey,2007,48715.51,tonnes
+3542,Turkey,2008,37640.2,tonnes
+3543,Turkey,2009,37651.15,tonnes
+3544,Turkey,2010,38554.69,tonnes
+3545,Turkey,2011,39534.43,tonnes
+3546,Turkey,2012,42610.59,tonnes
+3547,Turkey,2013,39440.0,tonnes
+3548,Turkmenistan,1992,7663.0,tonnes
+3549,Turkmenistan,1993,9712.0,tonnes
+3550,Turkmenistan,1994,9712.0,tonnes
+3551,Turkmenistan,1995,9712.0,tonnes
+3552,Turkmenistan,1996,9712.0,tonnes
+3553,Turkmenistan,1997,9712.0,tonnes
+3554,Turkmenistan,1998,9712.0,tonnes
+3555,Turkmenistan,1999,9712.0,tonnes
+3556,Turkmenistan,2000,9712.0,tonnes
+3557,Turkmenistan,2001,9712.0,tonnes
+3558,Turkmenistan,2002,9712.0,tonnes
+3559,Turkmenistan,2003,9712.0,tonnes
+3560,Turkmenistan,2004,9712.0,tonnes
+3561,Turkmenistan,2005,9712.0,tonnes
+3562,Turkmenistan,2006,9712.0,tonnes
+3563,Turkmenistan,2007,9712.0,tonnes
+3564,Turkmenistan,2008,9712.0,tonnes
+3565,Turkmenistan,2009,9712.0,tonnes
+3566,Turkmenistan,2010,9712.0,tonnes
+3567,Turkmenistan,2011,9712.0,tonnes
+3568,Turkmenistan,2012,9712.0,tonnes
+3569,Turkmenistan,2013,9712.0,tonnes
+3570,Uganda,1990,72.0,tonnes
+3571,Uganda,1991,72.0,tonnes
+3572,Uganda,1992,72.0,tonnes
+3573,Uganda,1993,71.0,tonnes
+3574,Uganda,1994,59.0,tonnes
+3575,Uganda,1995,88.0,tonnes
+3576,Uganda,1996,88.0,tonnes
+3577,Uganda,1997,88.0,tonnes
+3578,Uganda,1998,88.0,tonnes
+3579,Uganda,1999,88.0,tonnes
+3580,Uganda,2000,88.0,tonnes
+3581,Uganda,2001,88.0,tonnes
+3582,Uganda,2002,88.0,tonnes
+3583,Uganda,2003,88.0,tonnes
+3584,Uganda,2004,88.0,tonnes
+3585,Uganda,2005,88.0,tonnes
+3586,Uganda,2006,88.0,tonnes
+3587,Uganda,2007,88.0,tonnes
+3588,Uganda,2008,88.0,tonnes
+3589,Uganda,2009,88.0,tonnes
+3590,Uganda,2010,88.0,tonnes
+3591,Uganda,2011,88.0,tonnes
+3592,Uganda,2012,88.0,tonnes
+3593,Uganda,2013,88.0,tonnes
+3594,Ukraine,1992,66772.0,tonnes
+3595,Ukraine,1993,61843.46,tonnes
+3596,Ukraine,1994,56914.93,tonnes
+3597,Ukraine,1995,51986.39,tonnes
+3598,Ukraine,1996,47057.85,tonnes
+3599,Ukraine,1997,42129.32,tonnes
+3600,Ukraine,1998,37200.78,tonnes
+3601,Ukraine,1999,32272.25,tonnes
+3602,Ukraine,2000,27343.71,tonnes
+3603,Ukraine,2001,22415.17,tonnes
+3604,Ukraine,2002,17486.64,tonnes
+3605,Ukraine,2003,12558.1,tonnes
+3606,Ukraine,2004,15344.4,tonnes
+3607,Ukraine,2005,23021.7,tonnes
+3608,Ukraine,2006,28832.6,tonnes
+3609,Ukraine,2007,36476.0,tonnes
+3610,Ukraine,2008,54080.5,tonnes
+3611,Ukraine,2009,36444.7,tonnes
+3612,Ukraine,2010,62534.6,tonnes
+3613,Ukraine,2011,79491.7,tonnes
+3614,Ukraine,2012,90814.8,tonnes
+3615,Ukraine,2013,86781.8,tonnes
+3616,United Kingdom,1990,29517.0,tonnes
+3617,United Kingdom,1991,29022.0,tonnes
+3618,United Kingdom,1992,31077.0,tonnes
+3619,United Kingdom,1993,32387.0,tonnes
+3620,United Kingdom,1994,33929.0,tonnes
+3621,United Kingdom,1995,33743.0,tonnes
+3622,United Kingdom,1996,35579.0,tonnes
+3623,United Kingdom,1997,35490.0,tonnes
+3624,United Kingdom,1998,35422.0,tonnes
+3625,United Kingdom,1999,35537.0,tonnes
+3626,United Kingdom,2000,33031.28,tonnes
+3627,United Kingdom,2001,32893.1,tonnes
+3628,United Kingdom,2002,30995.26,tonnes
+3629,United Kingdom,2003,30754.4,tonnes
+3630,United Kingdom,2004,31223.91,tonnes
+3631,United Kingdom,2005,31415.27,tonnes
+3632,United Kingdom,2006,22588.09,tonnes
+3633,United Kingdom,2007,22331.7,tonnes
+3634,United Kingdom,2008,21596.68,tonnes
+3635,United Kingdom,2009,21324.22,tonnes
+3636,United Kingdom,2010,16770.87,tonnes
+3637,United Kingdom,2011,16401.66,tonnes
+3638,United Kingdom,2012,17718.64,tonnes
+3639,United Kingdom,2013,17673.46,tonnes
+3640,United Republic of Tanzania,1990,20.0,tonnes
+3641,United Republic of Tanzania,1991,20.0,tonnes
+3642,United Republic of Tanzania,1992,20.0,tonnes
+3643,United Republic of Tanzania,1993,20.0,tonnes
+3644,United Republic of Tanzania,1994,715.0,tonnes
+3645,United Republic of Tanzania,1995,557.0,tonnes
+3646,United Republic of Tanzania,1996,7.0,tonnes
+3647,United Republic of Tanzania,1997,49.0,tonnes
+3648,United Republic of Tanzania,1998,1.0,tonnes
+3649,United Republic of Tanzania,1999,1.0,tonnes
+3650,United Republic of Tanzania,2000,1.0,tonnes
+3651,United Republic of Tanzania,2001,1.0,tonnes
+3652,United Republic of Tanzania,2002,1.0,tonnes
+3653,United Republic of Tanzania,2003,1.0,tonnes
+3654,United Republic of Tanzania,2004,1.0,tonnes
+3655,United Republic of Tanzania,2005,1.0,tonnes
+3656,United Republic of Tanzania,2006,1.0,tonnes
+3657,United Republic of Tanzania,2007,1.0,tonnes
+3658,United Republic of Tanzania,2008,1.0,tonnes
+3659,United Republic of Tanzania,2009,1.0,tonnes
+3660,United Republic of Tanzania,2010,1.0,tonnes
+3661,United Republic of Tanzania,2011,1.0,tonnes
+3662,United Republic of Tanzania,2012,1.0,tonnes
+3663,United Republic of Tanzania,2013,1.0,tonnes
+3664,United States of America,1990,400975.93,tonnes
+3665,United States of America,1991,384646.39,tonnes
+3666,United States of America,1992,400975.9,tonnes
+3667,United States of America,1993,391903.86,tonnes
+3668,United States of America,1994,425922.68,tonnes
+3669,United States of America,1995,423201.53,tonnes
+3670,United States of America,1996,433180.36,tonnes
+3671,United States of America,1997,434540.76,tonnes
+3672,United States of America,1998,424562.11,tonnes
+3673,United States of America,1999,433633.96,tonnes
+3674,United States of America,2000,430005.21,tonnes
+3675,United States of America,2001,411407.94,tonnes
+3676,United States of America,2002,416851.04,tonnes
+3677,United States of America,2003,417758.24,tonnes
+3678,United States of America,2004,425015.71,tonnes
+3679,United States of America,2005,388275.15,tonnes
+3680,United States of America,2006,392810.67,tonnes
+3681,United States of America,2007,400068.15,tonnes
+3682,United States of America,2008,379202.92,tonnes
+3683,United States of America,2009,358337.7,tonnes
+3684,United States of America,2010,374818.2,tonnes
+3685,United States of America,2011,391298.7,tonnes
+3686,United States of America,2012,407779.2,tonnes
+3687,United States of America,2013,407779.2,tonnes
+3688,Uruguay,1990,1762.01,tonnes
+3689,Uruguay,1991,1762.01,tonnes
+3690,Uruguay,1992,2072.03,tonnes
+3691,Uruguay,1993,1634.02,tonnes
+3692,Uruguay,1994,2272.08,tonnes
+3693,Uruguay,1995,2413.02,tonnes
+3694,Uruguay,1996,3444.01,tonnes
+3695,Uruguay,1997,3362.05,tonnes
+3696,Uruguay,1998,4239.03,tonnes
+3697,Uruguay,1999,3925.03,tonnes
+3698,Uruguay,2000,3650.08,tonnes
+3699,Uruguay,2001,4433.04,tonnes
+3700,Uruguay,2002,5184.5,tonnes
+3701,Uruguay,2003,7455.26,tonnes
+3702,Uruguay,2004,9017.73,tonnes
+3703,Uruguay,2005,9232.47,tonnes
+3704,Uruguay,2006,9143.45,tonnes
+3705,Uruguay,2007,14057.2,tonnes
+3706,Uruguay,2008,13335.22,tonnes
+3707,Uruguay,2009,13475.41,tonnes
+3708,Uruguay,2010,14981.18,tonnes
+3709,Uruguay,2011,17517.76,tonnes
+3710,Uruguay,2012,23506.4,tonnes
+3711,Uruguay,2013,19028.6,tonnes
+3712,USSR,1990,86200.0,tonnes
+3713,USSR,1991,92200.0,tonnes
+3714,Vanuatu,1990,147.0,tonnes
+3715,Vanuatu,1991,222.0,tonnes
+3716,Vanuatu,1992,198.0,tonnes
+3717,Vanuatu,1993,131.0,tonnes
+3718,Vanuatu,1994,131.0,tonnes
+3719,Vanuatu,1995,131.0,tonnes
+3720,Vanuatu,1996,131.0,tonnes
+3721,Vanuatu,1997,131.0,tonnes
+3722,Vanuatu,1998,131.0,tonnes
+3723,Vanuatu,1999,131.0,tonnes
+3724,Vanuatu,2000,131.0,tonnes
+3725,Vanuatu,2001,131.0,tonnes
+3726,Vanuatu,2002,131.0,tonnes
+3727,Vanuatu,2003,131.0,tonnes
+3728,Vanuatu,2004,131.0,tonnes
+3729,Vanuatu,2005,131.0,tonnes
+3730,Vanuatu,2006,131.0,tonnes
+3731,Vanuatu,2007,131.0,tonnes
+3732,Vanuatu,2008,131.0,tonnes
+3733,Vanuatu,2009,131.0,tonnes
+3734,Vanuatu,2010,131.0,tonnes
+3735,Vanuatu,2011,131.0,tonnes
+3736,Vanuatu,2012,131.0,tonnes
+3737,Vanuatu,2013,131.0,tonnes
+3738,Venezuela (Bolivarian Republic of),1990,1822.0,tonnes
+3739,Venezuela (Bolivarian Republic of),1991,2409.0,tonnes
+3740,Venezuela (Bolivarian Republic of),1992,3928.0,tonnes
+3741,Venezuela (Bolivarian Republic of),1993,3928.0,tonnes
+3742,Venezuela (Bolivarian Republic of),1994,3928.0,tonnes
+3743,Venezuela (Bolivarian Republic of),1995,3928.0,tonnes
+3744,Venezuela (Bolivarian Republic of),1996,3928.0,tonnes
+3745,Venezuela (Bolivarian Republic of),1997,3928.0,tonnes
+3746,Venezuela (Bolivarian Republic of),1998,3928.0,tonnes
+3747,Venezuela (Bolivarian Republic of),1999,3928.0,tonnes
+3748,Venezuela (Bolivarian Republic of),2000,3928.0,tonnes
+3749,Venezuela (Bolivarian Republic of),2001,3928.0,tonnes
+3750,Venezuela (Bolivarian Republic of),2002,3928.0,tonnes
+3751,Venezuela (Bolivarian Republic of),2003,3928.0,tonnes
+3752,Venezuela (Bolivarian Republic of),2004,3928.0,tonnes
+3753,Venezuela (Bolivarian Republic of),2005,3928.0,tonnes
+3754,Venezuela (Bolivarian Republic of),2006,3928.0,tonnes
+3755,Venezuela (Bolivarian Republic of),2007,3928.0,tonnes
+3756,Venezuela (Bolivarian Republic of),2008,3928.0,tonnes
+3757,Venezuela (Bolivarian Republic of),2009,3928.0,tonnes
+3758,Venezuela (Bolivarian Republic of),2010,3928.0,tonnes
+3759,Venezuela (Bolivarian Republic of),2011,3928.0,tonnes
+3760,Venezuela (Bolivarian Republic of),2012,3928.0,tonnes
+3761,Venezuela (Bolivarian Republic of),2013,3928.0,tonnes
+3762,Viet Nam,1990,20912.0,tonnes
+3763,Viet Nam,1991,20912.0,tonnes
+3764,Viet Nam,1992,20912.0,tonnes
+3765,Viet Nam,1993,20912.0,tonnes
+3766,Viet Nam,1994,20912.0,tonnes
+3767,Viet Nam,1995,24896.0,tonnes
+3768,Viet Nam,1996,32745.0,tonnes
+3769,Viet Nam,1997,33019.0,tonnes
+3770,Viet Nam,1998,20841.0,tonnes
+3771,Viet Nam,1999,16695.0,tonnes
+3772,Viet Nam,2000,16502.0,tonnes
+3773,Viet Nam,2001,19154.0,tonnes
+3774,Viet Nam,2002,19154.0,tonnes
+3775,Viet Nam,2003,19154.0,tonnes
+3776,Viet Nam,2004,19154.0,tonnes
+3777,Viet Nam,2005,19154.0,tonnes
+3778,Viet Nam,2006,19154.0,tonnes
+3779,Viet Nam,2007,19154.0,tonnes
+3780,Viet Nam,2008,19154.0,tonnes
+3781,Viet Nam,2009,19154.0,tonnes
+3782,Viet Nam,2010,19154.0,tonnes
+3783,Viet Nam,2011,19154.0,tonnes
+3784,Viet Nam,2012,19154.0,tonnes
+3785,Viet Nam,2013,19154.0,tonnes
+3786,Yemen,1990,713.28,tonnes
+3787,Yemen,1991,713.28,tonnes
+3788,Yemen,1992,713.28,tonnes
+3789,Yemen,1993,713.28,tonnes
+3790,Yemen,1994,713.28,tonnes
+3791,Yemen,1995,713.28,tonnes
+3792,Yemen,1996,713.28,tonnes
+3793,Yemen,1997,713.28,tonnes
+3794,Yemen,1998,1182.1,tonnes
+3795,Yemen,1999,1237.15,tonnes
+3796,Yemen,2000,1289.15,tonnes
+3797,Yemen,2001,1576.17,tonnes
+3798,Yemen,2002,1863.19,tonnes
+3799,Yemen,2003,748.13,tonnes
+3800,Yemen,2004,614.12,tonnes
+3801,Yemen,2005,786.64,tonnes
+3802,Yemen,2006,741.65,tonnes
+3803,Yemen,2007,193.69,tonnes
+3804,Yemen,2008,79.57,tonnes
+3805,Yemen,2009,92.36,tonnes
+3806,Yemen,2010,133.85,tonnes
+3807,Yemen,2011,109.59,tonnes
+3808,Yemen,2012,109.59,tonnes
+3809,Yemen,2013,109.59,tonnes
+3810,Yugoslav SFR,1990,2575.0,tonnes
+3811,Yugoslav SFR,1991,2857.0,tonnes
+3812,Zambia,1990,1080.0,tonnes
+3813,Zambia,1991,1080.0,tonnes
+3814,Zambia,1992,1080.0,tonnes
+3815,Zambia,1993,1080.0,tonnes
+3816,Zambia,1994,1080.0,tonnes
+3817,Zambia,1995,716.0,tonnes
+3818,Zambia,1996,1670.0,tonnes
+3819,Zambia,1997,1616.4,tonnes
+3820,Zambia,1998,1562.8,tonnes
+3821,Zambia,1999,1509.2,tonnes
+3822,Zambia,2000,1455.6,tonnes
+3823,Zambia,2001,1402.0,tonnes
+3824,Zambia,2002,1348.4,tonnes
+3825,Zambia,2003,1294.8,tonnes
+3826,Zambia,2004,1241.2,tonnes
+3827,Zambia,2005,1187.6,tonnes
+3828,Zambia,2006,1134.0,tonnes
+3829,Zambia,2007,1080.4,tonnes
+3830,Zambia,2008,1026.8,tonnes
+3831,Zambia,2009,973.2,tonnes
+3832,Zambia,2010,919.6,tonnes
+3833,Zambia,2011,866.0,tonnes
+3834,Zambia,2012,812.4,tonnes
+3835,Zambia,2013,758.8,tonnes
+3836,Zimbabwe,1990,5727.0,tonnes
+3837,Zimbabwe,1991,6753.0,tonnes
+3838,Zimbabwe,1992,3303.0,tonnes
+3839,Zimbabwe,1993,1741.0,tonnes
+3840,Zimbabwe,1994,1689.0,tonnes
+3841,Zimbabwe,1995,2599.0,tonnes
+3842,Zimbabwe,1996,2538.0,tonnes
+3843,Zimbabwe,1997,2762.0,tonnes
+3844,Zimbabwe,1998,2883.0,tonnes
+3845,Zimbabwe,1999,2918.18,tonnes
+3846,Zimbabwe,2000,2953.36,tonnes
+3847,Zimbabwe,2001,2988.54,tonnes
+3848,Zimbabwe,2002,3023.72,tonnes
+3849,Zimbabwe,2003,3058.9,tonnes
+3850,Zimbabwe,2004,3094.08,tonnes
+3851,Zimbabwe,2005,3129.27,tonnes
+3852,Zimbabwe,2006,3164.45,tonnes
+3853,Zimbabwe,2007,3199.63,tonnes
+3854,Zimbabwe,2008,3234.81,tonnes
+3855,Zimbabwe,2009,3269.99,tonnes
+3856,Zimbabwe,2010,3305.17,tonnes
+3857,Zimbabwe,2011,3340.35,tonnes
+3858,Zimbabwe,2012,3375.53,tonnes
+3859,Zimbabwe,2013,2550.07,tonnes
