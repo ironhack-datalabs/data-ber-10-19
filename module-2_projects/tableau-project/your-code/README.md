@@ -1,6 +1,7 @@
 # Project: Business Intelligence with Tableau
 
-# Data Exploration: Coffee Production Environmental Impact
+
+## Data Exploration: Coffee Production Environmental Impact
 
 ## Overview
 
@@ -24,9 +25,9 @@ In this project, we will explore some data on coffeee production environmental i
 
 
 ## Dataset dimenions
-1. Coffee production quantity 
-    Number of records: 3,975
-    Period: 1961-2013
+1. Coffee production quantity\n
+    Number of records: 3,975\n
+    Period: 1961-2013\n
     Unit: 1000 Tonnes
 2. Gross Coffee Production Values 
     Number of records: 1,047
