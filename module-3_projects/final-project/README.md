@@ -8,10 +8,10 @@
 
 **[Project Instructions](#project-instructions)**
 
-* [Day 1](#day-1)
-* [Day 2](#day-2)
-* [Day 3](#day-3)
-* [Day 4](#day-4)
+* [Phase 1](#Phase-1)
+* [Phase 2](#Phase-2)
+* [Phase 3](#Phase-3)
+* [Phase 4](#Phase-4)
 
 **[Necessary Deliverables](#necessary-deliverables)**
 
@@ -38,25 +38,25 @@ The final project is structured into 4 days in which you build up your deliverab
 
 **You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. You will be working on this project over the course of 4 days. The proposed progression for each day is listed below. However, if you finish a certain step ahead of time, you can proceed to the next step. In that case, you will conduct more iterations of your deliverables by for example deep cleanining your data, selecting better features, comparing different ML models, improving model predictions, and so on. Also, remember that data analysis is iterative. So from time to time you may need to step back to a previous phase and iterate.
 
-### Day 1 - Brain Storming and Data Preparation
+### Phase 1 - Brain Storming and Data Preparation
 
 * Idea generation & planning
 * Data gathering & cleaning
 * Data storage
 
-### Day 2 - Exploratory Data Analysis
+### Phase 2 - Exploratory Data Analysis
 
 * Data exploration
 * Data visualization
 * Data transformation
 
-### Day 3 - Data Analysis First Iteration
+### Phase 3 - Data Analysis First Iteration
 
 * Feature selection
 * Model training and evaluation
 * Model evaluation
 
-### Day 4 - Data Analysis More Iterations
+### Phase 4 - Data Analysis More Iterations
 
 * Iterations on your modeling
 * Model evaluation and comparison
@@ -66,7 +66,7 @@ The final project is structured into 4 days in which you build up your deliverab
 
 ## Project Instructions
 
-### Day 1
+### Phase 1
 
 On the first day of your project, you will be planning your project, choosing a data set, downloading and cleaning it, and storing it in a MySQL database.
 
@@ -160,7 +160,7 @@ Resources:
 
 [What are some good data science projects?](https://www.quora.com/What-are-some-good-data-science-projects)
 
-### Day 2
+### Phase 2
 
 On the second day of your project, you will start with the clean data set you stored in your database on the previous day. You will explore, analyze, and visualize the data using Python and Tableau, applying the variety of techniques you learned throughout the program.
 
@@ -172,7 +172,7 @@ On the second day of your project, you will start with the clean data set you st
 * Explore the data in Tableau and look for interesting insights.
 * Put together an annotated Tableau Story communicating the insights you have discovered.
 
-### Day 3
+### Phase 3
 
 On the third day of your project, you will be using the analysis you performed and the insights you discovered the previous day to help frame your machine learning problem, select and engineer appropriate features, train your models, and evaluate performance.
 
@@ -182,7 +182,7 @@ On the third day of your project, you will be using the analysis you performed a
 * Evaluate the performance of the models.
 * Prepare a presentation of your findings and results.
 
-### Day 4
+### Phase 4
 
 Should you have a fourth day of final project work, you should spend the day refining your machine learning models and your presentation. If you have time, you may also go back and perform additional data exploration and analysis.
 
@@ -204,9 +204,9 @@ The following deliverables should be pushed to your Github repo.
 
 ### Format
 
-* Presentation Time: 12 minutes
+* Presentation Time: 5 minutes
 * Q & A: 3 minutes
-* **Total Time:** 15 minutes
+* **Total Time:** 8 minutes
 
 ### Attire
 
