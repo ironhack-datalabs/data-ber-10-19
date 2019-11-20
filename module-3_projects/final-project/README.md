@@ -29,14 +29,16 @@ The goal of this project is to give you an opportunity to demonstrate the skills
 * Data wrangling
 * Data storage
 * Data exploration and analysis
+* Statistical Modelling
 * Feature selection
 * Machine learning model training
 * Model evaluation
 * Reporting and presentation of insights
 
-The final project is structured into 4 days in which you build up your deliverables progressively and iteratively. We have provided a list of data sets for you to choose from. However, you are encouraged to obtain your own data sets. Using the knowledge you have acquired and your experience working with data, you will come up with a plan for what you are going to do and then design the project around the data set you have chosen.
+The final project is structured into 2 weeks in which you build up your deliverables progressively and iteratively. We have provided a list of data sets for you to choose from. However, you are encouraged to obtain your own data sets. Using the knowledge you have acquired and your experience working with data, you will come up with a plan for what you are going to do and then design the project around the data set you have chosen.
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. You will be working on this project over the course of 4 days. The proposed progression for each day is listed below. However, if you finish a certain step ahead of time, you can proceed to the next step. In that case, you will conduct more iterations of your deliverables by for example deep cleanining your data, selecting better features, comparing different ML models, improving model predictions, and so on. Also, remember that data analysis is iterative. So from time to time you may need to step back to a previous phase and iterate.
+**You can work individually or in groups of up to 4**. We'll be guiding you along the process and helping you as you go. You will be working on this project over the course of 2 weeks. The proposed progression is listed below. Use it as a guideline to keep your work structured but if you feel like you have a working flow, feel free to manage the project however you think works best.
+Remember, however, that data analysis is iterative. So from time to time you may need to step back to a previous phase and iterate. It is advised that you start with a small and reasonable scope, finish it and continuously re-iterate. 
 
 ### Phase 1 - Brain Storming and Data Preparation
 
@@ -44,23 +46,44 @@ The final project is structured into 4 days in which you build up your deliverab
 * Data gathering & cleaning
 * Data storage
 
+Identify topics of interest and see if there is available data. Ideally, formulate questions you want to answer. If someone asks you what you are working on, you should be able to easily answer in one sentence.
+
 ### Phase 2 - Exploratory Data Analysis
 
 * Data exploration
 * Data visualization
 * Data transformation
 
+Start exploring and getting familiar with the available data. Try to narrow the scope of your intial questions to what may be possible to further look into or answer given the data you have or you can get in addition.
+
 ### Phase 3 - Data Analysis First Iteration
+
+ML:
 
 * Feature selection
 * Model training and evaluation
 * Model evaluation
 
+Analysis:
+
+* Formulate clear hypotheses / research questions
+* Test your hypotheses / questions
+* Come up with compelling stories
+
+
 ### Phase 4 - Data Analysis More Iterations
+
+ML:
 
 * Iterations on your modeling
 * Model evaluation and comparison
 * Prepare for presentation
+
+Analysis:
+
+* Investigate additional questions
+* Pick the most interesting findings
+* Create your story
 
 ---
 
@@ -68,9 +91,9 @@ The final project is structured into 4 days in which you build up your deliverab
 
 ### Phase 1
 
-On the first day of your project, you will be planning your project, choosing a data set, downloading and cleaning it, and storing it in a MySQL database.
+On the first day of your project, you will be planning your project, exploring datasets and generate ideas. Ideally, you come up with a game plan on what you want to accomplish in the following three days. Aim to finish a first, minimal iteration in the shortest amount of time possible so that you can quickly dig further or discard initial ideas. Make sure to book some time with one of the teaching staff to get quick feedback on feasibility of your project idea.
 
-To get started, explore and choose from one of the following data sets:
+To get started, here are a few publicly available data sets:
 
 * [Telecom Customer Churn Data Set](https://www.kaggle.com/blastchar/telco-customer-churn)
 * [Mental Health in Tech Survey Data Set](https://www.kaggle.com/osmi/mental-health-in-tech-survey)
@@ -80,11 +103,11 @@ To get started, explore and choose from one of the following data sets:
 
 These are all Kaggle data sets, so you can gain some context about them by looking at the field descriptions and the *Overview* tab for each data set. You can also get project ideas by looking at the different *Kernels* that people have created using the data sets and the approaches they have taken, but please **do not plagiarize or copy someone else's work.** Remember that the goal of this project is to demonstrate *your* skills, not someone else's.
 
-You are free to use other data sources from [Kaggle](https://www.kaggle.com), [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html), [data.gov](https://www.data.gov/), public APIs, websites, etc. However you will need to spend more time to search and evaluate the quality and complexity of the data set you want to use. Discuss with your instructor as early as possible regarding your project ideas in order to avoid potential blockers.
+You are free to use other data sources from [Kaggle](https://www.kaggle.com), [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html), [data.gov](https://www.data.gov/), public APIs, websites, etc.
 
 #### Project Ideas
 
-As you are evaluating the data sets and deciding which you would like to use for your project, think about the different types of information that could be extracted from each one and what problems you could potentially solve. You are not required to use machine learning but it is definitely a plus if you use it. It is totally fine if you are more of a business-focused person and use Tableau to extract business intelligence from the data. It is also fine if you are more of a traditional data analyst and primarily conduct statistical analysis on your data. But challenging your own limit is always beneficial.
+As you are evaluating the data sets and deciding which you would like to use for your project, think about the different types of information that could be extracted from each one and what problems you could potentially solve. You are not required to use machine learning. It is totally fine if you are more of a business-focused person and use Tableau to extract business intelligence from the data. It is also fine if you are more of a traditional data analyst and primarily conduct statistical analysis on your data. But challenging your own limit is always beneficial.
 
 Below are some ideas for the data sets we selected for you which can help get you started with these data sets.
 
@@ -162,19 +185,15 @@ Resources:
 
 ### Phase 2
 
-On the second day of your project, you will start with the clean data set you stored in your database on the previous day. You will explore, analyze, and visualize the data using Python and Tableau, applying the variety of techniques you learned throughout the program.
+On the second day of your project, you will start with preparing your data. You will explore, analyze, and visualize the data using Python or Tableau, applying the variety of techniques you learned throughout the program.
 
-* In your Jupyter Notebook, read the clean data from your MySQL database.
-* Using Pandas, generate summaries of the data and calculate descriptive statistics.
-* Practice generating a few basic charts and graphs using `matplotlib` or `seaborn` as well.
-* Export your clean data set to a CSV file.
-* Open Tableau Public and load the CSV file.
-* Explore the data in Tableau and look for interesting insights.
-* Put together an annotated Tableau Story communicating the insights you have discovered.
+Make sure to categorize your notebooks in logical groups. Make it a habit to add comments in code cells or markdown cells so that you always remember what you have done. Invest time in staying organized, your future self will thank you later. Summarize your findings and don't be scared to discard things that don't help you in moving forward.
 
 ### Phase 3
 
-On the third day of your project, you will be using the analysis you performed and the insights you discovered the previous day to help frame your machine learning problem, select and engineer appropriate features, train your models, and evaluate performance.
+In this phase, you should be finalizing the first iteration of your project. Ideally, this is still within the first week so that you have enough time to re-iterate, improve, dig deeper and prepare your final presentation.
+
+You will be using the analysis you performed and the insights you discovered in the previous day to help frame your machine learning problem, select and engineer appropriate features, train your models, and evaluate performance.
 
 * If you are planning on doing supervised machine learning, identify the target variable you would like to train a model to predict. Also determine whether you will be doing regression (target variable is continuous) or classification (target variable is discrete).
 * Perform feature selection/engineering to arrive at the features you feel best represent the problem you are trying to solve. During this stage, you may need to normalize or scale your variables.
@@ -182,13 +201,29 @@ On the third day of your project, you will be using the analysis you performed a
 * Evaluate the performance of the models.
 * Prepare a presentation of your findings and results.
 
+If you're not working on a machine learning problem, identify the meaningful insights or learnings that you generated that you want to keep focusing on in the following days. This is a good point to list and reflect on everything you collected so far and to rank them based on what could create a compelling story.
+
+* Summarize your analyses
+* Add statistics and visualizations
+* Sketch a story around your points
+
+Once you reach this point, ask fellow students, friends or teaching staff for feedback and ideas to dig deeper.
+
 ### Phase 4
 
-Should you have a fourth day of final project work, you should spend the day refining your machine learning models and your presentation. If you have time, you may also go back and perform additional data exploration and analysis.
+At this point, you should have a clear idea of where you want to go. You should spend the remaining days refining your machine learning models and your presentation. Spend some time to get a deeper understanding of the algorithms or statistical methods you are using and how your work could be improved. Think about how you can best present your project to a wide audience so that they take away what the essence of your project is.
+
+ML:
 
 * Continue iterating on your machine learning models with the objective of optimizing their performance.
 * Organize your machine learning steps into a pipeline that performs feature selection/engineering, model training, model evaluation, and model storage.
 * Further refine your presentation based on additional findings and results.
+
+Analysis:
+
+* Create stories around your key points
+* Pick the most suitable visualizations to support your stories
+* Identify easy-to-grasp examples to put your findings in perspective
 
 ## Necessary Deliverables
 
@@ -196,9 +231,9 @@ A [Final Project Template](final-project-template.md) has been prepared for you 
 
 The following deliverables should be pushed to your Github repo.
 
-* A Jupyter Notebook (.ipynb) file containing all your Python code.
-* A data folder containing your original data set and your clean data set in CSV format.
-* Your final project report/presentation created from template.
+* A (or multiple) Jupyter Notebook (.ipynb) file(s) containing all your Python code.
+* A data folder containing your original datasets and your clean datasets.
+* Your final project report/presentation created from the template.
 
 ## Presentation Guideline and Criteria
 
@@ -207,15 +242,16 @@ The following deliverables should be pushed to your Github repo.
 * Presentation Time: 5 minutes
 * Q & A: 3 minutes
 * **Total Time:** 8 minutes
+* Google Slides
 
 ### Attire
 
-* DRESS TO IMPRESS: [Smart casual](https://en.wikipedia.org/wiki/Smart_casual) would be great
+* Wear whatever you feel comfortable with
 
 ### Outputs
 
-* A presentation in [slides.com](https://slides.com/)
-* A demo deployed on GitHub Pages
+* A presentation in Google Slides
+* A demo deployed on GitHub Pages (ML app)
 * The presentation and demo will be executed on a class computer (instead of your own)
 * Get ready to explain some of your code in GitHub
 
@@ -223,12 +259,15 @@ The following deliverables should be pushed to your Github repo.
 
 * Short presentation of yourself:
 	* Who are you?
-	* A hobby you have.
   * __Note: we are getting you ready for final presentation!__
 * Elevator pitch:
-  * Data set you chose.
-  * Why did you chose that data set?
-  * The most important thing you learned.
+  * What is it about?
+  * Why should the audience care?
+  * What do you want the audience to take away?
+  * Tell your story!
+
+Optional:
+
 * One technical challenge you faced:
   * Explain the challenge.
   * Explain how and what you did to overcome it.
