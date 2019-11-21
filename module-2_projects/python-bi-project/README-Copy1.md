@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Evaluation of Employee Satisfaction
-based on real world data of a mysterious consulting company "X"<br/>
+a data visualization project, based on real world data of a consulting company<br/>
 <br/>
 *Nadav Smith, Ivy Ip, Lena Frommann*
 
@@ -11,7 +11,6 @@ based on real world data of a mysterious consulting company "X"<br/>
 - [Project Description](#project-description)
 - [Questions & Hypotheses](#questions-hypotheses)
 - [Dataset](#dataset)
-- [Database](#database)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
@@ -26,24 +25,26 @@ Therefore, we used a dataframe that contains  the results of an annual employee 
 • how employees rate the support of different departments<br/>
 
 ## Questions & Hypotheses
-We want to display the bike sharing companies which are the most popular ones within the bike sharing industry.<br/>
 Our goal is to figure out...<br/>
-Before starting to code, we took some general assumptions: ...
-1.<br/>
-2.<br/>
-3.<br/>
+Before starting to code, we defined some general hypotheses:<br/>
+1. Employee age and seniority level are related to each other and to the general satisfaction score.<br/>
+2. The number of times employees contact a certain department, the lower the rating of this department.<br/>
+3. The overall satisfaction score increases if the employee is satisfied with the services of the major departments.<br/>
+4. The satisfaction score in New Dehli is lower compared to other company locations, because not all departments are avaliable on site.<br/>
 <br/>
-In order to work towards a goal, we formulated the following hypothesis which is tested through our data later on.<br/>
+Also, we formulated questions to answer within our project:<br/>
+1. How is the overall satisfaction of the employees?<br/>
+2. How is the overall satisfaction of the employees affected by the service level of core departments?<br/>
+3. Has the company location an impact on employee satisfaction?<br/>
+4. Why do the employees contact different departments?<br/>
 <br/>
-Hypothesis:<br/>
-
 
 ## Dataset
 We used a csv dataset based on a published employee survey. However, the data provided was adjusted to not be able to draw conclusions regarding the name of the company or any other confidential information.<br/>
 While searching for a suitable dataset for this project, it was impportant for us that the overall topic is easy to understand for our audience and that the data set is well suited for visualization purposes.<br/>
 
 **Employee Satisfaction:** <br/>
-The original dataset had XX columns. Hence it was necessary to reduce the amount of columns to only include those which are necessary for our analysis. The dataset we finally worked with has the following columns after cleaning:<br/>
+The original dataset had 76 columns. Hence it was necessary to reduce the amount of columns to only include those which are necessary for our analysis. The dataset we finally worked with has the following columns after cleaning:<br/>
 <br/>
 * ID
 * location
@@ -63,50 +64,55 @@ The original dataset had XX columns. Hence it was necessary to reduce the amount
 shape: (182, 17)
 
 Furthermore, we decided to extract columns from **Employee Satisfaction** to three new data frames. The purpose was to make the plotting process easier and extract the reasons why employees contacted the three core departments. The columns of the dataframes are listed below:<br/>
-<br/>
+
 **Contact Reason Accounting** <br/>
 * Reason
 * Percentage of contacts per reason
 <br/>
 shape: (7, 2)
-<br/>
+
 **Contact Reason HR** <br/>
 * Reason
 * Percentage of contacts per reason
 <br/>
 shape: (9, 2)
-<br/>
+
 **Contact Reason OM** <br/>
 * Reason
 * Percentage of contacts per reason
 <br/>
 shape: (8, 2)
-<br/>
+
 ## Workflow
-1. Think of possible question to be resolved using data. <br/>
-2. Find out, which data is available for this purpose and adjust the questions accordingly.<br/>
-3. Decide, which data will be used and chose the relevant colums and rows.<br/>
-4. Clean the data and keep columns, that serve our purpose.<br/>
-5. Merge our available data into one dataframe.<br/>
-6. Make conclusions and plots out of the new dataframe.<br/>
-7. Export everything to one csv file.<br/>
-8. Rename csv file and read it again for further visualization. <br/>
-9. Visualize the bike sharing providers on an interactive world map.
+1. Brainstorm on topic and data<br/>
+2. Agree on data set to use<br/>
+3. Define hypotheses and questions serving as a guideline for our project<br/>
+4. Decide, which data will be used and define the relevant colums<br/>
+5. Clean the data<br/>
+6. Explore the data<br/>
+7. Summarize our key findings and decide what we want to visualize in plots<br/>
+8. Start plotting<br/>
+9. Summarize our work<br/>
+10. Discuss the storyline of our presentation<br/>
+11. Make presentation<br/>
+12. Upload all deliverables in project folder on GitHub<br/>
 
 ## Organization
-We tried to distribute tasks beforehand which we defined through a manual kanban board. Mostly each of us worked individually on the tasks. However, we performed the merge all together.<br/>
-In the end we worked all together on the final presentation and the jupyter file. <br/>
-We shared the desks and a Slack Channel, to communicate throughout all the project. <br/>
+Using a whiteboard and our notepads, we started with brainstorming in the early project stage to write down our questions, goals. Then we went through the data set based on the questionnaire together, to make sure each group member understands what the columns and questions mean. Thereafter, we did the data cleaning all together. Then, we defined and distributed tasks, to work individually on data exploration and plotting based on three main topics. There was a good balance between group work and individual work. Some tasks could be accomplished more efficiently individually.<br/> 
+In the end we worked all together on the final presentation and the jupyter notebook file. <br/>
+Throughout the whole project, we had several small team meetings to inform each member about progresses and to define upcoming steps and deadlines. We used the Slack Channel for sharing our jupyter notebook files and code snippets.<br/>
+<br/>
 Our repository includes:
-* Jupyter Notebook file
-* cleaned csv file
-* text file with descriptions of data frame columns
+* Jupyter Notebook 1: Data Cleaning
+* Jupyter Notebook 2: Data Exploration for 'Contact Reason'
+* Jupyter Notebook 3: Plotting 
+* cleaned csv file: Employee Satisfaction
+* text file: Data Description 
 * README.md file
 
 ## Links
 
 [GitHub Repository]: <br/>
-https://github.com/Nikitsatsiki/data-ber-10-19/tree/master/module-1_projects/data-thieves-project
-
-[Presentation]:   
-https://docs.google.com/presentation/d/1nSgW6A5Jk74jCGRKpderM9GuxM3DanDWYIIcB2WSyv0/edit?usp=sharing <br/>
+LINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINK
+[Presentation]: <br/>
+LINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINK
