@@ -59,28 +59,24 @@ The original dataset had 76 columns. Hence it was necessary to reduce the amount
 * #contact_OM
 * rating_OM
 * rating_security
-* rating_D&R
-
+* rating_D&R<br/>
 shape: (182, 17)
 
 Furthermore, we decided to extract columns from **Employee Satisfaction** to three new data frames. The purpose was to make the plotting process easier and extract the reasons why employees contacted the three core departments. The columns of the dataframes are listed below:<br/>
 
 **Contact Reason Accounting** <br/>
 * Reason
-* Percentage of contacts per reason
-<br/>
+* Percentage of contacts per reason<br/>
 shape: (7, 2)
 
 **Contact Reason HR** <br/>
 * Reason
-* Percentage of contacts per reason
-<br/>
+* Percentage of contacts per reason<br/>
 shape: (9, 2)
 
 **Contact Reason OM** <br/>
 * Reason
-* Percentage of contacts per reason
-<br/>
+* Percentage of contacts per reason<br/>
 shape: (8, 2)
 
 ## Workflow
