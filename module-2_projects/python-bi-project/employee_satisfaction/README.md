@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Evaluation of Employee Satisfaction
+# Employee Satisfaction
 a data visualization project, based on real world data of a consulting company<br/>
 <br/>
 *Nadav Smith, Ivy Ip, Lena Frommann*
@@ -25,14 +25,15 @@ Therefore, we used a dataframe that contains  the results of an annual employee 
 • how employees rate the support of different departments<br/>
 
 ## Questions & Hypotheses
-Our goal is to figure out...<br/>
 Before starting to code, we defined some general hypotheses:<br/>
+<br/>
 1. Employee age and seniority level are related to each other and to the general satisfaction score.<br/>
 2. The number of times employees contact a certain department, the lower the rating of this department.<br/>
 3. The overall satisfaction score increases if the employee is satisfied with the services of the major departments.<br/>
 4. The satisfaction score in New Dehli is lower compared to other company locations, because not all departments are avaliable on site.<br/>
 <br/>
 Also, we formulated questions to answer within our project:<br/>
+<br/>
 1. How is the overall satisfaction of the employees?<br/>
 2. How is the overall satisfaction of the employees affected by the service level of core departments?<br/>
 3. Has the company location an impact on employee satisfaction?<br/>
@@ -99,10 +100,13 @@ In the end we worked all together on the final presentation and the jupyter note
 Throughout the whole project, we had several small team meetings to inform each member about progresses and to define upcoming steps and deadlines. We used the Slack Channel for sharing our jupyter notebook files and code snippets.<br/>
 <br/>
 Our repository includes:
+<br/>
 * Jupyter Notebook 1: Data Cleaning
 * Jupyter Notebook 2: Data Exploration for 'Contact Reason'
 * Jupyter Notebook 3: Plotting 
+* original csv file: Satisfaction Survey Admin
 * cleaned csv file: Employee Satisfaction
+* cleaned csv file: Contact Reasons
 * text file: Data Description 
 * README.md file
 
@@ -111,4 +115,4 @@ Our repository includes:
 [GitHub Repository]: <br/>
 LINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINK
 [Presentation]: <br/>
-LINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINKLINK
+https://docs.google.com/presentation/d/1j9GQBP8QaIKvccMoEkR18_Xs8rhY6zddsv78E9irp-M/edit?usp=sharing
