@@ -71,14 +71,14 @@ In this project, we will explore some data on coffeee production environmental i
 
 
 ## Data sources
-*[The Food and Agriculture Organization of the United Nations](http://www.fao.org/home/en)<br/>
-*[Food Balance sheet](http://www.fao.org/faostat/en/#data/FBS) <br/>
-*[Value of Agricultural Production](http://www.fao.org/faostat/en/#data/QV)<br/>
-*[Land Use](http://www.fao.org/faostat/en/#data/RL)<br/>
-*[Pesticides Use](http://www.fao.org/faostat/en/#data/RP)<br/>
-*[Crop Residues](http://www.fao.org/faostat/en/#data/GA)<br/>
+- [The Food and Agriculture Organization of the United Nations](http://www.fao.org/home/en)<br/>
+- [Food Balance sheet](http://www.fao.org/faostat/en/#data/FBS) <br/>
+- [Value of Agricultural Production](http://www.fao.org/faostat/en/#data/QV)<br/>
+- [Land Use](http://www.fao.org/faostat/en/#data/RL)<br/>
+- [Pesticides Use](http://www.fao.org/faostat/en/#data/RP)<br/>
+- [Crop Residues](http://www.fao.org/faostat/en/#data/GA)<br/>
 
 
 
 ## Inspiration
-*[The Environmental Impact of Coffee Production: What’s Your Coffee Costing The Planet?](https://www.sustainablebusinesstoolkit.com/environmental-impact-coffee-trade/)
+- [The Environmental Impact of Coffee Production: What’s Your Coffee Costing The Planet?](https://www.sustainablebusinesstoolkit.com/environmental-impact-coffee-trade/)
