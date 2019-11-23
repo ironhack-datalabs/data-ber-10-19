@@ -1,0 +1,182 @@
+ID,location,gender,age_category,seniority_category,satisfaction_score,#contact_acct,rating_acct,#contact_HR,rating_HR,#contact_OM,rating_OM,rating_security,rating_D&R
+1,Boston,Female,2.0,3.0,8.0,1 to 2 times,3.0,3 to 4 times,6.0,1 to 2 times,1.0,4.0,
+2,Amsterdam,Male,3.0,3.0,10.0,0 times,,1 to 2 times,7.0,5 times or more,10.0,9.0,8.0
+3,New Delhi ,Female,1.0,3.0,8.0,1 to 2 times,8.0,0 times,,5 times or more,10.0,8.0,
+4,New Delhi ,Female,1.0,1.0,7.0,5 times or more,9.0,1 to 2 times,7.0,1 to 2 times,9.0,,
+5,New Delhi ,Female,3.0,4.0,5.0,3 to 4 times,9.0,3 to 4 times,8.0,1 to 2 times,8.0,9.0,
+6,Amsterdam,Male,3.0,3.0,8.0,5 times or more,4.0,5 times or more,9.0,5 times or more,10.0,8.0,
+7,New Delhi ,Female,1.0,3.0,10.0,5 times or more,8.0,5 times or more,9.0,5 times or more,10.0,10.0,10.0
+8,Amsterdam,Female,3.0,2.0,9.0,3 to 4 times,9.0,3 to 4 times,9.0,3 to 4 times,9.0,9.0,
+9,Boston,Male,2.0,1.0,8.0,3 to 4 times,8.0,3 to 4 times,10.0,1 to 2 times,9.0,8.0,8.0
+10,Boston,Female,4.0,5.0,9.0,3 to 4 times,9.0,1 to 2 times,9.0,5 times or more,10.0,10.0,
+11,New Delhi ,Male,3.0,4.0,8.0,3 to 4 times,10.0,0 times,,5 times or more,10.0,10.0,
+12,Boston,Male,3.0,4.0,9.0,0 times,,1 to 2 times,9.0,3 to 4 times,10.0,8.0,8.0
+13,Boston,Female,2.0,4.0,9.0,3 to 4 times,10.0,3 to 4 times,10.0,5 times or more,9.0,10.0,
+14,Amsterdam,Female,1.0,3.0,9.0,5 times or more,7.0,0 times,,5 times or more,10.0,10.0,
+15,Amsterdam,Female,4.0,4.0,7.0,1 to 2 times,8.0,3 to 4 times,9.0,5 times or more,9.0,8.0,
+16,Boston,Male,1.0,1.0,8.0,3 to 4 times,,1 to 2 times,8.0,0 times,,10.0,
+17,Boston,Male,3.0,4.0,7.0,1 to 2 times,,0 times,,5 times or more,10.0,9.0,8.0
+18,New Delhi ,Female,1.0,3.0,8.0,5 times or more,9.0,5 times or more,10.0,5 times or more,10.0,8.0,9.0
+19,New Delhi ,Female,2.0,2.0,8.0,3 to 4 times,9.0,1 to 2 times,9.0,3 to 4 times,10.0,10.0,
+20,Amsterdam,Male,3.0,1.0,8.0,1 to 2 times,9.0,0 times,,1 to 2 times,9.0,9.0,
+21,Amsterdam,Male,2.0,3.0,9.0,5 times or more,8.0,3 to 4 times,9.0,1 to 2 times,9.0,9.0,
+22,Amsterdam,Male,2.0,2.0,7.0,3 to 4 times,8.0,3 to 4 times,9.0,1 to 2 times,7.0,8.0,8.0
+23,Boston,Female,2.0,3.0,8.0,1 to 2 times,8.0,1 to 2 times,8.0,1 to 2 times,,6.0,8.0
+24,Amsterdam,Male,4.0,5.0,6.0,3 to 4 times,7.0,5 times or more,9.0,3 to 4 times,9.0,9.0,
+25,Boston,Male,3.0,4.0,3.0,1 to 2 times,5.0,5 times or more,3.0,5 times or more,6.0,8.0,4.0
+26,Boston,Female,1.0,3.0,9.0,1 to 2 times,10.0,5 times or more,10.0,5 times or more,10.0,10.0,1.0
+27,Amsterdam,Female,1.0,1.0,9.0,0 times,,3 to 4 times,9.0,0 times,,10.0,
+28,Amsterdam,Male,2.0,3.0,6.0,0 times,,5 times or more,8.0,0 times,,10.0,
+29,Boston,Male,2.0,2.0,8.0,0 times,,3 to 4 times,9.0,3 to 4 times,9.0,9.0,9.0
+30,Boston,Male,4.0,4.0,8.0,5 times or more,9.0,3 to 4 times,5.0,5 times or more,9.0,9.0,
+31,Amsterdam,Female,3.0,3.0,8.0,5 times or more,9.0,5 times or more,9.0,5 times or more,8.0,8.0,
+32,Amsterdam,Female,1.0,2.0,8.0,3 to 4 times,9.0,1 to 2 times,9.0,3 to 4 times,10.0,10.0,
+33,Boston,Male,2.0,2.0,9.0,3 to 4 times,9.0,5 times or more,9.0,1 to 2 times,,9.0,
+34,Boston,Male,3.0,3.0,9.0,3 to 4 times,9.0,0 times,,5 times or more,10.0,,9.0
+35,Boston,Female,1.0,2.0,8.0,3 to 4 times,9.0,5 times or more,9.0,5 times or more,9.0,9.0,6.0
+36,Amsterdam,Female,3.0,4.0,9.0,1 to 2 times,9.0,5 times or more,9.0,5 times or more,10.0,10.0,10.0
+37,Amsterdam,Female,2.0,3.0,10.0,5 times or more,8.0,3 to 4 times,8.0,5 times or more,9.0,8.0,
+38,Amsterdam,Male,3.0,3.0,6.0,1 to 2 times,8.0,1 to 2 times,6.0,3 to 4 times,9.0,9.0,
+39,Boston,Female,2.0,2.0,7.0,1 to 2 times,8.0,1 to 2 times,10.0,3 to 4 times,8.0,7.0,
+40,Amsterdam,Female,2.0,2.0,8.0,3 to 4 times,9.0,3 to 4 times,7.0,3 to 4 times,9.0,9.0,8.0
+41,Boston,Male,2.0,1.0,9.0,3 to 4 times,9.0,3 to 4 times,8.0,1 to 2 times,9.0,10.0,
+42,Amsterdam,Female,1.0,1.0,7.0,5 times or more,8.0,5 times or more,8.0,3 to 4 times,10.0,10.0,
+43,Amsterdam,Female,2.0,3.0,8.0,3 to 4 times,8.0,3 to 4 times,7.0,5 times or more,9.0,9.0,
+44,Amsterdam,Female,3.0,3.0,8.0,3 to 4 times,8.0,0 times,,1 to 2 times,8.0,8.0,
+45,Boston,Female,1.0,1.0,8.0,3 to 4 times,8.0,0 times,,3 to 4 times,5.0,8.0,
+46,Boston,Female,2.0,2.0,6.0,1 to 2 times,8.0,3 to 4 times,10.0,5 times or more,7.0,,
+47,Amsterdam,Male,4.0,4.0,8.0,1 to 2 times,7.0,3 to 4 times,8.0,5 times or more,9.0,9.0,8.0
+48,Boston,Male,2.0,3.0,7.0,1 to 2 times,7.0,1 to 2 times,7.0,5 times or more,9.0,9.0,
+49,Boston,Male,2.0,2.0,6.0,1 to 2 times,5.0,1 to 2 times,6.0,0 times,,7.0,
+50,Boston,Male,1.0,1.0,6.0,1 to 2 times,5.0,0 times,,0 times,,9.0,
+51,Amsterdam,Female,4.0,3.0,3.0,5 times or more,5.0,5 times or more,5.0,5 times or more,9.0,10.0,
+52,Amsterdam,Female,2.0,2.0,7.0,3 to 4 times,4.0,5 times or more,9.0,1 to 2 times,10.0,10.0,
+53,Boston,Female,1.0,1.0,8.0,5 times or more,9.0,1 to 2 times,0.0,3 to 4 times,8.0,10.0,
+54,Boston,Male,4.0,5.0,9.0,3 to 4 times,10.0,3 to 4 times,8.0,5 times or more,7.0,9.0,
+55,Boston,Male,1.0,1.0,10.0,3 to 4 times,10.0,5 times or more,10.0,5 times or more,10.0,10.0,9.0
+56,Amsterdam,Female,2.0,1.0,10.0,1 to 2 times,10.0,1 to 2 times,10.0,1 to 2 times,10.0,9.0,
+57,Boston,Female,2.0,2.0,7.0,1 to 2 times,10.0,0 times,,5 times or more,10.0,10.0,
+58,Boston,Male,3.0,1.0,9.0,1 to 2 times,10.0,3 to 4 times,10.0,0 times,,10.0,
+59,Amsterdam,Male,2.0,3.0,9.0,5 times or more,9.0,3 to 4 times,9.0,3 to 4 times,9.0,8.0,
+60,Amsterdam,Male,2.0,2.0,8.0,3 to 4 times,8.0,1 to 2 times,9.0,3 to 4 times,9.0,10.0,
+61,Boston,Male,4.0,3.0,8.0,1 to 2 times,8.0,1 to 2 times,8.0,5 times or more,9.0,9.0,8.0
+62,Boston,Female,3.0,4.0,7.0,3 to 4 times,,3 to 4 times,9.0,5 times or more,6.0,10.0,
+63,Boston,Female,1.0,3.0,7.0,5 times or more,6.0,5 times or more,8.0,5 times or more,8.0,9.0,8.0
+64,Boston,Female,3.0,4.0,8.0,5 times or more,6.0,3 to 4 times,8.0,5 times or more,10.0,9.0,1.0
+65,Boston,Female,2.0,2.0,9.0,3 to 4 times,9.0,1 to 2 times,9.0,1 to 2 times,9.0,9.0,
+66,Amsterdam,Female,3.0,3.0,,5 times or more,10.0,5 times or more,10.0,5 times or more,6.0,,
+67,Amsterdam,Female,1.0,1.0,10.0,1 to 2 times,8.0,3 to 4 times,10.0,1 to 2 times,10.0,10.0,
+68,Amsterdam,Male,3.0,3.0,8.0,5 times or more,9.0,5 times or more,9.0,5 times or more,8.0,9.0,
+69,Amsterdam,Female,2.0,3.0,8.0,3 to 4 times,9.0,0 times,,0 times,,,
+70,Amsterdam,Female,2.0,3.0,9.0,3 to 4 times,8.0,0 times,,5 times or more,10.0,10.0,
+71,Boston,Male,3.0,2.0,6.0,5 times or more,4.0,3 to 4 times,8.0,5 times or more,10.0,10.0,5.0
+72,Boston,Male,1.0,1.0,10.0,1 to 2 times,9.0,1 to 2 times,9.0,1 to 2 times,10.0,8.0,3.0
+73,Amsterdam,Female,2.0,3.0,7.0,3 to 4 times,8.0,1 to 2 times,9.0,3 to 4 times,10.0,9.0,
+74,Boston,Female,2.0,3.0,9.0,3 to 4 times,10.0,3 to 4 times,6.0,1 to 2 times,,8.0,
+75,Amsterdam,Female,2.0,4.0,9.0,5 times or more,9.0,5 times or more,10.0,5 times or more,10.0,10.0,10.0
+76,New Delhi ,Male,2.0,3.0,9.0,5 times or more,9.0,3 to 4 times,9.0,3 to 4 times,8.0,8.0,
+77,Amsterdam,Female,2.0,2.0,7.0,5 times or more,9.0,5 times or more,9.0,5 times or more,8.0,9.0,
+78,Amsterdam,Female,4.0,4.0,9.0,5 times or more,9.0,5 times or more,10.0,0 times,,9.0,
+79,Amsterdam,Female,3.0,5.0,8.0,3 to 4 times,9.0,3 to 4 times,9.0,5 times or more,9.0,9.0,
+80,Amsterdam,Male,2.0,3.0,8.0,3 to 4 times,9.0,3 to 4 times,8.0,3 to 4 times,9.0,9.0,9.0
+81,Boston,Male,2.0,3.0,8.0,3 to 4 times,9.0,5 times or more,8.0,5 times or more,8.0,9.0,9.0
+82,Amsterdam,Female,2.0,2.0,7.0,3 to 4 times,9.0,5 times or more,10.0,3 to 4 times,10.0,10.0,10.0
+83,Amsterdam,Male,1.0,3.0,9.0,3 to 4 times,9.0,1 to 2 times,9.0,3 to 4 times,8.0,9.0,9.0
+84,Amsterdam,Female,3.0,4.0,8.0,1 to 2 times,9.0,1 to 2 times,8.0,5 times or more,10.0,8.0,10.0
+85,Amsterdam,Male,2.0,3.0,8.0,3 to 4 times,8.0,1 to 2 times,9.0,1 to 2 times,9.0,9.0,
+86,Boston,Male,4.0,5.0,7.0,3 to 4 times,9.0,1 to 2 times,7.0,1 to 2 times,8.0,,8.0
+87,Boston,Male,3.0,4.0,9.0,3 to 4 times,9.0,3 to 4 times,9.0,5 times or more,10.0,10.0,
+88,Amsterdam,Female,2.0,2.0,7.0,3 to 4 times,8.0,1 to 2 times,7.0,3 to 4 times,5.0,9.0,
+89,Boston,Male,3.0,4.0,7.0,3 to 4 times,8.0,3 to 4 times,4.0,1 to 2 times,,3.0,
+90,Boston,Male,2.0,3.0,6.0,5 times or more,5.0,5 times or more,6.0,5 times or more,10.0,8.0,6.0
+91,Boston,Female,3.0,3.0,7.0,3 to 4 times,7.0,5 times or more,7.0,5 times or more,10.0,,10.0
+92,Boston,Female,2.0,2.0,9.0,3 to 4 times,8.0,3 to 4 times,9.0,3 to 4 times,8.0,9.0,
+93,Boston,Male,2.0,3.0,3.0,5 times or more,9.0,5 times or more,7.0,5 times or more,8.0,9.0,
+94,Amsterdam,Female,2.0,3.0,7.0,3 to 4 times,9.0,5 times or more,7.0,3 to 4 times,10.0,9.0,
+95,Amsterdam,Male,2.0,1.0,6.0,3 to 4 times,5.0,3 to 4 times,9.0,5 times or more,6.0,9.0,
+96,Boston,Female,1.0,2.0,9.0,3 to 4 times,10.0,0 times,10.0,1 to 2 times,8.0,10.0,
+97,Boston,Male,2.0,2.0,5.0,3 to 4 times,7.0,5 times or more,6.0,5 times or more,6.0,5.0,9.0
+98,Boston,Male,2.0,2.0,9.0,3 to 4 times,9.0,3 to 4 times,9.0,1 to 2 times,9.0,9.0,8.0
+99,Boston,Female,2.0,3.0,9.0,3 to 4 times,9.0,1 to 2 times,9.0,3 to 4 times,8.0,9.0,
+100,Boston,Female,2.0,1.0,8.0,5 times or more,10.0,3 to 4 times,7.0,1 to 2 times,10.0,10.0,8.0
+101,Amsterdam,Male,2.0,1.0,8.0,5 times or more,9.0,3 to 4 times,9.0,5 times or more,10.0,8.0,
+102,Amsterdam,Female,3.0,5.0,9.0,3 to 4 times,9.0,3 to 4 times,9.0,3 to 4 times,7.0,9.0,9.0
+103,Amsterdam,Male,2.0,3.0,8.0,3 to 4 times,9.0,3 to 4 times,10.0,5 times or more,9.0,9.0,
+104,Amsterdam,Female,2.0,4.0,6.0,1 to 2 times,9.0,3 to 4 times,8.0,5 times or more,9.0,9.0,
+105,Boston,Female,3.0,4.0,10.0,1 to 2 times,9.0,3 to 4 times,10.0,3 to 4 times,8.0,9.0,7.0
+106,Boston,Female,2.0,1.0,3.0,3 to 4 times,9.0,3 to 4 times,3.0,5 times or more,7.0,9.0,
+107,Amsterdam,Male,1.0,1.0,8.0,5 times or more,8.0,3 to 4 times,8.0,0 times,8.0,8.0,
+108,New Delhi ,Male,3.0,4.0,8.0,3 to 4 times,8.0,1 to 2 times,8.0,5 times or more,9.0,8.0,
+109,Amsterdam,Female,2.0,3.0,8.0,3 to 4 times,7.0,1 to 2 times,9.0,1 to 2 times,10.0,9.0,10.0
+110,Amsterdam,Male,3.0,3.0,9.0,3 to 4 times,8.0,3 to 4 times,8.0,3 to 4 times,7.0,4.0,
+111,Amsterdam,Male,1.0,3.0,8.0,5 times or more,8.0,3 to 4 times,8.0,5 times or more,7.0,5.0,
+112,Boston,Female,2.0,4.0,6.0,5 times or more,8.0,5 times or more,4.0,3 to 4 times,7.0,8.0,
+113,Amsterdam,Female,3.0,4.0,7.0,5 times or more,8.0,1 to 2 times,8.0,5 times or more,8.0,8.0,
+114,Amsterdam,Female,3.0,4.0,9.0,5 times or more,8.0,1 to 2 times,8.0,5 times or more,9.0,9.0,9.0
+115,Amsterdam,Male,3.0,4.0,8.0,3 to 4 times,8.0,3 to 4 times,7.0,1 to 2 times,8.0,8.0,
+116,Amsterdam,Female,2.0,4.0,8.0,3 to 4 times,8.0,3 to 4 times,8.0,5 times or more,8.0,9.0,
+117,Boston,Female,1.0,3.0,10.0,3 to 4 times,8.0,5 times or more,10.0,1 to 2 times,8.0,9.0,
+118,Boston,Male,3.0,4.0,8.0,3 to 4 times,8.0,0 times,,1 to 2 times,8.0,8.0,
+119,New Delhi ,Female,2.0,2.0,8.0,1 to 2 times,8.0,5 times or more,8.0,5 times or more,10.0,8.0,
+120,Amsterdam,Female,2.0,4.0,8.0,1 to 2 times,8.0,1 to 2 times,9.0,1 to 2 times,5.0,8.0,8.0
+121,New Delhi ,Male,3.0,2.0,7.0,5 times or more,7.0,1 to 2 times,10.0,3 to 4 times,10.0,10.0,10.0
+122,New Delhi ,Female,1.0,3.0,10.0,3 to 4 times,7.0,3 to 4 times,7.0,5 times or more,10.0,8.0,10.0
+123,Boston,Female,2.0,4.0,6.0,3 to 4 times,6.0,5 times or more,7.0,5 times or more,8.0,7.0,
+124,Boston,Female,2.0,3.0,9.0,5 times or more,7.0,5 times or more,10.0,5 times or more,10.0,9.0,7.0
+125,Amsterdam,Female,4.0,4.0,7.0,3 to 4 times,4.0,5 times or more,8.0,3 to 4 times,9.0,8.0,
+126,Boston,Female,2.0,3.0,5.0,3 to 4 times,5.0,5 times or more,7.0,5 times or more,8.0,7.0,1.0
+127,Amsterdam,Female,2.0,2.0,7.0,3 to 4 times,8.0,3 to 4 times,9.0,5 times or more,9.0,7.0,8.0
+128,Amsterdam,Female,3.0,5.0,8.0,1 to 2 times,9.0,0 times,,3 to 4 times,10.0,9.0,10.0
+129,Boston,Male,2.0,2.0,3.0,5 times or more,7.0,5 times or more,5.0,5 times or more,9.0,6.0,7.0
+130,Boston,Female,2.0,3.0,6.0,5 times or more,5.0,5 times or more,3.0,5 times or more,7.0,7.0,
+131,Boston,Male,3.0,2.0,3.0,3 to 4 times,7.0,5 times or more,1.0,5 times or more,3.0,7.0,7.0
+132,Amsterdam,Male,2.0,3.0,7.0,5 times or more,7.0,1 to 2 times,8.0,5 times or more,10.0,9.0,
+133,Boston,Female,1.0,1.0,7.0,5 times or more,8.0,5 times or more,8.0,5 times or more,8.0,7.0,8.0
+134,Amsterdam,Male,4.0,5.0,8.0,3 to 4 times,8.0,3 to 4 times,9.0,5 times or more,9.0,9.0,9.0
+135,Boston,Male,2.0,3.0,7.0,5 times or more,7.0,1 to 2 times,8.0,1 to 2 times,8.0,9.0,7.0
+136,Boston,Male,3.0,3.0,7.0,3 to 4 times,8.0,3 to 4 times,9.0,5 times or more,10.0,7.0,
+137,Amsterdam,Male,3.0,4.0,3.0,3 to 4 times,7.0,5 times or more,7.0,5 times or more,6.0,7.0,
+138,Amsterdam,Female,2.0,2.0,6.0,3 to 4 times,6.0,3 to 4 times,9.0,0 times,,9.0,
+139,Boston,Female,2.0,4.0,6.0,1 to 2 times,3.0,5 times or more,7.0,5 times or more,10.0,8.0,2.0
+140,Amsterdam,Male,2.0,3.0,7.0,5 times or more,7.0,1 to 2 times,8.0,5 times or more,9.0,8.0,
+141,Amsterdam,Female,2.0,3.0,4.0,5 times or more,3.0,5 times or more,3.0,5 times or more,8.0,9.0,
+142,Amsterdam,Female,4.0,1.0,8.0,5 times or more,8.0,3 to 4 times,7.0,3 to 4 times,9.0,9.0,
+143,Boston,Female,3.0,4.0,8.0,3 to 4 times,6.0,3 to 4 times,9.0,5 times or more,9.0,10.0,
+144,Amsterdam,Female,2.0,2.0,7.0,5 times or more,5.0,1 to 2 times,8.0,3 to 4 times,7.0,10.0,
+145,Boston,Male,2.0,2.0,6.0,1 to 2 times,7.0,1 to 2 times,4.0,3 to 4 times,9.0,7.0,
+146,Boston,Female,2.0,2.0,9.0,3 to 4 times,5.0,3 to 4 times,7.0,5 times or more,10.0,10.0,7.0
+147,Amsterdam,Female,2.0,3.0,5.0,5 times or more,1.0,5 times or more,8.0,3 to 4 times,9.0,8.0,
+148,Amsterdam,Male,2.0,2.0,3.0,5 times or more,5.0,5 times or more,3.0,5 times or more,8.0,8.0,
+149,Amsterdam,Female,2.0,1.0,7.0,5 times or more,6.0,5 times or more,6.0,5 times or more,10.0,10.0,
+150,Boston,Female,2.0,1.0,5.0,5 times or more,4.0,5 times or more,8.0,5 times or more,8.0,9.0,
+151,Boston,Female,2.0,3.0,7.0,3 to 4 times,8.0,5 times or more,8.0,5 times or more,10.0,8.0,10.0
+152,Boston,Female,2.0,4.0,7.0,1 to 2 times,4.0,0 times,8.0,5 times or more,7.0,7.0,8.0
+153,Amsterdam,Male,4.0,4.0,8.0,0 times,,3 to 4 times,10.0,0 times,9.0,10.0,
+154,Amsterdam,Male,1.0,2.0,4.0,3 to 4 times,5.0,3 to 4 times,4.0,3 to 4 times,6.0,9.0,
+155,Boston,Male,3.0,3.0,5.0,5 times or more,4.0,3 to 4 times,8.0,5 times or more,8.0,7.0,8.0
+156,Boston,Female,1.0,2.0,5.0,3 to 4 times,4.0,5 times or more,8.0,3 to 4 times,10.0,10.0,
+157,Amsterdam,Female,1.0,1.0,4.0,5 times or more,3.0,3 to 4 times,4.0,3 to 4 times,9.0,10.0,
+158,Amsterdam,Male,2.0,2.0,5.0,5 times or more,3.0,5 times or more,7.0,3 to 4 times,9.0,9.0,
+159,Boston,Female,2.0,3.0,7.0,5 times or more,9.0,5 times or more,7.0,5 times or more,10.0,7.0,
+160,Amsterdam,Female,3.0,4.0,9.0,3 to 4 times,10.0,1 to 2 times,10.0,3 to 4 times,10.0,10.0,
+161,Boston,Male,2.0,3.0,7.0,5 times or more,6.0,5 times or more,6.0,5 times or more,9.0,8.0,9.0
+162,Boston,Female,1.0,3.0,10.0,5 times or more,10.0,5 times or more,10.0,5 times or more,10.0,10.0,
+163,Amsterdam,Male,1.0,2.0,4.0,3 to 4 times,10.0,3 to 4 times,5.0,5 times or more,8.0,10.0,
+164,Boston,Female,1.0,1.0,10.0,1 to 2 times,10.0,1 to 2 times,9.0,5 times or more,10.0,10.0,
+165,New Delhi ,Female,1.0,1.0,8.0,3 to 4 times,9.0,3 to 4 times,7.0,3 to 4 times,10.0,10.0,
+166,Boston,Male,4.0,4.0,8.0,5 times or more,10.0,5 times or more,9.0,5 times or more,10.0,10.0,10.0
+167,Boston,Female,2.0,1.0,10.0,3 to 4 times,9.0,1 to 2 times,9.0,5 times or more,8.0,10.0,
+168,Boston,Male,4.0,3.0,10.0,3 to 4 times,6.0,1 to 2 times,8.0,3 to 4 times,9.0,10.0,9.0
+169,Boston,Male,2.0,2.0,9.0,5 times or more,10.0,1 to 2 times,9.0,5 times or more,10.0,10.0,
+170,Boston,Female,2.0,1.0,9.0,5 times or more,8.0,1 to 2 times,3.0,5 times or more,10.0,10.0,
+171,Boston,Female,3.0,3.0,8.0,3 to 4 times,10.0,3 to 4 times,10.0,1 to 2 times,9.0,,
+172,Boston,Female,3.0,4.0,,3 to 4 times,,3 to 4 times,8.0,5 times or more,10.0,9.0,
+173,Boston,Female,1.0,1.0,10.0,5 times or more,9.0,5 times or more,10.0,3 to 4 times,10.0,10.0,10.0
+174,Boston,Female,3.0,3.0,7.0,5 times or more,8.0,5 times or more,8.0,5 times or more,8.0,10.0,4.0
+175,Boston,Female,1.0,1.0,6.0,3 to 4 times,8.0,3 to 4 times,8.0,3 to 4 times,9.0,8.0,8.0
+176,Amsterdam,Male,4.0,5.0,10.0,5 times or more,10.0,5 times or more,10.0,5 times or more,10.0,10.0,
+177,Boston,Male,3.0,3.0,9.0,3 to 4 times,10.0,1 to 2 times,10.0,1 to 2 times,9.0,10.0,
+178,Amsterdam,Male,2.0,3.0,10.0,3 to 4 times,10.0,5 times or more,8.0,5 times or more,10.0,10.0,8.0
+179,Boston,Female,2.0,4.0,8.0,1 to 2 times,10.0,3 to 4 times,10.0,3 to 4 times,10.0,,9.0
+180,Boston,Female,2.0,3.0,8.0,1 to 2 times,10.0,1 to 2 times,9.0,1 to 2 times,10.0,10.0,
+181,Boston,Female,2.0,3.0,6.0,1 to 2 times,6.0,1 to 2 times,8.0,3 to 4 times,7.0,6.0,6.0
