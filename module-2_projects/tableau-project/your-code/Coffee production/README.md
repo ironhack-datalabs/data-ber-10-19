@@ -1,6 +1,10 @@
 # Project: Business Intelligence with Tableau
 
+
 # Data Exploration: Coffee Production Environmental Impact
+**Tableau publish:**<br/>
+https://public.tableau.com/profile/ivy.ip#!/vizhome/TableauProject-CoffeeProduction/Forest
+
 
 ## Overview
 
@@ -23,45 +27,45 @@ In this project, we will explore some data on coffeee production environmental i
 
 
 
-## Dataset dimenions<br\>
-1. Coffee production quantity <br\>
-    Number of records: 3,975<br\>
-    Period: 1961-2013<br\>
-    Unit: 1000 Tonnes<br\>
-2. Gross Coffee Production Values <br\>
-    Number of records: 1,047<br\>
-    Period: 1991-2013<br\>
-    Unit: USD/Tonnes<br\>
-3. Size of Primary Forest Area <br\>
-    Number of records: 1,776<br\>
-    Period: 1961-2013<br\>
-    Unit: Ha (Converted to sq. km in Tableau)<br\>
-4. Pesticide use <br\>
-    Number of records: 1,533<br\>
-    Period: 1990-2013<br\>
-    Unit: Tonnes<br\>
-5. Crop residue amount <br\>
-    Number of records: 2,612<br\>
-    Period: 1961-2013<br\>
+## Dataset dimenions<br/>
+1. Coffee production quantity <br/>
+    Number of records: 3,975<br/>
+    Period: 1961-2013<br/>
+    Unit: 1000 Tonnes<br/>
+2. Gross Coffee Production Values <br/>
+    Number of records: 1,047<br/>
+    Period: 1991-2013<br/>
+    Unit: USD/Tonnes<br/>
+3. Size of Primary Forest Area <br/>
+    Number of records: 1,776<br/>
+    Period: 1961-2013<br/>
+    Unit: Ha (Converted to sq. km in Tableau)<br/>
+4. Pesticide use <br/>
+    Number of records: 1,533<br/>
+    Period: 1990-2013<br/>
+    Unit: Tonnes<br/>
+5. Crop residue amount <br/>
+    Number of records: 2,612<br/>
+    Period: 1961-2013<br/>
     Unit: kg (Converted to 1000 Tonnes in Tableau)
 
 
 
 ## Approaches 
 
-1. **Define topic**<br\>
-    There are data of thousands of food products to select from in FAO database. The initial idea was to explore global food source and utilizations however the choices of food products are too wide and diversed, and hence it would be hard to find unified indexes that are suitable for different products. <br\>
+1. **Define topic**<br/>
+    There are data of thousands of food products to select from in FAO database. The initial idea was to explore global food source and utilizations however the choices of food products are too wide and diversed, and hence it would be hard to find unified indexes that are suitable for different products. <br/>
     Once COFFFE is selected, we decided to explore the enviornmental factors of the coffee production and also listed the different aspects we would like to inspect. 
-2. **Identify data required for findings and extract data**<br\>
-    With the 5 defined areas that we selected, we dipped deeper into different databases in FAO to extract required data. <br\>
+2. **Identify data required for findings and extract data**<br/>
+    With the 5 defined areas that we selected, we dipped deeper into different databases in FAO to extract required data. <br/>
     Data was downloaded as .csv files from datasets under different categories in FAO pages. Links are provided in the bottom. 
-3. **Understand dataset structure & Examine columns**<br\>
+3. **Understand dataset structure & Examine columns**<br/>
     Examine csv files and understand each column. Read through column and values descriptions found in FAO website and ensure correct interpretions.
-4. **Data Cleaning**<br\>
+4. **Data Cleaning**<br/>
     Data is relatively clean and therefore tasks focused on reshaping and combining dataframes. Detail please see jupyter notebook in Coffee Production folder. 
-5. **Basic plotting followed by visaul optimization**<br\>
+5. **Basic plotting followed by visaul optimization**<br/>
     Import cleaned dataframes into Tableau and join dataframes. Add Calculated Fields for unit conversion. Start with making basic plotting and later on trying out different visualization tools to optimize the results. 
-6. **Add captions and annotations to complete storytelling process**<br\>
+6. **Add captions and annotations to complete storytelling process**<br/>
     Group all worksheets into a story and descibe observations. 
 
 
