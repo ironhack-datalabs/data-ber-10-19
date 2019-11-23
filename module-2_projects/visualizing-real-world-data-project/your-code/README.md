@@ -130,5 +130,4 @@ Our repository includes:
 
 ## Links
 
-[Presentation]: <br/>
-https://docs.google.com/presentation/d/1j9GQBP8QaIKvccMoEkR18_Xs8rhY6zddsv78E9irp-M/edit?usp=sharing
+[Presentation](https://docs.google.com/presentation/d/1j9GQBP8QaIKvccMoEkR18_Xs8rhY6zddsv78E9irp-M/edit?usp=sharing)
