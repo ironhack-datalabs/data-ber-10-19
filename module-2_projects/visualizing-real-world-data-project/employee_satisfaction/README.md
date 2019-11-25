@@ -130,7 +130,7 @@ Our repository includes:
 
 ## Links
 
-[GitHub Repository]: <br/>
-https://github.com/Lenastartscoding/data-ber-10-19/tree/master/module-2_projects/python-bi-project
-[Presentation]: <br/>
+GitHub Repo:<br/>
+https://github.com/Lenastartscoding/data-ber-10-19/tree/master/module-2_projects/visualizing-real-world-data-project
+Presentation:<br/>
 https://docs.google.com/presentation/d/1j9GQBP8QaIKvccMoEkR18_Xs8rhY6zddsv78E9irp-M/edit?usp=sharing
