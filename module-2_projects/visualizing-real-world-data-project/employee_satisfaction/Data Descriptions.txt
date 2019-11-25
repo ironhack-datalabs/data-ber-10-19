@@ -69,4 +69,24 @@ Office Management:
              	7.0 : Office Maintenance
              	8.0 : Other
 
-Percentage  of contacts per reason - Percentage of a specific reason for an employee to approach a given department. 
+Percentage  of contacts per reason - Percentage of a specific reason for an employee to approach a given department. effects_of_subquestions_on_ratings .csv
+
+accounting_evaluation_breack_down_Q1 - Satisfaction with referrals regarding payrolls.
+accounting_evaluation_breack_down_Q2 - Satisfaction with referrals regarding expenditure.
+accounting_evaluation_breack_down_Q3 - Satisfaction with referrals regarding travel expenses.
+accounting_evaluation_breack_down_Q4 - Satisfaction with referrals regarding overtime.
+accounting_evaluation_breack_down_Q5 -  Satisfaction with referrals regarding vehicle expenses.
+accounting_evaluation_breack_down_Q6 - Professionalism of the accounting department staff.
+accounting_evaluation_breack_down_Q7 - Availability of the accounting department staff.     
+accounting_evaluation_breack_down_Q8 -  Courtesy of the accounting department staff.
+
+HR_evaluation_breack_down_Q1 - Onboarding process
+HR_evaluation_breack_down_Q2 -  Raise and promotion process
+HR_evaluation_breack_down_Q3 -  Attendance reports
+HR_evaluation_breack_down_Q4 -  Personal circumstances, sick days and vacations
+HR_evaluation_breack_down_Q5 -  Off-boarding process
+HR_evaluation_breack_down_Q6 -  Relocation and reassignment process        
+HR_evaluation_breack_down_Q7 -  Professionalism of the HR department staff.
+HR_evaluation_breack_down_Q8 -  Availability of the HR department staff.     
+HR_evaluation_breack_down_Q9 -  Courtesy of the HR department staff.
+HR_evaluation_breack_down_Q10 - To what degree are you comfortable talking with HR about your problems.

@@ -63,7 +63,7 @@ The original dataset had 76 columns. Hence it was necessary to reduce the amount
 * rating_D&R<br/>
 shape: (182, 17)
 
-Furthermore, we decided to extract columns from **Employee Satisfaction** to three new data frames. The purpose was to make the plotting process easier and extract the reasons why employees contacted the three core departments. The columns of the dataframes are listed below:<br/>
+Furthermore, we decided to extract columns from **Employee Satisfaction** to several data frames. First purpose was to make the plotting process easier and extract the reasons why employees contacted the three core departments. The columns of the dataframes are listed below:<br/>
 
 **Contact Reason Accounting** <br/>
 * Reason
@@ -79,6 +79,22 @@ shape: (9, 2)
 * Reason
 * Percentage of contacts per reason<br/>
 shape: (8, 2)
+
+Last dataframe extracted will be extracted will be used for examining correlation between overall satisfaction, department ratings and ratings for each particular service provided by a department. 
+
+**effects_of_subquestions_on_ratings**<br/>
+* satisfaction_score
+* rating_acct
+* rating_HR
+* rating_OM
+* rating_security
+* rating_D&R
+* accounting_evaluation_breack_down_Q1 (to Q10)
+* HR_evaluation_breack_down_Q1 (to Q10)
+* Office Management__evaluation_break down_Q1 (to Q10)
+* Security_department_evaluation_break down_Q1 (to Q11)
+* data&records_department_evaluation_break down_Q1 (to Q3)<br/>
+shape: (182, 48)
 
 ## Workflow
 1. Brainstorm on topic and data<br/>
@@ -102,11 +118,13 @@ Throughout the whole project, we had several small team meetings to inform each 
 Our repository includes:
 <br/>
 * Jupyter Notebook 1: Data Cleaning
-* Jupyter Notebook 2: Data Exploration for 'Contact Reason'
-* Jupyter Notebook 3: Plotting 
-* original csv file: Satisfaction Survey Admin
-* cleaned csv file: Employee Satisfaction
-* cleaned csv file: Contact Reasons
+* Jupyter Notebook 2: Contact Reasons 
+* Jupyter Notebook 3: Plotting
+* Jupyter Notebook 4: effects_of_subquestions_on_ratings<br\>
+* original csv file: Satisfaction Survey Admin (raw data)
+* cleaned csv file1: Employee Satisfaction
+* cleaned csv file2: Contact Reasons
+* cleaned csv file3: effects_of_subquestions_on_ratings<br\>>
 * text file: Data Description 
 * README.md file
 
