@@ -1,7 +1,8 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # No Show Prediction for Medical Appointments
-- A machine learning project, based on medical appointments data -
+ <br/>
+#### A machine learning project, based on medical appointments data
 
 **Lena Frommann**
 
@@ -38,10 +39,10 @@ The main questions this project answeres are:
 
 Project Structure:
 
-	* 1. Data Exploration & Cleaning
-    * 2. Data Analysis & Visualization
-    * 3. Model Building
-    * 4. Model Evaluation
+	1. Data Exploration & Cleaning
+    2. Data Analysis & Visualization
+    3. Model Building
+    4. Model Evaluation
     
 Tech Stack:
 
@@ -104,7 +105,7 @@ Overview the general steps you will go through to analyze your data in order to 
 * What are the next steps?
 
 ## Links
-Kaggle data set:<br/>
+Kaggle Data Set:<br/>
 https://www.kaggle.com/joniarroba/noshowappointments<br/>
 GitHub Repo:<br/>
 https://github.com/Lenastartscoding/Projects<br/>
