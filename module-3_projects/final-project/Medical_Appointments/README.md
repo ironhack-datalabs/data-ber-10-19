@@ -1,12 +1,34 @@
-# [Your Final Project Title]
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-**[Your Name]**
+# No Show Prediction for Medical Appointments
+a machine learning project, based on medical appointments data
 
-**[Your Cohort Campus & Time]**
+**Lena Frommann**
+
+**Ironhack, Data Analytics Course, Berlin, 13/12/19**
+
+## Executive Summary
+
+
+## Content
+
+- [Overview](#overview)
+- [Data Preparation](#data-preparation)
+- [Data Analysis](#data-analysis)
+- [Conclusion](#conclusion)
+- [Links](#links)
+- [Links](#links)
 
 ## Overview
 
-Include the following points in your overview:
+The goal of this project is using machine learning to build and train a model to predict if patients show up to medical appointments or not.
+
+The main questions this project answeres are:
+
+    1. Which are the key features that impact patients’ no show?
+    2. How can the no show rate be reduced?
+    3. How can the prediction of the now show rate be integrated into daily practice management? 
+
 
 * What data/business/research/personal question you would like to answer?
 	* Make sure the question description is human-friendly because you will have non-tech audience to see your final project presentation.
@@ -14,21 +36,21 @@ Include the following points in your overview:
 	* Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
 * How will you test your hypothesis?	
 
-Notes:
+Project Structure:
 
-* You can submit the final project with Jupyter Notebook. If you would like to submit a different file format, make sure to discuss with the instructor.
-* Based on the nature of your goal and your intended problem-solving approach, you are encouraged to use as many skills, technologies, and tools as possible that you have learned in this course, which include but are not limited to:
-	* Python
-	* MySQL
-	* Statistical analysis
-	* Data visualization
-	* Jupyter Notebook
-	* Tableau
-	* Machine Learning
-	* Apache Spark / Network Analysis / Natual Language Processing
-* Include screenshots wherever relevant.
-* Feel free to add more sections to this worksheet.
-* Meet with your instructor/TA on daily basis to obtain feedback and support.
+	* 1. Data Exploration & Cleaning
+    * 2. Data Analysis & Visualization
+    * 3. Model Building
+    * 4. Model Evaluation
+    
+Tech Stack:
+
+	* Python 3.0
+    * Pandas
+    * Numpy
+    * Matplotlib
+    * Seaborn
+    * Scikit-Learn
 
 ## Data Preparation
 
@@ -80,3 +102,14 @@ Overview the general steps you will go through to analyze your data in order to 
 * State your conclusion of your hypothesis testing.
 * Interpret your findings in terms of the human-understandable question you try to answer.
 * What are the next steps?
+
+## Links
+<br/>
+Kaggle data set:<br/>
+https://www.kaggle.com/joniarroba/noshowappointments
+<br/>
+GitHub Repo:<br/>
+https://github.com/Lenastartscoding/Projects
+<br/>
+Presentation:<br/>
+https://docs.google.com/presentation/d/1zTH2fKBsmltrdrncBJ91FU99wYYEtMgfd5vW63spQ0s/edit?usp=sharing
