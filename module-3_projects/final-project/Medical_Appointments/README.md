@@ -2,9 +2,9 @@
 
 # No Show Prediction for Medical Appointments
  <br/>
-#### A machine learning project, based on medical appointments data
-
-**Lena Frommann**
+### A machine learning project, based on medical appointments data
+ <br/>
+**by Lena Frommann**
 
 **Ironhack, Data Analytics Course, Berlin, 13/12/19**
 
