@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # No Show Prediction for Medical Appointments
- <br/>
+
 ### A machine learning project, based on medical appointments data
- <br/>
+
 **by Lena Frommann**
 
 **Ironhack, Data Analytics Course, Berlin, 13/12/19**
