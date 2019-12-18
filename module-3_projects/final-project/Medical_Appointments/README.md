@@ -68,10 +68,29 @@ Tech Stack:
 
 ### Overview:
 
-* What is your dataset about?
-* Where/how did you obtain your dataset?
-	* It can be either a public dataset or collected with API/web scraping.
-	* Provide a link if possible.
+In total, the "No Show Appointments" dataset from kaggle shows 110527 observations.
+It comprises 14 variable columns:
+
+    1. PatientId
+    2. Appointment ID
+    3. Gender
+    4. Scheduled Day
+    5. Appointment Day
+    6. Age
+    7. Neighbourhood
+    8. Scholarship
+    9. Hipertension
+    10. Diabetes
+    11. Alcoholism
+    12. Handcap
+    13. SMS received
+    14. No show
+    
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 * General description of the dataset such as the size, complexity, data types, etc.
 
 ### Data Ingestion
@@ -116,7 +135,7 @@ Overview the general steps you will go through to analyze your data in order to 
 * What are the next steps?
 
 ## Links
-<br/>Kaggle Data Set:<br/>
+Kaggle Data Set:<br/>
 https://www.kaggle.com/joniarroba/noshowappointments<br/>
 <br/>GitHub Repo:<br/>
 https://github.com/Lenastartscoding/Projects<br/>
