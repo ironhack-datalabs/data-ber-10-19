@@ -12,7 +12,7 @@
 
 Imagine, you need to schedule a medical appointment in Germany and you get told that the practice is fully booked for the next three month. That is what happens to me whenever I try to get an appointment at short hand. It is frustrating and annoying.<br/> 
 
-<br/>The good news is that patient data can be used to optimize appointment bookings and to predict if patients show up to their appointments or not (the latter is called **no show**). As I could not find adequate data for German medical appointments, I used medical appointments from a Brazillian city called "Vitória". The project result is a machine learning module that predicts the possibility for patients to not show to their appointments. By further improving the model accuracy and adding more features, this project is the basis to implement a "No Show Alert" into practice management systems. This alert would be an application highlighting patients facing high risk to not show in order to reach out to them prior to their appointments and reschedule if necessary. A visual prototype of the No Show Alert can be found in the presentation, see links below.
+The good news is that patient data can be used to optimize appointment bookings and to predict if patients show up to their appointments or not (the latter is called **no show**). As I could not find adequate data for German medical appointments, I used medical appointments from a Brazillian city called "Vitória". The project result is a machine learning module that predicts the possibility for patients to not show to their appointments. By further improving the model accuracy and adding more features, this project is the basis to implement a "No Show Alert" into practice management systems. This alert would be an application highlighting patients facing high risk to not show in order to reach out to them prior to their appointments and reschedule if necessary. A visual prototype of the No Show Alert can be found in the presentation, see links below.
 
 ## Content
 
@@ -116,9 +116,9 @@ Overview the general steps you will go through to analyze your data in order to 
 * What are the next steps?
 
 ## Links
-Kaggle Data Set:<br/>
+<br/>Kaggle Data Set:<br/>
 https://www.kaggle.com/joniarroba/noshowappointments<br/>
-GitHub Repo:<br/>
+<br/>GitHub Repo:<br/>
 https://github.com/Lenastartscoding/Projects<br/>
-Presentation:<br/>
+<br/>Presentation:<br/>
 https://docs.google.com/presentation/d/1zTH2fKBsmltrdrncBJ91FU99wYYEtMgfd5vW63spQ0s/edit?usp=sharing
