@@ -10,6 +10,7 @@
 
 ## Executive Summary
 
+Imagine, you need to schedule a medical appointment in Germany and you get told that the practice is fully booked for the next three month. That is what happens to me whenever I try to get an appointment at short hand. It is frustrating and annoying. The good news is that patient data can be used to optimize appointment bookings and to predict if patients show up to their appointments or not (the later is called **no show**). As I could not find adequate data for German medical appointments, I used medical appointments from a Brazillian city called "Vitória". The project result is a machine learning module that predicts the possibility for patients to not show to their appointments. By further improving the model accuracy and adding more features, this project is the basis to implement a "No Show Alert" into practice management systems. This alert would be an application highlighting patients facing high risk to not show in order to reach out to them prior to their appointments and reschedule if necessary. A visual prototype of the No Show Alert can be found in the presentation, see links below.
 
 ## Content
 
@@ -18,24 +19,32 @@
 - [Data Analysis](#data-analysis)
 - [Conclusion](#conclusion)
 - [Links](#links)
-- [Links](#links)
+
 
 ## Overview
 
 The goal of this project is using machine learning to build and train a model to predict if patients show up to medical appointments or not.
 
-The main questions this project answeres are:
+Main questions:
 
     1. Which are the key features that impact patients’ no show?
     2. How can the no show rate be reduced?
     3. How can the prediction of the now show rate be integrated into daily practice management? 
 
+Hypotheses:
 
-* What data/business/research/personal question you would like to answer?
-	* Make sure the question description is human-friendly because you will have non-tech audience to see your final project presentation.
-* What is the hypothesis you would like to test in order to answer your question?
-	* Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
-* How will you test your hypothesis?	
+    I. Patients at a younger age are more likely to forget their medical appointments or set other priorities. Therefore I
+       assume that patients aged between 13 and 25 face a higher risk to not show up to their appointments then people aged
+       between 40 and 70.
+
+    II. Patients having health issues where you need to consult a doctor frequently (like e.g. high blood pressure, diabetes)
+        are more likely to show up than patients without serious health issues.
+        
+    III. Patients dealing with a long time span between scheduling the appointment and the actual appointment day are more
+         likely to not show up in comparison to patients scheduling and taking the appointment the same day.
+
+    They will be tested through exploratory and visual data analysis as well as through the machine learning feature importance
+    method.
 
 Project Structure:
 
