@@ -86,10 +86,10 @@ It comprises 14 variable columns:
     13. SMS received
     14. No show
     
-| First Header  | Second Header |
+| Column  | Type |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| PatientId  | float  |
+| Appointment ID  | int  |
 
 * General description of the dataset such as the size, complexity, data types, etc.
 
