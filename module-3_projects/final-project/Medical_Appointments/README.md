@@ -3,9 +3,8 @@
 # No Show Prediction for Medical Appointments
 
 ### A machine learning project, based on medical appointments data
-
-
-
+ <br/>
+ <br/>
 **by Lena Frommann**
 
 **Ironhack, Data Analytics Course, Berlin, 13/12/19**
