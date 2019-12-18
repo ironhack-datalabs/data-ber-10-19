@@ -68,30 +68,27 @@ Tech Stack:
 
 ### Overview:
 
-In total, the "No Show Appointments" dataset from kaggle shows 110527 observations.
-It comprises 14 variable columns:
+In total, the "No Show Appointments" dataset from kaggle shows **110527 observations**.
+There are no missing values.
+It comprises **14 variable columns** as follows:
 
-    1. PatientId
-    2. Appointment ID
-    3. Gender
-    4. Scheduled Day
-    5. Appointment Day
-    6. Age
-    7. Neighbourhood
-    8. Scholarship
-    9. Hipertension
-    10. Diabetes
-    11. Alcoholism
-    12. Handcap
-    13. SMS received
-    14. No show
-    
 | Column  | Type |
 | ------------- | ------------- |
-| PatientId  | float  |
+| Patient ID  | float  |
 | Appointment ID  | int  |
+| Gender  | object  |
+| Scheduled Day  | object  |
+| Appointment Day  | object  |
+| Age  | int  |
+| Neighbourhood  | object  |
+| Scholarship  | int  |
+| Hipertension  | int  |
+| Diabetes  | int  |
+| Alcoholism  | int  |
+| Handicap  | int  |
+| SMS Received  | int  |
+| No show  | object  |
 
-* General description of the dataset such as the size, complexity, data types, etc.
 
 ### Data Ingestion
 
