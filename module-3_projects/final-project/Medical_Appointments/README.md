@@ -70,7 +70,7 @@ Tech Stack:
 
 In total, the "No Show Appointments" dataset from kaggle shows **110527 observations**.
 There are no missing values.
-It comprises **14 variable columns** as follows:
+It comprises **14 variable columns** as follows:<br/>
 
 | Column  | Type |
 | ------------- | ------------- |
@@ -92,6 +92,7 @@ It comprises **14 variable columns** as follows:
 
 ### Data Ingestion
 
+Through the use of **Jupyter notebook**, I loaded the dataset from kaggle as **csv file** and started examining it
 * If you downloaded a dataset (either public or private), describe where you downloaded it and include the command to load the dataset.
 * If you obtain the data via API/web scraping, provide the scripts.
 
