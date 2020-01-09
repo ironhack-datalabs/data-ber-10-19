@@ -1,0 +1,92 @@
+Data_description
+
+employee_satisfaction.csv
+
+ID - Dummy ID assigned to each survey result for each employee
+
+location - Cities where the three branches of the consulting company are located 
+
+gender - Gender of the employee
+
+age_category - Age groups of the employee 
+	1 :  30 years old or below
+	2 :  31 to 40 years old
+ 	3 :  41 to 50 years old
+	4 :  50 years old or above
+
+seniority_category - Seniority groups of the employee
+	1 :  up to 2 years
+	2 :  2 to 5 years 
+	3 :  5 to 10 years
+	4 : 10 to 20 years
+	5 : 20 years or more 
+
+satisfaction_score - General satisfaction rate for an employee 
+
+#contact_acct - Number of times for an employee to approach Accounting Department last year 
+
+rating_acct - Rating for the last service provided by Accounting Department (0 to 10)
+
+#contact_HR - Number of times for an employee to approach HR Department last year
+
+rating_HR - Rating for the last service provided by HR Department (0 to 10)
+
+#contact_OM - Number of times for an employee to approach Office Management Department last year
+
+rating_security - Overall rating for Security Department 
+
+rating_D&R - Overall rating for Data & Records Departmentcontact_reasons.csv 
+
+Reason - Reason for an employee to visit each department 
+
+Accounting: 
+	1.0 : Salary
+             	2.0 : Expenditure of Per diem
+	3.0 : Reimbursement for travel expense
+	4.0 : Reimbursement for company vehicle
+            	5.0 : Pension
+	6.0 : Suppliers
+	7.0 : Other
+
+HR:
+	1.0 : Onboarding
+            	2.0 : Promotion and Salary raise
+             	3.0 : Attendance reports
+          	4.0 : Sick days  and vacation days
+      	5.0 : Personal circumstances
+             	6.0 : Calculate of seniority
+             	7.0 : Retirement and pension funds
+             	8.0 : Open position
+             	9.0 : Other
+
+Office Management: 
+	1.0 : Office equipment
+             	2.0 : Mail
+             	3.0 : Catering
+             	4.0 : Company vehicle
+             	5.0 : Hardware
+             	6.0 : Insurance
+             	7.0 : Office Maintenance
+             	8.0 : Other
+
+Percentage  of contacts per reason - Percentage of a specific reason for an employee to approach a given department. effects_of_subquestions_on_ratings .csv
+
+accounting_evaluation_breack_down_Q1 - Satisfaction with referrals regarding payrolls.
+accounting_evaluation_breack_down_Q2 - Satisfaction with referrals regarding expenditure.
+accounting_evaluation_breack_down_Q3 - Satisfaction with referrals regarding travel expenses.
+accounting_evaluation_breack_down_Q4 - Satisfaction with referrals regarding overtime.
+accounting_evaluation_breack_down_Q5 -  Satisfaction with referrals regarding vehicle expenses.
+accounting_evaluation_breack_down_Q6 - Professionalism of the accounting department staff.
+accounting_evaluation_breack_down_Q7 - Availability of the accounting department staff.     
+accounting_evaluation_breack_down_Q8 -  Courtesy of the accounting department staff.
+
+HR_evaluation_breack_down_Q1 - Onboarding process
+HR_evaluation_breack_down_Q2 -  Raise and promotion process
+HR_evaluation_breack_down_Q3 -  Attendance reports
+HR_evaluation_breack_down_Q4 -  Personal circumstances, sick days and vacations
+HR_evaluation_breack_down_Q5 -  Off-boarding process
+HR_evaluation_breack_down_Q6 -  Relocation and reassignment process        
+HR_evaluation_breack_down_Q7 -  Professionalism of the HR department staff.
+HR_evaluation_breack_down_Q8 -  Availability of the HR department staff.     
+HR_evaluation_breack_down_Q9 -  Courtesy of the HR department staff.
+HR_evaluation_breack_down_Q10 - To what degree are you comfortable talking with HR about your problems.
